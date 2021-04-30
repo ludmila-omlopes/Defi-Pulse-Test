@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ludmilalopes &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 23 Apr 2021 13:02:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Founder Fireside Chat with Sunil Srivatsa of Saddle</title>
+		<link>./../../../2021/04/23/founder-fireside-chat-with-sunil-srivatsa-of-saddle/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 23 Apr 2021 13:02:32 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Founder Fireside Chats]]></category>
+		<category><![CDATA[amm]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[saddle]]></category>
+		<category><![CDATA[saddle-finance]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9169</guid>
+
+					<description><![CDATA[The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/04/saddl_blog_header.png" alt="" class="wp-image-9170" width="1024" height="512"/></figure>
+
+
+
+<p class="has-medium-font-size"><em>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity to better understand their perspective and what drives them to build their vision.</em></p>
+
+
+
+<p class="has-medium-font-size">We&#8217;re back with another thought-provoking chat. This time we had the chance to talk with Sunil Srivatsa, Founder of <a href="http://saddle.finance/">Saddle</a>, about the lessons he&#8217;s learned about importance of community and the power of memes while building their AMM.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q1-1.png" alt="" class="wp-image-9026" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size">We’re building Saddle, an automated market maker for pegged value crypto assets, like tokenized bitcoin, stablecoins, or ETH derivatives.&nbsp; The team is currently wrapping up work on V1 Virtual Swaps (powered by Synthetix), which will enable large, low slippage trades between any type of asset supported by Saddle.&nbsp; These types of swaps suffer from a common flaw on L1 though, which is that they break existing aggregator integrations (e.g. 1inch, Matcha) since they are multi-step trades.</p>
+
+
+
+<p class="has-medium-font-size">Saddle solves this by being co-located with Synthetix on Optimism’s L2 scalability stack &#8211; we just recently performed our first test trades on Optimism!&nbsp; By porting our Virtual Swap contracts to Optimism, we’ll be able to offer these same swaps with instant settlement and lower transaction fees, which also makes smaller trades viable.</p>
+
+
+
+<p class="has-medium-font-size">Another key differentiator that sets us apart from similar offerings is that all of our code has been open sourced under a permissive license.&nbsp; We’ve since seen several other well known projects build upon our work, including Sushiswap V3, Nerve on Binance Smart Chain, and Snowball on Avalanche!</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">Different use cases will have different priorities when it comes to tradeoffs between security, scalability, and decentralization.&nbsp; <strong>In decentralized finance, applications are handling large amounts of capital and user funds, and security is generally the most important consideration.</strong></p>
+
+
+
+<p class="has-medium-font-size">Security lapses, especially ones that involve the loss of funds, are some of the worst events for a protocol’s reputation.&nbsp; The security of user funds is our top priority, which is why we conducted three back-to-back smart contract audits with Certik, Quantstamp, and Open Zeppelin before launching Saddle.</p>
+
+
+
+<p class="has-medium-font-size"><strong>A common place where you can see this tradeoff in action is how many protocols have a smaller multisig with admin key capabilities for emergency situations</strong> (e.g. temporarily pausing trades if a vulnerability is found).&nbsp; In these cases, protocols are trading decentralization for security.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/04/Q6.png" alt="" class="wp-image-9134" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/04/Q6.png 1200w, ./../../../wp-content/uploads/2021/04/Q6-300x55.png 300w, ./../../../wp-content/uploads/2021/04/Q6-1024x188.png 1024w, ./../../../wp-content/uploads/2021/04/Q6-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size"><strong>It’s vital that community members feel ownership and a sense of belonging.&nbsp; </strong>Compound’s launch of the COMP governance token in June of last year revolutionized community ownership by introducing the concept of giving away network equity to users.&nbsp; This approach was iterated on by Andre Cronje, who popularized the “fair launch” when releasing Yearn.</p>
+
+
+
+<p class="has-medium-font-size">Contrast this with traditional businesses, where ownership is usually only available to tenured employees or a privileged few.&nbsp;<strong> This new ownership and equity paradigm makes it significantly easier to grow tight knit communities with aligned incentives.</strong>&nbsp; Some examples of awesome communities are the Chainlink Marines and Synthetix Spartans.&nbsp; We’re in the early days here at Saddle, and I’m incredibly excited for what the future holds for all of us!</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q3-1.png" alt="" class="wp-image-9031" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size">Decentralized autonomous organizations, or DAOs.&nbsp; I fell down the DAO and governance rabbit hole in June 2020 when I co-founded Urza DAO, a for-profit DAO focused on staking and liquidity mining opportunities.&nbsp; The DAO has since grown to 24 members and ~$3.5MM in crypto assets under management and I’ve learned a bunch along the way.</p>
+
+
+
+<p class="has-medium-font-size">DAOs are an exciting new coordination mechanism and we’re just starting to explore what’s possible with them.&nbsp; <br><strong>Here are a few DAO-related projects I’d keep an eye on:</strong><br><a href="https://coordinape.com/">Coordinape</a>, by tracheopteryx et al at Yearn<br><a href="https://daohaus.club/">Daohaus</a><br><a href="https://withtally.com/">Tally</a><br><a href="http://boardroom.to/">Boardroom</a><br><a href="https://deepdao.io/">DeepDAO</a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q4-1.png" alt="" class="wp-image-9032" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size"><strong>Never underestimate the power of memes.</strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/04/andre-bikestick.png" alt="" class="wp-image-9173" width="350" height="501"/></figure>
+
+
+
+<p class="has-medium-font-size">Definitely the Andre Cronje bicycle meme</p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-very-light-gray-background-color has-very-light-gray-color is-style-wide"/>
+
+
+
+<p class="has-medium-font-size">Thanks for your time and the insights for Sunil. You can find Sunil on Twitter at <a href="https://twitter.com/devops199fan">@devops199fan</a>. Keep up to date with <a href="http://saddle.finance/">Saddle</a> by following them on <a href="https://twitter.com/saddlefinance">Twitter</a>, reading their <a href="https://medium.com/saddle">blog</a>, and joining their <a href="https://discord.gg/hX8RZFBW9R">Discord</a> or <a href="https://t.me/saddle_finance">Telegram</a>.</p>
+
+
+
+<p class="has-medium-font-size"><strong>Thanks for reading! </strong>Please be sure to share with us which founders you think should be highlighted next.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DexGuru &#8211; Real-time Data, Analytics and Trading for AMMs in One Place</title>
+		<link>./../../../2021/04/20/dexguru/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Tue, 20 Apr 2021 13:03:31 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[dexguru]]></category>
+		<category><![CDATA[multichain]]></category>
+		<category><![CDATA[tools]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9142</guid>
+
+					<description><![CDATA[The origin of the Sanskrit word guru is said to be based on the syllables gu (गु) and ru (रु),...]]></description>
+										<content:encoded><![CDATA[
+<p>The origin of the Sanskrit word <em>guru</em> is said to be based on the syllables<em> gu</em> (गु) and <em>ru</em> (रु), which stand for darkness and &#8220;light that dispels it.&#8221; Gurus cast out the darkness of ignorance with the light of their wisdom. To become a guru, you must be able to take in your surroundings to gain perspective and glean greater wisdom. DexGuru wants to be your guide lighting the way through the dark forest. <a href="https://dex.guru/">DexGuru</a> harmonizes permissionless, real-time data and analytics of every on-chain market in a single UI capable of trading across DEXes.</p>
+
+
+
+<h2>Trade with more awareness with real-time on-chain market data</h2>
+
+
+
+<p>It’s 2021. Traders like you need more than a simple From / To interface when it comes to determining how and when to execute your strategy. <a href="https://dex.guru/">DexGuru</a> offers a better way to monitor on-chain markets for any token on Uniswap, Sushiswap, and Pancakeswap. Traders using DexGuru have permissionless access to data in real-time including charting, liquidity, pool activity, trading volume, and trading history. So what does permissionless access mean to you? It means you can copy and paste any token address into DexGuru’s search bar and tap into loads of information generated from analysis of on-chain trading activity for free.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://dex.guru/"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/04/dexguru-ui-1024x576.png" alt="" class="wp-image-9147" srcset="./../../../wp-content/uploads/2021/04/dexguru-ui-1024x576.png 1024w, ./../../../wp-content/uploads/2021/04/dexguru-ui-300x169.png 300w, ./../../../wp-content/uploads/2021/04/dexguru-ui-768x432.png 768w, ./../../../wp-content/uploads/2021/04/dexguru-ui-1536x864.png 1536w, ./../../../wp-content/uploads/2021/04/dexguru-ui-1568x882.png 1568w, ./../../../wp-content/uploads/2021/04/dexguru-ui.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p>We might be biased towards the color purple here but&#8230; DexGuru is rather sleek looking, combining various data feeds into a responsive and appealing UI/UX. View charts and trading data in real-time for any token as trades occur to stay more informed with what’s happening on-chain. Want to know more about the token you’re viewing? Simply click the DYOR button at the top of the page and get a rundown of that token’s basic info and community links. Beyond price and trade history, traders and farmers alike can utilize real-time liquidity data to monitor when liquidity is added or removed from pools. Not to mention, DexGuru can give you insights into the behaviors of other traders in the market, but we’ll get to that later.</p>
+
+
+
+<h3>Become one with the flow &#8211; executing trades on multiple chains from one UI</h3>
+
+
+
+<p>Under the hood, DexGuru uses the 0x API to provide users with gas-efficient order routing. Connect your wallet and select your network to buy and sell tokens on EVM-compatible chains. There is no more waiting for token listings because DexGuru permissionlessly indexes each token market. In other words, when it is added to the DEX, it’s added to DexGuru. </p>
+
+
+
+<p>Trade orders are routed through any 0x API connected exchange including Uniswap, Kyber, Curve, Balancer, CREAM, Bancor, mStable, Shell, Swerve, SnowSwap, SushiSwap, DODO, Mooniswap(1inch protocol AMM), PancakeSwap, BakerySwap, Mooniswap, DODO_V2, SushiSwap, Nerve Finance, Belt Finance, and Ellipsis.</p>
+
+
+
+<h2>Gain more insight with DexGuru’s real-time on-chain analytics</h2>
+
+
+
+<p>One of the most interesting features DexGuru has to offer is the deeper analysis it performs on user trading history. DexGuru is constantly monitoring on-chain markets for new trades. When a new trade is received, DexGuru analyzes the trader’s address and marks it with a special emoji in the pool activity or trading history.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="345" height="342" src="./../../../wp-content/uploads/2021/04/image.png" alt="" class="wp-image-9150" srcset="./../../../wp-content/uploads/2021/04/image.png 345w, ./../../../wp-content/uploads/2021/04/image-300x297.png 300w, ./../../../wp-content/uploads/2021/04/image-150x150.png 150w" sizes="(max-width: 345px) 100vw, 345px" /></figure>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f422.png" alt="🐢" class="wp-smiley" style="height: 1em; max-height: 1em;" /> &#8211; Casual Trader with $10k-$100k of a trading volume last 30 days<br><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f988.png" alt="🦈" class="wp-smiley" style="height: 1em; max-height: 1em;" /> &#8211; Active Trader with $100k-$500k of a trading volume last 30 days<br><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f433.png" alt="🐳" class="wp-smiley" style="height: 1em; max-height: 1em;" /> &#8211; Heavy Trader with $500k+ of a trading volume last 30 days<br><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f916.png" alt="🤖" class="wp-smiley" style="height: 1em; max-height: 1em;" /> &#8211; Trader with 1000+ TXs in last 30 days. Most likely a bot.</p>
+
+
+
+<p>These sorts of analytics in the heat of the moment can help you as a trader reassess the situation. It’s a refreshing dose of signal among the noise when you need it. It’s nice to know when you’re swimming with the whales or interacting with a bot. Put simply, DexGuru’s real-time insights aim to give traders an edge. And what’s not to like about emojis?</p>
+
+
+
+<h2>Closing Thoughts</h2>
+
+
+
+<p>Since its initial public beta release on February 17th, many more exciting developments have been brewing for DexGuru. DexGuru aims to add all major EVM-compatible L1 and L2 networks with significant on-chain activity before the end of the year. To that end, DexGuru <a href="https://blog.dex.guru/seed">has raised $1M in a private seed round </a>to continue building its Web3 trading platform. So keep your eyes out for new DEXes, networks, and features in the future.</p>
+
+
+
+<p>No need to trade in the dark. Let DexGuru shed light on the token markets you trade. Check out <a href="https://dex.guru/">DexGuru</a> and see how you can utilize its information-driven UI/UX in your strategy. Real-time charts, trading, and liquidity data allow you to easily monitor and trade markets with a better understanding of the market and those trading alongside you. You can also join the DexGuru community on <a href="https://discord.gg/UKZWFuXGKB">Discord</a> and <a href="https://twitter.com/dexguru">Twitter</a>.</p>
+
+
+
+<p><strong><em>Disclosure: This post is part a promotional series; We’ve partnered with DexGuru to help educate and inform the community about its on-chain market data and trading tools. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to join the DeFi Pulse Leaderboard</title>
+		<link>./../../../2021/04/19/how-to-join-the-defi-pulse-leaderboard/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 19 Apr 2021 07:30:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8591</guid>
+
+					<description><![CDATA[DeFi and the greater crypto ecosystem are experiencing an explosion in 2020. TVL has grown more than 10x since March,...]]></description>
+										<content:encoded><![CDATA[
+<p>DeFi and the greater crypto ecosystem are experiencing an explosion in 2020. TVL has grown more than 10x since March, new projects with novel distribution models and incentive mechanisms are launched week after week. The yield farming craze has stress-tested all the major DeFi protocols in the past four months, and the industry as a whole is going through a phase of extraordinary growth.</p>
+
+
+
+<p>The ecosystem moves at breakneck speed and so we must as well. To get started, we want to clarify how projects can partner with DeFi Pulse to join the DeFi Pulse Leaderboard.&nbsp;</p>
+
+
+
+<h2>Here is a step by step guide to the process&nbsp;</h2>
+
+
+
+<h3><br><strong>1 &#8211; Find out if your project is a good fit on DeFi Pulse.</strong></h3>
+
+
+
+<p><br>Please check the following list and find out if this sounds like the project you’re building.</p>
+
+
+
+<ol><li>Your project is a financial application that uses blockchain infrastructure.<br><br></li><li>The blockchain infrastructure your project is built on is sufficiently decentralized such as Ethereum.<br><br></li><li>Your project locks crypto assets in the protocol’s smart contracts to provide the market with financial products that produce economic activity<br><br></li><li>You have formal audits for your protocol, with a reputable audit firm or sufficient audits from reputable members of the DeFi community.<br><br></li><li>If there are admin keys privileges with your protocol, there is a time lock in place and infinite minting has been disabled.</li></ol>
+
+
+
+<h3><strong>2 &#8211; Once you make sure that your project is a fit on DeFi Pulse, you can go ahead and start the onboarding process to the DeFi Pulse Leaderboard!</strong></h3>
+
+
+
+<p><br><em>Please keep in mind that the onboarding process is split in two different phases and additional diligence/review will be done throughout the application process:</em></p>
+
+
+
+<ul><li>Submit your project to be featured on the <a href="https://defipulse.com/defi-list">DeFi List</a>.<br></li><li>Technical integration to DeFi Pulse.<br><br></li></ul>
+
+
+
+<h4><strong>Submit your project to be featured on the DeFi List</strong><br><br></h4>
+
+
+
+<ol><li><strong>Your project needs to add a link to DeFi Pulse on its website.</strong><br><br><ol style="list-style:lower-alpha"><li>Check out these great examples by <a href="https://cream.finance/">Cream.Finance</a> (home page), <a href="https://akropolis.io/">Akropolis</a> (right hand bar) &amp; <a href="https://balancer.finance/">Balancer</a> (bottom of the web page).&nbsp;<br><br>You can <a href="https://drive.google.com/drive/u/2/folders/1jV4fM0Wlgid9zizQL7_Buua1W1nRBTa0">download the DeFi Pulse logo here.</a></li></ol></li></ol>
+
+
+
+<ol start="2"><li><strong>Submit your project’s details to be featured on the <a href="https://defipulse.com/defi-list">DeFi List.</a></strong><a href="https://defipulse.com/defi-list"><br></a><br><ol style="list-style:lower-alpha"><li>Fill out the <a href="https://concourseopen.typeform.com/to/fLufMQ?defipulse=xxxxx">DeFi List form here</a>.</li></ol></li></ol>
+
+
+
+<ol start="3"><li><strong>The DeFi Pulse team will review your project’s application</strong><br><br><ol style="list-style:lower-alpha"><li>If accepted, the project will be added to the DeFi Pulse List.<br><br>Please keep in mind that the DeFi Pulse List is updated regularly on a two week cycle.<br><br></li></ol></li></ol>
+
+
+
+<h4><strong>Once your project is accepted to the DeFi List, it becomes eligible to be added to the DeFi Pulse Leaderboard.</strong> <em>Please keep in mind that additional diligence/review will be done before a project can be added to the leaderboard:</em><br><br></h4>
+
+
+
+<ol start="4"><li><strong>Once your project is accepted on the DeFi List, a DeFi Pulse team member will get in touch with your team via email, Discord, or Telegram. If your project is ready to begin the process of being added to the DeFi Pulse Leaderboard, the next step will be:</strong><br><br><ol style="list-style:lower-alpha"><li>A DeFi Pulse team member will create a partner channel for your project in <a href="https://discord.com/invite/mzDxADE">Concourse’s Discord server</a> and validate your project&#8217;s proposed framework to count TVL provided on the DeFi List TypeForm from Step 2, with a member of your team.<br><br><br></li></ol></li><li><strong>Your project will be provided with an adapter SDK key, a TypeForm to submit your project’s static content for the project page, and instructions in the Discord partner channel which will allow you to begin work on your project’s adapter.&nbsp;<br></strong><br><ol style="list-style:lower-alpha"><li>You can find more information on how to work on the adapter, here: <a href="https://github.com/ConcourseOpen/DeFi-Pulse-Adapters">Adapter Github Repo</a>.<br><br></li></ol></li></ol>
+
+
+
+<ol start="6"><li><strong>Once the adapter is ready, &nbsp;your team will <a href="https://github.com/ConcourseOpen/DeFi-Pulse-Adapters">create a pull request for your project’s adapter</a> and contact DFP on the partner channel.<br></strong><br></li><li><strong>DeFi Pulse Team will review both the TVL adapter and the provided static content.</strong><br><br><ol style="list-style:lower-alpha"><li>The content will be staged for review and monitored for a minimum of 24 hours to ensure that the adapter is working and that the data is accurate.<br><br></li></ol></li><li><strong>Your team will receive a staging link to check the displayed information.</strong><br><br></li><li><strong>Once cleared, your project is ready to be added to the DeFi Pulse Leaderboard Page! <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong><br><br></li></ol>
+
+
+
+<p><strong>Special Notes&nbsp;</strong></p>
+
+
+
+<ul><li>The requirement to link to DeFi Pulse on the website can be waived in certain situations, for example in cases such as Fair Launches or DAO projects where a community vote is required to change or update the frontend development.<br></li></ul>
+
+
+
+<h5>If you have any questions, please come chat with us in our <a href="https://discord.gg/Gx4TCTk">Discord</a>.</h5>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Founder Fireside Chat with Ryan Garner of Tracer</title>
+		<link>./../../../2021/04/09/founder-fireside-chat-with-ryan-garner-of-tracer/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 09 Apr 2021 14:56:20 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[lionsmane]]></category>
+		<category><![CDATA[tracer]]></category>
+		<category><![CDATA[tracerdao]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9088</guid>
+
+					<description><![CDATA[The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Tracer-Header.png" alt="" class="wp-image-9089" width="1024" height="512" srcset="./../../../wp-content/uploads/2021/03/Tracer-Header.png 1024w, ./../../../wp-content/uploads/2021/03/Tracer-Header-300x150.png 300w, ./../../../wp-content/uploads/2021/03/Tracer-Header-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-medium-font-size"><em>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity to better understand their perspective and what drives them to build their vision.</em></p>
+
+
+
+<p class="has-medium-font-size">Welcome back! This week we had the opportunity to chat with Ryan Garner, Ex-Augur architect, whose dev team <a href="https://lionsmane.dev/">Lion&#8217;s Mane</a> is partnering with <a href="https://tracer.finance/">Tracer DAO</a> to build innovative financial tools for the future of finance.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q1-1.png" alt="" class="wp-image-9026" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size">We are building a protocol for creating financial protocols. We refer to this financial protocol generator as the Tracer Factory. While a few existing platforms allow holders of their governance token to vote on what the developers do next including creating new financial protocols, Tracer is fundamentally different. The Tracer Factory allows anyone to create their own financial protocol with the rules they desire and install it into the Factory. </p>
+
+
+
+<p class="has-medium-font-size">Additionally, the deployment of new financial contracts does not require any developer skills, and is free except for the unavoidable transaction fee. Because Tracer’s Factory is a metaprotocol that is free to use, it is a gift to the world granting broad access to financial tools of equal and better quality than all existing platforms, with reduced overhead cost. This decimates the ability of existing platforms to rent seek. Additionally, we are different in our commitment to decentralisation. </p>
+
+
+
+<p class="has-medium-font-size">For Tracer,<strong> governance is not an afterthought that comes years after launch like most products, nor is it simply a way for stakers to signal what they request the core developers to do</strong>. Tracer is fully autonomous and decentralised from genesis, and control over governance was claimed by random community members. This governance has the power to start or stop paying any development team and those teams have no control over the Tracer project any more than these pseudonymous governors allow. </p>
+
+
+
+<p class="has-medium-font-size">Governance will vote to expand the capability of the Factory and fund the development of user interfaces and growth of the ecosystem. Because Tracer has not received funding, there are no angel investors pressuring Tracer to rent-seek or to have any part of the system be proprietary.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">If it were only possible to have a single peer-to-peer protocol, that protocol would ideally have security equal to the value it secures while being as decentralised as possible while being barely affordable for the average user due to limited scalability. </p>
+
+
+
+<p class="has-medium-font-size">However, this question is based on a false trilemma by implying that such a choice is up to peer-to-peer protocol developers. This choice belongs to users, and their varied preferences will eventually result in many protocols each tailored to the users needs with all protocols efficiently bridged together. </p>
+
+
+
+<p class="has-medium-font-size"><strong>We hope that one day such a question will be irrelevant to ask a developer of a protocol.</strong> To that end we are developing a protocol factory; one that allows community members to create custom financial protocols without approval, effort, or funding that can each handle this trilemma in their own way. </p>
+
+
+
+<p class="has-medium-font-size">Additionally, each of these financial protocols will be compatible with an array of distributed ledgers that likewise handle this trilemma in ways the users prefer.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q3-1.png" alt="" class="wp-image-9031" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size"><strong>Insurance.</strong> The ability for users of DeFi to lose a small percent of their holdings per year in exchange for <strong>being guaranteed they will not lose their locked funds to protocol failure or system exploits will allow a lot more capital to flow into the fringes of DeFi</strong> where there are more experimental and dangerous ideas, that have a greater chance of creating fundamental and powerful innovation.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q4-1.png" alt="" class="wp-image-9032" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size"><strong>When you look closely, many DeFi projects are a jumble of copied assumptions, code, and methodologies that were never looked at closely from first principles. </strong>When a project is first to market but makes inefficient code, unoptimised formulas, overly cautious design decisions and has system, accounting and operating procedures that are not intuitive…. but seems to be functioning, its surprising how virtually all other DeFi projects will just copy these things with a “if it works, don’t fix it” mentality. </p>
+
+
+
+<p class="has-medium-font-size">As a development team, Lion’s Mane has been tempted by this way of thinking, but in each case, have been better off changing our mind, backtracking and spending more time. While the creators of existing projects may be experts in their field, we believe in the words of Richard Feynman: “I define science another way: Science is the belief in the ignorance of experts&#8221;. </p>
+
+
+
+<p class="has-medium-font-size"><strong>The more innovative something is, the more it strikes at the fundamentals and questions first principles. </strong>These are especially important when you are trying to generalise a protocol that others have managed to rig together for a specific use case.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="664" src="./../../../wp-content/uploads/2021/04/elon-doge-1-1024x664.png" alt="" class="wp-image-9118" srcset="./../../../wp-content/uploads/2021/04/elon-doge-1-1024x664.png 1024w, ./../../../wp-content/uploads/2021/04/elon-doge-1-300x195.png 300w, ./../../../wp-content/uploads/2021/04/elon-doge-1-768x498.png 768w, ./../../../wp-content/uploads/2021/04/elon-doge-1.png 1300w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-medium-font-size">This meme sent DOGE up more than 5x and is now causing the SEC to investigate if it is illegal to tweet a picture of a dog LOL.</p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-very-light-gray-background-color has-very-light-gray-color is-style-wide"/>
+
+
+
+<p class="has-medium-font-size">Thank you to Ryan for taking the time to speak with us. You can find Ryan on Twitter at&nbsp;<a href="https://twitter.com/imkharn">@imkharn</a>. You can learn more about <a href="https://lionsmane.dev/">Lion&#8217;s Mane</a> and <a href="https://tracer.finance/">Tracer</a> by following their respective Twitters at&nbsp;<a href="https://twitter.com/lionsmane_eth">@lionsmane_eth</a> and <a href="https://twitter.com/tracer_finance">@tracer_finance</a>. There&#8217;s also <a href="https://discord.gg/vmVphbCG">Tracer&#8217;s Discord</a> for those looking to jump in the action.</p>
+
+
+
+<p class="has-medium-font-size">And&#8230; <strong>Thank you for reading.&nbsp;</strong>We’d love to hear your thoughts on the series like, for example, which DeFi founders you’d like to see highlighted in the future.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Founder Fireside Chat with Mervyn Chng of Unagii</title>
+		<link>./../../../2021/04/02/founder-fireside-chat-with-mervyn-chng-of-unagii/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 02 Apr 2021 19:15:25 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[unagii]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9083</guid>
+
+					<description><![CDATA[The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/04/Unagii-Header.png" alt="" class="wp-image-9101" width="1032" height="520" srcset="./../../../wp-content/uploads/2021/04/Unagii-Header.png 1032w, ./../../../wp-content/uploads/2021/04/Unagii-Header-300x151.png 300w, ./../../../wp-content/uploads/2021/04/Unagii-Header-1024x516.png 1024w, ./../../../wp-content/uploads/2021/04/Unagii-Header-768x387.png 768w" sizes="(max-width: 1032px) 100vw, 1032px" /></figure>
+
+
+
+<p class="has-medium-font-size"><em>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity to better understand their perspective and what drives them to build their vision.</em></p>
+
+
+
+<p class="has-medium-font-size">This week in our Founder Fireside Chat series, we had the opportunity to chat with <a href="https://twitter.com/mervynchng89">Mervyn Chng</a>, Co-founder of <a href="https://www.unagii.com/">Unagii</a>, who&#8217;s team is on a mission to redefine the digital asset yield experience.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q1-1.png" alt="" class="wp-image-9026" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size">We’re building a yield platform that provides access to digital asset DeFi yields from automated yield farming to staking. </p>
+
+
+
+<p class="has-medium-font-size">A key differentiator with Unagii is that our Vaults offer a true set and forget experience on the most cost-savings approach with a smarter and simpler interface. We’re targeting users who want convenience when investing their assets in a non-custodial manner.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">Decentralization has proven to be the most important in the past few years as we’ve seen in the growth of the Ethereum community. </p>
+
+
+
+<p class="has-medium-font-size">While there will always be criticisms around possible centralized point of failures, the ethos of the Ethereum community has always been around driving innovation built upon the foundation of decentralization. </p>
+
+
+
+<p class="has-medium-font-size">Many supposed Ethereum killers have come and gone but <strong>it is the decentralization ethos that cannot be replicated as teams continue to work towards solutions of scalability.</strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q3-1.png" alt="" class="wp-image-9031" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size">The user experience in general, and especially for yield farming. There are more aggregators than ever optimizing the experience for users to explore, compare, and maximize yields. We spent a long deep time figuring out what users would want, breaking down layers, and identifying the best flow for users. </p>
+
+
+
+<p class="has-medium-font-size"><strong>Investing in good design is important in opening up DeFi to more audience segments </strong>&#8211; which many yield farming projects miss the mark on. Our Vaults flow is pretty unique amongst others in the market.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q4-1.png" alt="" class="wp-image-9032" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size"><strong>The biggest lesson is that simple is better, and there is a certain level of tradeoff between product usability and novelty. </strong></p>
+
+
+
+<p class="has-medium-font-size">We have come a long way since our initial MVP. Our initial internal prototype allowed for gasless transactions via smart contract wallets and gas relayers. However, due to a prolonged period of high gas cost, subsidizing such costs became unsustainable and we were forced to go back to the drawing board to conceptualize a new DeFi yield product.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">The Bell Curve IQ Meme!</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/04/bell-curve-1024x576.jpg" alt="" class="wp-image-9098" srcset="./../../../wp-content/uploads/2021/04/bell-curve-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/04/bell-curve-300x169.jpg 300w, ./../../../wp-content/uploads/2021/04/bell-curve-768x432.jpg 768w, ./../../../wp-content/uploads/2021/04/bell-curve-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/04/bell-curve-1568x882.jpg 1568w, ./../../../wp-content/uploads/2021/04/bell-curve.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-medium-font-size"><em>Editor&#8217;s note: here&#8217;s the<a href="https://knowyourmeme.com/memes/iq-bell-curve-midwit"> Know Your Meme page</a> for reference</em>.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p class="has-medium-font-size">Thanks to Mervyn for chatting with us. You can find Mervyn on Twitter at <a href="https://twitter.com/mervynchng89">@mervynchng89</a> and on <a href="https://www.linkedin.com/in/mervynchng/">LinkedIn</a>. You can learn more about <a href="https://injectiveprotocol.com/">Unagii</a> by visiting their site and by following them on Twitter at <a href="https://twitter.com/unagiidotcom">@unagiidotcom</a>.</p>
+
+
+
+<p class="has-medium-font-size"><strong>Thank you for reading. </strong>We&#8217;d love to hear your thoughts on the series like, for example, which DeFi founders you&#8217;d like to see highlighted in the future.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DODO and Proactive Market Making (PMM)</title>
+		<link>./../../../2021/03/29/dodo-and-proactive-market-making/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 29 Mar 2021 13:00:48 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[dodo]]></category>
+		<category><![CDATA[market making]]></category>
+		<category><![CDATA[PMM]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9048</guid>
+
+					<description><![CDATA[DODO is a decentralized exchange (DEX) platform powered by a unique Proactive Market Making (PMM) algorithm. DODO’s PMM algorithm was...]]></description>
+										<content:encoded><![CDATA[
+<p>DODO is a decentralized exchange (DEX) platform powered by a unique Proactive Market Making (PMM) algorithm. <a href="https://dodoex.io/">DODO</a>’s PMM algorithm was developed entirely in-house by the DODO team iterating on the design of Automated Market Makers (AMMs) to improve capital efficiency, reduce impermanent loss, and minimize slippage for traders. Inspired by their previous work on DDEX, the DODO team set out to abstract the proactive market making concepts popular on order book-based exchanges into a permissionless on-chain liquidity protocol.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://dodoex.io/"><img loading="lazy" width="1024" height="375" src="./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-1024x375.png" alt="" class="wp-image-9050" srcset="./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-1024x375.png 1024w, ./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-300x110.png 300w, ./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-768x282.png 768w, ./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-1536x563.png 1536w, ./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-2048x751.png 2048w, ./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-1568x575.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h3>DODO’s Proactive Market Making (PMM) algorithm in action</h3>
+
+
+
+<p>To fully grasp what makes proactive market making different, take a step back and ask yourself: what is a market? A simple definition of a market is a place where you can exchange assets. A single trade doesn’t make a market; it is the constant distillation, distribution, and reaction to the data produced by buyers and sellers’ orders and trades that makes a market. Much of this data is typically represented by the ever-changing collection of orders being placed, removed, and executed from an exchange’s order books.</p>
+
+
+
+<p>Traditional Automated Market Maker (AMM) DEXes automate the process of market making by pooling liquidity for two assets and replacing the order books with a simple fixed curve to determine the current price based on the current amount of each asset held. As the name implies, DODO’s Proactive Market Making algorithm is capable of proactively adjusting parameters such as asset ratio and curve slope in anticipation of market conditions, resulting in DODO pools that are adaptable and flexible for all sorts of use cases.&nbsp;</p>
+
+
+
+<p>DODO’s PMM pools can even be configured to utilize external price oracles to minimize impermanent loss and achieve higher capital efficiency. This configurability makes DODO’s PMM suitable for use cases varying from single-sided liquidity for bootstrapping pools to fully customizable market making strategies that adapt to market conditions in realtime.</p>
+
+
+
+<p>Instead of breaking down the math, let’s explore the <a href="https://medium.com/dodoex/dodo-private-pool-professional-market-making-on-chain-b18a282596e3">DODO Private Pool (DPP)</a>, a feature aimed at professional market makers that best illustrates what makes DODO’s PMM algorithm special. If you’re interested in the formula behind DODO’s PMM, you can dig into the math <a href="https://dodoex.github.io/docs/docs/math">here</a>.</p>
+
+
+
+<h3>DODO Private Pool (DPP) puts you, the market maker, in control</h3>
+
+
+
+<p>DODO Private Pools put the full power of DODO’s PMM configurability at your fingertips empowering anyone to be a professional market maker. DPP allows market makers to do the following:</p>
+
+
+
+<ol><li>Make one-sided deposits / withdrawals</li><li>Change the pricing curve at any time</li><li>Have liquidity everywhere in the price range from zero to infinity</li></ol>
+
+
+
+<p>Imagine you want to be a market maker for ETH/USDC but you’re worried about ETH popping off and selling all your ETH to traders on the way up. With a DPP, you can perform a one-sided withdrawal to withdraw some of your ETH from the pool for safekeeping. This one-sided reduction of liquidity causes traders to go through the remaining ETH liquidity quickly driving up the price curve quicker than before. This sort of one-sided withdrawal can protect market makers against excessive risk. You can also do the opposite: withdraw USDC in anticipation of ETH’s price falling thus protecting you against the downside risk.</p>
+
+
+
+<blockquote class="wp-block-quote is-style-default"><p>Unlike a simple AMM, DODO Private Pools allow you as a market maker to customize your strategy, taking advantage of your human brain to actively influence a pool’s behavior. </p></blockquote>
+
+
+
+<p>Say, for example, you feel the current market price of an asset doesn’t reflect its true value. In this scenario, you aren’t likely to provide liquidity for a simple AMM pool and may even remove liquidity for that asset to avoid impermanent loss. This is because you cannot directly influence the price at which the pool is selling the asset. DODO Private Pools provide a better way with a process called ‘active price discovery’ which allows you to adjust the market price inside the DPP directly. Ultimately, market makers’ ability to actively influence the price discovery process allows them to utilize their knowledge, experience, and intuition to craft a more efficient market.</p>
+
+
+
+<blockquote class="wp-block-quote is-style-default"><p>DODO Private Pools can even allow you to create specialized markets like constant price markets for low slippage stable asset swaps. </p><p>This is achieved by market makers setting a DPP’s k value to a very small non-zero value (e.g. k = 0.001) to get an “approximately constant” pricing curve not dissimilar to stablecoin swaps on Curve Finance.</p></blockquote>
+
+
+
+<h3>Conclusion</h3>
+
+
+
+<p>While DODO’s PMM and Private Pools sure are interesting, this dodo isn’t nearly finished evolving. DODO has lots more features and upgrades planned for this year. We’ll be covering more DODO features in the future. In the meantime, you can always learn more by <a href="https://dodoex.io/">exploring DODO</a>, following DODO on <a href="https://twitter.com/BreederDodo">Twitter</a>, and joining in the discussion happening in the DODO community on <a href="https://t.me/dodoex_official">Telegram</a> and <a href="https://discord.gg/sWKnV6fRqm">Discord</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Partner Program; We’ve partnered with DODO to help educate and inform the community about DODO’s PMM technology. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Founder Fireside Chat with Eric Chen of Injective Protocol</title>
+		<link>./../../../2021/03/26/founder-fireside-chat-with-eric-chen-from-injective-protocol/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 26 Mar 2021 19:42:10 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[ama]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[injective]]></category>
+		<category><![CDATA[interview]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8990</guid>
+
+					<description><![CDATA[The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Injective-Header-1-2.png" alt="" class="wp-image-9029" width="1024" height="512"/></figure>
+
+
+
+<p class="has-medium-font-size">The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity to better understand their perspective and what drives them to build their vision.</p>
+
+
+
+<p class="has-medium-font-size">To kick off our Founder Fireside Chat series, we speak with <a href="https://twitter.com/ericinjective">Eric Chen</a>, Co-founder of <a href="https://injectiveprotocol.com/">Injective Protocol</a>, who is working to bring unparalleled access to new decentralized derivatives markets with restrictions.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q1-1.png" alt="" class="wp-image-9026" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size">Injective Protocol is the first fully decentralized exchange protocol that unlocks the full potential of decentralized derivatives and borderless DeFi. Injective Protocol enables fully decentralized trading without any restrictions, allowing individuals to trade on any derivative market of their choosing. A few unique features set us apart from the rest. We are devoid of any and all gas fees, which means no one has to pay the ridiculously high gas fees that currently plague the Ethereum ecosystem. </p>
+
+
+
+<p class="has-medium-font-size">In addition, we enable a higher level of interoperability given our integration with the Cosmos network. We are also an orderbook model exchange with instant finality, so traders are able to trade more freely without having to worry about slippage and other issues on DEXs today. Our scaling infrastructure also allows us to scale Ethereum-based transactions with composability with the greater DeFi ecosystem.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">I would have to go with decentralization. <strong>If we sacrifice decentralization, we&#8217;re no better than the legacy CeFi infrastructure.</strong> As a result, I think that this is the most important aspect that sets apart blockchain-based systems from other platforms.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q3-1.png" alt="" class="wp-image-9031" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size">I believe decentralized derivatives hold tremendous promise. In traditional finance, <strong>this sector encompasses literally quadrillions of dollars</strong>. If DeFi can capture even 1% of this market, it would tremendously help accelerate the adoption of crypto-based networks as a whole.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q4-1.png" alt="" class="wp-image-9032" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size">Due to the technical nature of our team and origin, we started off Injective with an overly complicated structure that proved to be unsustainable in the long run due to its engineering challenges. <strong>What we&#8217;ve learned is that we should take Occam&#8217;s razor approach when it comes to product focus and development.</strong> This way we can provide a clear avenue and value proposition for new traders to access our ecosystem. This is why we built a user-friendly frontend that helps to abstract away the decentralized infrastructure, leading to an exchange that can be adopted globally.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size"><strong>NGMI</strong><br><em>Editor&#8217;s note: For those of you unaware, 1) NGMI 2) that stands for &#8220;Not Gonna Make It&#8221;</em></p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p class="has-medium-font-size">Special thanks to Eric for taking the time to chat with us. You can find Eric on Twitter at <a href="https://twitter.com/ericinjective">@ericinjective</a> and on <a href="https://www.linkedin.com/company/injective-protocol/">LinkedIn</a>. You can learn more about <a href="https://injectiveprotocol.com/">Injective Protocol</a> by visiting their site or checking out <a href="https://linktr.ee/injective">Injective&#8217;s Linktree</a> full of resources.</p>
+
+
+
+<p class="has-medium-font-size"><strong>Thank you for reading. </strong>We&#8217;d love to hear your thoughts on the series like, for example, which DeFi founders you&#8217;d like to see highlighted in the future.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Flexible Leverage Index is Live</title>
+		<link>./../../../2021/03/17/flexible-leverage-index/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Wed, 17 Mar 2021 19:27:46 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[New Features]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[ETH2x-FLI]]></category>
+		<category><![CDATA[flexible leverage index]]></category>
+		<category><![CDATA[fli]]></category>
+		<category><![CDATA[index]]></category>
+		<category><![CDATA[index-coop]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8979</guid>
+
+					<description><![CDATA[The Flexible Leverage Index (FLI) lets you leverage a collateralized debt position in a safe and efficient way, by abstracting...]]></description>
+										<content:encoded><![CDATA[
+<p><em>The Flexible Leverage Index (FLI) lets you leverage a collateralized debt position in a safe and efficient way, by abstracting its management into a simple index, reproducible by a fully-collateralized ERC20 token built on Set Protocol.</em></p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/03/fli-pulse-1-1024x512.png" alt="" class="wp-image-8980"/></figure>
+
+
+
+<p>The Flexible Leverage Index (FLI, pronounced “fly”) lets you <strong><em>leverage</em></strong> a collateralized debt without having to <strong><em>manage</em></strong> a collateralized debt. The design and methodology of FLI allows for the creation of a series of new indices with target leveraged exposure to different collateral assets.&nbsp;</p>
+
+
+
+<p>Initially <a href="https://pulseinc.medium.com/introducing-the-flexible-leverage-index-5ec90f2381ce">proposed by Pulse Inc in December 2020</a>, we’ve collaborated with Index Coop to produce FLI, an easier way for market participants to utilize leverage. Flexible Leverage Index enables market participants to take on leverage while minimizing the transaction costs and risks associated with maintaining collateralized debt.</p>
+
+
+
+<h2><strong>Flexible Leverage Index (FLI) makes leverage effortless</strong></h2>
+
+
+
+<p>If you’ve ever used leverage or legacy leveraged tokens, you probably already know how stressful the experience can be. It requires you to constantly be keeping an eye on the market and your position’s health ratio. The worry of liquidation can eat away at your attention during the day and rob you of your sleep at night. Not to mention, the expensive gas fees and slippage when you race to panic buy stablecoins to save yourself from liquidation penalties. It’s never a pleasant experience and in the end you’re left with the thought, “There has to be a better way!” And you aren’t wrong…<br><br><strong>FLI has several key advantages over Legacy Leveraged Tokens:</strong></p>
+
+
+
+<ul><li>Zero slippage via composable entry and exit.</li><li>Unique Index algorithm reduces rebalancing needs by an order of magnitude.</li><li>Emergency deleveraging possible during Black Swan events for additional fund safety.</li></ul>
+
+
+
+<h3><strong>The Ethereum Flexible Leverage Index</strong></h3>
+
+
+
+<p><a href="https://www.tokensets.com/portfolio/fli">The Ethereum Flexible Leverage Index (ETH2x-FLI)</a>, the first index in the Flexible Leverage Index series, provides decentralized target leveraged exposure to Ethereum (ETH). Built on Set Protocol, ETH2x-FLI is the first fully-collateralized leverage token which is redeemable for its underlying components: ETH and USDC. WBTC, LINK, and YFI are other potential candidates which we may consider for the FLI series in the future.</p>
+
+
+
+<p><strong>Initial parameters for The Ethereum Flexible Leverage Index:</strong></p>
+
+
+
+<ul><li>Underlying Asset: ETH</li><li>Target Leverage Ratio: 2</li><li>DeFi Lending Protocol: Compound</li><li>Maximum Leverage Ratio: 2.3</li><li>Minimum Leverage Ratio: 1.7</li><li>Recentering Speed: 5%</li></ul>
+
+
+
+<p>As the first in the FLI series, ETH2x-FLI is the first of its kind on Ethereum: a fully collateralized leverage token, not derivative. It targets 2x leveraged exposure to ETH with a tolerance range to reduce the number of rebalances and thereby increase the gas efficiency for the end user. <a href="http://pulse.inc/flexible-leverage-index">You can view the FLI methodology on Pulse Inc</a>. You can learn more about the technical design of FLI and the mechanics behind leveraged tokens <a href="https://help.tokensets.com/en/collections/2545937-portfolios#leverage-tokens">here</a>.</p>
+
+
+
+<p>Historically, leverage has played a big role in the DeFi ecosystem causing moments of extreme volatility which tested the limits of protocols. Aware of this precedent, FLI has been designed to handle volatility and even includes an emergency delevering mechanism for additional safety in the event of a black swan event. FLI’s fully-collateralized and redeemable also helps reduce risk and lends itself well to composability. As an ERC-20, ETH2x-FLI along with other future indices in the FLI series can be integrated into smart contracts for any number of use cases.</p>
+
+
+
+<p><a href="http://Pulse.inc/">Pulse Inc</a> is dedicated to creating and maintaining indices for a decentralized world. Flexible Leverage Indices combine unique index algorithm designs with the latest DeFi innovations to provide market participants with a better alternative to the traditional means of taking on leverage. By providing a safer, more efficient leverage product, we hope to spare DeFi users the expense and tolling stress of maintaining leverage and that horrible feeling of getting liquidated.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>SIREN &#8211; Decentralized Options For Sophisticated Traders</title>
+		<link>./../../../2021/03/01/siren/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 01 Mar 2021 21:19:51 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[amm]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[options]]></category>
+		<category><![CDATA[options trading]]></category>
+		<category><![CDATA[siren]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8929</guid>
+
+					<description><![CDATA[Options trading has become more popular than ever now that anyone can trade from anywhere with a few taps. The...]]></description>
+										<content:encoded><![CDATA[
+<p>Options trading has become more popular than ever now that anyone can trade from anywhere with a few taps. The barriers to entry have been lowered improving accessibility for the average joe. In case you don’t know, options are financial primitives that give a trader the choice (or the <em>option</em>) to buy or sell an asset at a predetermined strike price at some point in the future. Traders can utilize options to hedge against potential price changes or to speculate on the future price of an asset. As DeFi matures, on-chain financial primitives like options become the building blocks for even more sophisticated financial instruments.</p>
+
+
+
+<p>If options trading is what floats your boat, say ahoy to SIREN, a decentralized protocol aiming to carve out a unique market niche by catering specifically to sophisticated users interested in holding and actively trading tokenized options contracts. This nautical-themed on-chain options marketplace launched its alpha release in December 2020 and is about to embark on the next chapter of its journey. <strong><a href="http://sirenmarkets.com/">SIREN Markets</a> is set to launch on mainnet March 1.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/03/siren-1000x500-1-1.jpg" alt="" class="wp-image-8932"/></figure>
+
+
+
+<h2>SIREN Markets offer seamless on-chain options trading</h2>
+
+
+
+<p>SIREN is a decentralized protocol which facilitates a marketplace of fully-collateralized, on-chain options. SIREN protocol tokenizes both the long and short sides of an options contract as ERC20 tokens which enables options to be traded via its AMM design requiring no third-party settling mechanism or order matching to complete option settlement on chain. Siren AMM v2 can trade up to 6 SIREN options contracts which all share collateral and payment assets in a single pool. This enables liquidity to be rolled over when a market expires for a seamless UX for liquidity providers.</p>
+
+
+
+<p>It starts with liquidity providers depositing collateral into the SIREN AMM pool. So for the WBTC/USDC calls the collateral asset would be WBTC. When you as a trader go to buy options from the AMM, the collateral held within the pool is used to mint a pair of tokens: bToken and wToken. bToken, which stands for buyToken, is sent to the buyer and gives the holder the right to purchase or sell the underlying asset at a predetermined strike price. While wToken, short for writeToken, stays in the pool. If the option is left unexercised, wTokens allow the holder to withdraw the collateral or withdraw the exercise payment from the contract after expiration.</p>
+
+
+
+<p>Note, that SIREN AMM v2 only trades bTokens, but not wTokens. Although, the Siren team has stated that trading of wTokens may become available in the future. Users pay a premium to the pool in the collateral asset each time they make a trade. This process results in liquidity providers passively becoming covered option writers, automatically underwriting contracts to meet demand from traders. In addition to collecting premiums, liquidity providers benefit from any slippage in AMM trades and earn SI token rewards from the SIREN <a href="https://sirenmarkets.medium.com/expanding-the-siren-lpp-c69969e25d41">Liquidity Provider Program (LPP)</a>. It’s always worth noting <a href="https://docs.sirenmarkets.com/faq/what-is-a-liquidity-provider#risks">the risks associated with providing liquidity</a>.</p>
+
+
+
+<h3>Giving sophisticated options traders the right tools for the job</h3>
+
+
+
+<p>The tools that options traders have come to rely on in traditional finance were refined over decades and decades. So it only makes sense that these early days of DeFi provide ample opportunity to incorporate and innovate on these tools. SIREN’s design allows traders to easily swap options in and out in order to build complex positions as well as the necessary information to assess those positions.</p>
+
+
+
+<h4><strong>SIREN AMM v2 pricing is time-decay-aware</strong></h4>
+
+
+
+<p>There are two factors that determine the price of each trade on SIREN v2: spot price and slippage. The spot price is determined using a Black-Scholes model, which takes into account parameters like the underlying price, time to expiration, option strike and implied volatility, coupled with a Chainlink price oracle. Utilizing this formula allows Siren Markets to be time-decay-aware requiring no arbitrage in order to quote reasonable prices. Similar to other AMMs, trades will be impacted by slippage based on the size of the trade and available assets in the pool. In other words, the larger the trade relative to the size of the pool, the higher the slippage. This slippage ultimately benefits liquidity providers as another source of returns for liquidity providers on top of collecting option premiums.</p>
+
+
+
+<h4><strong>What is ITM, ATM and OTM?</strong></h4>
+
+
+
+<p>These expressions are likely familiar to options traders so we’ll skim through these rather quickly. For more in-depth info, you can refer to <a href="https://www.investopedia.com/terms/i/inthemoney.asp">Investopedia’s definitions</a>. An ITM (short for ‘in the money’) option which has value because it has a favorable strike price compared to the current market price. As you can probably guess, an OTM (short for ‘out of the money’) option still needs to reach its strike price whereas an ATM (short for ‘at the money’) has reached the strike price.&nbsp;</p>
+
+
+
+<p>These terms help determine what kind of options traders buy or sell taking into account how that option might behave in the current market. For example, an ITM call may require a smaller rise in the cryptocurrency price to be profitable, but there is less potential upside compared to an ATM or OTM call. So if you believe the market price is going to rise significantly, you might consider buying an OTM call because you’d have a greater potential upside while limiting exposure to loss if the price fell.</p>
+
+
+
+<p>These are just a couple examples of the ways traders can make use of different option characteristics to influence their trading strategy. Greeks are another way options traders can assess an option.</p>
+
+
+
+<h4><strong>Meet the Greeks</strong></h4>
+
+
+
+<p>As Siren is meant for experienced options traders, we’re only going to give a brief overview of <a href="https://docs.sirenmarkets.com/faq/what-are-the-greeks">how option Greeks apply to Siren Markets</a>. To get caught up to speed, you can learn more about these general concepts <a href="https://www.investopedia.com/trading/getting-to-know-the-greeks/">here</a>.</p>
+
+
+
+<p><strong>Delta</strong></p>
+
+
+
+<p>Delta measures a ratio comparing the difference between the underlying asset price relative to the strike price of the option. The delta of a long call is positive; the delta of a long put is negative. The delta is reversed for short calls and puts. Delta is only a theoretical approximation of your exposure in the underlying asset.&nbsp;</p>
+
+
+
+<p><strong>Gamma</strong></p>
+
+
+
+<p>If you imagine delta as the &#8220;speed&#8221; of your option position, gamma is the &#8220;acceleration.” The gamma of long options, calls or puts, is always positive; of short options, always negative.&nbsp;</p>
+
+
+
+<p>The more gamma your position has, your position delta can change a great deal and probably needs close monitoring. Gamma is highest for the ATM strike, and slopes off toward the ITM and OTM strikes.</p>
+
+
+
+<p>If you think the price of an underlying asset is about to change quickly, you want to buy an option with relatively high gamma. For example, the higher the gamma, the more delta if the underlying asset price moves the way you want it to, and vice versa.</p>
+
+
+
+<p><strong>Theta</strong></p>
+
+
+
+<p>As touched on before, Theta measures the rate of decline in the value of an option due to the passage of time sometimes referred to as time decay. No one can escape time, not even options. Time decay describes how long calls and puts have negative theta, losing money as time goes on. Short calls and puts are the opposite having positive theta and making money as time passes.&nbsp;</p>
+
+
+
+<p>Theta is highest for the ATM strike, and slopes off to the ITM and OTM options, and responds to the passage of time and changes in volatility the same way that gamma does. The theta of options is indirectly proportional to gamma. When gamma is big and positive, theta tends to be big and negative. That&#8217;s the trade-off. A position that has a lot of gamma (good for fast changing underlying assets) also has lots of theta that is continuously eroding its value.</p>
+
+
+
+<p><strong>Vega</strong></p>
+
+
+
+<p>Vega is how much the value of an option changes when the implied volatility of that option changes. Long calls and puts both have positive vega and profit when implied volatility rises. Inversely, short calls and puts both have negative vega and profit when implied volatility falls.&nbsp;</p>
+
+
+
+<p>The more time there is until expiration, the higher the vega is for an option. Vega also depends on where the price of the underlying asset is relative to the strike price of the option. Like gamma and theta, vega is highest for the ATM options, and drops for the OTM and ITM options. So, ATM options with lots of time to expiration are the most sensitive to changes in implied volatility.</p>
+
+
+
+<h2>SIREN Governance</h2>
+
+
+
+<p>The SIREN Market project was created to bring the features and tools options traders are familiar with from traditional finance to a seamless on-chain experience without sacrificing autonomy. The Siren team understands that a platform built to cater to sophisticated users only benefits from their feedback and collaboration. And so, SIREN’s native token SI is designed to reward early users placing the future of the platform in their hands via protocol governance. Liquidity providers, traders, and market makers will receive SI token rewards in exchange for their participation. By design, the most experienced and knowledgeable users will be given the most influence over the platform to help respond to future market demands.</p>
+
+
+
+<p>The SI community will be able to create new option markets and determine the fee rate for writing, closing, and redeeming an option. These fees accrue to SI token holders; although it should be noted that upon launch these fees will be set to 0 to reduce the friction for users looking to explore SIREN Markets.</p>
+
+
+
+<p>The first SIREN Liquidity Provider Program (LPP) began in December 2020 and was <a href="https://sirenmarkets.medium.com/expanding-the-siren-lpp-c69969e25d41">extended through May 2021</a>. Find out more about SIREN’s SI token and liquidity providing program <a href="https://sirenmarkets.medium.com/si-token-distribution-event-cff0be106fc6">here</a>.</p>
+
+
+
+<h2>Roadmap</h2>
+
+
+
+<p>Looking toward the future, <a href="https://sirenmarkets.medium.com/si-token-distribution-event-cff0be106fc6">SIREN’S roadmap</a> details many future upgrades to the platform like expanding the list of available asset pools. SIREN is considering adding SUSHI/USDC, UNI/USDC, YFI/USDC, LINK/USDC pools starting with Sushi. Even further out, SIREN protocol will be modified to allow yield-generating assets to be used as collateral.</p>
+
+
+
+<p>Other improvements which option traders may want to keep their eye out for include future interfaces for constructing option spreads and effecting basket trades natively. SIREN also plans to explore layer 2 solutions to improve efficiency and lower fees for its users.</p>
+
+
+
+<h2>Concluding Thoughts</h2>
+
+
+
+<p>DeFi is disruptive because it gives everyone access to the same tools and data as the experts. Many users who had never had never previously owned a share in a company or a treasury bond are now active participants in a new financial paradigm. With the increasing popularity of options trading in traditional finance, it stands to reason that on-chain options may play a bigger role as DeFi reaches more widespread adoption.&nbsp;</p>
+
+
+
+<p>It boils down to: Do you desire a more sophisticated options trading experience? If so, SIREN would like to invite you to join them in building a platform that suits your needs. This is an opportunity to influence the platform early in its development. <strong><a href="http://sirenmarkets.com/">SIREN Markets</a> is set to go live on mainnet on March 1, 2021. </strong>If you want to know more, we recommend joining SIREN’S <a href="https://t.me/sirenmarkets">Telegram</a> or following them on <a href="https://twitter.com/sirenprotocol">Twitter</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with SIREN to help educate and inform the community about Siren Markets. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Introducing Cryptodollars</title>
+		<link>./../../../2021/02/23/cryptodollars-stablecoins/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Tue, 23 Feb 2021 19:00:00 +0000</pubDate>
+				<category><![CDATA[New Features]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[stablecoin]]></category>
+		<category><![CDATA[stablecoins]]></category>
+		<category><![CDATA[susd]]></category>
+		<category><![CDATA[synthetix]]></category>
+		<category><![CDATA[USDC]]></category>
+		<category><![CDATA[usdt]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8898</guid>
+
+					<description><![CDATA[From their inception, the coins or tokens pegged to the US Dollar, commonly referred to as stablecoins, provided a way...]]></description>
+										<content:encoded><![CDATA[
+<p>From their inception, the coins or tokens pegged to the US Dollar, commonly referred to as stablecoins, provided a way for many users to exit positions without exiting crypto. One could make the case that the popularity of tokenized dollars in crypto was a necessary precursor to the DeFi ecosystem we know today. Their liquidity and relative stability enabled new possibilities for smart contracts which ultimately led to the rapid maturity in decentralized financial instruments built on-chain.</p>
+
+
+
+<p>And so we’re happy to unveil our new <a href="http://defipulse.com/usd">Cryptodollars</a> page dedicated to measuring the amount of tokenized dollars in DeFi. At the time of writing, the total value locked in cryptodollars exceeds $34.5B. This new addition to DeFi Pulse helps to capture the full picture of the extraordinary growth of DeFi with years of historical data.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="defipulse.com/usd"><img loading="lazy" width="574" height="289" src="./../../../wp-content/uploads/2021/02/cryptodollars.png" alt="" class="wp-image-8924" srcset="./../../../wp-content/uploads/2021/02/cryptodollars.png 574w, ./../../../wp-content/uploads/2021/02/cryptodollars-300x151.png 300w" sizes="(max-width: 574px) 100vw, 574px" /></a></figure>
+
+
+
+<p><strong><em>At launch, the following cryptodollars will be included: USDT, USDC, DAI, BUSD, PAX, HUSD, TUSD, sUSD, GUSD, MUSD, and DUSD</em></strong>.</p>
+
+
+
+<p><strong>How do we define each type of cryptodollar?</strong></p>
+
+
+
+<ul><li>Custodial &#8211; a USD token backed by USD held in custody by a third party</li><li>Collateralized &#8211; a token pegged to USD backed by another asset or basket of assets</li></ul>
+
+
+
+<p>We’d also like to take a moment to acknowledge algorithmic stablecoin communities and the innovations happening in that sector. We will continue to monitor the evolution of the different &#8220;Algorithmic dollars&#8221; and we&#8217;ll be happy to add this category in the future should they start maintaining the peg (or reasonably close enough) with the US dollar.</p>
+
+
+
+<p>Special thanks to all the teams for working with us! Be sure to check out the new <a href="http://defipulse.com/usd">Cryptodollars</a> page. And if you’re interested in joining the DeFi Pulse Leaderboard, please check out this <a href="https://defipulse.com/blog/how-to-join-the-defi-pulse-leaderboard/">step-by-step guide.</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

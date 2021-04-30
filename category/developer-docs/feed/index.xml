@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Developer Docs &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 18 May 2020 14:16:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Build Sustainable DApps with your own X Blaster with Custom Fees</title>
+		<link>./../../../2020/05/18/build-sustainable-dapps-with-your-own-x-blaster-with-custom-fees/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 18 May 2020 14:16:08 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Developer Docs]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[New Features]]></category>
+		<category><![CDATA[aggregator]]></category>
+		<category><![CDATA[developer tools]]></category>
+		<category><![CDATA[Dex.Ag]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[ERC20]]></category>
+		<category><![CDATA[liquidity]]></category>
+		<category><![CDATA[swaps]]></category>
+		<category><![CDATA[token]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8256</guid>
+
+					<description><![CDATA[TLDR: Integrating DEX.AG&#8217;s X Blaster with custom fees into your platform provides your users or smart contract with convenient native...]]></description>
+										<content:encoded><![CDATA[
+<p><em><strong>TLDR: </strong><a href="https://docs.dex.ag/proxy-contract">Integrating DEX.AG&#8217;s X Blaster with custom fees</a> into your platform provides your users or smart contract with convenient native liquidity while allowing you to build a sustainable business model.</em></p>
+
+
+
+<h2>Liquidity is vital for the growth of DeFi</h2>
+
+
+
+<p>Users want to experience all DeFi has to offer. But often times to do that you  need to swap between tokens or stablecoins. Liquidity is an important resource that enables DeFi&#8217;s composability and makes it possible for many DApps to function. It&#8217;s the blood that flows through the veins of DeFi. </p>
+
+
+
+<p>For a smooth user experience, it&#8217;s essential to have a reliable liquidity at a decent price. DEXes are an obvious choice for reliable liquidity when designing an application or smart contract. However, relying on a single DEX comes with its disadvantages. For example, maybe the token your users want to trade isn&#8217;t listed or has extremely low liquidity causing costly price slippage. </p>
+
+
+
+<h3>DeFi is all about having options</h3>
+
+
+
+<p>If one DEX isn&#8217;t ideal, The obvious answer is to do what DeFi does best with money legos and combine the awesome powers of DEXes. That&#8217;s why we built our other service DEX.AG, a DEX aggregator. DEX.AG&#8217;s X Blaster let&#8217;s you trade multiple DEXes and even splits trades across the combination of DEXes that results in the best price. Each DEX has its strengths, the X Blaster combines those strengths and connects users with the DEX or DEXes that best suits their needs. Not to mention, the X Blaster&#8217;s API has a blazing fast response time that delivers available trades within a fraction of a second so users never wait.</p>
+
+
+
+<h4>X Blaster <strong>aggregates liquidity from popular DEXes: </strong></h4>
+
+
+
+<ul><li>0x v3</li><li>Bancor</li><li>Curve</li><li>Kyber</li><li>Oasis</li><li>Uniswap</li><li>Synthetix<br>&#8230;. and more</li></ul>
+
+
+
+<p>With each new update, new tokens, exchanges, and integrations like Compound cTokens and CHAI are added to the X Blaster. We focus on token listings and improving your integrated X Blaster so you can focus on what matters.</p>
+
+
+
+<h2>Custom fees enable flexible and sustainable business models</h2>
+
+
+
+<p>We built DEX.AG because we understand the power of bringing the community together and the value that can create. We see our proxy contracts with custom fees as an opportunity for teams build sustainable models and grow their communities.</p>
+
+
+
+<p>We know how crucial the right business model can be to finding the perfect product-market fit. You choose the custom fees on your X Blaster proxy contract. Developers know their users best and this gives them the flexibility to grow their community on their terms. </p>
+
+
+
+<h2>X Blaster in action</h2>
+
+
+
+<p>Want to witness the X Blaster in action? You can trade using the X Blaster on <a href="https://dex.ag/">DEX.AG</a>. Here are examples of the X Blaster integrated directly into two of the most popular wallets in the Ethereum community.</p>
+
+
+
+<h3>MyCrypto Beta</h3>
+
+
+
+<p><a href="http://beta.mycrypto.com/">MyCrypto Beta</a> users can take advantage of the X Blaster under the <a href="https://beta.mycrypto.com/swap">Swap Assets</a>.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Our Swap functionality is NEW and IMPROVED! <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br><br>Let us know what you think. <br><br><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/y1wikwDz0f">https://t.co/y1wikwDz0f</a> <a href="https://t.co/O3ZintskMf">pic.twitter.com/O3ZintskMf</a></p>&mdash; MyCrypto.com (@MyCrypto) <a href="https://twitter.com/MyCrypto/status/1245851750499680258?ref_src=twsrc%5Etfw">April 2, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h3>MyEtherWallet</h3>
+
+
+
+<p><a href="https://www.myetherwallet.com/">MEW</a> recently rolled out the X Blaster to its Android users.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">MEW finds the best price for you with <a href="https://twitter.com/DEXAG_TokenWire?ref_src=twsrc%5Etfw">@DEXAG_TokenWire</a><br><br>Make decentralized swaps from your smartphone with just a few clicks in MEW wallet app <a href="https://t.co/i0dGyXFw5L">pic.twitter.com/i0dGyXFw5L</a></p>&mdash; MyEtherWallet | MEW (@myetherwallet) <a href="https://twitter.com/myetherwallet/status/1255943097986342913?ref_src=twsrc%5Etfw">April 30, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h2>Get your own X Blaster and level up your UX/UI</h2>
+
+
+
+<p>Once integrated, the X Blaster puts the hottest new DEXes and tokens just a few taps away. You can focus on your core product while your users get the liquidity they need conveniently right inside your application. And to top it off, when we ship updates to the X Blaster (which is quite often) you don&#8217;t have to lift a finger to reap the benefits in your platform. </p>
+
+
+
+<p>Give your users what they want and get your own X Blaster today! Head over to our <a href="https://docs.dex.ag/proxy-contract">API/SDK documention</a> to get started.<br></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

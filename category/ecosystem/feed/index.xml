@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ecosystem &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 20 Apr 2021 13:03:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>DexGuru &#8211; Real-time Data, Analytics and Trading for AMMs in One Place</title>
+		<link>./../../../2021/04/20/dexguru/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Tue, 20 Apr 2021 13:03:31 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[dexguru]]></category>
+		<category><![CDATA[multichain]]></category>
+		<category><![CDATA[tools]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9142</guid>
+
+					<description><![CDATA[The origin of the Sanskrit word guru is said to be based on the syllables gu (गु) and ru (रु),...]]></description>
+										<content:encoded><![CDATA[
+<p>The origin of the Sanskrit word <em>guru</em> is said to be based on the syllables<em> gu</em> (गु) and <em>ru</em> (रु), which stand for darkness and &#8220;light that dispels it.&#8221; Gurus cast out the darkness of ignorance with the light of their wisdom. To become a guru, you must be able to take in your surroundings to gain perspective and glean greater wisdom. DexGuru wants to be your guide lighting the way through the dark forest. <a href="https://dex.guru/">DexGuru</a> harmonizes permissionless, real-time data and analytics of every on-chain market in a single UI capable of trading across DEXes.</p>
+
+
+
+<h2>Trade with more awareness with real-time on-chain market data</h2>
+
+
+
+<p>It’s 2021. Traders like you need more than a simple From / To interface when it comes to determining how and when to execute your strategy. <a href="https://dex.guru/">DexGuru</a> offers a better way to monitor on-chain markets for any token on Uniswap, Sushiswap, and Pancakeswap. Traders using DexGuru have permissionless access to data in real-time including charting, liquidity, pool activity, trading volume, and trading history. So what does permissionless access mean to you? It means you can copy and paste any token address into DexGuru’s search bar and tap into loads of information generated from analysis of on-chain trading activity for free.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://dex.guru/"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/04/dexguru-ui-1024x576.png" alt="" class="wp-image-9147" srcset="./../../../wp-content/uploads/2021/04/dexguru-ui-1024x576.png 1024w, ./../../../wp-content/uploads/2021/04/dexguru-ui-300x169.png 300w, ./../../../wp-content/uploads/2021/04/dexguru-ui-768x432.png 768w, ./../../../wp-content/uploads/2021/04/dexguru-ui-1536x864.png 1536w, ./../../../wp-content/uploads/2021/04/dexguru-ui-1568x882.png 1568w, ./../../../wp-content/uploads/2021/04/dexguru-ui.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p>We might be biased towards the color purple here but&#8230; DexGuru is rather sleek looking, combining various data feeds into a responsive and appealing UI/UX. View charts and trading data in real-time for any token as trades occur to stay more informed with what’s happening on-chain. Want to know more about the token you’re viewing? Simply click the DYOR button at the top of the page and get a rundown of that token’s basic info and community links. Beyond price and trade history, traders and farmers alike can utilize real-time liquidity data to monitor when liquidity is added or removed from pools. Not to mention, DexGuru can give you insights into the behaviors of other traders in the market, but we’ll get to that later.</p>
+
+
+
+<h3>Become one with the flow &#8211; executing trades on multiple chains from one UI</h3>
+
+
+
+<p>Under the hood, DexGuru uses the 0x API to provide users with gas-efficient order routing. Connect your wallet and select your network to buy and sell tokens on EVM-compatible chains. There is no more waiting for token listings because DexGuru permissionlessly indexes each token market. In other words, when it is added to the DEX, it’s added to DexGuru. </p>
+
+
+
+<p>Trade orders are routed through any 0x API connected exchange including Uniswap, Kyber, Curve, Balancer, CREAM, Bancor, mStable, Shell, Swerve, SnowSwap, SushiSwap, DODO, Mooniswap(1inch protocol AMM), PancakeSwap, BakerySwap, Mooniswap, DODO_V2, SushiSwap, Nerve Finance, Belt Finance, and Ellipsis.</p>
+
+
+
+<h2>Gain more insight with DexGuru’s real-time on-chain analytics</h2>
+
+
+
+<p>One of the most interesting features DexGuru has to offer is the deeper analysis it performs on user trading history. DexGuru is constantly monitoring on-chain markets for new trades. When a new trade is received, DexGuru analyzes the trader’s address and marks it with a special emoji in the pool activity or trading history.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="345" height="342" src="./../../../wp-content/uploads/2021/04/image.png" alt="" class="wp-image-9150" srcset="./../../../wp-content/uploads/2021/04/image.png 345w, ./../../../wp-content/uploads/2021/04/image-300x297.png 300w, ./../../../wp-content/uploads/2021/04/image-150x150.png 150w" sizes="(max-width: 345px) 100vw, 345px" /></figure>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f422.png" alt="🐢" class="wp-smiley" style="height: 1em; max-height: 1em;" /> &#8211; Casual Trader with $10k-$100k of a trading volume last 30 days<br><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f988.png" alt="🦈" class="wp-smiley" style="height: 1em; max-height: 1em;" /> &#8211; Active Trader with $100k-$500k of a trading volume last 30 days<br><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f433.png" alt="🐳" class="wp-smiley" style="height: 1em; max-height: 1em;" /> &#8211; Heavy Trader with $500k+ of a trading volume last 30 days<br><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f916.png" alt="🤖" class="wp-smiley" style="height: 1em; max-height: 1em;" /> &#8211; Trader with 1000+ TXs in last 30 days. Most likely a bot.</p>
+
+
+
+<p>These sorts of analytics in the heat of the moment can help you as a trader reassess the situation. It’s a refreshing dose of signal among the noise when you need it. It’s nice to know when you’re swimming with the whales or interacting with a bot. Put simply, DexGuru’s real-time insights aim to give traders an edge. And what’s not to like about emojis?</p>
+
+
+
+<h2>Closing Thoughts</h2>
+
+
+
+<p>Since its initial public beta release on February 17th, many more exciting developments have been brewing for DexGuru. DexGuru aims to add all major EVM-compatible L1 and L2 networks with significant on-chain activity before the end of the year. To that end, DexGuru <a href="https://blog.dex.guru/seed">has raised $1M in a private seed round </a>to continue building its Web3 trading platform. So keep your eyes out for new DEXes, networks, and features in the future.</p>
+
+
+
+<p>No need to trade in the dark. Let DexGuru shed light on the token markets you trade. Check out <a href="https://dex.guru/">DexGuru</a> and see how you can utilize its information-driven UI/UX in your strategy. Real-time charts, trading, and liquidity data allow you to easily monitor and trade markets with a better understanding of the market and those trading alongside you. You can also join the DexGuru community on <a href="https://discord.gg/UKZWFuXGKB">Discord</a> and <a href="https://twitter.com/dexguru">Twitter</a>.</p>
+
+
+
+<p><strong><em>Disclosure: This post is part a promotional series; We’ve partnered with DexGuru to help educate and inform the community about its on-chain market data and trading tools. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Flexible Leverage Index is Live</title>
+		<link>./../../../2021/03/17/flexible-leverage-index/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Wed, 17 Mar 2021 19:27:46 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[New Features]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[ETH2x-FLI]]></category>
+		<category><![CDATA[flexible leverage index]]></category>
+		<category><![CDATA[fli]]></category>
+		<category><![CDATA[index]]></category>
+		<category><![CDATA[index-coop]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8979</guid>
+
+					<description><![CDATA[The Flexible Leverage Index (FLI) lets you leverage a collateralized debt position in a safe and efficient way, by abstracting...]]></description>
+										<content:encoded><![CDATA[
+<p><em>The Flexible Leverage Index (FLI) lets you leverage a collateralized debt position in a safe and efficient way, by abstracting its management into a simple index, reproducible by a fully-collateralized ERC20 token built on Set Protocol.</em></p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/03/fli-pulse-1-1024x512.png" alt="" class="wp-image-8980"/></figure>
+
+
+
+<p>The Flexible Leverage Index (FLI, pronounced “fly”) lets you <strong><em>leverage</em></strong> a collateralized debt without having to <strong><em>manage</em></strong> a collateralized debt. The design and methodology of FLI allows for the creation of a series of new indices with target leveraged exposure to different collateral assets.&nbsp;</p>
+
+
+
+<p>Initially <a href="https://pulseinc.medium.com/introducing-the-flexible-leverage-index-5ec90f2381ce">proposed by Pulse Inc in December 2020</a>, we’ve collaborated with Index Coop to produce FLI, an easier way for market participants to utilize leverage. Flexible Leverage Index enables market participants to take on leverage while minimizing the transaction costs and risks associated with maintaining collateralized debt.</p>
+
+
+
+<h2><strong>Flexible Leverage Index (FLI) makes leverage effortless</strong></h2>
+
+
+
+<p>If you’ve ever used leverage or legacy leveraged tokens, you probably already know how stressful the experience can be. It requires you to constantly be keeping an eye on the market and your position’s health ratio. The worry of liquidation can eat away at your attention during the day and rob you of your sleep at night. Not to mention, the expensive gas fees and slippage when you race to panic buy stablecoins to save yourself from liquidation penalties. It’s never a pleasant experience and in the end you’re left with the thought, “There has to be a better way!” And you aren’t wrong…<br><br><strong>FLI has several key advantages over Legacy Leveraged Tokens:</strong></p>
+
+
+
+<ul><li>Zero slippage via composable entry and exit.</li><li>Unique Index algorithm reduces rebalancing needs by an order of magnitude.</li><li>Emergency deleveraging possible during Black Swan events for additional fund safety.</li></ul>
+
+
+
+<h3><strong>The Ethereum Flexible Leverage Index</strong></h3>
+
+
+
+<p><a href="https://www.tokensets.com/portfolio/fli">The Ethereum Flexible Leverage Index (ETH2x-FLI)</a>, the first index in the Flexible Leverage Index series, provides decentralized target leveraged exposure to Ethereum (ETH). Built on Set Protocol, ETH2x-FLI is the first fully-collateralized leverage token which is redeemable for its underlying components: ETH and USDC. WBTC, LINK, and YFI are other potential candidates which we may consider for the FLI series in the future.</p>
+
+
+
+<p><strong>Initial parameters for The Ethereum Flexible Leverage Index:</strong></p>
+
+
+
+<ul><li>Underlying Asset: ETH</li><li>Target Leverage Ratio: 2</li><li>DeFi Lending Protocol: Compound</li><li>Maximum Leverage Ratio: 2.3</li><li>Minimum Leverage Ratio: 1.7</li><li>Recentering Speed: 5%</li></ul>
+
+
+
+<p>As the first in the FLI series, ETH2x-FLI is the first of its kind on Ethereum: a fully collateralized leverage token, not derivative. It targets 2x leveraged exposure to ETH with a tolerance range to reduce the number of rebalances and thereby increase the gas efficiency for the end user. <a href="http://pulse.inc/flexible-leverage-index">You can view the FLI methodology on Pulse Inc</a>. You can learn more about the technical design of FLI and the mechanics behind leveraged tokens <a href="https://help.tokensets.com/en/collections/2545937-portfolios#leverage-tokens">here</a>.</p>
+
+
+
+<p>Historically, leverage has played a big role in the DeFi ecosystem causing moments of extreme volatility which tested the limits of protocols. Aware of this precedent, FLI has been designed to handle volatility and even includes an emergency delevering mechanism for additional safety in the event of a black swan event. FLI’s fully-collateralized and redeemable also helps reduce risk and lends itself well to composability. As an ERC-20, ETH2x-FLI along with other future indices in the FLI series can be integrated into smart contracts for any number of use cases.</p>
+
+
+
+<p><a href="http://Pulse.inc/">Pulse Inc</a> is dedicated to creating and maintaining indices for a decentralized world. Flexible Leverage Indices combine unique index algorithm designs with the latest DeFi innovations to provide market participants with a better alternative to the traditional means of taking on leverage. By providing a safer, more efficient leverage product, we hope to spare DeFi users the expense and tolling stress of maintaining leverage and that horrible feeling of getting liquidated.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>SIREN &#8211; Decentralized Options For Sophisticated Traders</title>
+		<link>./../../../2021/03/01/siren/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 01 Mar 2021 21:19:51 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[amm]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[options]]></category>
+		<category><![CDATA[options trading]]></category>
+		<category><![CDATA[siren]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8929</guid>
+
+					<description><![CDATA[Options trading has become more popular than ever now that anyone can trade from anywhere with a few taps. The...]]></description>
+										<content:encoded><![CDATA[
+<p>Options trading has become more popular than ever now that anyone can trade from anywhere with a few taps. The barriers to entry have been lowered improving accessibility for the average joe. In case you don’t know, options are financial primitives that give a trader the choice (or the <em>option</em>) to buy or sell an asset at a predetermined strike price at some point in the future. Traders can utilize options to hedge against potential price changes or to speculate on the future price of an asset. As DeFi matures, on-chain financial primitives like options become the building blocks for even more sophisticated financial instruments.</p>
+
+
+
+<p>If options trading is what floats your boat, say ahoy to SIREN, a decentralized protocol aiming to carve out a unique market niche by catering specifically to sophisticated users interested in holding and actively trading tokenized options contracts. This nautical-themed on-chain options marketplace launched its alpha release in December 2020 and is about to embark on the next chapter of its journey. <strong><a href="http://sirenmarkets.com/">SIREN Markets</a> is set to launch on mainnet March 1.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/03/siren-1000x500-1-1.jpg" alt="" class="wp-image-8932"/></figure>
+
+
+
+<h2>SIREN Markets offer seamless on-chain options trading</h2>
+
+
+
+<p>SIREN is a decentralized protocol which facilitates a marketplace of fully-collateralized, on-chain options. SIREN protocol tokenizes both the long and short sides of an options contract as ERC20 tokens which enables options to be traded via its AMM design requiring no third-party settling mechanism or order matching to complete option settlement on chain. Siren AMM v2 can trade up to 6 SIREN options contracts which all share collateral and payment assets in a single pool. This enables liquidity to be rolled over when a market expires for a seamless UX for liquidity providers.</p>
+
+
+
+<p>It starts with liquidity providers depositing collateral into the SIREN AMM pool. So for the WBTC/USDC calls the collateral asset would be WBTC. When you as a trader go to buy options from the AMM, the collateral held within the pool is used to mint a pair of tokens: bToken and wToken. bToken, which stands for buyToken, is sent to the buyer and gives the holder the right to purchase or sell the underlying asset at a predetermined strike price. While wToken, short for writeToken, stays in the pool. If the option is left unexercised, wTokens allow the holder to withdraw the collateral or withdraw the exercise payment from the contract after expiration.</p>
+
+
+
+<p>Note, that SIREN AMM v2 only trades bTokens, but not wTokens. Although, the Siren team has stated that trading of wTokens may become available in the future. Users pay a premium to the pool in the collateral asset each time they make a trade. This process results in liquidity providers passively becoming covered option writers, automatically underwriting contracts to meet demand from traders. In addition to collecting premiums, liquidity providers benefit from any slippage in AMM trades and earn SI token rewards from the SIREN <a href="https://sirenmarkets.medium.com/expanding-the-siren-lpp-c69969e25d41">Liquidity Provider Program (LPP)</a>. It’s always worth noting <a href="https://docs.sirenmarkets.com/faq/what-is-a-liquidity-provider#risks">the risks associated with providing liquidity</a>.</p>
+
+
+
+<h3>Giving sophisticated options traders the right tools for the job</h3>
+
+
+
+<p>The tools that options traders have come to rely on in traditional finance were refined over decades and decades. So it only makes sense that these early days of DeFi provide ample opportunity to incorporate and innovate on these tools. SIREN’s design allows traders to easily swap options in and out in order to build complex positions as well as the necessary information to assess those positions.</p>
+
+
+
+<h4><strong>SIREN AMM v2 pricing is time-decay-aware</strong></h4>
+
+
+
+<p>There are two factors that determine the price of each trade on SIREN v2: spot price and slippage. The spot price is determined using a Black-Scholes model, which takes into account parameters like the underlying price, time to expiration, option strike and implied volatility, coupled with a Chainlink price oracle. Utilizing this formula allows Siren Markets to be time-decay-aware requiring no arbitrage in order to quote reasonable prices. Similar to other AMMs, trades will be impacted by slippage based on the size of the trade and available assets in the pool. In other words, the larger the trade relative to the size of the pool, the higher the slippage. This slippage ultimately benefits liquidity providers as another source of returns for liquidity providers on top of collecting option premiums.</p>
+
+
+
+<h4><strong>What is ITM, ATM and OTM?</strong></h4>
+
+
+
+<p>These expressions are likely familiar to options traders so we’ll skim through these rather quickly. For more in-depth info, you can refer to <a href="https://www.investopedia.com/terms/i/inthemoney.asp">Investopedia’s definitions</a>. An ITM (short for ‘in the money’) option which has value because it has a favorable strike price compared to the current market price. As you can probably guess, an OTM (short for ‘out of the money’) option still needs to reach its strike price whereas an ATM (short for ‘at the money’) has reached the strike price.&nbsp;</p>
+
+
+
+<p>These terms help determine what kind of options traders buy or sell taking into account how that option might behave in the current market. For example, an ITM call may require a smaller rise in the cryptocurrency price to be profitable, but there is less potential upside compared to an ATM or OTM call. So if you believe the market price is going to rise significantly, you might consider buying an OTM call because you’d have a greater potential upside while limiting exposure to loss if the price fell.</p>
+
+
+
+<p>These are just a couple examples of the ways traders can make use of different option characteristics to influence their trading strategy. Greeks are another way options traders can assess an option.</p>
+
+
+
+<h4><strong>Meet the Greeks</strong></h4>
+
+
+
+<p>As Siren is meant for experienced options traders, we’re only going to give a brief overview of <a href="https://docs.sirenmarkets.com/faq/what-are-the-greeks">how option Greeks apply to Siren Markets</a>. To get caught up to speed, you can learn more about these general concepts <a href="https://www.investopedia.com/trading/getting-to-know-the-greeks/">here</a>.</p>
+
+
+
+<p><strong>Delta</strong></p>
+
+
+
+<p>Delta measures a ratio comparing the difference between the underlying asset price relative to the strike price of the option. The delta of a long call is positive; the delta of a long put is negative. The delta is reversed for short calls and puts. Delta is only a theoretical approximation of your exposure in the underlying asset.&nbsp;</p>
+
+
+
+<p><strong>Gamma</strong></p>
+
+
+
+<p>If you imagine delta as the &#8220;speed&#8221; of your option position, gamma is the &#8220;acceleration.” The gamma of long options, calls or puts, is always positive; of short options, always negative.&nbsp;</p>
+
+
+
+<p>The more gamma your position has, your position delta can change a great deal and probably needs close monitoring. Gamma is highest for the ATM strike, and slopes off toward the ITM and OTM strikes.</p>
+
+
+
+<p>If you think the price of an underlying asset is about to change quickly, you want to buy an option with relatively high gamma. For example, the higher the gamma, the more delta if the underlying asset price moves the way you want it to, and vice versa.</p>
+
+
+
+<p><strong>Theta</strong></p>
+
+
+
+<p>As touched on before, Theta measures the rate of decline in the value of an option due to the passage of time sometimes referred to as time decay. No one can escape time, not even options. Time decay describes how long calls and puts have negative theta, losing money as time goes on. Short calls and puts are the opposite having positive theta and making money as time passes.&nbsp;</p>
+
+
+
+<p>Theta is highest for the ATM strike, and slopes off to the ITM and OTM options, and responds to the passage of time and changes in volatility the same way that gamma does. The theta of options is indirectly proportional to gamma. When gamma is big and positive, theta tends to be big and negative. That&#8217;s the trade-off. A position that has a lot of gamma (good for fast changing underlying assets) also has lots of theta that is continuously eroding its value.</p>
+
+
+
+<p><strong>Vega</strong></p>
+
+
+
+<p>Vega is how much the value of an option changes when the implied volatility of that option changes. Long calls and puts both have positive vega and profit when implied volatility rises. Inversely, short calls and puts both have negative vega and profit when implied volatility falls.&nbsp;</p>
+
+
+
+<p>The more time there is until expiration, the higher the vega is for an option. Vega also depends on where the price of the underlying asset is relative to the strike price of the option. Like gamma and theta, vega is highest for the ATM options, and drops for the OTM and ITM options. So, ATM options with lots of time to expiration are the most sensitive to changes in implied volatility.</p>
+
+
+
+<h2>SIREN Governance</h2>
+
+
+
+<p>The SIREN Market project was created to bring the features and tools options traders are familiar with from traditional finance to a seamless on-chain experience without sacrificing autonomy. The Siren team understands that a platform built to cater to sophisticated users only benefits from their feedback and collaboration. And so, SIREN’s native token SI is designed to reward early users placing the future of the platform in their hands via protocol governance. Liquidity providers, traders, and market makers will receive SI token rewards in exchange for their participation. By design, the most experienced and knowledgeable users will be given the most influence over the platform to help respond to future market demands.</p>
+
+
+
+<p>The SI community will be able to create new option markets and determine the fee rate for writing, closing, and redeeming an option. These fees accrue to SI token holders; although it should be noted that upon launch these fees will be set to 0 to reduce the friction for users looking to explore SIREN Markets.</p>
+
+
+
+<p>The first SIREN Liquidity Provider Program (LPP) began in December 2020 and was <a href="https://sirenmarkets.medium.com/expanding-the-siren-lpp-c69969e25d41">extended through May 2021</a>. Find out more about SIREN’s SI token and liquidity providing program <a href="https://sirenmarkets.medium.com/si-token-distribution-event-cff0be106fc6">here</a>.</p>
+
+
+
+<h2>Roadmap</h2>
+
+
+
+<p>Looking toward the future, <a href="https://sirenmarkets.medium.com/si-token-distribution-event-cff0be106fc6">SIREN’S roadmap</a> details many future upgrades to the platform like expanding the list of available asset pools. SIREN is considering adding SUSHI/USDC, UNI/USDC, YFI/USDC, LINK/USDC pools starting with Sushi. Even further out, SIREN protocol will be modified to allow yield-generating assets to be used as collateral.</p>
+
+
+
+<p>Other improvements which option traders may want to keep their eye out for include future interfaces for constructing option spreads and effecting basket trades natively. SIREN also plans to explore layer 2 solutions to improve efficiency and lower fees for its users.</p>
+
+
+
+<h2>Concluding Thoughts</h2>
+
+
+
+<p>DeFi is disruptive because it gives everyone access to the same tools and data as the experts. Many users who had never had never previously owned a share in a company or a treasury bond are now active participants in a new financial paradigm. With the increasing popularity of options trading in traditional finance, it stands to reason that on-chain options may play a bigger role as DeFi reaches more widespread adoption.&nbsp;</p>
+
+
+
+<p>It boils down to: Do you desire a more sophisticated options trading experience? If so, SIREN would like to invite you to join them in building a platform that suits your needs. This is an opportunity to influence the platform early in its development. <strong><a href="http://sirenmarkets.com/">SIREN Markets</a> is set to go live on mainnet on March 1, 2021. </strong>If you want to know more, we recommend joining SIREN’S <a href="https://t.me/sirenmarkets">Telegram</a> or following them on <a href="https://twitter.com/sirenprotocol">Twitter</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with SIREN to help educate and inform the community about Siren Markets. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Futureswap  &#8211; Decentralized Perpetual Futures with up to 10x Leverage</title>
+		<link>./../../../2021/02/08/futureswap-v2/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 08 Feb 2021 22:12:31 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Futures]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[decentralized exchange]]></category>
+		<category><![CDATA[decentralized exchanges]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[futures]]></category>
+		<category><![CDATA[futureswap]]></category>
+		<category><![CDATA[perpetual]]></category>
+		<category><![CDATA[perpetuals]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8855</guid>
+
+					<description><![CDATA[Recent events have made it all too clear to the average user why decentralization has a key role to play...]]></description>
+										<content:encoded><![CDATA[
+<p>Recent events have made it all too clear to the average user why decentralization has a key role to play in having a fair and efficient market. Futureswap aims to disrupt the multi-billion dollar perpetual futures trading market currently dominated by centralized services. Futureswap takes a different approach with a hybrid between Uniswap and a perpetual futures exchange platform governed by the community. You may remember Futureswap from their <a href="https://medium.com/futureswap/futureswap-lessons-learned-from-a-3-day-alpha-be4e37bc8c52">successful Alpha in April 2020 which ultimately ended early</a> after DeFi users flocked to the platform in overwhelming numbers. In less than 3 days, Futureswap’s Alpha 24hr trading volume grew to $17M and liquidity passed $1M. Erring on the side of caution, the Futureswap team decided to end the Alpha earlier than initially planned.&nbsp;</p>
+
+
+
+<p><strong>Now they’re back with something even better, the Futureswap V2 Beta is </strong><a href="https://futureswap.com/"><strong>already launched on mainnet</strong></a><strong>.</strong> The Futureswap V2 Beta includes upgrades like live pricing and higher capital efficiency which aim to provide a perpetual futures trading experience that outperforms <em>centralized</em> exchanges.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/02/COL_DG-1-1024x494.png" alt="" class="wp-image-8860"/></figure>
+
+
+
+<h2>What makes Futureswap V2 Beta special?</h2>
+
+
+
+<p>Futureswap is a decentralized exchange platform with an automatic market maker (AMM) design that enables traders to enter leveraged perpetual futures with low slippage. Its automatic market maker (AMM) design provides higher capital efficiency offering up to 10x leverage. According to Futureswap: after $50m in liquidity, Futureswap should have better price execution for a $1m trade than any other decentralized exchange and after $300m it has the lowest slippage compared to centralized exchanges based on the current slippage parameters. </p>
+
+
+
+<p>Additionally, Futureswap pools can be very efficient with their use of capital resulting in more stability and potentially high returns for liquidity providers compared to traditional AMM exchanges. Futureswap utilizes what’s called a Dynamic Funding Rate or DFR for short. The DFR is a borrowing fee based on the total trade size designed to maintain the volume balance between open longs and shorts. During times of disproportionate demand, liquidity providers’ pooled assets are used to take up the opposite side of any unmatched trades. So if there were tons of unmatched ETH longs, LPs cover the ETH essentially opening a short.</p>
+
+
+
+<p>Long and short volumes are pooled and then the more popular pool is charged the dynamic funding rate and it’s paid to the pool in low demand.<strong> </strong>This mechanism limits extreme volatility and properly rewards liquidity providers for their exposure to risk. The DFR keeps increasing as the disparity grows to disincentivize trades on the popular side. In other words, the longs pay the shorts or vice versa until the sides become balanced. This also means that liquidity providers have the potential to earn more thanks to the DFR.</p>
+
+
+
+<h3>Oracle Relayer Network (ORN)</h3>
+
+
+
+<p>One of the biggest improvements Futureswap V2 brings is the new Oracle Relayer Network (ORN) which enables instant pricing and real-time trading. ORN has been described as a mesh between a price oracle and a meta-transaction processor node. Futureswap users are able to trade in real-time by signing a message including their order and submitting them to ORN. Then, ORN verifies the signed message and finalizes the trade on-chain at the current price. Transactions will fail if outside accurate price bounds set by ORN to protect users. The Futureswap team is taking further steps to improve the Oracle Relayer Network’s security with audits by <a href="https://www.trailofbits.com/">Trail of Bits</a> and plans to add more nodes to the network.</p>
+
+
+
+<h2><br><strong>How Futureswap works</strong></h2>
+
+
+
+<h3>Traders</h3>
+
+
+
+<p>As we’ve covered, <a href="https://exchange.futureswap.com/">traders on Futureswap can open long or short perpetual future positions with up to 10x leverage</a> in real-time with instant pricing. Perpetual futures on Futureswap have no time limits and can remain open as long as the trader has enough collateral. Traders will either pay or earn the dynamic funding rate when opening longs or shorts depending on whether they are on the popular side of the trade or not. Traders also earn FST token rewards each epoch based on their percentage of close trade volume that distribution period.<br></p>
+
+
+
+<h3>Liquidity providers</h3>
+
+
+
+<p>Liquidity Providers<a href="https://exchange.futureswap.com/pool"> add liquidity to Futureswap pools</a> in equal parts to earn trading fees and FST token rewards. For example, if you wanted to add liquidity to Futureswap’s ETH/USDC pool, you would need $100 worth of ETH and 100 USDC. Once deposited, LP tokens are minted representing your share of the pool. These LP tokens can be redeemed at any time if their liquidity is not in a trade. Liquidity providers earn trading fees for allowing traders to use their liquidity. Liquidity providers also earn FST token rewards as an incentive to further grow Futureswap’s available liquidity.</p>
+
+
+
+<h3>Liquidators</h3>
+
+
+
+<p>Liquidators monitor the platform for positions that are close to violating margin requirements and send liquidation transactions to close at-risk positions for a liquidator fee. It’s vital to the health and stability of the platform for positions to be reliably closed once they reach their liquidation price. It’s worth mentioning that submitting these transactions does not require the liquidator to provide any value or to take over the trade. They simply close the trade on behalf of the protocol and are rewarded for doing so. Currently, the percentage that liquidators receive is 30% of the remaining collateral up to a maximum (currently set to 500 USDC).</p>
+
+
+
+<h2>Futureswap is governed by the community</h2>
+
+
+
+<p>FST is Futureswap’s non-transferable governance token which is<a href="https://exchange.futureswap.com/rewards"> rewarded to traders, liquidity providers, and referrers each day.</a>&nbsp; FST allows the Futureswap community to propose and vote on changes to the protocol, enabling it to evolve and improve over time. We’ve already mentioned FST tokens a few times covering Futureswap’s various incentives designed to incentivize user participation. <a href="https://medium.com/futureswap/futureswap-governance-token-distribution-d2712c855da5">FST is used to reward the Futureswap</a> users contributing to the growth and adoption of the platform. And since Futureswap is governed by the community, this gives the most active users influence over the future of the platform. In other words, users who participate sooner rather than later after the community grows even larger are more likely to have a larger impact with their contributions and receive more FST rewards.</p>
+
+
+
+<h2>Concluding thoughts</h2>
+
+
+
+<p>Potentially disrupting such a big market like perpetual futures presents an opportunity for Futureswap. Futureswap is designed with the expectations of serious trades in mind. Futureswap’s design with its high capital efficiency and low slippage lends itself well to larger trades for whales and industry traders. Its instant pricing and real-time trading ORN system provides a better trading experience with built-in protections against front running attacks. Futureswap may also continue to provide even lower slippage as liquidity grows over time. FST rewards increase the likelihood of this occurring by incentivizing adoption.</p>
+
+
+
+<p>Try <a href="https://www.futureswap.com/">Futureswap</a> today and start earning FST rewards. Also, be sure to check out the Futureswap community on <a href="https://twitter.com/futureswapx">Twitter</a> and <a href="https://discord.gg/ZCcxtu9VxH">Discord</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Futureswap to help educate and inform the community about the launch of Futureswap V2 Beta. </em><em>DeFi Pulse received FST tokens as part of its payment. </em><em>As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Alpha Homora V2 &#8211; Yield Farm With Up To 9x Leverage</title>
+		<link>./../../../2021/01/31/alpha-homora-v2/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 31 Jan 2021 23:58:58 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[alpha]]></category>
+		<category><![CDATA[alpha homora]]></category>
+		<category><![CDATA[farming]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[tokens]]></category>
+		<category><![CDATA[yield]]></category>
+		<category><![CDATA[yield farming]]></category>
+		<category><![CDATA[yieldfarming]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8837</guid>
+
+					<description><![CDATA[Alpha Homora was a DeFi product born out of practicality. Those familiar with DeFi can tell you that users will...]]></description>
+										<content:encoded><![CDATA[
+<p>Alpha Homora was a DeFi product born out of practicality. Those familiar with DeFi can tell you that users will go to extraordinary lengths when they spot an opportunity. This proved to be especially true as the yield farming craze reached a fever pitch in 2020 when users would combine various lending protocols to leverage yield farming opportunities. It wasn’t long before <a href="https://alphafinance.io/">Alpha Finance Lab</a> spotted this gap in the market and created Alpha Homora to give users a better way to yield farm with leverage more efficiently while also attempting to minimize the risks involved.</p>
+
+
+
+<p>Alpha Homora V2 builds on the popular Alpha Homora V1 yield farming product, supporting more AMM protocols, including Curve, Balancer, SushiSwap, and Uniswap, allowing yield farmers to borrow various assets in addition to ETH, and enabling leverage of up to 9x leverage thanks to new partnerships.<strong> </strong><a href="https://homora-v2.alphafinance.io/"><strong>Alpha Homora V2</strong></a><strong> is set to launch on Feb 1st.&nbsp;</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/01/alpha-social-thumb-1024x549.png" alt="" class="wp-image-8843" width="768" height="412" srcset="./../../../wp-content/uploads/2021/01/alpha-social-thumb-1024x549.png 1024w, ./../../../wp-content/uploads/2021/01/alpha-social-thumb-300x161.png 300w, ./../../../wp-content/uploads/2021/01/alpha-social-thumb-768x411.png 768w, ./../../../wp-content/uploads/2021/01/alpha-social-thumb.png 1400w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
+
+
+
+<h2>How does leveraged yield farming work?</h2>
+
+
+
+<p>Manually yield farming with leverage required you to take out and manage loans across several lending platforms in what amounted to a nerve-wrecking position that could be extremely hard to ‘unwind’. Using <a href="https://homora-v2.alphafinance.io/">Alpha Homora V2</a> is a lot simpler and helps minimize the risks involved (though <a href="https://alphafinancelab.gitbook.io/alpha-homora/risk">nothing is risk-free</a>). First, you select a supported liquidity pool from popular exchanges like SushiSwap, Uniswap, Balancer, and Curve that are on Alpha Homora v2 and then supply either or both of the tokens to your desired pool. For example, if you choose the SushiSwap&#8217;s ETH/USDC pool that is on Alpha Homora V2 you can provide ETH, USDC, or both. Note, you don’t need to have equal value of both tokens in order to yield farm with Alpha Homora V2.&nbsp;</p>
+
+
+
+<p>Next, you’ll decide whether or not you want to use leverage (which goes up to 9x for selected pools). And then, follow the prompts to confirm and submit your transaction and <em>viola </em>Alpha Homora automagically handles the rest. Users can borrow multiple assets, re-leverage, and deleverage their positions easily in just a few clicks. Compared to doing this process by hand, Alpha Homora can <em>feel like magic.</em> It’s easy to see where the name comes from.</p>
+
+
+
+<h1>What’s new in Alpha Homora V2?</h1>
+
+
+
+<p>Strong partnerships have shaped the design of Alpha Homora V2. Many of you may have noticed that V2 allows yield farmers to take advantage of significantly more leverage than its predecessor. Behind the scenes, Alpha Homora V2 utilizes CREAM V2’s liquidity to take on leverage for its users. Sometimes referred to as The Iron Bank, CREAM V2 allows whitelisted partner protocols like Alpha Homora V2 to take out loans with less collateral requirements. This results in more leverage for Alpha Homora’s yield farmers and higher interest rates for CREAM V2 users.<br></p>
+
+
+
+<p>Alpha Finance Labs worked closely with its partners to enable leveraged yield farming of liquidity pools on Curve, Balancer, SushiSwap, and Uniswap. And in an effort to help strengthen its partners’ communities, Alpha Homora V2 will not automatically sell and reinvest the farmed tokens. <strong>At launch, Alpha Homora V2 will feature the following leveraged farming pools:</strong></p>
+
+
+
+<p><strong>New leveraged pools:</strong></p>
+
+
+
+<ul><li>Curve’s 3pool (USDT, USDC, DAI)</li><li>Balancer’s PERP/USDC</li></ul>
+
+
+
+<p><strong>Pools migrated from V1:</strong></p>
+
+
+
+<ul><li>SushiSwap’s ETH/SUSHI</li><li>Uniswap’s ETH/UNI</li></ul>
+
+
+
+<p>In a nutshell, farmers will be able to leverage USDT, USDC, DAI, and ETH to farm CRV, PERP, or SUSHI tokens with up to 9x leverage. On the flipside, lenders will be able to lend ETH, USDT, USDC, and DAI on day one to start earning interest. The plan is to continue to add even more new pools and migrate more pools from V1 over time.&nbsp;</p>
+
+
+
+<p>For those curious, be sure to check out these fantastic posts written by the Alpha Finance team that walks you through Alpha Homora V2 from the perspective of <a href="https://blog.alphafinance.io/alpha-homora-v2-in-yield-farmers-perspectives/">yield farmers</a> and <a href="https://blog.alphafinance.io/alpha-homora-v2-in-lenders-perspectives/">lenders</a>. Alpha Homora is also offering additional yield in the form of ALPHA rewards for both farmers. See <a href="https://alphafinancelab.gitbook.io/alpha-homora/liquidity-mining-part-2a">here</a> for more information.</p>
+
+
+
+<h2>Migrating to V2</h2>
+
+
+
+<p>To ensure a smooth transition, ALPHA rewards will continue for a limited time for those liquidity mining on Alpha Homora V1. Although farmers should be aware that leveraged positions on Alpha Homora v2 will get more rewards compared to those on V1. This creates an incentive to migrate sooner rather than later. Here’s <a href="https://blog.alphafinance.io/72-hour-countdown/">a step-by-step guide</a> for those looking to migrate.</p>
+
+
+
+<h2>What is ibETHv2?</h2>
+
+
+
+<p>When you lend out an asset on Alpha Homora, you receive the corresponding ibToken or interest bearing token. ibETHv2 is an interest-bearing ETH token you receive when lending ETH to Alpha Homora V2. Alpha Homora typically has competitive yields for ETH due to the high demand from its leverage yield farming pools. Alpha Finance Lab also runs a <a href="https://alphafinancelab.gitbook.io/alpha-homora/trading-volume-mining-part-2b">Trading Volume Mining</a> program which rewards users for supplying liquidity to ibETH/ALPHA and ibETHv2/ALPHA pools.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/o7JpNF2vwiZxUlXbPbEtUtMMlbqUwQM-KpKE5OSCqCYH0jEBrzXPKlkjlCp1E7fk5JD8rQx5sGaQqQaShoaL1BF8_FuqNWS_yV7z5qzmfbBNjFw_L6otv5Yzlfeo2yw2RYBZgEsm" alt=""/></figure>
+
+
+
+<p>The ibETHv2/ALPHA pool on SushiSwap <a href="https://blog.alphafinance.io/72-hour-countdown/">goes live on Feb 3rd</a>. Liquidity providers of this pool will receive ALPHA rewards as well as SUSHI tokens from SushiSwap’s Onsen program. Rewards from Alpha Finance’s Trading Volume Mining program will be reflected in the form of trading fees APY when you remove liquidity (not airdropped to your wallet). Those providing liquidity to the ibETH/ALPHA pool on Uniswap will still receive rewards until Feb 3rd, 1pm UTC.</p>
+
+
+
+<h1>Closing Thoughts</h1>
+
+
+
+<p>Alpha Finance Lab’s initial release of Alpha Homora was well-received by the DeFi community given the immediate utility it provided to yield farmers. Alpha Homora V2 built on this popular platform to provide more utility for its users and value for its partner protocols. Key partnerships like the utilization of CREAM V2’s Iron Bank will allow Alpha Homora V2’s users to achieve higher levels of capital efficiency. It’s undeniable we’ve entered a new era in DeFi where partnerships can give you an edge more now than ever. So it will be very interesting to see how such a deep protocol level partnership influences the future growth of both platforms. Regardless of how things pan out, Alpha Homora V2 users will reap the benefits in the meantime.</p>
+
+
+
+<p>Thanks for reading! Be sure to keep your eyes out for <a href="https://homora-v2.alphafinance.io/">Alpha Homora V2</a> set to launch Feb 1, 2020. Follow <a href="https://twitter.com/alphafinancelab">Alpha Finance on Twitter</a> for the latest updates or join their <a href="https://discord.com/invite/Z2vuKDT">Discord</a> or <a href="https://t.me/AlphaFinanceLab">Telegram</a> to discuss the future of Alpha Finance Lab and its products.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Alpha Finance Lab to help educate and inform the community about the launch of Alpha Homora V2. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>SnowSwap &#8211; Low Slippage Swaps for Yield-Bearing Stablecoins, BTC and ETH2</title>
+		<link>./../../../2021/01/25/snowswap/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 25 Jan 2021 21:38:22 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[snow]]></category>
+		<category><![CDATA[snowswap]]></category>
+		<category><![CDATA[tokens]]></category>
+		<category><![CDATA[yield]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8826</guid>
+
+					<description><![CDATA[Many would argue that generating yield with stablecoins is currently one of DeFi’s biggest use cases. So it’s no wonder...]]></description>
+										<content:encoded><![CDATA[
+<p>Many would argue that generating yield with stablecoins is currently one of DeFi’s biggest use cases. So it’s no wonder we’ve seen a flurry of different stablecoins, yield aggregators and vaults entering the market, each with their own tokenized representation of yield-bearing stablecoins. You can almost picture these yield-bearing tokens like snowflakes; each similar at a glance but entirely unique when examined closely. When snowflakes are combined they become an indistinguishable mass that can be shaped to create something more like a snowman or igloo. Whether you prefer to look at protocols and tokens like snowflakes or money legos, there are undeniable benefits to combining and layering different DeFi protocols to create something new. This is precisely the logic behind <a href="https://snowswap.org/">SnowSwap</a> which aims to be the defacto way to swap yield-bearing assets like stablecoins, tokenized BTC, ETH2 staking tokens and other similar assets.</p>
+
+
+
+<h2>What is SnowSwap?</h2>
+
+
+
+<p>Imagine you have USDC deposited into yEarn’s yUSDC vault but you notice you could be earning a higher yield using yDAI. You could pay the gas required for all the transactions to withdraw your USDC, convert it to DAI, and then re-deposit your DAI into Yearn or you could save yourself the hassle and use SnowSwap. <a href="https://medium.com/snowswap/snowswap-bringing-liquidity-to-stablecoin-yield-farming-12e222af0462">SnowSwap</a>, based on Curve’s AMM model, allows users to easily enter and exit yVaults and other yield bearing tokens for only the cost of a swap fee. Increasing liquidity for similar yield-bearing tokens makes it easier for users to speculate on their yield or performance. SnowSwap’s first pools, <a href="https://snowswap.org/iearn/">yVault USD</a> (yDAI, yUSDC, yUSDT, yTUSD) and <a href="https://snowswap.org/busd/">yVault Curve</a> (yUSD, ybCRV), were focused on yield-bearing stablecoin tokens. It didn’t stop at stablecoins though; the <a href="https://snowswap.org/pusd/">btcSNOW pool</a> (YcrvRenWSBTC, FcrvRenWBTC) features yield-bearing tokenized versions of BTC from yEarn and Harvest Finance.</p>
+
+
+
+<p>The next step in SnowSwap’s journey went even further by introducing a new pool called <a href="https://medium.com/snowswap/%EF%B8%8Fbuilding-on-2-0-with-eth2snow-and-sharedstake-partnership-%EF%B8%8F-5ca251f8e1a0">eth2SNOW</a> designed to incentivize Eth2 adoption. SnowSwap’s <a href="https://snowswap.org/ethsnow/">eth2SNOW pool</a> aims to create new markets and utility via the ability to enter, exit, and swap between popular eth2 staking services with low slippage. This pool includes vETH2, aETH by ANKR, CRETH2 by CREAM, WETH. eth2SNOW provides a few key advantages for users:</p>
+
+
+
+<ul><li>Enables users to conveniently enter and exit Eth2 staking services using WETH</li><li>Allows users to optimize for the highest APY % with low slippage swaps</li><li>Alleviates minimum ETH entry required for aETH</li><li>Liquidity providers gain exposure to Eth2 staking and earn a portion of swap fees</li></ul>
+
+
+
+<p>In general, providing liquidity to SnowSwap’s pools provides a simpler and more cost effective way to gain exposure to a basket of yield-bearing assets with the added benefit of receiving a portion of swap fees. When a user provides liquidity to a SnowSwap pool, they receive either ySNOW, ycrvSNOW, btcSNOW, eth2SNOW tokens depending on the pool. Liquidity providers can stake these tokens to earn additional yield in the form of SNOW, SnowSwap’s governance token. 80% of the total SNOW tokens will be distributed to SnowSwap liquidity providers via liquidity mining rewards designed to bootstrap liquidity as well as the SnowSwap community.</p>
+
+
+
+<h2>Progressing towards decentralization with The Snow DAO</h2>
+
+
+
+<p>The SnowSwap team envisions The Snow DAO to play an important role in the future of SnowSwap. In this vision, <a href="https://medium.com/snowswap/f-k-making-it-rain-were-making-it-snow-e60b64ad1292">SNOW</a> would grant users the ability to vote on governance proposals to modify or add to the SnowSwap protocol. For example, a future proposal could be voted in that distributes swap fees to SNOW holders. Nonetheless, the SnowSwap team<a href="https://medium.com/snowswap/snow-whats-next-29639c181732"> also believes </a>that poorly executed token governance can slow down the growth of a protocol. For this reason,&nbsp; they want to explore the possibilities with the community and collaborate to forge a path towards decentralization together. For example, one idea floated by the SnowSwap team was having community-based executives. In the meantime, the SnowSwap team covers the cost of development via the 10% of SNOW given to the Dev Fund on a 3-year vesting schedule. Additionally, 8% of SNOW was issued to the SnowSwap Foundation, a treasury used to fund initiatives and incentivize the growth of the ecosystem such as security audits, partner programs, and grants.</p>
+
+
+
+<h3>Growing the SNOW community with positive-sum feedback loops</h3>
+
+
+
+<p>At its core, SnowSwap is exploring the possibilities of forging symbiotic relationships leveraging the positive-sum nature of DeFi. Its pools provide liquidity between tokens staked in various DeFi protocols, creating a market to swap these tokens which had previously been so fragmented and illiquid. This encourages users to engage with these tokens and in turn creates additional utility for their respective communities. Members of these communities who use SnowSwap, earning them SNOW rewards, then also become members of the SnowSwap community. You can probably see where this leads… the more projects SnowSwap provides utility to, the more the communities grow, and so on to form a positive sum feedback loop.&nbsp;</p>
+
+
+
+<p>In line with this positive-sum mentality, The SnowSwap Foundation will invest in initiatives and teams which add value to the SnowSwap ecosystem. This strategy referred to as ‘Offensive Forkability’ supports community experimentation and encourages innovation. For example, grants could be funded to explore protocol design experiments. The goal of this strategy is to create network value by collaborating with SnowSwap to disincentivize vampire attacks. In other words, the strategy embodies the phrase: “If you can’t beat them, join them.”</p>
+
+
+
+<h2>So what’s in store for SnowSwap?</h2>
+
+
+
+<p>SnowSwap is keeping busy between new partnerships and crossing community milestones. The self-proclaimed army of “White Walkers&#8221; continues to grow with recently launched dedicated communities for its SnowSwap users in Bangladesh, Vietnam, and India. <a href="https://twitter.com/Quantstamp/status/1343744581007933440?s=20">Quantstamp reviewed SnowSwap’s contracts</a> clearing the path to more major partnerships. Meanwhile, the eth2SNOW pool made in partnership with ANKR now has over 1000 ETH tokens. And now, it’s been<a href="https://twitter.com/snow_swap/status/1353059315968479232"> announced</a> that 1inch is integrating SnowSwap’s liquidity pools. SnowSwap pools will likely see increased trading volume from DEX aggregators and earn more trading fees for liquidity providers as a result.&nbsp;</p>
+
+
+
+<p>From the sound of it, there’s even more brewing behind the scenes. SnowSwap told us that they have 5 major partners that they plan to reveal in the near future. So don’t be surprised to see new potential pools, tokenized assets and/or other developments coming soon. To be the first to hear about these new partnerships, we recommend you follow SnowSwap on the platform of your choice: <a href="https://discord.com/invite/CSSJTs4">Discord</a>, <a href="https://t.me/Snow_Swap">Telegram</a>, or <a href="https://twitter.com/snow_swap">Twitter</a>.</p>
+
+
+
+<p>If you haven’t already, we recommend you go <a href="https://snowswap.org/">check out SnowSwap</a> and see how its low slippage AMM design can offer you more convenience and utility.<br><br><br><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with SnowSwap to help educate and inform the community about their protocol. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DeFiner &#8211; Lending and Savings Powered by DeFi</title>
+		<link>./../../../2021/01/05/definer-lending-and-savings-powered-by-defi/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Tue, 05 Jan 2021 19:34:17 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Compound]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[definer]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[savings]]></category>
+		<category><![CDATA[stablecoins]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8812</guid>
+
+					<description><![CDATA[In traditional finance, leaner banking models without physical locations allowed online banks to cut costs and pass the benefits onto...]]></description>
+										<content:encoded><![CDATA[
+<p>In traditional finance, leaner banking models without physical locations allowed online banks to cut costs and pass the benefits onto the customer. Banking services built on decentralized networks like Ethereum can offer even more advantages by further reducing operational costs such as securing assets which would traditionally be held in custody. Non-custodial protocols like DeFiner allow users to access savings and loans anytime, anywhere with an internet connection putting you in control of your money.</p>
+
+
+
+<p><a href="https://definer.org/">DeFiner</a> is a non-custodial protocol which aims to be a better banking experience than traditional banks by making full use of the disruptive innovations happening in DeFi. Since its founding in 2018, DeFiner has gone on to <a href="https://www.finextra.com/pressarticle/79450/definerorg-wins-detroit-fintech-challenge/">win the Detroit Fintech Challenge in August 2019</a> and participated in the <a href="https://www.techstars.com/newsroom/announcing-the-inaugural-class-of-techstars-hub71-accelerator">Techstars Accelerator</a> and Microsoft Startup Program. Partnerships with both names from traditional tech firms like Microsoft and Consensus Labs as well as names from DeFi like Wyre and Kyber have helped DeFiner move closer towards its goal. DeFiner envisions a complete range of DeFi banking services starting with its first two products: peer-to-peer lending and DeFi savings.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://definer.org/"><img loading="lazy" width="1024" height="399" src="./../../../wp-content/uploads/2021/01/DeFiner_banner-01-1024x399.jpg" alt="" class="wp-image-8817" srcset="./../../../wp-content/uploads/2021/01/DeFiner_banner-01-1024x399.jpg 1024w, ./../../../wp-content/uploads/2021/01/DeFiner_banner-01-300x117.jpg 300w, ./../../../wp-content/uploads/2021/01/DeFiner_banner-01-768x299.jpg 768w, ./../../../wp-content/uploads/2021/01/DeFiner_banner-01-1536x599.jpg 1536w, ./../../../wp-content/uploads/2021/01/DeFiner_banner-01-2048x798.jpg 2048w, ./../../../wp-content/uploads/2021/01/DeFiner_banner-01-1568x611.jpg 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h2>DeFiner’s Taurus savings takes advantage of existing money legos</h2>
+
+
+
+<p>DeFiner <a href="https://blog.definer.org/taurus-launch">launched Taurus Savings Accounts</a> in late November 2020. Taurus Savings Accounts work similar to DeFi money markets you’re likely familiar with. You can deposit assets to earn interest or borrow against your collateral. While loans on the DeFiner protocol are overcollateralized, DeFiner takes advantage of existing DeFi protocols to offer its users borrowing and lending interest rates typically better than the industry average. You see DeFiner takes a portion of the collateral held in its reserves and lends it out on popular money markets like Compound or Maker to earn interest. In other words, DeFiner increases capital utilization to up to more than 85% to reduce the spread between borrowing and lending rates. </p>
+
+
+
+<p>It’s worth noting that while this does indeed lower the spread, it comes at the cost of added composability and economic risks. Imagine a scenario where the value of a collateral asset drops quickly or a bug is found and exploited and Compound is unable to cover existing debts. This in turn may mean DeFiner could also be left with insufficient collateral unable to cover existing debts.</p>
+
+
+
+<p>When things don’t go as planned, DeFiner allows borrowers to pay back their loans with their collateral. Triggering a self-liquidation sells your desired collateral at a 2% discount in order to cover your debt and avoid a forced liquidation, which bears a 5% collateral discount. Both discounted rates are designed to attract liquidators to participate in collateral auctions and ensure debts can reliably be covered in a timely manner.</p>
+
+
+
+<p>DeFiner protocol uses its native token FIN to reward its most active users as well as incentivize users to help meet demand in highly sought after lending markets like USDC and DAI. DeFiner protocol releases new FIN tokens via its Proof of Premium (POP) distribution mechanism. Proof of Premium verifies the premium the prover (lenders and borrowers) generated in a specified time interval. To sum up POP, the more capital committed by a user for longer time periods and higher interest rates results in more FIN tokens being rewarded through the POP mining mechanism. FIN token holders can vote on the follow four categories: lending platform changes (i.e. loan to collateral value ratios, transaction fees, etc.), determining how platform fees are distributed, determining the distribution of FIN token rewards, and electing the board of directors for the DeFiner Organization, a non-profit entity which maintains and promotes the growth of the DeFiner lending platform and community. Currently, 100% of transaction fees and 10% of all interest generated by loans on the DeFiner protocol are distributed to FIN token holders. Learn more about FIN token and Proof of Premium <a href="https://github.com/DeFinerOrg/whitepaper/wiki/DeFiner-Whitepaper#definer-token-fin-economy">here</a>.</p>
+
+
+
+<h2>Closing thoughts</h2>
+
+
+
+<p>Decentralized finance has been a series of innovations each one building on the next. That’s why it’s nice to see DeFiner exploring ways to utilize secondary money markets to improve its own money market for the benefit of its users. DeFiner plans to release a mobile app in the future. With the ever increasing popularity of mobile banking, this feels like a natural progression of DeFiner’s mission to reduce friction for users. <a href="https://twitter.com/definerorg">Follow DeFiner on Twitter</a> to keep up with the latest updates. And if you’re curious how DeFiner’s design impacts interest rates, we urge you to check out <a href="https://app.definer.org/">Taurus</a> and compare it to other popular lending platforms. Thanks for reading.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with DeFiner to help educate and inform the community about the DeFiner protocol. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>2020: Year in Review</title>
+		<link>./../../../2020/12/31/2020-year-in-review/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Thu, 31 Dec 2020 19:42:18 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[2020]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[features]]></category>
+		<category><![CDATA[releases]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[updates]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8804</guid>
+
+					<description><![CDATA[There’s no doubt that 2020 was a wild ride for everyone, especially for anyone involved in DeFi. When you look...]]></description>
+										<content:encoded><![CDATA[
+<p>There’s no doubt that 2020 was a wild ride for everyone, especially for anyone involved in DeFi. When you look back at the year, it’s honestly hard to wrap your head around how much things have changed in our community. There are so many projects that launched this year that have become core to the foundation of decentralized finance. Many new projects rose to fill the needs of the ecosystem and many more challenged our preconceived notions of what was thought possible or where DeFi was headed at the start of the year. To round out the year, we thought it would be best to take a moment to celebrate the Top Builders in DeFi of 2020 as nominated by you in our first ever community survey. </p>
+
+
+
+<h2>Top Builders in DeFi of 2020</h2>
+
+
+
+<p>Without further ado, here are the results:<br><br>Andre Cronje won DeFi&#8217;s MVP builder, engineer, and top project lead of 2020. Fellow YFI proponent Banteg came in second for the top engineer in DeFi of 2020.<br><br>Argent won the top UX/UI of 2020 with honorable mentions going to both DeFi Saver and Synthetix.<br><br>Ryan Sean Adams won DeFi&#8217;s top communications lead of 2020.<br><br>Anthony Sassano won DeFi&#8217;s top community manager of 2020.<br><br>As many guessed, Samczun won DeFi&#8217;s top white hat hacker and top auditor of 2020.</p>
+
+
+
+<p>Kudos to all of you and your hard work! DeFi wouldn’t be what it is today without your contributions!<br><br>Now on a more personal level, we’d like to highlight the ways we here at DeFi Pulse have grown in 2020.</p>
+
+
+
+<h2>DeFi Pulse Adapters</h2>
+
+
+
+<p>It feels like forever ago that we released the <a href="https://github.com/ConcourseOpen/DeFi-Pulse-Adapters">open source adapter framework</a> that now powers our metrics on the DeFi Pulse leaderboard in February 2020. In the past, we had to learn each project and code their adapters ourselves. This new framework allowed projects to collaborate with our team making the listing process faster and ensuring TVL metrics were measured accurately. This year alone we more than doubled the number of projects on DeFi Pulse, listing close to 40 new projects in 2020 (not including any updates to existing projects): <a href="https://defipulse.com/aave">Aave</a>, <a href="https://defipulse.com/alpha-homora">Alpha Homora</a>, <a href="https://defipulse.com/auctus">Auctus</a>, <a href="https://defipulse.com/balancer">Balancer</a>, <a href="https://defipulse.com/b.protocol">B.Protocol</a>, <a href="https://defipulse.com/c.r.e.a.m.-finance">C.R.E.A.M. Finance</a>, <a href="https://defipulse.com/c.r.e.a.m.-swap">C.R.E.A.M. Swap</a>, <a href="https://defipulse.com/cvault.finance">COREVault Finance</a>, <a href="https://defipulse.com/curve-finance">Curve Finance</a>, <a href="https://defipulse.com/defi-swap">DeFi Swap</a>, <a href="https://defipulse.com/definer">DeFiner</a>, <a href="https://defipulse.com/deversifi">DeversiFi</a>, <a href="https://defipulse.com/dfi.money">DFI.money</a>, <a href="https://defipulse.com/dforce">dForce</a>, <a href="https://defipulse.com/dodo">DODO</a>, <a href="https://defipulse.com/erasure">Erasure</a>, <a href="https://defipulse.com/flexa">Flexa</a>, <a href="https://defipulse.com/fortube">Fortube</a>, <a href="https://defipulse.com/gnosis">Gnosis</a>, <a href="https://defipulse.com/harvest-finance">Harvest</a>, <a href="https://defipulse.com/hegic">Hegic</a>, <a href="https://defipulse.com/idle-finance">Idle Finance</a>, <a href="https://defipulse.com/loopring">Loopring</a>, <a href="https://defipulse.com/matic-network">Matic Network</a>, <a href="https://defipulse.com/mcdex">MCDEX</a>, <a href="https://defipulse.com/metronome">Metronome</a>, <a href="https://defipulse.com/mstable">mStable</a>, <a href="https://defipulse.com/opium-network">Opium Network</a>, <a href="https://defipulse.com/opyn">Opyn</a>, <a href="https://defipulse.com/perlinx">PerlinX</a>, <a href="https://defipulse.com/pickle-finance">Pickle Finance</a>, <a href="https://defipulse.com/piedao">PieDAO</a>, <a href="https://defipulse.com/qian">QIAN</a>, <a href="https://defipulse.com/renvm">RenVM</a>, <a href="https://defipulse.com/robo-advisor-for-yield">Robo-Advisor for Yield</a>, <a href="https://defipulse.com/sushiswap">SushiSwap</a>, <a href="https://defipulse.com/swerve-finance">Swerve Finance</a>, <a href="https://defipulse.com/value-defi">Value DeFi</a>, and <a href="https://defipulse.com/yearn.finance">Yearn</a>.</p>
+
+
+
+<h2>Setting new records for Total Value Locked (TVL)</h2>
+
+
+
+<p>The total value locked (TVL) in DeFi grew exponentially during 2020. With more than $14B TVL currently, this was a year of massive growth across all DeFi categories. We saw the birth of dozens of new projects, the emergence of new ways of distributing ownership to the community, the consolidation of open orgs as a novel coordination system, and massive technological experimentation that brought tremendous innovation to DeFi. One can&#8217;t help but wonder what DeFi&#8217;s growth will be in 2021 and what new innovations we will witness. But one thing is for sure, though: these are still very early days, and we&#8217;re only beginning to see what the future of finance will look like.</p>
+
+
+
+<h2><img loading="lazy" src="https://lh3.googleusercontent.com/dMVfoTQwv0JVf-_X611Isx86nm_aTyYieJGC2i_bMFA6hCGOhPOcsT4lLG3E_AiRoc6t83_61_uu6jGEBjKJQqNdE_Dsb7Yt-Dq7y6MPCJgmORoCmEXCMoPRWdi-Gl5zqncapmNV" width="458" height="231"></h2>
+
+
+
+<p>It seems hard to believe that we were celebrating that the <a href="https://defipulse.com/blog/1-billion-tvl-in-defi/">(TVL) had hitted the $1B</a> mark for the first time less than one year ago.&nbsp;</p>
+
+
+
+<h2>DeFi Pulse Data</h2>
+
+
+
+<p>In April 2020, we<a href="https://defipulse.com/blog/see-the-bigger-picture-with-defi-pulse-data/"> released</a> <a href="https://data.defipulse.com/">DeFi Pulse Data</a> combining DeFi Pulse’s popular metrics with data from Concourse Open’s other popular services’ APIs like <a href="https://ethgasstation.info/">ETHGasStation</a>. Whether you’re writing a blog post analyzing DeFi or building an application that needs accurate gas prices from ETH Gas Station, any task benefits from the right information. We’ve been thrilled to see what the community has done with our data at their disposal.</p>
+
+
+
+<h2>DeFi Pulse Drops</h2>
+
+
+
+<p>We launched DeFi Pulse Drops, a promotional series where we partnered with projects to inform the community about their latest features, releases, and builds. All in all, we provided in-depth analysis of the following projects throughout 2020: <a href="https://defipulse.com/blog/futureswap/">Futureswap</a>, <a href="https://defipulse.com/blog/balancer-start-liquidity-mining-and-earn-bal-tokens-today/">Balancer</a>, <a href="https://defipulse.com/blog/mcdex/">MCDEX</a>, <a href="https://defipulse.com/blog/introducing-mstable/">mStable</a>, Rari Capital <a href="https://defipulse.com/blog/rari-capital/">v1</a> and <a href="https://defipulse.com/blog/rari-capital-v2/">v2</a>, <a href="https://defipulse.com/blog/aco/">Auctus</a>’s ACO, Akropolis’s <a href="https://defipulse.com/blog/delphi/">Delphi, Perpetual Protocol</a>, <a href="https://defipulse.com/blog/lien/">Lien</a>, Hakka’s <a href="https://defipulse.com/blog/3f-mutual/">3F Mutual</a>, <a href="https://defipulse.com/blog/dextf/">DEXTF</a>, <a href="https://defipulse.com/blog/deversifi-nectar-beehive-v1/">DeversiFi</a>, and <a href="https://defipulse.com/blog/harvest-finance-drop/">Harvest Finance</a>.</p>
+
+
+
+<h2>DeFi Pulse Farmer</h2>
+
+
+
+<p>This year’s most important trend within the DeFi space was, without a doubt, <a href="https://defipulse.com/blog/the-yield-farming-frenzy-and-its-impact-on-defi/">yield farming</a>. Ignited by the launch of the COMP governance token in June, farming developed into one of the key strategies most projects relied on to attract capital to their platforms. By distributing ownership of their protocols to the DeFi community via liquidity incentives in the form of governance tokens, projects grew the liquidity of their platforms exponentially, making the TVL break all-time highs consistently during most weeks of Q3 and Q4.<br><img loading="lazy" src="https://lh6.googleusercontent.com/ZmckhJ5sGa2qwaeDds0vUdEHjjJvKk1Rx1Fh4mK4frzcfO42WtTjPBbHMCTTkCjenkiOFIe2ImQKiCVd1I_Jwo3xrhjlP3W7cw6SCJzEl8EA_-6_Pz0i6Wo1PZjpsmZr--tl_-oS" width="624" height="112"></p>
+
+
+
+<p>In early August, we launched the <a href="https://yieldfarmer.substack.com/">DeFi Pulse Farmer newsletter</a> to extensively cover this massive trend and get to the heart of the most critical innovations in the space. Currently at edition #21, DeFi Pulse Farmer also offers premium subscribers access to the Alpha Tractor and Protocol Express series. You can <a href="https://yieldfarmer.substack.com/subscribe?utm_source=menu&amp;simple=true&amp;next=https%3A%2F%2Fyieldfarmer.substack.com%2F">sign up to DeFi Pulse Farmer here</a>.</p>
+
+
+
+<h2>DeFi Pulse Index</h2>
+
+
+
+<p>The <a href="https://www.indexcoop.com/dpi">DeFi Pulse Index</a> (DPI), a capitalization weighted index built on Set Protocol’s V2 infrastructure consisting of the most popular DeFi tokens available on Ethereum was<a href="https://defipulse.com/blog/defi-pulse-index/"> launched in September 2020</a>. DeFi Pulse Index was the first of its kind, an index of decentralized finance that wasn’t synthetic or a derivative but rather you own the underlying DeFi tokens and can redeem them using your DPI. Much like our Total Value Locked (TVL) metrics, we aimed to make DeFi Pulse Index a standard the community could stand behind. At the time of writing, DPI is the leading DeFi index token with 5769 holders and a market capitalization of over $25M.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh4.googleusercontent.com/ynAyW6qEsjl34s5yIgXBL5v8iL5vS51SntCYOaWKtALa0b965ZZwNLkFQ9ZG92h2TxqN1iJUS8woB6vuM0zNNT5FOFXfxhrynwy7tSFlB4D5aLa3VQJbQXeU15rBY_qB0mk4vJFf" alt=""/></figure>
+
+
+
+<h2>DeFi Pulse Economic Safety Grade</h2>
+
+
+
+<p>In October 2020, the <a href="https://defipulse.com/blog/introducing-the-defi-pulse-economic-safety-grade/">DeFi Pulse Economic Safety Grade was released in partnership with Gauntlet</a> and added to <a href="https://defipulse.com/compound">Compound</a> and <a href="https://defipulse.com/aave">Aave</a>’s project pages on DeFi Pulse. As the name implies, each Economic Safety Grade is a 1 to 100 grade that allows users to more easily quantify and compare the economic risks of using on-chain protocols. Grades are created by running simulations utilizing data from centralized and decentralized exchanges combined with on-chain user data to estimate market risks. For a more in-depth explanation of the simulation model, we recommend you read this <a href="https://medium.com/gauntlet-networks/understanding-risk-in-defi-f64574593979">blog post from Gauntlet</a>.</p>
+
+
+
+<h2>Bitcoin at Work</h2>
+
+
+
+<p>Marking the last major release for DeFi Pulse in 2020, our team <a href="https://defipulse.com/blog/introducing-bitcoin-at-work/">unveiled a new page </a>highlighting the use of Bitcoin in the DeFi ecosystem called <a href="https://defipulse.com/btc">Bitcoin at Work</a>. We worked with 10 different teams from all across the industry to support a wide variety of BTC tokens at launch including: WBTC, RENBTC, HBTC, sBTC, tBTC, imBTC, oBTC, acBTC, pBTC, and BTC++. Thanks again to the team’s who coordinated with us on this launch. Aside from recognizing the hard work and growth of this sector, we hope the metrics and information included in this new page will help DeFi users discover new possibilities and make more informed decisions.&nbsp;</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh6.googleusercontent.com/espfahPdgGdQCx3GUwVEmNd8Wv4-D10oKwYZAAF_pE0S4g1qx3acdEDloF_CNTh3_Nj3YCY9DwLT-2ZcPqAwaa9vnpw3Kzr1t75tegsI3h34BBXF8plgJjnVAB-cBAYxM0cEDbU6" alt=""/></figure>
+
+
+
+<p><a href="https://defipulse.com/btc"></a></p>
+
+
+
+<h2>Conclusion</h2>
+
+
+
+<p>Thank you to each and every one of you reading this. With all the flashy numbers and tech, it can be easy to forget that DeFi begins and ends with the people that make up this community. There would be no value, liquidity, or any other metrics to measure without the time and attention each one of us dedicates to building a brighter future together. Our team’s resolution for 2021 is to keep working with project communities to highlight the awesome work being done in this space with the platform we’ve been given by you. Thanks for reading and have a happy new year.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Vampire Mining and the SushiSwap Saga</title>
+		<link>./../../../2020/09/25/vampire-mining-and-the-sushiswap-saga/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2020 15:00:00 +0000</pubDate>
+				<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[amm]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[sushi]]></category>
+		<category><![CDATA[sushiswap]]></category>
+		<category><![CDATA[uni]]></category>
+		<category><![CDATA[Uniswap]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8567</guid>
+
+					<description><![CDATA[A vampire attack or “vampire mining” is a new term in DeFi popularized by SushiSwap’s aggressive migration incentives designed to...]]></description>
+										<content:encoded><![CDATA[
+<p>A vampire attack or “vampire mining” is a new term in DeFi popularized by SushiSwap’s aggressive migration incentives designed to pull liquidity from Uniswap.</p>
+
+
+
+<p>The strategy involves forking an already successful open-source fee-generating protocol, and where opportunities exist, making slight adjustments to better incentivize participants in the new protocol, encouraging the migration of already existing liquidity for essentially the same purpose.</p>
+
+
+
+<p><a href="https://uniswap.org/?gclid=Cj0KCQjwwOz6BRCgARIsAKEG4FVDaI7egyJ4cGSoT7Uc8xLy8Yfd-NFBh3AH8PXuhEGcW3H3pTkesjQaAiAPEALw_wcB">Uniswap</a> made a prime target as it was one of the largest decentralised protocols not to have some sort of governance token or fee distribution token at the time. Uniswap liquidity providers currently share 0.3% fees on all trades made within pools they have provided liquidity to, however the protocol has a <a href="https://uniswap.org/blog/uniswap-v2/">lever</a> that can be pulled that redirects 0.05% (16.7%) of this 0.3% fee into a funding pool supposedly for ecosystem development, though there are concerns from some members of the community that this would likely just line the pockets of Uniswap’s VCs instead.</p>
+
+
+
+<p>Thus <a href="https://sushiswapclassic.org/">SushiSwap</a> was born, an almost direct clone of Uniswap except with an additional protocol related token SUSHI. SUSHI acts as both a governance token and a yield token- always sharing between its holders the 0.05% of fees on trades that Uniswap can divert by activating its lever.</p>
+
+
+
+<p>This change also allows prior liquidity providers to continue to earn fees from the protocol even after withdrawing their liquidity from the SUSHI tokens they’ve earned- strongly rewarding early participants with the aim to bolster its community.&nbsp;</p>
+
+
+
+<p>SushiSwap’s “attack,” as some would call it, hinged on the fact that liquidity providers get Uniswap LP tokens for depositing liquidity in Uniswap’s pool- redeemable for their share of the pool at any time.</p>
+
+
+
+<p>SushiSwap capitalised on this by offering staking contracts where Uniswap LP tokens could be deposited to earn SUSHI tokens. The idea was to have a 2-week early distribution at an enhanced rate where 1000 SUSHI were split between stakers per block to attract a lot of LP tokens, before SushiSwap would mass migrate a tonne of Uniswap’s liquidity into its own pools by redeeming the staked Uniswap LP tokens and swapping staker’s Uniswap LP tokens 1 for 1 with SushiSwap SLP tokens, making them whole again in SushiSwap’s new pools. Trading would then begin and the protocol would continue to emit SUSHI to active liquidity providers at 10% of the early distribution rate.</p>
+
+
+
+<p>SushiSwap’s staking contracts and SUSHI distribution began on August 28th, causing a parabolic rise from about $280m to $1.8B of total value locked (TVL) in Uniswap over 11 days, before the migration occurred a couple of days early on September 8th, causing about $800m of liquidity to be instantly drained to SushiSwap, with Uniswap’s TVL plunging back to ~$400m.</p>
+
+
+
+<p>Interestingly, this is still higher than Uniswap’s TVL prior to SushiSwap. So despite concerns that SushiSwap could have spelled the end for Uniswap, the whole debacle still seems to have been of net benefit to the protocol.</p>
+
+
+
+<p>Another point of debate was whether liquidity providers would remain with SushiSwap once the post-migration rewards fell to 100 SUSHI per block or correct back to the more trusted and time-tested Uniswap.</p>
+
+
+
+<p>Whilst the initial distribution was going on, Chef Nomi (SushiSwap’s anonymous founder) withdrew the entirety of the dev pool- $7m of eth and ~2.5m SUSHI which they sold for ~$6m of Eth on Saturday 5th, making away with around $13m of ETH profit despite early promises not to, causing SUSHI to decline in price and leaving the community in doubt of the future. Chef Nomi however pledged to continue to support the project’s development.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/nFBb9rskxUfBDSK1cJAwaIY7KrYSY2PwNqUUfn4wOTUJ_Hlxie6OCnT1dxIB6Aoq0-Yu01xPABTLPXvs-pQ9wZbAHJHC0X2audCV1IbSbu6dkpwuaLj691e4DAzbwpcUyKnwYqxM" alt=""/></figure>
+
+
+
+<p>A day later they rescinded his commitment and gave control of SushiSwap to the CEO of FTX Sam Bankman-Fried.</p>
+
+
+
+<p>&nbsp;In a final twist, Chef Nomi returned all ~$14m of ETH back to SushiSwap’s treasury on September 11th.</p>
+
+
+
+<p>Since then, the community has successfully migrated liquidity to SushiSwap and continued forward with the project, though with everything going on SUSHI has unsurprisingly seen some significant price volatility.</p>
+
+
+
+<h3>Is this the start of a trend?</h3>
+
+
+
+<p>SushiSwap’s aggressive liquidity migration from Uniswap might have been the first significant example of a “vampire attack”, but it bears considering it will probably not be the last.</p>
+
+
+
+<p>Any protocol where capital is free to leave easily and can be better incentivized to perform a similar function in another protocol is at risk. In particular protocols that are “simpler” in functionality and that rely more on their own smart contracts and platform to provide their service over being highly integrated with other projects (possessing stronger network effects) are at higher risk.</p>
+
+
+
+<p>Uniswap made such a great target precisely because copying the project is largely as simple as copying its smart contracts, and the main requirement for a successful liquidity platform is sufficient liquidity, which as this whole saga has shown can clearly be (at least temporarily) incentivized.</p>
+
+
+
+<p>All done and said, it&#8217;s definitely going to be interesting to watch how SushiSwap and Uniswap continue to co-exist (or not) over the next few months.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Lien &#8211; Governance-less ETH Options and Stablecoins</title>
+		<link>./../../../2020/09/05/lien/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sat, 05 Sep 2020 15:12:51 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[lien]]></category>
+		<category><![CDATA[options]]></category>
+		<category><![CDATA[options trading]]></category>
+		<category><![CDATA[stablecoins]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8535</guid>
+
+					<description><![CDATA[In the background of all the DeFi and yield farming commotion, stablecoins have been booming. DAI, USDC, USDT, and countless...]]></description>
+										<content:encoded><![CDATA[
+<p>In the background of all the DeFi and yield farming commotion, stablecoins have been booming. DAI, USDC, USDT, and countless others have been pouring into DeFi. While it is great to have so many options, each stablecoin has its trade-offs which users must consider. For some, the centralization risk of stablecoins like USDC are simply too great; they desire a stablecoin that is truly decentralized.</p>
+
+
+
+<p><a href="https://lien.finance/">Lien</a>, brought to you by an anonymous team of developers, has a solution for these folks: stablecoins backed by ETH derivatives with &#8220;governance-less&#8221; design which requires no over-collateralization and no manual adjustments to maintain the pegged exchange rate.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://lien.finance/"><img loading="lazy" width="1024" height="341" src="./../../../wp-content/uploads/2020/09/LienBannerWoTagline-1024x341.png" alt="" class="wp-image-8550" srcset="./../../../wp-content/uploads/2020/09/LienBannerWoTagline-1024x341.png 1024w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline-300x100.png 300w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline-768x256.png 768w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h2>Lien Protocol and iDOL</h2>
+
+
+
+<p>Lien Protocol powers a stablecoin called iDOL backed by ETH derivatives which allows it to utilize tranches or &#8220;tranching&#8221; to maintain stability.  iDOL is designed to be insensitive to the fluctuations in the USD price of ETH, minimizing the volatility by having speculators insure the risk. Instead of being directly backed ETH requiring over-collateralization to maintain its peg, iDOL is backed by a basket of bond tokens.</p>
+
+
+
+<p>Lien uses a system where ETH is tranched into two derivative contract tokens: Liquid Bond Token (LBT) and Solid Bond Token (SBT). These two bond tokens are minted at the same time with the same strike price and maturity date. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="534" src="./../../../wp-content/uploads/2020/09/Selection_396-1-1024x534.jpg" alt="" class="wp-image-8541" srcset="./../../../wp-content/uploads/2020/09/Selection_396-1-1024x534.jpg 1024w, ./../../../wp-content/uploads/2020/09/Selection_396-1-300x156.jpg 300w, ./../../../wp-content/uploads/2020/09/Selection_396-1-768x400.jpg 768w, ./../../../wp-content/uploads/2020/09/Selection_396-1.jpg 1310w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Upon maturity, SBT holders receive a fixed dollar amount (if possible) and then any remaining ETH is given to the LBT holder. If the price of ETH upon maturity is lower than the strike price, then the smart contract will pay out the entire ETH to the SBT holder and the LBT holder will receive nothing. In this way, LBT holders take on the brunt of the risk through speculation.</p>
+
+
+
+<h3>Let&#8217;s examine Lien Protocol in action</h3>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="552" src="./../../../wp-content/uploads/2020/09/Selection_397-1024x552.jpg" alt="" class="wp-image-8543" srcset="./../../../wp-content/uploads/2020/09/Selection_397-1024x552.jpg 1024w, ./../../../wp-content/uploads/2020/09/Selection_397-300x162.jpg 300w, ./../../../wp-content/uploads/2020/09/Selection_397-768x414.jpg 768w, ./../../../wp-content/uploads/2020/09/Selection_397.jpg 1034w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>This diagram above can be a bit confusing at first glance but it is simpler than you think once explained. First, you deposit ETH into Lien&#8217;s smart contracts which then splits or &#8220;tranches&#8221; ETH into SBT and LBT that have the same maturity and strike price. The SBT is sent to the iDOL smart contract and used as collateral to mint iDOL. At this point, you hold the LBT and the freshly minted iDOL which can be used and spent like other stablecoins. </p>
+
+
+
+<p>As the maturity date approaches, the SBT is auctioned off for iDOL by the protocol. Once it reaches maturity, the smart contract will pay out to the SBT holder,&nbsp;the dollar amount that the holder is entitled to in ETH. And then, the smart contract pays any remaining ETH to you as the LBT holder. As previously mentioned, LBT holders risk receiving nothing if the price of ETH is below the strike price upon maturity.</p>
+
+
+
+<h3>What makes Lien and iDOL special?</h3>
+
+
+
+<p>Instead of relying on over-collateralization, iDOL is backed by a basket of SBTs, each with their own maturity date, placing the brunt of risk on those speculating on the value of LBTs. As their <a href="https://lien.finance/pdf/iDOLWP_v1.pdf">whitepaper</a> so eloquently puts it: <em>&#8220;The stability of the SBT value is based upon the instability of the LBT value. That is, all the risks related to the price volatility of Ether are undertaken by the LBT holder, which then makes the value of SBT stable. We can think of LBT as a leveraged derivative token, the value of which is associated with Ether but fluctuates much more than Ether.&#8221;</em></p>
+
+
+
+<p>Lien Protocol has placed a buffer of sorts between iDOL holders and the volatility of ETH and the wider market. The system can automatically stabilize the price of SBT and subsequently iDOL at target levels using market forces alone without the need for governance.</p>
+
+
+
+<p>For those bullish on ETH, LBT functions like a call option on ETH that performs as a 2x leveraged ETH token. This allows you to create leveraged long positions by holding LBT. As with call options, you don’t have to worry about margin calls and liquidation during flash crashes.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="700" height="465" src="./../../../wp-content/uploads/2020/09/lien-diagram.png" alt="" class="wp-image-8536" srcset="./../../../wp-content/uploads/2020/09/lien-diagram.png 700w, ./../../../wp-content/uploads/2020/09/lien-diagram-300x199.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
+
+
+
+<h2>Lien FairSwap</h2>
+
+
+
+<p>Lien FairSwap is an AMM DEX which takes inspiration from Uniswap and attempts to mitigate some of the disadvantages of its design. FairSwap has built-in front-running protection which ensures transactions are settled in &#8220;a fair manner&#8221; by taking advantage of a frequent batch auction mechanism. FairSwap doesn&#8217;t process orders one by one and instead batches orders across a few blocks, called an &#8220;exchange box,&#8221; and then clears them all simultaneously.</p>
+
+
+
+<p>FairSwap provides liquidity for iDOL-related derivative tokens like SBT and LBT. Unlike iDOL&#8217;s smart contracts, FairSwap&#8217;s parameters can be modified after launch. To learn more about FairSwap, I recommend you check out the <a href="https://lien.finance/pdf/LienFairSwapWP_v1.pdf">whitepaper</a>.</p>
+
+
+
+<h2>LIEN token</h2>
+
+
+
+<p>As previously mentioned, Lien Protocol is designed to operate autonomously and &#8220;governance-free.&#8221; And so, LIEN token is not your typical governance token. LIEN can be considered a utility token that can be used to receive discounts/rebates on protocol fees. </p>
+
+
+
+<p>The Lien Protocol charges a fee (0.2%) when users mint the iDOL stable coin and when users exchange assets using FairSwap (0.3% &#8211; variable). Fees are collected in ETH or iDOL and are then distributed proportionally to holders of the Lien Token as discounts/rebates at the end of each month. 100% of Lien Protocol fees and 20% of FairSwap fees are attributed to Lien Token holders. <a href="https://medium.com/lien-finance/lien-token-metrics-f9e7bae3e407">See here for more info about LIEN.</a></p>
+
+
+
+<h2>Closing thoughts</h2>
+
+
+
+<p>Each and every week I get the pleasure of diving into new protocols and Lien Protocol did not disappoint. I can easily see how iDOL fulfills many people&#8217;s desire for a stablecoin without centralization or governance risk. I&#8217;d be curious to see down the line if there is an iGBP or iJPY because while iDOL is based on the dollar the system can be applied to other assets with sufficient oracles and market forces.</p>
+
+
+
+<h3>Lien Protocol and FairSwap are live on mainnet</h3>
+
+
+
+<p><strong>Although the Lien team is completely anonymous, special attention has been paid to smart contract security by the Lien team with initial code audits perform by <a href="https://diligence.consensys.net/audits/2020/05/lien-protocol/">ConsenSys Dilligence</a> in May and final code audits performed by <a href="https://certificate.certik.org/reports/lien_finance.pdf">CertiK</a>. </strong>To give you an even better idea of their mindset, the Lien team even imparts users with these wise words in<a href="https://medium.com/lien-finance/lien-apps-go-live-on-ethereum-mainnet-2b16cb28a5bf"> their launch post</a>: &#8220;<em>While audits are extremely important in assessing the validity and security of the code, they do not eliminate risks completely.&#8221;</em></p>
+
+
+
+<p><strong>Lien Protocol and FairSwap are live as of Friday Sept 4th, 2020.</strong> Head over to <a href="https://app.lien.finance/">Lien.finance</a> where you can trade LBT, mint iDOL, bid on SBT auctions, provide liquidity, and more today! </p>
+
+
+
+<p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve been paid by Lien Protocol to inform readers about their platform and iDOL. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
