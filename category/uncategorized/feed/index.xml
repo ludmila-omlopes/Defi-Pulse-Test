@@ -109,6 +109,122 @@
 		
 			</item>
 		<item>
+		<title>Founder Fireside Chat with Ryan Garner of Tracer</title>
+		<link>./../../../2021/04/09/founder-fireside-chat-with-ryan-garner-of-tracer/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 09 Apr 2021 14:56:20 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[lionsmane]]></category>
+		<category><![CDATA[tracer]]></category>
+		<category><![CDATA[tracerdao]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9088</guid>
+
+					<description><![CDATA[The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Tracer-Header.png" alt="" class="wp-image-9089" width="1024" height="512" srcset="./../../../wp-content/uploads/2021/03/Tracer-Header.png 1024w, ./../../../wp-content/uploads/2021/03/Tracer-Header-300x150.png 300w, ./../../../wp-content/uploads/2021/03/Tracer-Header-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-medium-font-size"><em>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity to better understand their perspective and what drives them to build their vision.</em></p>
+
+
+
+<p class="has-medium-font-size">Welcome back! This week we had the opportunity to chat with Ryan Garner, Ex-Augur architect, whose dev team <a href="https://lionsmane.dev/">Lion&#8217;s Mane</a> is partnering with <a href="https://tracer.finance/">Tracer DAO</a> to build innovative financial tools for the future of finance.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q1-1.png" alt="" class="wp-image-9026" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size">We are building a protocol for creating financial protocols. We refer to this financial protocol generator as the Tracer Factory. While a few existing platforms allow holders of their governance token to vote on what the developers do next including creating new financial protocols, Tracer is fundamentally different. The Tracer Factory allows anyone to create their own financial protocol with the rules they desire and install it into the Factory. </p>
+
+
+
+<p class="has-medium-font-size">Additionally, the deployment of new financial contracts does not require any developer skills, and is free except for the unavoidable transaction fee. Because Tracer’s Factory is a metaprotocol that is free to use, it is a gift to the world granting broad access to financial tools of equal and better quality than all existing platforms, with reduced overhead cost. This decimates the ability of existing platforms to rent seek. Additionally, we are different in our commitment to decentralisation. </p>
+
+
+
+<p class="has-medium-font-size">For Tracer,<strong> governance is not an afterthought that comes years after launch like most products, nor is it simply a way for stakers to signal what they request the core developers to do</strong>. Tracer is fully autonomous and decentralised from genesis, and control over governance was claimed by random community members. This governance has the power to start or stop paying any development team and those teams have no control over the Tracer project any more than these pseudonymous governors allow. </p>
+
+
+
+<p class="has-medium-font-size">Governance will vote to expand the capability of the Factory and fund the development of user interfaces and growth of the ecosystem. Because Tracer has not received funding, there are no angel investors pressuring Tracer to rent-seek or to have any part of the system be proprietary.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">If it were only possible to have a single peer-to-peer protocol, that protocol would ideally have security equal to the value it secures while being as decentralised as possible while being barely affordable for the average user due to limited scalability. </p>
+
+
+
+<p class="has-medium-font-size">However, this question is based on a false trilemma by implying that such a choice is up to peer-to-peer protocol developers. This choice belongs to users, and their varied preferences will eventually result in many protocols each tailored to the users needs with all protocols efficiently bridged together. </p>
+
+
+
+<p class="has-medium-font-size"><strong>We hope that one day such a question will be irrelevant to ask a developer of a protocol.</strong> To that end we are developing a protocol factory; one that allows community members to create custom financial protocols without approval, effort, or funding that can each handle this trilemma in their own way. </p>
+
+
+
+<p class="has-medium-font-size">Additionally, each of these financial protocols will be compatible with an array of distributed ledgers that likewise handle this trilemma in ways the users prefer.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q3-1.png" alt="" class="wp-image-9031" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size"><strong>Insurance.</strong> The ability for users of DeFi to lose a small percent of their holdings per year in exchange for <strong>being guaranteed they will not lose their locked funds to protocol failure or system exploits will allow a lot more capital to flow into the fringes of DeFi</strong> where there are more experimental and dangerous ideas, that have a greater chance of creating fundamental and powerful innovation.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q4-1.png" alt="" class="wp-image-9032" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size"><strong>When you look closely, many DeFi projects are a jumble of copied assumptions, code, and methodologies that were never looked at closely from first principles. </strong>When a project is first to market but makes inefficient code, unoptimised formulas, overly cautious design decisions and has system, accounting and operating procedures that are not intuitive…. but seems to be functioning, its surprising how virtually all other DeFi projects will just copy these things with a “if it works, don’t fix it” mentality. </p>
+
+
+
+<p class="has-medium-font-size">As a development team, Lion’s Mane has been tempted by this way of thinking, but in each case, have been better off changing our mind, backtracking and spending more time. While the creators of existing projects may be experts in their field, we believe in the words of Richard Feynman: “I define science another way: Science is the belief in the ignorance of experts&#8221;. </p>
+
+
+
+<p class="has-medium-font-size"><strong>The more innovative something is, the more it strikes at the fundamentals and questions first principles. </strong>These are especially important when you are trying to generalise a protocol that others have managed to rig together for a specific use case.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="664" src="./../../../wp-content/uploads/2021/04/elon-doge-1-1024x664.png" alt="" class="wp-image-9118" srcset="./../../../wp-content/uploads/2021/04/elon-doge-1-1024x664.png 1024w, ./../../../wp-content/uploads/2021/04/elon-doge-1-300x195.png 300w, ./../../../wp-content/uploads/2021/04/elon-doge-1-768x498.png 768w, ./../../../wp-content/uploads/2021/04/elon-doge-1.png 1300w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-medium-font-size">This meme sent DOGE up more than 5x and is now causing the SEC to investigate if it is illegal to tweet a picture of a dog LOL.</p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-very-light-gray-background-color has-very-light-gray-color is-style-wide"/>
+
+
+
+<p class="has-medium-font-size">Thank you to Ryan for taking the time to speak with us. You can find Ryan on Twitter at&nbsp;<a href="https://twitter.com/imkharn">@imkharn</a>. You can learn more about <a href="https://lionsmane.dev/">Lion&#8217;s Mane</a> and <a href="https://tracer.finance/">Tracer</a> by following their respective Twitters at&nbsp;<a href="https://twitter.com/lionsmane_eth">@lionsmane_eth</a> and <a href="https://twitter.com/tracer_finance">@tracer_finance</a>. There&#8217;s also <a href="https://discord.gg/vmVphbCG">Tracer&#8217;s Discord</a> for those looking to jump in the action.</p>
+
+
+
+<p class="has-medium-font-size">And&#8230; <strong>Thank you for reading.&nbsp;</strong>We’d love to hear your thoughts on the series like, for example, which DeFi founders you’d like to see highlighted in the future.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Founder Fireside Chat with Mervyn Chng of Unagii</title>
 		<link>./../../../2021/04/02/founder-fireside-chat-with-mervyn-chng-of-unagii/index.html</link>
 		
@@ -393,8 +509,7 @@
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
 		<pubDate>Sun, 21 Feb 2021 19:55:00 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<category><![CDATA[Explainers]]></category>
+				<category><![CDATA[Explainers]]></category>
 		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[dai]]></category>
 		<category><![CDATA[lending]]></category>
@@ -611,8 +726,7 @@
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
 		<pubDate>Sun, 13 Dec 2020 21:59:09 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<category><![CDATA[Protocol]]></category>
+				<category><![CDATA[Protocol]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[aggregator]]></category>
@@ -969,241 +1083,6 @@
 
 
 <p>In addition to the removal of REP, DPI has decreased its weighted allocations in MKR, YFI, KNC, REN, and LRC. DPI has increased its weighted allocation of COMP, SNX, AAVE, and BAL. <strong>DPI will be rebalanced as part of the Reconstitution Phase on December 1, 2020.</strong> You can also view more information about DPI and its underlying tokens on <a href="https://www.indexcoop.com/dpi">here</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>DEXTF &#8211; Permissionless, Oracle-less Asset Management for Everyone</title>
-		<link>./../../../2020/11/01/dextf/index.html</link>
-		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 01 Nov 2020 20:00:07 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[Assets]]></category>
-		<category><![CDATA[DeFi]]></category>
-		<category><![CDATA[ETF]]></category>
-		<category><![CDATA[fund]]></category>
-		<category><![CDATA[token]]></category>
-		<category><![CDATA[trading]]></category>
-		<guid isPermaLink="false">https://defipulse.com/blog/?p=8640</guid>
-
-					<description><![CDATA[DeFi projects exist on a spectrum of decentralization. Trustlessness is at the heart of decentralization. But the word ‘trustlessness’ in...]]></description>
-										<content:encoded><![CDATA[
-<p>DeFi projects exist on a spectrum of decentralization. Trustlessness is at the heart of decentralization. But the word ‘trustlessness’ in itself is almost an oxymoron because trust is almost never eliminated from the equation but instead is simply shifted from one counterparty to another. The goal is to minimize the required trust in the pursuit of trustlessness. Even our most trustless examples of smart contracts still require a certain amount of trust that the blockchain infrastructure it is built on will continue to function properly. Additionally, there are internal economic and smart contract security risks in DeFi platforms themselves. Looking beyond that, DeFi platforms face external risks like composability with other protocols and even further out is oracle integrity and off-chain infrastructure.&nbsp;</p>
-
-
-
-<p>Adding complexity typically comes with a wider attack surface for smart contracts. Many recent hacks have been caused by oracle manipulation. By simplifying the process of non-custodial asset management, you’re able to limit the attack surface of the average user. This is the guiding principle of DEXTF, permissionless non-custodial oracle-less fund management infrastructure. <a href="http://dextf.com/">DEXTF</a> enables digital-native funds where two parties, the portfolio manager and the investor, which are mutually distrusting of each other can cryptographically verify the status of the funds and enforce their rights directly through a digital wallet.</p>
-
-
-
-<h1>What is DEXTF?</h1>
-
-
-
-<p>DEXTF is an asset management protocol that allows anyone to create, mint, and redeem XTF funds. At present, DEXTF <a href="https://docs.dextf.com/documentation/faq/supported-tokens">supports 44 different assets</a> and funds are soft-limited to 10 tokens although this limit can be changed. The ticker symbol and asset weights are determined by the fund manager when creating the fund. Each XTF fund is an ERC20 token with its own address and contract allowing users to hold, trade, redeem and utilize XTF fund tokens like any other token.</p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-medium is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/11/DEXTF-logo-300x288.png" alt="" class="wp-image-8694" width="300" height="288" srcset="./../../../wp-content/uploads/2020/11/DEXTF-logo-300x288.png 300w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-1024x985.png 1024w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-768x738.png 768w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-1536x1477.png 1536w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-2048x1969.png 2048w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-1568x1508.png 1568w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
-
-
-
-<h1>What makes DEXTF unique?</h1>
-
-
-
-<p>The DEXTF team spotted a gap in the DeFi ETF space for an easy, accessible way for anyone to create and manage funds in DeFi. They sought to create simple and efficient asset management infrastructure that followed the team’s philosophy that only the bare minimum of logic should be on chain. DEXTF does not rely on oracles. The risk of manipulation present in complex oracle or rebalancing mechanisms tends to result in the use of admin keys in order to respond in a timely manner to attacks or exploits. The DEXTF team is skeptical that any protocol with these mechanisms can truly eliminate the need for these admin keys and subsequently the risk of capture these keys pose to the protocol. With DEXTF, there are no oracles to manipulate that can be used to steal or drain the fund; XTFs can only be minted with or redeemed for their underlying weight of tokens.&nbsp;</p>
-
-
-
-<p>DEXTF simply provides a permissionless way to mint new XTF tokens and relies solely on arbitrage and market forces for fund pricing. While only so much logic can be programmed into a smart contract, a community of properly incentivized stakeholders can be the strongest and smartest solution to many problems. Ultimately, reducing ETFs to their simplest form makes XTFs simpler to utilize in a way that is reminiscent of the highly modular design philosophy of UNIX. DEXTF can almost be thought of as a trust-minimized set of building blocks that creates economic incentives and opportunities for the community to be rewarded for taking up each role in the ecosystem.</p>
-
-
-
-<h1>How the DEXTF ecosystem functions</h1>
-
-
-
-<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/10/streamline-icon-coin-jigsaw-2@140x140-1.png" alt="" class="wp-image-8649" width="140" height="140"/></figure></div>
-
-
-
-<p>Let’s break down the four roles in the DEXTF ecosystem to understand how they fit together to create highly liquid XTF token funds that are redeemable for their underlying assets. Investors, fund managers, and liquidity providers are eligible to receive ecosystem rewards for participating but we’ll cover that more later on. The team is also planning to add rewards for arbitrageurs.</p>
-
-
-
-<h2>Investors</h2>
-
-
-
-<p>Those looking to invest in XTF fund tokens can buy existing fund tokens listed on decentralized exchanges like Uniswap. Alternatively, you can mint more XTF fund tokens by providing the underlying tokens although this costs more in gas fees. If you do not have them already, you can purchase the required tokens from Kyber right inside the <a href="https://dapp.dextf.com/">DEXTF interface</a> after selecting your desired fund. I recommend taking a look at DEXTF’s <a href="https://drive.google.com/file/d/1nU7ZrFqjWlPT1AYbdx4mYcT84wLy8jmv/view">video tutorials</a> to see how the fund investment process works.</p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://dapp.dextf.com/"><img loading="lazy" src="./../../../wp-content/uploads/2020/10/Selection_450-1-1024x576.jpg" alt="" class="wp-image-8662" width="768" height="432"/></a></figure></div>
-
-
-
-<h2>Fund Managers</h2>
-
-
-
-<p>The process of creating XTF funds is designed to be simple and self-service. The idea is to promote decentralization by giving anyone the ability to freely and easily <a href="https://dapp.dextf.com/">create funds with idle tokens</a>.&nbsp;</p>
-
-
-
-<p><strong>Anyone can create a fund in 4 easy steps:</strong></p>
-
-
-
-<ol><li>Click the ‘Create Fund’ button and select your fund’s name and ticker symbol</li><li>Select which assets to include in your fund and the weight of each asset</li><li>Assign a risk rating and add a description to your fund</li><li>Finally, launch your fund on the blockchain</li></ol>
-
-
-
-<p>Yet again, I recommend taking a look at DEXTF’s <a href="https://drive.google.com/file/d/1nU7ZrFqjWlPT1AYbdx4mYcT84wLy8jmv/view">video tutorials</a> to see for yourself how it works.</p>
-
-
-
-<p>As of this writing, fund managers are currently able to choose from <a href="https://docs.dextf.com/documentation/faq/supported-tokens">44 different assets</a> with a soft limit of 10 assets wrapped around a single XTF token fund (this limit can be changed) but the DEXTF team plans to gradually expand the list of supported assets. You’ll even be able to create a fund consisting of other XTF fund tokens eventually. The DEXTF team also plans to continue adding new features like fund management fees and new asset types including real world assets such as equity, debt, and options.</p>
-
-
-
-<h2>Liquidity Providers</h2>
-
-
-
-<p>In order for new investors to be able to purchase XTF funds from a DEX, existing XTF fund token holders must provide liquidity. Fund managers and investors can take newly minted XTF tokens and create a pool on Uniswap to earn trading fees and liquidity mining rewards. Liquidity providers are important for ensuring smaller investors can efficiently enter and exit XTF funds while arbitrageurs are able to effectively take advantage of opportunities to drive XTF fund prices in the market.</p>
-
-
-
-<h2>Arbitrageurs</h2>
-
-
-
-<p>As previously mentioned, DEXTF’s oracle-less design relies on market forces to fairly price XTF funds. When the price of an XTF fund token differs from the value of its underlying assets, it’s up to arbitrageurs to seize the opportunity, balancing out price inefficiencies in the market. For example, an arbitrageur that spots an XTF token that is overvalued on Uniswap can provide the underlying tokens to mint and sell new XTF tokens. This action rewards the arbitrageur with profit for keeping the XTF fund properly priced and also pays trading fees to the pool’s liquidity providers. Arbitrageurs are vital to the DEXTF ecosystem because they indirectly provide price information to the protocol through their actions which eliminates the need for the oracle. To reward their participation, DEXTF is planning to provide ecosystem rewards to arbitrageurs soon.</p>
-
-
-
-<h1>DEXTF Governance Token and Ecosystem Rewards</h1>
-
-
-
-<p>DEXTF is an ERC20 token created to govern the DEXTF protocol. DEXTF tokens can be used to vote on proposals for potential protocol changes including the adjustment of system parameters like management fee factors or interest rate algorithms. DEXTF holders may also delegate their voting power to another address or delegate who may propose, vote on, and execute proposals on their behalf.</p>
-
-
-
-<p>Additionally, the distribution of DEXTF tokens has been designed to reward network participants for performance, liquidity, volume and other interesting metrics in an effort to increase adoption of the DEXTF Dapp and XTF token funds.</p>
-
-
-
-<p><img loading="lazy" src="https://lh6.googleusercontent.com/hVAdkELzRHVejxtxsGI9rRL0GfjKZbQq9IA2jpw2sV-1fR-7CyNr4OdJ7ODtftRPn4QBzRHmTdkhqIQ2UuIunExFcexO9S9p4tzIPIINxjDDcQ1zaDEaO2KpbBsYUsD0hme14Grc" width="624" height="348"></p>
-
-
-
-<h2>DEXTF Rewards</h2>
-
-
-
-<p>DEXTF Rewards fall into three categories: Monthly Incentive Program (for Fund Managers and Investors), Milestone-based Incentive Program (for Fund Managers) and Liquidity Mining Incentive Program (for any user). These rewards are to be distributed over a 5 year period to encourage long-term adoption.<br><br>Users are eligible to receive DEXTF rewards for performing the following actions:</p>
-
-
-
-<h3>Launch a new XTF fund token&nbsp;</h3>
-
-
-
-<p>You can receive DEXTF tokens for launching new XTF fund tokens by selecting the underlying assets and relative weights. 17,000,000 DEXTF tokens or 17% of the total supply is reserved for monthly incentives for being one of the top funds, top new funds, and top performing new funds.</p>
-
-
-
-<p>5,000,000 DEXTF or 5% of the total supply is set aside for Milestone Incentives, more specifically for the first funds to cross certain milestones. Learn more details about <a href="https://medium.com/dextf/intro-to-dextf-tokenomics-and-governance-aa0b620d959d">DEXTF incentives</a>.</p>
-
-
-
-<p>It’s worth noting that when you take your idle tokens and launch your own fund, you’re competing to win a ratio of DEXTF rewards relative to the total. You can find the list of supported tokens <a href="https://docs.dextf.com/documentation/faq/supported-tokens">here</a>.</p>
-
-
-
-<h3>Minting of XTF fund tokens</h3>
-
-
-
-<p>You can receive DEXTF tokens for either minting XTF fund tokens via in kind contribution of the underlyings or through KyberSwap (except for tokens that are currently not supported by Kyber itself in which case a link to Paraswap will be provided to secure the missing tokens). 3,000,000 DEXTF or 3% of the total supply is set aside for Investors’ Monthly Incentives. The top 20 investors are eligible to receive a share of these rewards each month.</p>
-
-
-
-<h3>Liquidity Mining</h3>
-
-
-
-<p>You can receive DEXTF tokens for providing liquidity to the whitelisted Uniswap pools with XTF pairings. Out of the total  25,000,000 of all DEXTF tokens reserved for liquidity miners, 30% of it are reserved for the DEXTF/ETH pool LPs while the remaining 70% or 17,500,000 DEXTF are distributed across all other pools proportionally to the size of each pool in USDT terms. You can contact the DEXTF team at <a href="mailto:request@dextf.com">requests@dextf.com</a> to request a pool be whitelisted.</p>
-
-
-
-<h3>Distribution Schedule</h3>
-
-
-
-<div class="wp-block-image"><figure class="alignleft size-large"><img loading="lazy" width="140" height="140" src="./../../../wp-content/uploads/2020/10/streamline-icon-hourglass-coins@140x140.png" alt="" class="wp-image-8653"/></figure></div>
-
-
-
-<p>Monthly Incentive Program rewards are streamed daily to a unique smart contract, starting from the end of term plus 1 day. Terms start on 15th of the month and ends on the 14th of following month. DEXTF liquidity mining rewards are streamed every block. Reward tokens are claimable in full only after 30 days. Liquidity providers receive a 10% bonus reward in DEXTF for staying for the full term.</p>
-
-
-
-<p>For example, let’s say you started providing liquidity on November 15th and continued to do so for one month (so until December 14th), then you would only fully receive the rewards for that month of providing liquidity until January 15th, 2021.</p>
-
-
-
-<p>See here for the <a href="https://medium.com/dextf/liquidity-mining-program-update-bca33057befe">latest update regarding the liquidity mining program</a>.</p>
-
-
-
-<h1>What’s next for DEXTF?</h1>
-
-
-
-<div class="wp-block-image"><figure class="alignright size-large"><img src="./../../../wp-content/uploads/2020/10/streamline-icon-saving-increase-2@140x140-1.png" alt="" class="wp-image-8651"/></figure></div>
-
-
-
-<p><a href="https://medium.com/dextf/what-are-structured-tokens-introducing-dexsts-b87474cba078">Decentralized Structured Tokens</a> (DEXSTs) are hybrid tokens with adjustable risk-return profiles, better suited to express non-linear market views. DEXSTs can utilize yield generating assets, derivatives, synthetics, and options from many different DeFi projects. Incorporating these sophisticated assets allows DEXSTs to take advantage of more opportunities in the market and allows their creators to adjust the risk-return profile to cater to a variety of market views.&nbsp;</p>
-
-
-
-<h2>Capital Protected Structured Token (CPST)</h2>
-
-
-
-<p>The first Decentralized Structured Token (DEXST) is a <a href="https://medium.com/dextf/what-are-structured-tokens-introducing-dexsts-b87474cba078">Capital Protected Structured Token (CPST)</a> for ETH.&nbsp; As the name implies, Capital Protected Structured Tokens attempt to protect you from potential downside to your capital, ETH in this case, while maintaining exposure to the potential upside. CPSTs can be designed to be anti-fragile, suitable for any market conditions potentially performing best when the market is volatile in a range-bound market.</p>
-
-
-
-<p class="has-text-align-center"> <img class="wp-image-8660" style="width: 140px;" src="./../../../wp-content/uploads/2020/10/streamline-icon-bear-market-1@140x140-1.png" alt=""><img class="wp-image-8659" style="width: 140px;" src="./../../../wp-content/uploads/2020/10/streamline-icon-bull-market-1@140x140-1.png" alt=""></p>
-
-
-
-<p>The first iteration of CPST was launched in late September 2020. In the time since, the DEXTF team has worked with Opyn and UMA to incorporate feedback from the first iteration to co-build the next iteration of the primitive which could generate sustainable liquidity making it attractive to buyers. New CPSTs will be using UMA’s Zero-Coupon Bonds, a longer maturity version of the yield dollar, and a longer maturity Opyn call option with June 2021 expiry. The idea is to create a floor value of sorts for the underlying ETH but still allow investors to participate in any upside. So if you’re bullish but don’t want to remain fully exposed, CPSTs offer an efficient way to invest.</p>
-
-
-
-<h1>Closing Thoughts</h1>
-
-
-
-<p>The DEXTF team has built simple yet sophisticated fund management infrastructure that anyone can take advantage of to manage their portfolio. The permissionless and oracle-less design of DEXTF makes it highly scalable and resistant to capture or manipulation. DEXTF is also working in partnership with many prominent members of the DeFi community such as Opyn, UMA, Kyber, Ren Alliance, Set Protocol, and so many more to expand their already flexible set of components. All the necessary components and incentives are there for any community member to build or participate in an efficient ecosystem around digital-native funds and be rewarded for doing so.</p>
-
-
-
-<p>What are you waiting for? Go explore <a href="https://dapp.dextf.com/">DEXTF’s interface</a> and scroll through the existing funds. Try making your own fund. If you’d like a guided tour, <a href="https://drive.google.com/file/d/1nU7ZrFqjWlPT1AYbdx4mYcT84wLy8jmv/view">check out these video tutorials</a> which teach you how to create a fund, invest in funds, and redeem funds for their underlying assets. To keep up with everything happening in the DEXTF community, jump with your preferred platform <a href="https://discord.gg/vdvhVZx">Discord</a>, <a href="https://mobile.twitter.com/dextfprotocol">Twitter</a>, <a href="https://medium.com/@DEXTF">Medium</a>, <a href="https://t.me/dextfprotocol">Telegram</a>.</p>
-
-
-
-<p><strong><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with DEXTF to help educate and inform the community about the DEXTF Ecosystem. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></strong></p>
 ]]></content:encoded>
 					
 		
