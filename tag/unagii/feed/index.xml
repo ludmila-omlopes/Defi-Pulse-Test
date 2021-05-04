@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>unagii &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 02 Apr 2021 19:15:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Founder Fireside Chat with Mervyn Chng of Unagii</title>
+		<link>./../../../2021/04/02/founder-fireside-chat-with-mervyn-chng-of-unagii/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 02 Apr 2021 19:15:25 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[unagii]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9083</guid>
+
+					<description><![CDATA[The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/04/Unagii-Header.png" alt="" class="wp-image-9101" width="1032" height="520" srcset="./../../../wp-content/uploads/2021/04/Unagii-Header.png 1032w, ./../../../wp-content/uploads/2021/04/Unagii-Header-300x151.png 300w, ./../../../wp-content/uploads/2021/04/Unagii-Header-1024x516.png 1024w, ./../../../wp-content/uploads/2021/04/Unagii-Header-768x387.png 768w" sizes="(max-width: 1032px) 100vw, 1032px" /></figure>
+
+
+
+<p class="has-medium-font-size"><em>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity to better understand their perspective and what drives them to build their vision.</em></p>
+
+
+
+<p class="has-medium-font-size">This week in our Founder Fireside Chat series, we had the opportunity to chat with <a href="https://twitter.com/mervynchng89">Mervyn Chng</a>, Co-founder of <a href="https://www.unagii.com/">Unagii</a>, who&#8217;s team is on a mission to redefine the digital asset yield experience.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q1-1.png" alt="" class="wp-image-9026" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size">We’re building a yield platform that provides access to digital asset DeFi yields from automated yield farming to staking. </p>
+
+
+
+<p class="has-medium-font-size">A key differentiator with Unagii is that our Vaults offer a true set and forget experience on the most cost-savings approach with a smarter and simpler interface. We’re targeting users who want convenience when investing their assets in a non-custodial manner.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">Decentralization has proven to be the most important in the past few years as we’ve seen in the growth of the Ethereum community. </p>
+
+
+
+<p class="has-medium-font-size">While there will always be criticisms around possible centralized point of failures, the ethos of the Ethereum community has always been around driving innovation built upon the foundation of decentralization. </p>
+
+
+
+<p class="has-medium-font-size">Many supposed Ethereum killers have come and gone but <strong>it is the decentralization ethos that cannot be replicated as teams continue to work towards solutions of scalability.</strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q3-1.png" alt="" class="wp-image-9031" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size">The user experience in general, and especially for yield farming. There are more aggregators than ever optimizing the experience for users to explore, compare, and maximize yields. We spent a long deep time figuring out what users would want, breaking down layers, and identifying the best flow for users. </p>
+
+
+
+<p class="has-medium-font-size"><strong>Investing in good design is important in opening up DeFi to more audience segments </strong>&#8211; which many yield farming projects miss the mark on. Our Vaults flow is pretty unique amongst others in the market.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q4-1.png" alt="" class="wp-image-9032" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size"><strong>The biggest lesson is that simple is better, and there is a certain level of tradeoff between product usability and novelty. </strong></p>
+
+
+
+<p class="has-medium-font-size">We have come a long way since our initial MVP. Our initial internal prototype allowed for gasless transactions via smart contract wallets and gas relayers. However, due to a prolonged period of high gas cost, subsidizing such costs became unsustainable and we were forced to go back to the drawing board to conceptualize a new DeFi yield product.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">The Bell Curve IQ Meme!</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/04/bell-curve-1024x576.jpg" alt="" class="wp-image-9098" srcset="./../../../wp-content/uploads/2021/04/bell-curve-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/04/bell-curve-300x169.jpg 300w, ./../../../wp-content/uploads/2021/04/bell-curve-768x432.jpg 768w, ./../../../wp-content/uploads/2021/04/bell-curve-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/04/bell-curve-1568x882.jpg 1568w, ./../../../wp-content/uploads/2021/04/bell-curve.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-medium-font-size"><em>Editor&#8217;s note: here&#8217;s the<a href="https://knowyourmeme.com/memes/iq-bell-curve-midwit"> Know Your Meme page</a> for reference</em>.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p class="has-medium-font-size">Thanks to Mervyn for chatting with us. You can find Mervyn on Twitter at <a href="https://twitter.com/mervynchng89">@mervynchng89</a> and on <a href="https://www.linkedin.com/in/mervynchng/">LinkedIn</a>. You can learn more about <a href="https://injectiveprotocol.com/">Unagii</a> by visiting their site and by following them on Twitter at <a href="https://twitter.com/unagiidotcom">@unagiidotcom</a>.</p>
+
+
+
+<p class="has-medium-font-size"><strong>Thank you for reading. </strong>We&#8217;d love to hear your thoughts on the series like, for example, which DeFi founders you&#8217;d like to see highlighted in the future.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

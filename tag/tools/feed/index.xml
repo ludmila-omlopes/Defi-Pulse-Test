@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tools &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 20 Apr 2021 13:03:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>DexGuru &#8211; Real-time Data, Analytics and Trading for AMMs in One Place</title>
+		<link>./../../../2021/04/20/dexguru/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Tue, 20 Apr 2021 13:03:31 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[dexguru]]></category>
+		<category><![CDATA[multichain]]></category>
+		<category><![CDATA[tools]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9142</guid>
+
+					<description><![CDATA[The origin of the Sanskrit word guru is said to be based on the syllables gu (गु) and ru (रु),...]]></description>
+										<content:encoded><![CDATA[
+<p>The origin of the Sanskrit word <em>guru</em> is said to be based on the syllables<em> gu</em> (गु) and <em>ru</em> (रु), which stand for darkness and &#8220;light that dispels it.&#8221; Gurus cast out the darkness of ignorance with the light of their wisdom. To become a guru, you must be able to take in your surroundings to gain perspective and glean greater wisdom. DexGuru wants to be your guide lighting the way through the dark forest. <a href="https://dex.guru/">DexGuru</a> harmonizes permissionless, real-time data and analytics of every on-chain market in a single UI capable of trading across DEXes.</p>
+
+
+
+<h2>Trade with more awareness with real-time on-chain market data</h2>
+
+
+
+<p>It’s 2021. Traders like you need more than a simple From / To interface when it comes to determining how and when to execute your strategy. <a href="https://dex.guru/">DexGuru</a> offers a better way to monitor on-chain markets for any token on Uniswap, Sushiswap, and Pancakeswap. Traders using DexGuru have permissionless access to data in real-time including charting, liquidity, pool activity, trading volume, and trading history. So what does permissionless access mean to you? It means you can copy and paste any token address into DexGuru’s search bar and tap into loads of information generated from analysis of on-chain trading activity for free.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://dex.guru/"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/04/dexguru-ui-1024x576.png" alt="" class="wp-image-9147" srcset="./../../../wp-content/uploads/2021/04/dexguru-ui-1024x576.png 1024w, ./../../../wp-content/uploads/2021/04/dexguru-ui-300x169.png 300w, ./../../../wp-content/uploads/2021/04/dexguru-ui-768x432.png 768w, ./../../../wp-content/uploads/2021/04/dexguru-ui-1536x864.png 1536w, ./../../../wp-content/uploads/2021/04/dexguru-ui-1568x882.png 1568w, ./../../../wp-content/uploads/2021/04/dexguru-ui.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p>We might be biased towards the color purple here but&#8230; DexGuru is rather sleek looking, combining various data feeds into a responsive and appealing UI/UX. View charts and trading data in real-time for any token as trades occur to stay more informed with what’s happening on-chain. Want to know more about the token you’re viewing? Simply click the DYOR button at the top of the page and get a rundown of that token’s basic info and community links. Beyond price and trade history, traders and farmers alike can utilize real-time liquidity data to monitor when liquidity is added or removed from pools. Not to mention, DexGuru can give you insights into the behaviors of other traders in the market, but we’ll get to that later.</p>
+
+
+
+<h3>Become one with the flow &#8211; executing trades on multiple chains from one UI</h3>
+
+
+
+<p>Under the hood, DexGuru uses the 0x API to provide users with gas-efficient order routing. Connect your wallet and select your network to buy and sell tokens on EVM-compatible chains. There is no more waiting for token listings because DexGuru permissionlessly indexes each token market. In other words, when it is added to the DEX, it’s added to DexGuru. </p>
+
+
+
+<p>Trade orders are routed through any 0x API connected exchange including Uniswap, Kyber, Curve, Balancer, CREAM, Bancor, mStable, Shell, Swerve, SnowSwap, SushiSwap, DODO, Mooniswap(1inch protocol AMM), PancakeSwap, BakerySwap, Mooniswap, DODO_V2, SushiSwap, Nerve Finance, Belt Finance, and Ellipsis.</p>
+
+
+
+<h2>Gain more insight with DexGuru’s real-time on-chain analytics</h2>
+
+
+
+<p>One of the most interesting features DexGuru has to offer is the deeper analysis it performs on user trading history. DexGuru is constantly monitoring on-chain markets for new trades. When a new trade is received, DexGuru analyzes the trader’s address and marks it with a special emoji in the pool activity or trading history.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="345" height="342" src="./../../../wp-content/uploads/2021/04/image.png" alt="" class="wp-image-9150" srcset="./../../../wp-content/uploads/2021/04/image.png 345w, ./../../../wp-content/uploads/2021/04/image-300x297.png 300w, ./../../../wp-content/uploads/2021/04/image-150x150.png 150w" sizes="(max-width: 345px) 100vw, 345px" /></figure>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f422.png" alt="🐢" class="wp-smiley" style="height: 1em; max-height: 1em;" /> &#8211; Casual Trader with $10k-$100k of a trading volume last 30 days<br><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f988.png" alt="🦈" class="wp-smiley" style="height: 1em; max-height: 1em;" /> &#8211; Active Trader with $100k-$500k of a trading volume last 30 days<br><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f433.png" alt="🐳" class="wp-smiley" style="height: 1em; max-height: 1em;" /> &#8211; Heavy Trader with $500k+ of a trading volume last 30 days<br><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f916.png" alt="🤖" class="wp-smiley" style="height: 1em; max-height: 1em;" /> &#8211; Trader with 1000+ TXs in last 30 days. Most likely a bot.</p>
+
+
+
+<p>These sorts of analytics in the heat of the moment can help you as a trader reassess the situation. It’s a refreshing dose of signal among the noise when you need it. It’s nice to know when you’re swimming with the whales or interacting with a bot. Put simply, DexGuru’s real-time insights aim to give traders an edge. And what’s not to like about emojis?</p>
+
+
+
+<h2>Closing Thoughts</h2>
+
+
+
+<p>Since its initial public beta release on February 17th, many more exciting developments have been brewing for DexGuru. DexGuru aims to add all major EVM-compatible L1 and L2 networks with significant on-chain activity before the end of the year. To that end, DexGuru <a href="https://blog.dex.guru/seed">has raised $1M in a private seed round </a>to continue building its Web3 trading platform. So keep your eyes out for new DEXes, networks, and features in the future.</p>
+
+
+
+<p>No need to trade in the dark. Let DexGuru shed light on the token markets you trade. Check out <a href="https://dex.guru/">DexGuru</a> and see how you can utilize its information-driven UI/UX in your strategy. Real-time charts, trading, and liquidity data allow you to easily monitor and trade markets with a better understanding of the market and those trading alongside you. You can also join the DexGuru community on <a href="https://discord.gg/UKZWFuXGKB">Discord</a> and <a href="https://twitter.com/dexguru">Twitter</a>.</p>
+
+
+
+<p><strong><em>Disclosure: This post is part a promotional series; We’ve partnered with DexGuru to help educate and inform the community about its on-chain market data and trading tools. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,1353 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Technology &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 23 Feb 2021 19:00:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Introducing Cryptodollars</title>
+		<link>./../../../2021/02/23/cryptodollars-stablecoins/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Tue, 23 Feb 2021 19:00:00 +0000</pubDate>
+				<category><![CDATA[New Features]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[stablecoin]]></category>
+		<category><![CDATA[stablecoins]]></category>
+		<category><![CDATA[susd]]></category>
+		<category><![CDATA[synthetix]]></category>
+		<category><![CDATA[USDC]]></category>
+		<category><![CDATA[usdt]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8898</guid>
+
+					<description><![CDATA[From their inception, the coins or tokens pegged to the US Dollar, commonly referred to as stablecoins, provided a way...]]></description>
+										<content:encoded><![CDATA[
+<p>From their inception, the coins or tokens pegged to the US Dollar, commonly referred to as stablecoins, provided a way for many users to exit positions without exiting crypto. One could make the case that the popularity of tokenized dollars in crypto was a necessary precursor to the DeFi ecosystem we know today. Their liquidity and relative stability enabled new possibilities for smart contracts which ultimately led to the rapid maturity in decentralized financial instruments built on-chain.</p>
+
+
+
+<p>And so we’re happy to unveil our new <a href="http://defipulse.com/usd">Cryptodollars</a> page dedicated to measuring the amount of tokenized dollars in DeFi. At the time of writing, the total value locked in cryptodollars exceeds $34.5B. This new addition to DeFi Pulse helps to capture the full picture of the extraordinary growth of DeFi with years of historical data.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="defipulse.com/usd"><img loading="lazy" width="574" height="289" src="./../../../wp-content/uploads/2021/02/cryptodollars.png" alt="" class="wp-image-8924" srcset="./../../../wp-content/uploads/2021/02/cryptodollars.png 574w, ./../../../wp-content/uploads/2021/02/cryptodollars-300x151.png 300w" sizes="(max-width: 574px) 100vw, 574px" /></a></figure>
+
+
+
+<p><strong><em>At launch, the following cryptodollars will be included: USDT, USDC, DAI, BUSD, PAX, HUSD, TUSD, sUSD, GUSD, MUSD, and DUSD</em></strong>.</p>
+
+
+
+<p><strong>How do we define each type of cryptodollar?</strong></p>
+
+
+
+<ul><li>Custodial &#8211; a USD token backed by USD held in custody by a third party</li><li>Collateralized &#8211; a token pegged to USD backed by another asset or basket of assets</li></ul>
+
+
+
+<p>We’d also like to take a moment to acknowledge algorithmic stablecoin communities and the innovations happening in that sector. We will continue to monitor the evolution of the different &#8220;Algorithmic dollars&#8221; and we&#8217;ll be happy to add this category in the future should they start maintaining the peg (or reasonably close enough) with the US dollar.</p>
+
+
+
+<p>Special thanks to all the teams for working with us! Be sure to check out the new <a href="http://defipulse.com/usd">Cryptodollars</a> page. And if you’re interested in joining the DeFi Pulse Leaderboard, please check out this <a href="https://defipulse.com/blog/how-to-join-the-defi-pulse-leaderboard/">step-by-step guide.</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Futureswap  &#8211; Decentralized Perpetual Futures with up to 10x Leverage</title>
+		<link>./../../../2021/02/08/futureswap-v2/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 08 Feb 2021 22:12:31 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Futures]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[decentralized exchange]]></category>
+		<category><![CDATA[decentralized exchanges]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[futures]]></category>
+		<category><![CDATA[futureswap]]></category>
+		<category><![CDATA[perpetual]]></category>
+		<category><![CDATA[perpetuals]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8855</guid>
+
+					<description><![CDATA[Recent events have made it all too clear to the average user why decentralization has a key role to play...]]></description>
+										<content:encoded><![CDATA[
+<p>Recent events have made it all too clear to the average user why decentralization has a key role to play in having a fair and efficient market. Futureswap aims to disrupt the multi-billion dollar perpetual futures trading market currently dominated by centralized services. Futureswap takes a different approach with a hybrid between Uniswap and a perpetual futures exchange platform governed by the community. You may remember Futureswap from their <a href="https://medium.com/futureswap/futureswap-lessons-learned-from-a-3-day-alpha-be4e37bc8c52">successful Alpha in April 2020 which ultimately ended early</a> after DeFi users flocked to the platform in overwhelming numbers. In less than 3 days, Futureswap’s Alpha 24hr trading volume grew to $17M and liquidity passed $1M. Erring on the side of caution, the Futureswap team decided to end the Alpha earlier than initially planned.&nbsp;</p>
+
+
+
+<p><strong>Now they’re back with something even better, the Futureswap V2 Beta is </strong><a href="https://futureswap.com/"><strong>already launched on mainnet</strong></a><strong>.</strong> The Futureswap V2 Beta includes upgrades like live pricing and higher capital efficiency which aim to provide a perpetual futures trading experience that outperforms <em>centralized</em> exchanges.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/02/COL_DG-1-1024x494.png" alt="" class="wp-image-8860"/></figure>
+
+
+
+<h2>What makes Futureswap V2 Beta special?</h2>
+
+
+
+<p>Futureswap is a decentralized exchange platform with an automatic market maker (AMM) design that enables traders to enter leveraged perpetual futures with low slippage. Its automatic market maker (AMM) design provides higher capital efficiency offering up to 10x leverage. According to Futureswap: after $50m in liquidity, Futureswap should have better price execution for a $1m trade than any other decentralized exchange and after $300m it has the lowest slippage compared to centralized exchanges based on the current slippage parameters. </p>
+
+
+
+<p>Additionally, Futureswap pools can be very efficient with their use of capital resulting in more stability and potentially high returns for liquidity providers compared to traditional AMM exchanges. Futureswap utilizes what’s called a Dynamic Funding Rate or DFR for short. The DFR is a borrowing fee based on the total trade size designed to maintain the volume balance between open longs and shorts. During times of disproportionate demand, liquidity providers’ pooled assets are used to take up the opposite side of any unmatched trades. So if there were tons of unmatched ETH longs, LPs cover the ETH essentially opening a short.</p>
+
+
+
+<p>Long and short volumes are pooled and then the more popular pool is charged the dynamic funding rate and it’s paid to the pool in low demand.<strong> </strong>This mechanism limits extreme volatility and properly rewards liquidity providers for their exposure to risk. The DFR keeps increasing as the disparity grows to disincentivize trades on the popular side. In other words, the longs pay the shorts or vice versa until the sides become balanced. This also means that liquidity providers have the potential to earn more thanks to the DFR.</p>
+
+
+
+<h3>Oracle Relayer Network (ORN)</h3>
+
+
+
+<p>One of the biggest improvements Futureswap V2 brings is the new Oracle Relayer Network (ORN) which enables instant pricing and real-time trading. ORN has been described as a mesh between a price oracle and a meta-transaction processor node. Futureswap users are able to trade in real-time by signing a message including their order and submitting them to ORN. Then, ORN verifies the signed message and finalizes the trade on-chain at the current price. Transactions will fail if outside accurate price bounds set by ORN to protect users. The Futureswap team is taking further steps to improve the Oracle Relayer Network’s security with audits by <a href="https://www.trailofbits.com/">Trail of Bits</a> and plans to add more nodes to the network.</p>
+
+
+
+<h2><br><strong>How Futureswap works</strong></h2>
+
+
+
+<h3>Traders</h3>
+
+
+
+<p>As we’ve covered, <a href="https://exchange.futureswap.com/">traders on Futureswap can open long or short perpetual future positions with up to 10x leverage</a> in real-time with instant pricing. Perpetual futures on Futureswap have no time limits and can remain open as long as the trader has enough collateral. Traders will either pay or earn the dynamic funding rate when opening longs or shorts depending on whether they are on the popular side of the trade or not. Traders also earn FST token rewards each epoch based on their percentage of close trade volume that distribution period.<br></p>
+
+
+
+<h3>Liquidity providers</h3>
+
+
+
+<p>Liquidity Providers<a href="https://exchange.futureswap.com/pool"> add liquidity to Futureswap pools</a> in equal parts to earn trading fees and FST token rewards. For example, if you wanted to add liquidity to Futureswap’s ETH/USDC pool, you would need $100 worth of ETH and 100 USDC. Once deposited, LP tokens are minted representing your share of the pool. These LP tokens can be redeemed at any time if their liquidity is not in a trade. Liquidity providers earn trading fees for allowing traders to use their liquidity. Liquidity providers also earn FST token rewards as an incentive to further grow Futureswap’s available liquidity.</p>
+
+
+
+<h3>Liquidators</h3>
+
+
+
+<p>Liquidators monitor the platform for positions that are close to violating margin requirements and send liquidation transactions to close at-risk positions for a liquidator fee. It’s vital to the health and stability of the platform for positions to be reliably closed once they reach their liquidation price. It’s worth mentioning that submitting these transactions does not require the liquidator to provide any value or to take over the trade. They simply close the trade on behalf of the protocol and are rewarded for doing so. Currently, the percentage that liquidators receive is 30% of the remaining collateral up to a maximum (currently set to 500 USDC).</p>
+
+
+
+<h2>Futureswap is governed by the community</h2>
+
+
+
+<p>FST is Futureswap’s non-transferable governance token which is<a href="https://exchange.futureswap.com/rewards"> rewarded to traders, liquidity providers, and referrers each day.</a>&nbsp; FST allows the Futureswap community to propose and vote on changes to the protocol, enabling it to evolve and improve over time. We’ve already mentioned FST tokens a few times covering Futureswap’s various incentives designed to incentivize user participation. <a href="https://medium.com/futureswap/futureswap-governance-token-distribution-d2712c855da5">FST is used to reward the Futureswap</a> users contributing to the growth and adoption of the platform. And since Futureswap is governed by the community, this gives the most active users influence over the future of the platform. In other words, users who participate sooner rather than later after the community grows even larger are more likely to have a larger impact with their contributions and receive more FST rewards.</p>
+
+
+
+<h2>Concluding thoughts</h2>
+
+
+
+<p>Potentially disrupting such a big market like perpetual futures presents an opportunity for Futureswap. Futureswap is designed with the expectations of serious trades in mind. Futureswap’s design with its high capital efficiency and low slippage lends itself well to larger trades for whales and industry traders. Its instant pricing and real-time trading ORN system provides a better trading experience with built-in protections against front running attacks. Futureswap may also continue to provide even lower slippage as liquidity grows over time. FST rewards increase the likelihood of this occurring by incentivizing adoption.</p>
+
+
+
+<p>Try <a href="https://www.futureswap.com/">Futureswap</a> today and start earning FST rewards. Also, be sure to check out the Futureswap community on <a href="https://twitter.com/futureswapx">Twitter</a> and <a href="https://discord.gg/ZCcxtu9VxH">Discord</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Futureswap to help educate and inform the community about the launch of Futureswap V2 Beta. </em><em>DeFi Pulse received FST tokens as part of its payment. </em><em>As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Alpha Homora V2 &#8211; Yield Farm With Up To 9x Leverage</title>
+		<link>./../../../2021/01/31/alpha-homora-v2/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 31 Jan 2021 23:58:58 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[alpha]]></category>
+		<category><![CDATA[alpha homora]]></category>
+		<category><![CDATA[farming]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[tokens]]></category>
+		<category><![CDATA[yield]]></category>
+		<category><![CDATA[yield farming]]></category>
+		<category><![CDATA[yieldfarming]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8837</guid>
+
+					<description><![CDATA[Alpha Homora was a DeFi product born out of practicality. Those familiar with DeFi can tell you that users will...]]></description>
+										<content:encoded><![CDATA[
+<p>Alpha Homora was a DeFi product born out of practicality. Those familiar with DeFi can tell you that users will go to extraordinary lengths when they spot an opportunity. This proved to be especially true as the yield farming craze reached a fever pitch in 2020 when users would combine various lending protocols to leverage yield farming opportunities. It wasn’t long before <a href="https://alphafinance.io/">Alpha Finance Lab</a> spotted this gap in the market and created Alpha Homora to give users a better way to yield farm with leverage more efficiently while also attempting to minimize the risks involved.</p>
+
+
+
+<p>Alpha Homora V2 builds on the popular Alpha Homora V1 yield farming product, supporting more AMM protocols, including Curve, Balancer, SushiSwap, and Uniswap, allowing yield farmers to borrow various assets in addition to ETH, and enabling leverage of up to 9x leverage thanks to new partnerships.<strong> </strong><a href="https://homora-v2.alphafinance.io/"><strong>Alpha Homora V2</strong></a><strong> is set to launch on Feb 1st.&nbsp;</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/01/alpha-social-thumb-1024x549.png" alt="" class="wp-image-8843" width="768" height="412" srcset="./../../../wp-content/uploads/2021/01/alpha-social-thumb-1024x549.png 1024w, ./../../../wp-content/uploads/2021/01/alpha-social-thumb-300x161.png 300w, ./../../../wp-content/uploads/2021/01/alpha-social-thumb-768x411.png 768w, ./../../../wp-content/uploads/2021/01/alpha-social-thumb.png 1400w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
+
+
+
+<h2>How does leveraged yield farming work?</h2>
+
+
+
+<p>Manually yield farming with leverage required you to take out and manage loans across several lending platforms in what amounted to a nerve-wrecking position that could be extremely hard to ‘unwind’. Using <a href="https://homora-v2.alphafinance.io/">Alpha Homora V2</a> is a lot simpler and helps minimize the risks involved (though <a href="https://alphafinancelab.gitbook.io/alpha-homora/risk">nothing is risk-free</a>). First, you select a supported liquidity pool from popular exchanges like SushiSwap, Uniswap, Balancer, and Curve that are on Alpha Homora v2 and then supply either or both of the tokens to your desired pool. For example, if you choose the SushiSwap&#8217;s ETH/USDC pool that is on Alpha Homora V2 you can provide ETH, USDC, or both. Note, you don’t need to have equal value of both tokens in order to yield farm with Alpha Homora V2.&nbsp;</p>
+
+
+
+<p>Next, you’ll decide whether or not you want to use leverage (which goes up to 9x for selected pools). And then, follow the prompts to confirm and submit your transaction and <em>viola </em>Alpha Homora automagically handles the rest. Users can borrow multiple assets, re-leverage, and deleverage their positions easily in just a few clicks. Compared to doing this process by hand, Alpha Homora can <em>feel like magic.</em> It’s easy to see where the name comes from.</p>
+
+
+
+<h1>What’s new in Alpha Homora V2?</h1>
+
+
+
+<p>Strong partnerships have shaped the design of Alpha Homora V2. Many of you may have noticed that V2 allows yield farmers to take advantage of significantly more leverage than its predecessor. Behind the scenes, Alpha Homora V2 utilizes CREAM V2’s liquidity to take on leverage for its users. Sometimes referred to as The Iron Bank, CREAM V2 allows whitelisted partner protocols like Alpha Homora V2 to take out loans with less collateral requirements. This results in more leverage for Alpha Homora’s yield farmers and higher interest rates for CREAM V2 users.<br></p>
+
+
+
+<p>Alpha Finance Labs worked closely with its partners to enable leveraged yield farming of liquidity pools on Curve, Balancer, SushiSwap, and Uniswap. And in an effort to help strengthen its partners’ communities, Alpha Homora V2 will not automatically sell and reinvest the farmed tokens. <strong>At launch, Alpha Homora V2 will feature the following leveraged farming pools:</strong></p>
+
+
+
+<p><strong>New leveraged pools:</strong></p>
+
+
+
+<ul><li>Curve’s 3pool (USDT, USDC, DAI)</li><li>Balancer’s PERP/USDC</li></ul>
+
+
+
+<p><strong>Pools migrated from V1:</strong></p>
+
+
+
+<ul><li>SushiSwap’s ETH/SUSHI</li><li>Uniswap’s ETH/UNI</li></ul>
+
+
+
+<p>In a nutshell, farmers will be able to leverage USDT, USDC, DAI, and ETH to farm CRV, PERP, or SUSHI tokens with up to 9x leverage. On the flipside, lenders will be able to lend ETH, USDT, USDC, and DAI on day one to start earning interest. The plan is to continue to add even more new pools and migrate more pools from V1 over time.&nbsp;</p>
+
+
+
+<p>For those curious, be sure to check out these fantastic posts written by the Alpha Finance team that walks you through Alpha Homora V2 from the perspective of <a href="https://blog.alphafinance.io/alpha-homora-v2-in-yield-farmers-perspectives/">yield farmers</a> and <a href="https://blog.alphafinance.io/alpha-homora-v2-in-lenders-perspectives/">lenders</a>. Alpha Homora is also offering additional yield in the form of ALPHA rewards for both farmers. See <a href="https://alphafinancelab.gitbook.io/alpha-homora/liquidity-mining-part-2a">here</a> for more information.</p>
+
+
+
+<h2>Migrating to V2</h2>
+
+
+
+<p>To ensure a smooth transition, ALPHA rewards will continue for a limited time for those liquidity mining on Alpha Homora V1. Although farmers should be aware that leveraged positions on Alpha Homora v2 will get more rewards compared to those on V1. This creates an incentive to migrate sooner rather than later. Here’s <a href="https://blog.alphafinance.io/72-hour-countdown/">a step-by-step guide</a> for those looking to migrate.</p>
+
+
+
+<h2>What is ibETHv2?</h2>
+
+
+
+<p>When you lend out an asset on Alpha Homora, you receive the corresponding ibToken or interest bearing token. ibETHv2 is an interest-bearing ETH token you receive when lending ETH to Alpha Homora V2. Alpha Homora typically has competitive yields for ETH due to the high demand from its leverage yield farming pools. Alpha Finance Lab also runs a <a href="https://alphafinancelab.gitbook.io/alpha-homora/trading-volume-mining-part-2b">Trading Volume Mining</a> program which rewards users for supplying liquidity to ibETH/ALPHA and ibETHv2/ALPHA pools.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/o7JpNF2vwiZxUlXbPbEtUtMMlbqUwQM-KpKE5OSCqCYH0jEBrzXPKlkjlCp1E7fk5JD8rQx5sGaQqQaShoaL1BF8_FuqNWS_yV7z5qzmfbBNjFw_L6otv5Yzlfeo2yw2RYBZgEsm" alt=""/></figure>
+
+
+
+<p>The ibETHv2/ALPHA pool on SushiSwap <a href="https://blog.alphafinance.io/72-hour-countdown/">goes live on Feb 3rd</a>. Liquidity providers of this pool will receive ALPHA rewards as well as SUSHI tokens from SushiSwap’s Onsen program. Rewards from Alpha Finance’s Trading Volume Mining program will be reflected in the form of trading fees APY when you remove liquidity (not airdropped to your wallet). Those providing liquidity to the ibETH/ALPHA pool on Uniswap will still receive rewards until Feb 3rd, 1pm UTC.</p>
+
+
+
+<h1>Closing Thoughts</h1>
+
+
+
+<p>Alpha Finance Lab’s initial release of Alpha Homora was well-received by the DeFi community given the immediate utility it provided to yield farmers. Alpha Homora V2 built on this popular platform to provide more utility for its users and value for its partner protocols. Key partnerships like the utilization of CREAM V2’s Iron Bank will allow Alpha Homora V2’s users to achieve higher levels of capital efficiency. It’s undeniable we’ve entered a new era in DeFi where partnerships can give you an edge more now than ever. So it will be very interesting to see how such a deep protocol level partnership influences the future growth of both platforms. Regardless of how things pan out, Alpha Homora V2 users will reap the benefits in the meantime.</p>
+
+
+
+<p>Thanks for reading! Be sure to keep your eyes out for <a href="https://homora-v2.alphafinance.io/">Alpha Homora V2</a> set to launch Feb 1, 2020. Follow <a href="https://twitter.com/alphafinancelab">Alpha Finance on Twitter</a> for the latest updates or join their <a href="https://discord.com/invite/Z2vuKDT">Discord</a> or <a href="https://t.me/AlphaFinanceLab">Telegram</a> to discuss the future of Alpha Finance Lab and its products.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Alpha Finance Lab to help educate and inform the community about the launch of Alpha Homora V2. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Harvest Finance &#8211; Industrial Automated Yield Farming for All</title>
+		<link>./../../../2020/12/13/harvest-finance-drop/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 13 Dec 2020 21:59:09 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[aggregator]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[harvest]]></category>
+		<category><![CDATA[harvest finance]]></category>
+		<category><![CDATA[harvest-finance]]></category>
+		<category><![CDATA[yield]]></category>
+		<category><![CDATA[yield farming]]></category>
+		<category><![CDATA[yieldfarming]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8734</guid>
+
+					<description><![CDATA[Yield farming allows projects to bootstrap their communities through incentives created by distributing their protocol’s token, essentially killing two birds...]]></description>
+										<content:encoded><![CDATA[
+<p>Yield farming allows projects to bootstrap their communities through incentives created by distributing their protocol’s token, essentially killing two birds with one stone. While these farming opportunities are open to all participants, making the most of these opportunities requires a certain amount of capital and expertise. And nowadays, yield farming has practically become a full-time job.</p>
+
+
+
+<p>Harvest Finance set out to make life easier for farmers big and small. It allows users to farm as a collective to achieve the best risk-adjusted rate for a given asset. Launched on September 1st, 2020 in the midst of the yield farming craze with the slogan, “Bread for the People”, <a href="https://harvest.finance/">Harvest Finance</a> has gone on to become one of the largest yield aggregators with a vibrant community from all over the world. With farming having become the new norm, using a yield aggregator like Harvest Finance is like using a tractor instead of a manual plow; it’ll take less effort and ultimately be more efficient.</p>
+
+
+
+<h2>Farming at Scale with Harvest Finance</h2>
+
+
+
+<p>If you’re new to farming, it seems rather simple. Typically, you deposit a token, stablecoin, or liquidity pool token into a farm to earn tokens at a variable APR. You could simply deposit your assets and come back later to harvest your yield, but you’d be missing out. Manually harvesting and compounding your yields to achieve a higher APY means covering all the gas costs involved. For smaller farmers, the gas costs involved in this process can really start to eat into your returns. Not to mention, you’d need to meticulously calculate and track your APY in order to make sure it was even worth your time or the opportunity cost.</p>
+
+
+
+<p>When a user deposits assets into Harvest to farm, they receive fTokens (i.e. fUSDC) which represent a yield-bearing version of the asset. fTokens can be redeemed for the underlying asset at any time. Depositors receive 70% of the profits generated from farming via Harvest as well as FARM token rewards. The remaining 30% is sent to a protocol token buyback and profit sharing program, but more on that later. As the first yield aggregator to adopt a performance-based fee structure, Harvest never charged a withdraw fee as others did. I know what you’re thinking: Why would I give up 30% of my profits when I can farm by myself?</p>
+
+
+
+<p>Farming as a collective comes with its advantages compared to going it alone. It can be helpful to think of it as “farming at scale” to reduce operational costs and improve efficiency. If you opted to farm with Harvest Finance in the scenario above, your deposit would automatically compound for a higher APY when possible. Best of all, Harvest covers the gas costs associated with executing farming strategies and compounding deposits. The advantages of Harvest’s collective farming and FARM token design don’t end there though.</p>
+
+
+
+<h3>FARM token aligns stakeholders of the Harvest Cooperative</h3>
+
+
+
+<p>The goal of the Harvest Cooperative is to become the world’s largest farming cooperative making the latest yield farming techniques accessible to anyone, even those who are currently underbanked. In order to achieve this goal, the farmers of the Harvest Cooperative pool together resources to earn profits and create additional utility and value for its community of Harvest stakeholders.&nbsp;</p>
+
+
+
+<p>At the heart of the Harvest Cooperative is Harvest’s FARM token which incentivizes participation, governs Harvest Finance, and allows users to benefit from the performance of the platform. At launch, FARM started with an initial supply of 0. Harvest Finance bootstrapped its community completely by offering FARM token rewards to depositors and liquidity providers. Only 690,420 FARM will be minted over 4 years with a current emission rate of 4.4% per week. At the time of writing, roughly 50% of FARM tokens have been minted so far. FARM tokens are distributed as follows: 70% of FARM tokens go to depositors and liquidity pool providers, 10% of tokens are vested over 4 years to the Operational Treasury to pay for additional development and promotion, and finally 20% are vested over 4 years to the Development Team.&nbsp;</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh4.googleusercontent.com/H1p0SHH5s-9KmMUH4gDeF9w8yCqiNUNQzmpZGzpi5t8G4JalzDe6hdhUK9jk8CBhafbgqyrasyWkHZ7mQ4_hdYKZfGA-uXMtyZHe2Ewl-oYfZ2JaJ62axGOef2RMRDKOFxfw0hhl" alt=""/></figure>
+
+
+
+<h4>FARM Buybacks and Profit Sharing Pool</h4>
+
+
+
+<p>As previously mentioned, 30% of all the profits generated by Harvest are converted to USDC and used to buy FARM tokens off the market. These FARM tokens are then distributed to Harvest Cooperative members with FARM tokens staked in Harvest’s Profit Sharing Pool. FARM buybacks create natural demand for FARM and are fueled purely by how much profit Harvest is able to generate for its users. The idea is that everyone in the Harvest Cooperative from farmers earning token incentives to the initiatives funded by the Operational Treasury benefit when the value of FARM increases further aligning the different Harvest stakeholders.</p>
+
+
+
+<h3>Harvest Cooperative is able to steer growth and adoption together</h3>
+
+
+
+<p>The Harvest Cooperative is incentivized to make changes that help the platform grow. Unlike an individual farmer, the Harvest Cooperative has a budget of sorts which it can use to collectively pay for things. FARM holders can create and vote on proposals for new strategies, protocol changes, or even initiatives to be funded by the Operational Treasury. This allows the Harvest Cooperative to stay on top of the latest yield farming strategies. Harvest was the first yield aggregator to release a farming strategy for SWRV, UNI, and Idle Finance. The treasury can also be used to incentivize users to participate in more profitable farms for the Cooperative. The Harvest community also makes use of the treasury to fund programs like creativity contests, bounties programs, and prizes for developer challenges which we’ll cover a bit more later on.</p>
+
+
+
+<h3>Farming as a collective offers additional forms of risk mitigation</h3>
+
+
+
+<p>Not only can pooling resources fund the development of new strategies, it also can be used to make farming <a href="https://farm.chainwiki.dev/en/security">more sustainable through test suites</a>, ongoing <a href="https://github.com/harvest-finance/harvest/tree/master/audits">audits</a> and <a href="https://immunefi.com/bounty/harvest/">security bug bounties</a>.</p>
+
+
+
+<h4>GRAIN reparations after USDC/USDT vaults exploited</h4>
+
+
+
+<p>On October 26, 2020, an attacker was able to use a flash loan to <a href="https://medium.com/harvest-finance/harvest-flashloan-economic-attack-post-mortem-3cf900d65217">steal 12.5% of funds from Harvest&#8217;s USDC and USDT vaults via an exploit</a>, resulting in a shared loss of $33.8M. The Harvest Community <a href="https://snapshot.page/#/farm/proposal/QmYF62qGaqyHAXt88Hmxise6CFaSWxnTmi5VedZ3VX8Zy2">voted to provide reparations to those affected by the exploit</a> in the form of an <a href="https://medium.com/harvest-finance/announcing-the-grain-claims-portal-20dd12c4f631">IOU token known as GRAIN</a>. Those affected were able to<a href="https://claim.harvest.finance/"> claim their share</a> of the $2.48M returned by the attacker as well as GRAIN tokens. Each week 0.5% of the total FARM emissions are sent to reparation pools, GRAIN buyback and FARM/GRAIN liquidity pool, up to the amount lost in the attack. Creating an incentivized FARM/GRAIN pool creates the liquidity necessary to support the buyback program and allows GRAIN holders to receive more FARM rewards for staking their liquidity as well. For those curious, <a href="https://duneanalytics.com/0xBoxer/-grain">this dashboard</a> has some interesting stats regarding the amount of GRAIN claimed. Solo farmers are often forced to accept losses due to attacks, but as you can see collective farming with an on-going revenue stream offers potential ways to remedy situations such as this.</p>
+
+
+
+<h2>Harvest Cooperative has a strong sense of identity</h2>
+
+
+
+<p>Even though Harvest community members are from all around the world (with a notable presence in the Chinese DeFi community), Harvest Cooperative has a strong identity and incentive structure that is welcoming of all. Harvest has previously affirmed their belief that financial inclusion is important for everyone, especially the unbanked and the underbanked. An understated benefit of farming together is that Harvest Cooperative is able express their values and give back to the community as a collective.&nbsp;</p>
+
+
+
+<p>From the start, Harvest Finance community has had an appreciation for memes as made evident by their Farmer Chad logo. Anyone who keeps up with DeFi on Twitter has probably seen countless memes of Farmer Chad. This is no coincidence; In the spirit of its #BreadForThePeople slogan, Harvest frequently hosts creativity contests where users are rewarded for their creative contributions to Harvest Cooperative. <a href="https://medium.com/harvest-finance/harvest-finance-farm-arts-creativity-contest-round-4-festive-edition-3ba3e5843da2">The most recent Creativity Competition</a>’s theme is “Celebrating the Festive Season”. The cool part about these competitions is that it allows those without the capital necessary to farm to benefit from Harvest Cooperative’s success.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1024x1024.jpeg" alt="" class="wp-image-8759" width="512" height="512" srcset="./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1024x1024.jpeg 1024w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-300x300.jpeg 300w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-150x150.jpeg 150w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-768x768.jpeg 768w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1536x1536.jpeg 1536w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-2048x2048.jpeg 2048w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1568x1568.jpeg 1568w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption>Artwork from Harvest community member <a href="https://twitter.com/stulmtuno4273/status/1330292559277682693/photo/3">Sumire</a></figcaption></figure></div>
+
+
+
+<p>Developers will also find they are warmly welcomed in the Harvest community. Harvest hosts developer contests and has <a href="https://gitcoin.co/issue/harvest-finance/harvest/15/100024325">bounty programs</a> to reward developers who want to contribute to the Harvest Finance ecosystem. For those interested, head over to the <a href="https://discord.gg/ayKVET52z6">Harvest Discord</a>’s #dev channel and introduce yourself.</p>
+
+
+
+<p>The Harvest Cooperative also expresses their support for the wider community by giving back to programs like Gitcoin Grants which supports future builders. Harvest <a href="https://harvestfinance.medium.com/week-14-updates-building-today-funding-the-builders-of-tomorrow-74c5ea8575f6">announced on December 1, 2020</a> that it would be partnering with Gitcoin to launch a $500k grant matching pool in the latest Gitcoin Grants Round 8.&nbsp;</p>
+
+
+
+<h2>Partnerships with Harvest Cooperative</h2>
+
+
+
+<p>Harvest also likes to drive engagement through community partnerships and collaborations that present unique opportunities for Harvest Cooperative members to earn rewards in the form of tokens, NFTs, and more. For example, Harvest <a href="https://medium.com/harvest-finance/harvest-apy-vision-partnership-be80f577b18?source=collection_home---6------4-----------------------">will be giving away a total of 80 APYCHADPRO NFTs</a> that grants 90 days of access to the PRO edition of liquidity pool tracker APY.vision to Harvest Cooperative members staking in the Uniswap FARM/USDC liquidity pool. Another example being 88mph’s <a href="https://medium.com/88mphapp/88mph-x-harvest-degen-challenge-over-6k-in-prizes-94979f3a5fa9">recently announced</a> 2-week ‘Degen Challenge’ in collaboration with Harvest which encourages participants to build something creative combining 88mph’s fixed-yield pools or floating-rate bonds with Harvest’s vaults. Last but not least, Harvest <a href="https://badgerdao.medium.com/harvest-finance-joins-the-league-of-badger-builders-551031da69a1">collaborated with Bitcoin-focused BadgerDAO</a> to help launch Badger DAO’s Harvest SuperSett vault. Harvest community members <a href="https://twitter.com/BadgerDAO/status/1334921775013109761">were also eligible to receive</a> at least 20 BADGER during the launch of Badger token.</p>
+
+
+
+<h2>Closing thoughts</h2>
+
+
+
+<p>With yield farming practically being a full-time job, Harvest Finance has quickly become one of the leading yield aggregators in DeFi. It’s effective use of incentive structures aims to create a positive feedback loop that benefits all stakeholders of the Harvest Cooperative, ultimately forming a strong sense of community. If this farming experience interests you, <a href="https://harvest.finance/">go explore the opportunities available on Harvest Finance</a>. Or, join the Harvest <a href="https://discord.gg/ayKVET52z6">discord</a> to get to know the Harvest community for yourself. Thanks for reading.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Harvest to help educate and inform the community about the Harvest Cooperative. </em><em>DeFi Pulse received FARM tokens as part of its payment. </em><em>As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DeversiFi &#8211; A high-speed trading platform capable of 9000 TPS</title>
+		<link>./../../../2020/11/29/deversifi-nectar-beehive-v1/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 29 Nov 2020 19:00:03 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[decentralized exchange]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[deversifi]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[NEC]]></category>
+		<category><![CDATA[nectar]]></category>
+		<category><![CDATA[token]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8715</guid>
+
+					<description><![CDATA[Let’s face it&#8230; In the heat of the moment when it matters most you want to be using the fastest,...]]></description>
+										<content:encoded><![CDATA[
+<p>Let’s face it&#8230; In the heat of the moment when it matters most you want to be using the fastest, cheapest way to execute that critical trade. And when you trade on most DEXes, network congestion and the subsequent high gas fees impact your performance. Pay too low of a gas price and you’ll be stuck waiting around, sometimes only to have your transaction revert. So, your other option is to crank up the gas price and pay gas fees which add up over time, eating into your profits.&nbsp;</p>
+
+
+
+<p>These limitations can lead to a less-than-desirable experience for traders, especially those coming from centralized exchanges. Over the past few years, countless hours of research have gone into creating layer 2 technologies that allow DeFi applications like DEXes to scale far beyond what’s possible on layer 1. DeversiFi has made it their mission to provide a professional trading platform for traders as the first exchange on Ethereum to adopt StarkWare’s Validium Rollups Layer 2 scaling technology.&nbsp;</p>
+
+
+
+<h2>DeversiFi in a nutshell</h2>
+
+
+
+<p><a href="https://www.deversifi.com/"><strong>DeversiFi</strong></a><strong> is a self-custodial layer 2 DEX capable of processing up to 9000 transactions per second by utilizing zero-knowledge transaction batching technology. </strong>The next chapter for DeversiFi and the Nectar ecosystem begins soon with the launch of Nectar Beehive V1, a liquidity mining initiative designed to further bootstrap the Nectar community and produce sustainable, long-term liquidity for the NEC ecosystem.</p>
+
+
+
+<h1>The Evolution of DeversiFi</h1>
+
+
+
+<p>When you hear the term ‘liquidity mining’ you probably think of fly-by-night food token farms, however NEC, the token of the DeversiFi ecosystem, is in a category of its own. DeversiFi and the Nectar ecosystem have been pioneers of <a href="https://blog.deversifi.com/introducing-the-nectar-token-58ba40e5419a/">liquidity mining in the DeFi space since 2017</a> and are backed by notable partners such as ParaFi Capital, D1 Ventures, BR Capital, StarkWare, Bitfinex, ConsenSys, and Infura.&nbsp;</p>
+
+
+
+<p>Originally <a href="https://www.bitfinex.com/posts/279">incubated by Bitfinex</a> (now fully independent), DeversiFi began as Ethfinex Trustless, a decentralized exchange with a hybrid infrastructure with deep-liquidity from aggregated order books which access liquidity from exchanges like Bitfinex. <a href="https://blog.deversifi.com/introducing-the-nectar-token-58ba40e5419a/">Nectar (NEC) was introduced in 2017</a> as one of the first liquidity mining tokens as a way to reward Ethfinex users with a stake in the future development, governance and success of the platform. Ethfinex eventually closed its doors in August 2019 leaving behind 17000 ETH which was entrusted to NEC holders via the Nectar DAO, or NecDAO for short.&nbsp;</p>
+
+
+
+<h1>Piecing together DeversiFi, NEC, and NecDAO</h1>
+
+
+
+<p>Nectar’s original purpose was to incentivize liquidity on Ethfinex offering 50% of the centralized exchange’s trading fees. But after Ethfinex closed its doors, the remaining 17,000 ETH was passed onto the Nectar DAO and <a href="https://nectar.community/whitepaper">the role of NEC tokens has since expanded</a> to become the governance and utility token of the Nectar and DeversiFi ecosystem. The primary goal of Nectar is to grow the world’s largest community of decentralized exchange users. NEC tokens can be staked to earn reputation and become a voting member of NecDAO. Learn more about <a href="https://nectar.community/dao">Nectar DAO</a>.</p>
+
+
+
+<p>NEC is deflationary with the supply being reduced over time through a buy-and-burn model. Each week, up to 50% of the revenue from DeversiFi trading fees (based on daily trading volumes) are used to purchase NEC tokens through an open and transparent auction mechanism. These NEC tokens are then burned reducing the total supply.</p>
+
+
+
+<p>DeversiFi offers unique trading fee discounts to NEC token holders. On top of the trading fee discounts DeversiFi users receive based on their 30d trading volume, Nectar holders will soon be entitled to additional discounts of up to 20% depending on the average amount of Nectar tokens that they hold (and have locked inside DeversiFi) for the past 30 days. For example, if a trader expects to do 10 million USD of trading volume every 30 days, buying and holding 100,000 NEC could save them ~$4000 in fees per 30 days.</p>
+
+
+
+<p>You can see how DeversiFi and NecDAO have a symbiotic relationship. The more users trade on DeversiFi, the more NEC tokens are burned, the more valuable NEC becomes, the greater the value of the potential discounts NEC holders can receive. NecDAO and NEC holders benefit from generating proposals which improve DeversiFi and attract more trading volume. DeversiFi, in turn, has a dedicated community of NEC stakeholders that boost trading volumes and generally promote their platform.</p>
+
+
+
+<h1>Introducing Beehive, Nectar’s new liquidity mining initiative<img loading="lazy" src="https://lh5.googleusercontent.com/AEwu1MgeUK5S0tl0uXQodikfIOanlcWYVuse6Q0MkTmU9aiFDKMarX9s6vMtzaK1eXFSeyBU7p17Q0aAKtFmA6dYlSWSIR3tU3XV-KAkfWxi51od7v-bKYvk7AIGsIhGKiMsljo1" width="624" height="324"></h1>
+
+
+
+<p>Nectar Beehive V1 is a new community bootstrapping and liquidity mining initiative for the DeversiFi ecosystem that returns NEC to its roots of rewarding market makers.</p>
+
+
+
+<p>Nectar Beehive will allow liquidity providers to stake their tokens and earn NEC and BAL token rewards, offering multipliers up to 2x for those who also trade on DeversiFi. Of course, APY varies and is subject to many factors such as the price of NEC tokens and total participation in Nectar Beehive. Inspired by other popular liquidity mining initiatives, NEC rewards will be&nbsp; vested for 1 year, limiting sell pressure on the market and producing a sustainable source of liquidity for NEC.&nbsp;</p>
+
+
+
+<p>Nectar Beehive V1 officially launches on Tuesday December 1st, 2020. All the need-to-know details will be communicated in their <a href="https://discord.gg/GMtnTZeHpr">Discord</a> and <a href="https://twitter.com/deversifi">Twitter</a>. UPDATE: <a href="https://blog.deversifi.com/nectar-liquidity-mining/">Learn more about Nectar Beehive V1</a>.</p>
+
+
+
+<h1>DeversiFi offers a fast, smooth trading experience</h1>
+
+
+
+<p>We recommend you <a href="https://www.deversifi.com/">experience it for yourself</a> to see how it compares to what you’ve come to expect from a DEX or even centralized exchanges. DeversiFi have recently added Hermez Network token offering a 10% kickback to the first 100 users who trade HEZ (<a href="https://blog.deversifi.com/hez-token-now-available-on-deversifi/">details here</a>). In the run-up to Nectar Beehive, various new token pairs will be added allowing Beehivers to trade their favourite tokens while earning NEC.</p>
+
+
+
+<h2>High throughput and deep liquidity</h2>
+
+
+
+<p>Why are rollups so cool? I’m glad you asked. I’m not going to get into all the technical details of how zkSTARKs or Validium rollups work. But in a nutshell, they allow DeversiFi to offer a super fast layer 2 experience while still rooting all security in layer 1, in this case the Ethereum blockchain. DeversiFi was the first DEX to utilize StarkWare’s transaction batching technology StarkEx which processes and settles trades at extremely high speeds (approx. 9,000 tps).</p>
+
+
+
+<p>DeversiFi’s hybrid infrastructure features allows traders to tap into deep liquidity from aggregated order books including Bitfinex, resulting in self-custodial access to the best prices.</p>
+
+
+
+<h2>Gas-Free trading</h2>
+
+
+
+<p>No one likes paying high gas fees. They always seem to spike when you need to make an important trade. This typically happens because many traders are competing to “outbid” other traders to be included in the next block. <strong>DeversiFi users enjoy gas-free trading with instant finality</strong> thanks to its Validium rollups. Trades are processed in batches and securely submitted back to the Ethereum blockchain where customers’ funds are held. There is never any danger of trades being rolled back and rooting the transactions on-chain ensures customers would be able to withdraw their funds in the unlikely case where DeversiFi or StarkWare go offline.</p>
+
+
+
+<p>Gas fees are only required to lock and unlock tokens; this is because these interactions take place with DeversiFi’s smart contract on layer 1.</p>
+
+
+
+<h2>Privacy-by-default</h2>
+
+
+
+<p>Don’t leak that sweet sweet alpha. Validium rollups is one of the only layer 2 technologies on the market that enables private transactions. Privacy let’s you make the most of opportunities in the market without exposing your strategy to the public blockchain where it can be monitored and reverse-engineered. And while leaking alpha is bad, your data potentially falling into more nefarious hands is worse.</p>
+
+
+
+<p>Don’t underestimate the value of privacy when it comes to DeFi. Although the community is small now, DeFi is likely to grow into a wider mainstream market where bad actors may increasingly look to take advantage of personal data stored forever on the blockchain. As the saying goes: An ounce of prevention is worth a pound of cure.</p>
+
+
+
+<h1>DeversiFi’s roadmap aims to uniquely position the platform for the future</h1>
+
+
+
+<figure class="wp-block-image"><img src="https://lh3.googleusercontent.com/21xwQM4KCgKndacOHO9kIz_maga7Vzgs9-iIixBnsvt8iOB_yU7gblPBPY6sGC83NiaVwveE3PPmh-F10UeJ83-PPpop0dwIcGnn9LYmSeEGhGxWFR9btYjQRgp4Lr7g7rUpbL_C" alt=""/></figure>
+
+
+
+<p><a href="https://blog.deversifi.com/deversifi-public-roadmap/"></a></p>
+
+
+
+<p>Composability between platforms is the major game changer of DeFi. Within the next few months, DeFi is likely to experience an explosive growth in the number of protocols available on layer 1 in addition to the new and existing services migrating to layer 2. DeversiFi’s hybrid architecture and history of adaptation makes it uniquely situated to capitalize on the potential composability between layer 1 and layer 2 platforms as well as the opportunities that arise from bridging decentralized and centralized services like CEXs/DEXs.</p>
+
+
+
+<p>Let’s discuss some features coming up on DeversiFi’s roadmap. Head <a href="https://blog.deversifi.com/deversifi-public-roadmap/">here</a> for a full public roadmap.</p>
+
+
+
+<h2>Rapid Withdrawals and DeversiFi EARN</h2>
+
+
+
+<p>I haven’t met a person yet who enjoys the agony that is waiting for a withdrawal from an&nbsp; exchange. Previously, DeversiFi users would be required to wait until another batch of transactions is submitted to the blockchain in order to withdraw their funds. This can sometimes take a few hours depending on network congestion. With new rapid withdrawal functionality, DeversiFi users will be able to withdraw instantly, paying a fee and essentially “borrowing” liquidity from the DeversiFi EARN pool. Users can provide liquidity to DeversiFi EARN to earn fees for enabling rapid withdrawals. Both parties benefit from the arrangement: liquidity providers earn passive returns and traders have the option to skip the wait for a convenience fee.&nbsp;</p>
+
+
+
+<h2>Conditional transfers open the door for enhanced composability</h2>
+
+
+
+<p>Beyond fast withdrawals, conditional transfers open the door to many new possibilities and arbitrage opportunities for DeversiFi users. This upgrade would allow users to withdraw to new or different addresses, deposit from one address directly into their DeversiFi trading account, and it can even allow traders to make custom transactions directly interacting with other DeFi protocols on layer 1.&nbsp;</p>
+
+
+
+<p>You can imagine how this lowers the opportunity cost of holding funds in DeversiFi. DeversiFi users benefit from being positioned to effectively seize potential opportunities across centralized and decentralized layer 1 and layer 2 DEXes, improving the overall efficiency of the market.</p>
+
+
+
+<h2>Exploring synergies between DeFi and centralized services</h2>
+
+
+
+<p>DeversiFi has been exploring a number of things that would further enhance DeversiFi’s hybrid architecture including zero-knowledge KYC and several regulatory licenses that would allow them to provide regulated products such as derivatives and leverage to even traders based out of the United States.</p>
+
+
+
+<h1>Closing Thoughts</h1>
+
+
+
+<p>DeversiFi has put a lot of time and effort into building a very uniquely situated trading platform. When you put all the pieces together, it’s easy to see DeversiFi and the Nectar community are dedicated to building a platform that is sustainable with long-term goals. Experience what layer 2 has to offer today by trading on <a href="https://www.deversifi.com/">DeversiFi</a>. And don’t forget to mark your calendar for the launch of <a href="https://beehive.nectar.community/#/beehive">Beehive</a>! Thanks for reading.&nbsp;</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with DeversiFi to help educate and inform the community about the DeversiFi and the Nectar Ecosystem. DeFi Pulse received NEC tokens as part of its payment. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em> </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Lien &#8211; Governance-less ETH Options and Stablecoins</title>
+		<link>./../../../2020/09/05/lien/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sat, 05 Sep 2020 15:12:51 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[lien]]></category>
+		<category><![CDATA[options]]></category>
+		<category><![CDATA[options trading]]></category>
+		<category><![CDATA[stablecoins]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8535</guid>
+
+					<description><![CDATA[In the background of all the DeFi and yield farming commotion, stablecoins have been booming. DAI, USDC, USDT, and countless...]]></description>
+										<content:encoded><![CDATA[
+<p>In the background of all the DeFi and yield farming commotion, stablecoins have been booming. DAI, USDC, USDT, and countless others have been pouring into DeFi. While it is great to have so many options, each stablecoin has its trade-offs which users must consider. For some, the centralization risk of stablecoins like USDC are simply too great; they desire a stablecoin that is truly decentralized.</p>
+
+
+
+<p><a href="https://lien.finance/">Lien</a>, brought to you by an anonymous team of developers, has a solution for these folks: stablecoins backed by ETH derivatives with &#8220;governance-less&#8221; design which requires no over-collateralization and no manual adjustments to maintain the pegged exchange rate.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://lien.finance/"><img loading="lazy" width="1024" height="341" src="./../../../wp-content/uploads/2020/09/LienBannerWoTagline-1024x341.png" alt="" class="wp-image-8550" srcset="./../../../wp-content/uploads/2020/09/LienBannerWoTagline-1024x341.png 1024w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline-300x100.png 300w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline-768x256.png 768w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h2>Lien Protocol and iDOL</h2>
+
+
+
+<p>Lien Protocol powers a stablecoin called iDOL backed by ETH derivatives which allows it to utilize tranches or &#8220;tranching&#8221; to maintain stability.  iDOL is designed to be insensitive to the fluctuations in the USD price of ETH, minimizing the volatility by having speculators insure the risk. Instead of being directly backed ETH requiring over-collateralization to maintain its peg, iDOL is backed by a basket of bond tokens.</p>
+
+
+
+<p>Lien uses a system where ETH is tranched into two derivative contract tokens: Liquid Bond Token (LBT) and Solid Bond Token (SBT). These two bond tokens are minted at the same time with the same strike price and maturity date. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="534" src="./../../../wp-content/uploads/2020/09/Selection_396-1-1024x534.jpg" alt="" class="wp-image-8541" srcset="./../../../wp-content/uploads/2020/09/Selection_396-1-1024x534.jpg 1024w, ./../../../wp-content/uploads/2020/09/Selection_396-1-300x156.jpg 300w, ./../../../wp-content/uploads/2020/09/Selection_396-1-768x400.jpg 768w, ./../../../wp-content/uploads/2020/09/Selection_396-1.jpg 1310w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Upon maturity, SBT holders receive a fixed dollar amount (if possible) and then any remaining ETH is given to the LBT holder. If the price of ETH upon maturity is lower than the strike price, then the smart contract will pay out the entire ETH to the SBT holder and the LBT holder will receive nothing. In this way, LBT holders take on the brunt of the risk through speculation.</p>
+
+
+
+<h3>Let&#8217;s examine Lien Protocol in action</h3>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="552" src="./../../../wp-content/uploads/2020/09/Selection_397-1024x552.jpg" alt="" class="wp-image-8543" srcset="./../../../wp-content/uploads/2020/09/Selection_397-1024x552.jpg 1024w, ./../../../wp-content/uploads/2020/09/Selection_397-300x162.jpg 300w, ./../../../wp-content/uploads/2020/09/Selection_397-768x414.jpg 768w, ./../../../wp-content/uploads/2020/09/Selection_397.jpg 1034w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>This diagram above can be a bit confusing at first glance but it is simpler than you think once explained. First, you deposit ETH into Lien&#8217;s smart contracts which then splits or &#8220;tranches&#8221; ETH into SBT and LBT that have the same maturity and strike price. The SBT is sent to the iDOL smart contract and used as collateral to mint iDOL. At this point, you hold the LBT and the freshly minted iDOL which can be used and spent like other stablecoins. </p>
+
+
+
+<p>As the maturity date approaches, the SBT is auctioned off for iDOL by the protocol. Once it reaches maturity, the smart contract will pay out to the SBT holder,&nbsp;the dollar amount that the holder is entitled to in ETH. And then, the smart contract pays any remaining ETH to you as the LBT holder. As previously mentioned, LBT holders risk receiving nothing if the price of ETH is below the strike price upon maturity.</p>
+
+
+
+<h3>What makes Lien and iDOL special?</h3>
+
+
+
+<p>Instead of relying on over-collateralization, iDOL is backed by a basket of SBTs, each with their own maturity date, placing the brunt of risk on those speculating on the value of LBTs. As their <a href="https://lien.finance/pdf/iDOLWP_v1.pdf">whitepaper</a> so eloquently puts it: <em>&#8220;The stability of the SBT value is based upon the instability of the LBT value. That is, all the risks related to the price volatility of Ether are undertaken by the LBT holder, which then makes the value of SBT stable. We can think of LBT as a leveraged derivative token, the value of which is associated with Ether but fluctuates much more than Ether.&#8221;</em></p>
+
+
+
+<p>Lien Protocol has placed a buffer of sorts between iDOL holders and the volatility of ETH and the wider market. The system can automatically stabilize the price of SBT and subsequently iDOL at target levels using market forces alone without the need for governance.</p>
+
+
+
+<p>For those bullish on ETH, LBT functions like a call option on ETH that performs as a 2x leveraged ETH token. This allows you to create leveraged long positions by holding LBT. As with call options, you don’t have to worry about margin calls and liquidation during flash crashes.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="700" height="465" src="./../../../wp-content/uploads/2020/09/lien-diagram.png" alt="" class="wp-image-8536" srcset="./../../../wp-content/uploads/2020/09/lien-diagram.png 700w, ./../../../wp-content/uploads/2020/09/lien-diagram-300x199.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
+
+
+
+<h2>Lien FairSwap</h2>
+
+
+
+<p>Lien FairSwap is an AMM DEX which takes inspiration from Uniswap and attempts to mitigate some of the disadvantages of its design. FairSwap has built-in front-running protection which ensures transactions are settled in &#8220;a fair manner&#8221; by taking advantage of a frequent batch auction mechanism. FairSwap doesn&#8217;t process orders one by one and instead batches orders across a few blocks, called an &#8220;exchange box,&#8221; and then clears them all simultaneously.</p>
+
+
+
+<p>FairSwap provides liquidity for iDOL-related derivative tokens like SBT and LBT. Unlike iDOL&#8217;s smart contracts, FairSwap&#8217;s parameters can be modified after launch. To learn more about FairSwap, I recommend you check out the <a href="https://lien.finance/pdf/LienFairSwapWP_v1.pdf">whitepaper</a>.</p>
+
+
+
+<h2>LIEN token</h2>
+
+
+
+<p>As previously mentioned, Lien Protocol is designed to operate autonomously and &#8220;governance-free.&#8221; And so, LIEN token is not your typical governance token. LIEN can be considered a utility token that can be used to receive discounts/rebates on protocol fees. </p>
+
+
+
+<p>The Lien Protocol charges a fee (0.2%) when users mint the iDOL stable coin and when users exchange assets using FairSwap (0.3% &#8211; variable). Fees are collected in ETH or iDOL and are then distributed proportionally to holders of the Lien Token as discounts/rebates at the end of each month. 100% of Lien Protocol fees and 20% of FairSwap fees are attributed to Lien Token holders. <a href="https://medium.com/lien-finance/lien-token-metrics-f9e7bae3e407">See here for more info about LIEN.</a></p>
+
+
+
+<h2>Closing thoughts</h2>
+
+
+
+<p>Each and every week I get the pleasure of diving into new protocols and Lien Protocol did not disappoint. I can easily see how iDOL fulfills many people&#8217;s desire for a stablecoin without centralization or governance risk. I&#8217;d be curious to see down the line if there is an iGBP or iJPY because while iDOL is based on the dollar the system can be applied to other assets with sufficient oracles and market forces.</p>
+
+
+
+<h3>Lien Protocol and FairSwap are live on mainnet</h3>
+
+
+
+<p><strong>Although the Lien team is completely anonymous, special attention has been paid to smart contract security by the Lien team with initial code audits perform by <a href="https://diligence.consensys.net/audits/2020/05/lien-protocol/">ConsenSys Dilligence</a> in May and final code audits performed by <a href="https://certificate.certik.org/reports/lien_finance.pdf">CertiK</a>. </strong>To give you an even better idea of their mindset, the Lien team even imparts users with these wise words in<a href="https://medium.com/lien-finance/lien-apps-go-live-on-ethereum-mainnet-2b16cb28a5bf"> their launch post</a>: &#8220;<em>While audits are extremely important in assessing the validity and security of the code, they do not eliminate risks completely.&#8221;</em></p>
+
+
+
+<p><strong>Lien Protocol and FairSwap are live as of Friday Sept 4th, 2020.</strong> Head over to <a href="https://app.lien.finance/">Lien.finance</a> where you can trade LBT, mint iDOL, bid on SBT auctions, provide liquidity, and more today! </p>
+
+
+
+<p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve been paid by Lien Protocol to inform readers about their platform and iDOL. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Perpetual Protocol &#8211; 20x Leverage Perpetuals Never Limited by Available Liquidity</title>
+		<link>./../../../2020/08/30/perpetual-protocol/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 30 Aug 2020 16:18:11 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Exchanges]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[futures]]></category>
+		<category><![CDATA[perp]]></category>
+		<category><![CDATA[perpetual]]></category>
+		<category><![CDATA[perpetuals]]></category>
+		<category><![CDATA[vamm]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8489</guid>
+
+					<description><![CDATA[Innovation happens at a head-spinning pace in decentralized finance. As the ecosystem continues to stack up brick after brick, our...]]></description>
+										<content:encoded><![CDATA[
+<p>Innovation happens at a head-spinning pace in decentralized finance. As the ecosystem continues to stack up brick after brick, our capabilities reach new heights and knock down old barriers. The protocol I have the pleasure of introducing to you in this week&#8217;s DeFi Pulse Drop has its eyes set on disrupting the existing futures and derivatives market by offering innovations that lower the barrier to entry for even low liquidity futures.</p>
+
+
+
+<p><a href="https://perp.fi/">Perpetual Protocol</a> is a decentralized perpetual contract protocol capable of supporting 20x leverage for any asset without being limited by available liquidity thanks to its virtual AMM (vAMM) design.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://perp.fi/"><img loading="lazy" width="700" height="179" src="./../../../wp-content/uploads/2020/08/1_1wIKLnIokys0kmlCyynzTg.png" alt="" class="wp-image-8506" srcset="./../../../wp-content/uploads/2020/08/1_1wIKLnIokys0kmlCyynzTg.png 700w, ./../../../wp-content/uploads/2020/08/1_1wIKLnIokys0kmlCyynzTg-300x77.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></figure>
+
+
+
+<h2>What is a Virtual AMM (vAMM)?</h2>
+
+
+
+<p>To get a better understanding of the differences between your average AMM like Uniswap or Curve and Perpetual&#8217;s vAMM, let&#8217;s take a step back. Automated Market Maker (AMM) exchanges you&#8217;ve likely encountered before swap tokens with a constant product function <em>x*y=k</em>. And while there has been a lot of innovation happening around AMMs in the past couple years to optimize swapping assets, Perpetual Protocol&#8217;s virtual AMM (vAMM) is something unique which enables perpetual contracts for any asset with lower slippage by design. </p>
+
+
+
+<p>I know what you&#8217;re saying: &#8220;Aren&#8217;t all smart contracts <em>virtual</em>?&#8221; And, you&#8217;re not wrong, so let&#8217;s clear up what this means exactly by examining that function <em>x*y=k</em> from earlier. With most other AMMs, you deposit two assets into reserves represented as <em>x</em> and <em>y.</em> The available quantities of these two assets establishes the price you might pay to swap in either direction. As the supply of <em>x</em> increases, the supply of <em>y</em> decreases and vice versa. The result is that <em>k</em> remains constant and liquidity is always available albeit the price gets higher and higher as you approach the extremes in either direction. Perpetual Protocol&#8217;s vAMM functions similarly except it doesn&#8217;t actually store any tokens inside the AMM itself.</p>
+
+
+
+<p>Perpetual Protocol&#8217;s <a href="https://gov.perp.fi/t/deep-dive-into-our-virtual-amm-vamm/38">virtual AMM (vAMM)</a> gets its name from the fact that its doesn&#8217;t store, swap or spot trade any tokens and is only used for price discovery. Assets are instead sent to another smart contract referred to as the &#8220;Clearing House&#8221; which then stores the assets in the &#8220;Vault.&#8221; The Clearing House accepts deposits and records position ownership with the relevant info such as initial margin, level of leverage, and whether it is long or short.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1920" height="1080" src="./../../../wp-content/uploads/2020/08/perpetual-protocol-vammGIF-1.gif" alt="" class="wp-image-8500"/></figure>
+
+
+
+<p>This GIF illustrates a user entering a new position; Alice longs 2.439 ETH with 100 DAI as the collateral, subsequently changing the state inside this vAMM. As you can see, the initial state of this vAMM was 40000 vDAI and 100 vETH and now the vAMM&#8217;s state becomes 97.5609756 vETH and 41000 vDAI, but remember that the Vault still holds the 100 DAI Alice deposited. The Vault always has enough collateral to pay back every trader (given the assets are able to be liquidated) because one trader&#8217;s gain will cancel out another trader&#8217;s loss. Alice&#8217;s gains are Bob&#8217;s losses and so on and so on.</p>
+
+
+
+<h3>Funding Rate</h3>
+
+
+
+<p>In order to ensure vAMM markets follow the wider market, Perpetual Protocol utilizes an hourly funding rate similar to that of FTX Exchange. Each and every hour, funding payments are paid to traders as incentive to take up the unpopular side of the market bringing it back in line with the index price. For example, if the funding rate is positive, long positions pay short position holders,</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="614" height="68" src="./../../../wp-content/uploads/2020/08/9830363769d701def459c9d411726a64fae37ffb.png" alt="" class="wp-image-8496" srcset="./../../../wp-content/uploads/2020/08/9830363769d701def459c9d411726a64fae37ffb.png 614w, ./../../../wp-content/uploads/2020/08/9830363769d701def459c9d411726a64fae37ffb-300x33.png 300w" sizes="(max-width: 614px) 100vw, 614px" /></figure>
+
+
+
+<p>Chainlink oracles are used for the index price because in the words of the Perpetual team, &#8220;it&#8217;s the most battle-tested Oracle solution on the market.&#8221;</p>
+
+
+
+<h4>Insurance Fund</h4>
+
+
+
+<p>50% of all transaction fees on Perpetual Protocol are deposited into an Insurance Fund, which is used as the first line of defense when the system faces unexpected losses such as losses in the liquidation process and funding payments.</p>
+
+
+
+<h2>What makes a vAMM unique?</h2>
+
+
+
+<p>Perpetual Protocol&#8217;s vAMM affords it a few key advantages over other AMM designs.</p>
+
+
+
+<h3>No liquidity providers = no liquidity restrictions or impermanent losses</h3>
+
+
+
+<p>Perpetual Protocol has no cap on the open interest in its markets. <strong>Separating token reserves from price discovery allows Perpetual Protocol to guarantee liquidity for any size trade.</strong> Perpetual Protocol doesn&#8217;t require large liquidity reserves or liquidity providers at all to function due to the fact no funds are stored in the vAMM. As previously mentioned, one trader&#8217;s losses are another&#8217;s gains. Each trade counteracts another and the funding rate creates incentives to keep the market moving in the right direction. <strong>And because there are no liquidity providers, there is no impermanent loss from price fluctuations.</strong></p>
+
+
+
+<h3>Adjusting k to manage slippage</h3>
+
+
+
+<p>Another major difference with the design of virtual AMMs is Perpetual Protocol&#8217;s ability to adjust <em>k </em>in the equation to respond to market conditions i.e. reducing price slippage for traders. At first, <em>k </em>will be manually set by governance but the ultimate goal is to algorithmically adjust it based on a number of potential factors such as volumes, open interest, funding payments, volatility, etc.</p>
+
+
+
+<h2>PERP token</h2>
+
+
+
+<p>PERP tokens have three major functions: governance, staking, and acting as the asset of last resort.</p>
+
+
+
+<h3>Asset of Last Resort</h3>
+
+
+
+<p>PERP acts as the ultimate backstop of the system. In the case where the Insurance Fund is unable to cover unexpected losses, PERP tokens are minted and sold to cover the rest.</p>
+
+
+
+<h3>Governance</h3>
+
+
+
+<p>The Perpetual Protocol team has laid out a <a href="https://docs.perp.fi/getting-started/governance-plan">governance plan</a> with a timeline for transitioning control of the protocol to an on-chain governance system ran by PERP token stakers. The plan details future updates including on-chain voting with delegation, bug bounty programs, ecosystem grants, and eventually proposals will only be executable code, much like Compound&#8217;s current governance. In the immediate term, you can visit <a href="https://gov.perp.fi/">gov.perp.fi</a> to propose and discuss governance proposals. </p>
+
+
+
+<h3>Staking</h3>
+
+
+
+<p>PERP holders can stake their tokens for a fixed amount of time known as an &#8220;epoch&#8221; to receive staking rewards in PERP as well as a portion of the transaction fees in stablecoins. At launch, epochs last 7 days but can be adjusted by protocol governance. Although you may stake at anytime during an epoch, staking rewards are time-weighted meaning that staking earlier in the epoch yields a greater portion of rewards. Staked PERP tokens continue to rollover into the next epoch unless unstaked in the present epoch.</p>
+
+
+
+<p>50% of Perpetual Protocol fees are awarded to PERP stakers for taking on the risk of being the backstop to the Insurance Fund and properly governing the protocol. At the end of each epoch, stakers can claim their portion of transaction fees paid in stablecoins immediately; however, PERP earned via staking is locked until the first day of the same month in the subsequent year.</p>
+
+
+
+<h3>PERP Distribution</h3>
+
+
+
+<p>According to Perpetual Protocol&#8217;s distribution <a href="https://docs.perp.fi/getting-started/perp-tokens">overview</a> found in their docs, the initial total supply is distributed as follows:</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="371" src="./../../../wp-content/uploads/2020/08/perp-distribution.png" alt="" class="wp-image-8491" srcset="./../../../wp-content/uploads/2020/08/perp-distribution.png 600w, ./../../../wp-content/uploads/2020/08/perp-distribution-300x186.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+
+
+
+<ul><li><em>7,500,000 PERP tokens: Balancer LBP.</em></li><li><em>36,000,000 PERP tokens: Team and advisors.</em></li><li><em>6,250,000 PERP tokens: Binance Labs, invested in the development of the Perpetual Protocol approximately 2 years ago.</em></li><li><em>22,500,000 PERP tokens: Strategic investors to the extent they fully exercise their rights to purchase PERP tokens.</em></li><li><em>77,750,000 PERP tokens: Ecosystem and rewards, which will benefit traders, stakers, and developers who participate in the Perpetual Protocol ecosystem. As Perpetual Protocol transits to community governance, the Perpetual Protocol community will make all decisions regarding the distribution of ecosystem rewards.</em></li></ul>
+
+
+
+<p>It&#8217;s worth noting that only 10% of the PERP tokens allotted to ecosystem and rewards will be unlocked until the community governs the protocol on-chain. Additionally, protocol governance or an emergency minting of PERP tokens to backstop the system could result in the max supply of 150,000,000 PERP being altered.</p>
+
+
+
+<p>The Perpetual Protocol team plans to make 7.5M PERP tokens available on Balancer around Sep 7, 2020 at 6:00 am UTC. This first Balancer pool will be a liquidity bootstrapping pool designed to disincentivize price speculation and front running. Check <a href="https://medium.com/@perpetualprotocol/perp-token-distribution-2f1b6196744d">here</a> for more details and also stay tuned to <a href="https://twitter.com/perpprotocol">Perpetual&#8217;s twitter</a>. There are also plans to have a <a href="https://docs.perp.fi/getting-started/liquidity-mining-proposal">liquidity mining rewards</a> program to further bootstrap the system. </p>
+
+
+
+<h2>Conclusion</h2>
+
+
+
+<p>It&#8217;s been truly exciting to watch DeFi grow recently. And to me, projects like Perpetual Protocol mark a new level of maturity for decentralized finance. The Perpetual team has put together some interesting new concepts with existing money legos to expand the DeFi ecosystem&#8217;s toolbox. I recommend you check out Perpetual Protocol&#8217;s<a href="https://perp.fi/"> trading interface</a>, dive into their <a href="https://docs.perp.fi/">documentation</a> if you&#8217;d like more information, or even join the discussions happening in their <a href="https://gov.perp.fi/">gov. forum</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve been paid by Perpetual Protocol to inform readers about their platform and perpetual contracts. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Yield Farming Frenzy and its Impact on DeFi</title>
+		<link>./../../../2020/07/16/the-yield-farming-frenzy-and-its-impact-on-defi/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 16:57:34 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[balancer]]></category>
+		<category><![CDATA[Compound]]></category>
+		<category><![CDATA[compound finance]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[liquidity mining]]></category>
+		<category><![CDATA[mcdex]]></category>
+		<category><![CDATA[yield farming]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8371</guid>
+
+					<description><![CDATA[If you follow DeFi, you’ve probably noticed that the concept of yield farming is everywhere lately. From some of the...]]></description>
+										<content:encoded><![CDATA[
+<p>If you follow DeFi, you’ve probably noticed that the concept of yield farming is everywhere lately. From some of the most original memes in the Ethereum ecosystem to traditional news outlets like Forbes, crop rotation to maximize yield across protocols has become one of the defining activities on DeFi in 2020.</p>
+
+
+
+<h3><strong>So, what is Yield Farming?</strong></h3>
+
+
+
+<p>Yield farming is the act of leveraging different DeFi protocols and products to earn a yield or a return on their assets, in some cases obtaining profits well over 100% APY through a combination of lending interest and token incentives. </p>
+
+
+
+<p>The recent yield farming frenzy made total value Locked (TVL) on DeFi skyrocket to new all-time highs, zooming far past $2B. Yield farming has had a substantial impact on protocols like Compound, Balancer, Curve, MCDEX, and Uniswap V2 just to name a few as DeFi users aim to cash in on the trend. This frenzy has brought some important questions to light. Should short term speculative usage of the Ethereum network be considered an indicator of long term adoption? Is this frenzy only a momentary activity that will lose traction once yields go down? Ultimately, is this the beginning of a new growth cycle for Ethereum?</p>
+
+
+
+<h3><strong>How Did The Yield Farming Frenzy begin?</strong></h3>
+
+
+
+<p>The Yield Farming frenzy started when Compound began the live distribution of COMP, its governance token, on June 14th. Compound reached more than $600M total value locked, and overtook MakerDAO for the first time ever on DeFi Pulse’s leaderboard, making it the #1 protocol in DeFi by this measure in a matter of days. However, COMP appears to have only been the beginning with Balancer having launched their protocol rewards incentive program in May started their live distribution a few days after Compound. Balancer experienced similar exponential growth, adding more than $70M TVL.</p>
+
+
+
+<p>Although the frenzy started with COMP, yield farming has been known and practiced in DeFi for some time now. Synthetix, for example, had introduced the concept of protocol token rewards in exchange for liquidity provision to the sETH/ETH pool on Uniswap V1 in July 2019.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Today marks the end of an era. Right as yield farming is taking off we just finalised a poll on SCCP-29 <a href="https://t.co/bXU07AjQsd">https://t.co/bXU07AjQsd</a>. This was the original yield farming pool for sETH:ETH on Uniswap V1. So as it winds down, let&#39;s take a little trip down memory lane.</p>&mdash; kain.eth (@kaiynne) <a href="https://twitter.com/kaiynne/status/1276417760222797825?ref_src=twsrc%5Etfw">June 26, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Things really started taking off a few hours after COMP began being distributed and users started heavily investing in the USDT market on Compound, the one paying the highest amount of COMP rewards. COMP is distributed on a 50%-50% basis between suppliers and borrowers of a given market, and total rewards are allocated in a proportional way to each market’s yield returns. One of the many strategies that were applied was taking out USDT loans with DAI as collateral and investing them in the corresponding market on Compound. Next, BAT became the most profitable market for COMP farming. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">I just went short on <a href="https://twitter.com/search?q=%24USDT&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$USDT</a> using <a href="https://twitter.com/search?q=%24DAI&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$DAI</a> as collateral on <a href="https://t.co/cnckUC54V0">https://t.co/cnckUC54V0</a> using maximum <a href="https://twitter.com/search?q=%24COMP&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$COMP</a> mining recipe.<br><br>Looks like I&#39;m earning way more than I&#39;m paying interest with the current <a href="https://twitter.com/search?q=%24COMP&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$COMP</a> price hovering around ~$60.<a href="https://twitter.com/hashtag/YOLO?src=hash&amp;ref_src=twsrc%5Etfw">#YOLO</a> <a href="https://t.co/03YGZm0Jui">pic.twitter.com/03YGZm0Jui</a></p>&mdash; Samyak Jain (@smykjain) <a href="https://twitter.com/smykjain/status/1272634332599824390?ref_src=twsrc%5Etfw">June 15, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Compound’s team proposed to update the system’s liquidity incentive one week after COMP distribution went live on June 27th. The proposal looked to discourage an inorganic demand for BAT and other assets since users were concentrating extreme liquidation risks into these markets. The new liquidity incentive proposal was executed on July 2nd. Currently, COMP is distributed proportionally across the markets that borrow more dollars, and not dollars of interest paid. Rewards continue to be distributed on a 50%-50% basis between suppliers and borrowers of a given market. You can read more about <a href="https://compound.comradery.io/post/1762">Compound’s proposal to update the system’s liquidity incentives here.<br><br></a>The liquidity incentive effectively discouraged farmers from leveraging markets such as BAT. And now, yield farmers have ballooned the Compound DAI markets to levels higher than the total DAI in existence.  You can check out <a href="https://compound.finance/markets">the current Compound markets here</a> and <a href="https://compound.finance/governance/comp">COMP distribution here</a>.</p>
+
+
+
+<p>Balancer began its live distribution of BAL on June 23rd, which caused a spike of more than $50M in TVL in a few days. You likely recall our previous DeFi Pulse Drop with <a href="https://defipulse.com/blog/balancer-start-liquidity-mining-and-earn-bal-tokens-today/">Balancer Labs announcing their liquidity incentive program, which allows users to earn BAL on top of pool swap fees</a>. Seventy-five million BAL tokens (75% of fully diluted supply) will be distributed among liquidity providers on a 145K weekly basis.&nbsp;</p>
+
+
+
+<h3><strong>Is this the beginning of a new growth cycle for DeFi?</strong></h3>
+
+
+
+<p>The current Yield Farming frenzy has some resemblances with the ICO frenzy of 2017, in which billions of dollars were invested across many tokens, which ultimately proved to be worthless.<strong> One of the main differences with today’s Governance Tokens is that these are being issued by protocols that <em>already have running products that provide value to the ecosystem</em>, instead of being outright scams.</strong> Even though it’s probable that today’s high yields will face a market correction and be lowered at some point, the current frenzy might still continue for some time. And as we have learned in the past, adoption increases after each frenzy: more users and developers are driven to the ecosystem, and the allocated capital funds the development of new innovations that are later used by a broader ecosystem.</p>
+
+
+
+<p>Are you interested in learning more about Yield Farming strategies? Subscribe to <a href="https://yieldfarmer.substack.com/">DeFi Pulse Farmer</a> to learn fresh yield farming plays and insights on big governance decisions.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Introducing mStable &#8211; meta-assets with native yield and zero slippage swaps</title>
+		<link>./../../../2020/07/10/introducing-mstable/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 10 Jul 2020 13:30:00 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[aave]]></category>
+		<category><![CDATA[Compound]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[mstable]]></category>
+		<category><![CDATA[musd]]></category>
+		<category><![CDATA[stablecoins]]></category>
+		<category><![CDATA[USDC]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8351</guid>
+
+					<description><![CDATA[The fragmentation of the stablecoin market in DeFi has led to a lackluster experience for many crypto users. Gone are...]]></description>
+										<content:encoded><![CDATA[
+<p>The fragmentation of the stablecoin market in DeFi has led to a lackluster experience for many crypto users. Gone are the days when DeFi was DAI-centric; nowadays, most DeFi users find themselves having to shuffle between a handful of stablecoins in order to take advantage of the opportunities available in DeFi. </p>
+
+
+
+<p>And if you aren&#8217;t trying to hack your yield, you&#8217;re missing out by today&#8217;s standards. The whole process can be a lot to take in for even experienced users; imagine being a new user trying to determine the best stablecoin to own <em>and </em>earn the best yield. On its face, it&#8217;s not a simple problem to solve and sometimes users are forced to make compromises. At least until now&#8230; One of the best qualities of DeFi is that there&#8217;s always someone tackling new problems as they arise. That&#8217;s where mStable comes in with meta-assets like mUSD.</p>
+
+
+
+<h2>mStable&#8217;s mUSD is tokenized USD made simpler, safer, and more efficient</h2>
+
+
+
+<p>mStable&#8217;s mUSD addresses both the fragmentation of USD-pegged stablecoins and the lack of native yield by uniting stablecoin swapping and lending. And, it does so while also offering protection against complete capital loss (more on that in a bit). mUSD is a USD-pegged token backed by a basket of popular stablecoins with built-in yield generated from mStable SWAP fees and lending collateral on Compound and Aave. To be more precise, mStable assets like mUSD are actually a LP share in a dynamic pool of assets that generates yield, offers 0 slippage swaps between its underlying assets, and serves as a first class asset. I know that&#8217;s a bit of a mouthful. So let&#8217;s take a look at mUSD, which is <a href="https://medium.com/mstable/mstable-now-live-on-mainnet-c9f55f748ac7">live on the mainnet</a>, as an example.</p>
+
+
+
+<p>When you first open <a href="https://app.mstable.org/">the app</a>, you&#8217;re greeted with mStable&#8217;s sleek interface containing a few quick slides that break down mUSD&#8217;s three main functions: <strong>MINT</strong>, <strong>SAVE</strong>, and <strong>SWAP</strong>.</p>
+
+
+
+<h3>MINT</h3>
+
+
+
+<p>Anyone can <a href="https://app.mstable.org/mint">mint new mUSD</a> by depositing a 1:1 ratio of USDT, USDC, TUSD or DAI into mStable. For example, if you send 1000 USDT, you&#8217;ll receive 1000 mUSD. You can also conveniently &#8220;multi-mint&#8221; mUSD sending multiple stablecoins at the same time. On the flip side, you can redeem mUSD 1:1 for any of the underlying assets under normal conditions.</p>
+
+
+
+<p>An important aspect of mStable&#8217;s design is the maximum weights set for assets in each basket. This limit prevents a basket from becoming unbalanced with too much of one asset. When an asset reaches its max weight, it changes how users can mint, swap, or redeem mStable assets like mUSD.</p>
+
+
+
+<p>Say mUSD is overweighted towards USDT, users are unable to mint mUSD with USDT, only TUSD, DAI, and USDC. Whereas if you&#8217;re looking to redeem mUSD, you would only be able to multi-redeem into an equivalent combination of assets according to the basket&#8217;s current weight or straight 1:1 for USDT. These limits keep mUSD on peg and act as a safety measure to keep mUSD collateralized in the unfortunate event one of the underlying assets&#8217; value falls below its peg. You can find current mUSD basket analytics <a href="https://app.mstable.org/analytics">here</a>.</p>
+
+
+
+<p>mStable&#8217;s <a href="https://docs.mstable.org/mstable-assets/functions/governance">governance system</a> and Meta (MTA) token are designed to reduce the risks for mUSD holders. If an underlying asset completely loses its value causing mUSD to fall off its peg, mStable&#8217;s Meta Governors as they are called can vote to purge the asset and recover the lost value using by selling staked MTA token for the outstanding mUSD. This mUSD is then burned until the system is re-collateralized. MTA token holders stake their MTA essentially acting as insurance against loss to receive a portion of all revenue that mStable generates.</p>
+
+
+
+<p>mUSD&#8217;s design affords DeFi users convenient access to its underlying stablecoins while offering a hedge against their individual risks and enhance their functionality with features such as native yield. Another handy aspect of mUSD is that the yield it generates through SAVE actually mints new mUSD meaning it&#8217;s always priced 1:1 to the USD by design.</p>
+
+
+
+<h3>SAVE</h3>
+
+
+
+<p>Once you&#8217;ve minted some mUSD, you can <a href="https://app.mstable.org/save">deposit your mUSD into SAVE and start earning</a>. All mStable asset holders can earn a native yield generated from mStable SWAP fees combined with interest accrued from lending out the underlying assets to decentralized lending markets like Compound and AAVE. A portion of this yield is allocated to Meta (MTA) holders as reward for governing and insuring mStable. At the time of writing, the average daily APY over the past 7 days on mUSD&#8217;s SAVE contract is over 23%. Obviously, this rate is subject to change as lending market rates and trading volumes vary.</p>
+
+
+
+<p>mStable&#8217;s SAVE contract takes chasing interest rates between stablecoins and lending markets which is practically a full-time job at this point and makes it simple for users just looking to hold and earn value as tokenized USD. SAVE currently supports lending on Compound and AAVE but Meta Governors will have the ability to add or remove lending platforms through mStable governance. When you combine this with the fees generated from mStable zero-slippage SWAP fees and single asset mUSD redemptions, mUSD&#8217;s advantages over holding any individual stablecoin start to add up.</p>
+
+
+
+<h3>SWAP</h3>
+
+
+
+<p>Anyone can use <a href="https://app.mstable.org/swap">mStable SWAP</a> to swap TUSD, DAI, USDC, and USDT with zero-slippage and a fixed BPS fee. Zero-slippage swaps are made possible by a combination of mStable&#8217;s straight line <a href="https://medium.com/mstable/introducing-constant-sum-bonding-curves-for-tokenised-assets-6e18879cdc5b">constant sum bonding curves</a> and the insurance MTA tokens provide to the system. This also enables SWAP to scale from day 1 because prices are not dependent on the amount of liquidity in the pool.</p>
+
+
+
+<p>As with minting, swaps that would push an asset over its max weight are paused, altering swap rules for only this asset until the basket is rebalanced. And as previously mentioned, users with mUSD in SAVE earn the fees generated from SWAP. Although, a portion of these fees are rewarded to those staking MTA.</p>
+
+
+
+<h2>Meta (MTA) token and mStable governance</h2>
+
+
+
+<p>mStable&#8217;s core team controls the mStable protocol at launch; However, the plan is to distribute Meta (MTA) tokens and gradually turn mStable governance systems over to the community of Meta Governors. MTA reward programs will be used to bootstrap the mStable ecosystem rewarding early adopters. Although MTA doesn&#8217;t exist yet, you can actually take part in ecosystem rewards and earn MTA early right now (more details in the section below).</p>
+
+
+
+<p>To participate in governance and earn their allotted share of mStable revenue, users must stake their MTA tokens. Staking rewards act as an incentive for Meta Governors to properly maintain the growth and stability of mStable. Meta Governors may propose and vote on protocol changes such as:</p>
+
+
+
+<ul><li>Add or remove mStable assets</li><li>Add or remove basket assets</li><li>Adjust the max weights of basket assets</li><li>Change SWAP fees</li><li>Change MTA staking rewards / revenue take</li></ul>
+
+
+
+<h4>Meta (MTA) Distribution</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="963" height="591" src="./../../../wp-content/uploads/2020/07/mta-dist.png" alt="" class="wp-image-8358" srcset="./../../../wp-content/uploads/2020/07/mta-dist.png 963w, ./../../../wp-content/uploads/2020/07/mta-dist-300x184.png 300w, ./../../../wp-content/uploads/2020/07/mta-dist-768x471.png 768w" sizes="(max-width: 963px) 100vw, 963px" /></figure>
+
+
+
+<ul><li><strong>Current Investors:&nbsp;</strong>6.5%</li><li><strong>Reserved for future sales &amp; growth:</strong>&nbsp;26.0%</li><li><strong>Reserved for Public Rewards:&nbsp;</strong>20.0%</li><li><strong>Reserved for Institutional Rewards:&nbsp;</strong>5.0%</li><li><strong>Rewards yet to be allocated:&nbsp;</strong>20.0%</li><li><strong>Team, Advisors &amp; Future Team:&nbsp;</strong>22.5%</li></ul>
+
+
+
+<h3>Ecosystem rewards</h3>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/07/mta-rewards-1024x479.png" alt="" class="wp-image-8362"/></figure>
+
+
+
+<p>20,000,000 MTA in total, or rather 20% of MTA’s total supply, will be emitted via ecosystem rewards over the next 5 years to bootstrap mStable and promote a fairer, wider distribution of Meta tokens. Rewards encourage users to mint mStable assets and to create liquidity and utility with those assets.</p>
+
+
+
+<p>Ecosystem Rewards began June 26th, 2020 with the launch of mStable&#8217;s first reward pool on Balancer creating liquidity for mUSD&lt;&gt;USDC. Ecosystem rewards will continue in monthly tranches, increasing over the first 15 months, and then slowly decline until the allocated MTA is exhausted.</p>
+
+
+
+<h4>Earn MTA via Balancer pools</h4>
+
+
+
+<p>mStable&#8217;s<a href="https://pools.balancer.exchange/#/pool/0x72Cd8f4504941Bf8c5a21d1Fd83A96499FD71d2C"> first MTA reward pool</a> is a Balancer pool weighted 50% mUSD / 50% USDC with a 5 bps trading fee. Anyone can mint mUSD and deposit equal parts mUSD and USDC into the pool and start earning MTA on top of the usual BAL token rewards and potential Balancer pool profits. The <a href="https://medium.com/mstable/mstables-second-mta-reward-pool-is-now-live-af22ad151b47">second MTA reward pool</a> is another Balancer pool with similar weights and fees; however this pool is mUSD/WETH.</p>
+
+
+
+<p>350,000 MTA will be awarded to pool liquidity providers over the first month. Each week, a snapshot will be taken at a random time and 50,000 MTA will be allocated to the participating addresses in proportion to their contribution to their respective pools.</p>
+
+
+
+<h3>MTA token launch</h3>
+
+
+
+<p>mStable is set to launch Meta (MTA) on Balancer at approximately 14:00 UTC on Wednesday, July 15th 2020. At that time, 2,666,666 MTA tokens and ~$400,000 mUSD will be deposited into a new Balancer liquidity pool. The initial liquidity pool price will effectively be set to $0.15 mUSD/MTA. <a href="https://medium.com/mstable/introducing-meta-mta-mstables-protocol-token-6e1032291ccf">Read more</a>. <em>** Since publication, <a href="https://twitter.com/mstable_/status/1283264646405746688">the launch has been delayed</a>.</em></p>
+
+
+
+<h2>Concluding thoughts</h2>
+
+
+
+<p>As someone who has been around for a while, I&#8217;ve seen a lot and I can say that mStable&#8217;s mUSD is an elegant solution to the current issues stablecoin holders face. The purpose of stablecoins is to act as a useful and stable store of value; mUSD takes this to the next level by extending the functionality of existing stablecoins while also mitigating risk for holders. </p>
+
+
+
+<p>I&#8217;m excited to see the future of mStable protocol with assets like mBTC, mGBP, mEUR, and mGLD. Not to mention, there are so many opportunities for Meta Governors to expand the utility of mAssets by integrating new lending protocols and DeFi services.</p>
+
+
+
+<p><a href="https://app.mstable.org/">Mint your first mUSD today</a> or learn more about mStable by heading to their <a href="https://mstable.org/">website</a>. Thanks for reading! I hope you enjoyed learning about this awesome project.</p>
+
+
+
+<p><em>Disclosure: This post is part a promotional series; We&#8217;ve partnered with mStable to inform the community about their cool meta-assets system. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+
+
+
+<p><br><br><br></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Meet The Token List — An Accurate List of Authentic Tokens on Ethereum</title>
+		<link>./../../../2020/05/07/meet-the-token-list/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Thu, 07 May 2020 17:42:43 +0000</pubDate>
+				<category><![CDATA[New Features]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[defi pulse]]></category>
+		<category><![CDATA[ERC20]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[list]]></category>
+		<category><![CDATA[token]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8230</guid>
+
+					<description><![CDATA[Imagine you&#8217;re trying out a new DeFi project. Everything is going smoothly; the instructions on screen guide you, making you...]]></description>
+										<content:encoded><![CDATA[
+<p>Imagine you&#8217;re trying out a new DeFi project. Everything is going smoothly; the instructions on screen guide you, making you feel confident in your actions. That is until you complete your transaction and then your tokens don&#8217;t arrive. You start to get that sinking feeling in your stomach as you realize you&#8217;ve received tokens the wrong tokens&#8230;</p>
+
+
+
+<p>Looking at your transaction confirmation you realize you received a token with the same name and ticker symbol as the one you thought you selected. In fact, upon reviewing the token selection menu you realize there are lots of inaccurate and confusing tokens listed. It&#8217;s a simple mistake but costly mistake anyone could make that leaves a sour taste in your mouth about the whole experience.</p>
+
+
+
+<h4>So what happened?</h4>
+
+
+
+<p>On Ethereum, anyone can create a token with any name or ticker symbol. It&#8217;s not like registering a username on a website; there&#8217;s no native mechanism preventing a new token from having the same name, symbol, or even icon as an existing token. Whether intentionally or not, duplicate or misleading tokens are created all the time making mistakes like the one described above more and more likely to occur for even the most experienced users.</p>
+
+
+
+<p>Not to mention, DeFi grows so quickly that it&#8217;s practically impossible to keep up with the countless new tokens being produced by projects. DAI alone has over 30 variations. This situation isn&#8217;t slowing down anytime soon and a lot of collective time is being spent in our community right now playing detective in order to determine if a token is the right token.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://defipulse.com/token-list"><img loading="lazy" src="./../../../wp-content/uploads/2020/05/token-list-thumb-1-wo-padding.jpg" alt="" class="wp-image-8247" width="638" height="638"/></a></figure></div>
+
+
+
+<h2>Meet The Token List</h2>
+
+
+
+<p>The Token List provides an accurate list of authentic tokens submitted and curated by the community. Its purpose is to create a standard list of tokens that everyone can rely on. <strong>Anyone can apply to have a token added to The Token List as long as it isn’t likely to be confused with previously listed or well-known tokens. And, it&#8217;s free for anyone to integrate The Token List into their project.</strong></p>
+
+
+
+<p>A reliable well-vetted token list serves as a source of truth for the community helping ensure users are never confused by misleading tokens or outright scams. The idea is that when you see a platform is using The Token List, you can be confident that the tokens available are the real deal.</p>
+
+
+
+<h3>Implementation is fast, easy and forever free</h3>
+
+
+
+<p>Integrating The Token List into your project is simple and worry-free with little to no maintenance. <a href="https://defipulse.com/token-list">The Token List</a> lets your team work smarter, not harder. No more wasting man hours on listing new tokens on top of maintaining the ever-growing list of existing tokens. And best of all, <strong>it&#8217;s forever free to use</strong> &#8211; no upfront cost or ongoing fees.</p>
+
+
+
+<p>The Token List provides all the relevant information for each authentic token in JSON format: </p>
+
+
+
+<ul><li>token name</li><li>contract address </li><li>ticker symbol </li><li>decimals</li><li>icon image</li><li>token standard (ERC20, ERC223, etc)</li><li>and flags describing token qualities such as: is it used in governance, is it a social token, etc.</li></ul>
+
+
+
+<p>We handle the listing and maintenance for you so you can get back to building what matters.</p>
+
+
+
+<h4>Got a token? Apply to The Token List in a snap.</h4>
+
+
+
+<p>As previously mentioned, anyone can submit an application to list any authentic token to The Token List. Simply, visit <a href="https://defipulse.com/token-list">The Token List</a>, click the &#8216;Add a Token now!&#8217; button (powered by Unlock Protocol). It costs a flat fee of 0.05 ETH to apply. And then, follow the prompts to fill out the simple form with the required token details. </p>
+
+
+
+<p>We review all applications for authenticity and to ensure that they are unique enough to not confuse the average user. We want to help improve user experience, not act as gatekeepers, so we&#8217;ll err on the side of inclusion where possible (but for the safety of the community we do reserve the right to reject outright scams or tokens intending to mislead, etc).</p>
+
+
+
+<h3>Adaptive token selection</h3>
+
+
+
+<p>Opening up the token listing process benefits all involved by making UX/UIs become more responsive and inclusive. Instead of acting as a potential gatekeepers, DeFi projects now become advocates of collaboration and empower their community to take ownership of the token listing process. Additionally, the community lends their watchful eyes to help maintain the accuracy and authenticity of existing token listings (because we know how fast some things change in DeFi).</p>
+
+
+
+<h3>Collaboration and composability</h3>
+
+
+
+<p>The ability to connect and combine existing smart contracts to create something new is a defining aspect of DeFi. We&#8217;re an industry built on collaboration which increases the pace of innovation. Projects and users alike benefit from keeping this shared list of tokens up-to-date with the latest listings and changes to existing tokens, potentially serving as a catalyst for even more composability between DeFi projects. Naturally, it&#8217;s easier to work together when you&#8217;re all on the same page. For example: when one project submits their newest token, it&#8217;s automatically added to all projects using The Token List.</p>
+
+
+
+<h2>Take advantage of The Token List today</h2>
+
+
+
+<p>Whether you&#8217;re hacking together an idea, tired of maintaining your current token listings, or want to make your token known to the world, <a href="https://defipulse.com/token-list">The Token List</a> is a simple but effective solution to meet your needs.</p>
+
+
+
+<p>We&#8217;re really excited for this release and the potential impact an open, accessible standard token list could have on DeFi. Standards can improve quality of life and safety for users and make developers&#8217; work easier and more efficient. We&#8217;re also interested to see how this list will grow with community input. We&#8217;re 100% open to new ideas like new descriptive flags. So please let us know what you think on <a href="https://twitter.com/defipulse">Twitter</a>, <a href="https://discord.gg/Gx4TCTk">Discord</a>, and <a href="https://t.me/defipulse">Telegram</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

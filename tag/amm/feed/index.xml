@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>amm &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 23 Apr 2021 13:02:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Founder Fireside Chat with Sunil Srivatsa of Saddle</title>
+		<link>./../../../2021/04/23/founder-fireside-chat-with-sunil-srivatsa-of-saddle/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 23 Apr 2021 13:02:32 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Founder Fireside Chats]]></category>
+		<category><![CDATA[amm]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[saddle]]></category>
+		<category><![CDATA[saddle-finance]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9169</guid>
+
+					<description><![CDATA[The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/04/saddl_blog_header.png" alt="" class="wp-image-9170" width="1024" height="512"/></figure>
+
+
+
+<p class="has-medium-font-size"><em>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity to better understand their perspective and what drives them to build their vision.</em></p>
+
+
+
+<p class="has-medium-font-size">We&#8217;re back with another thought-provoking chat. This time we had the chance to talk with Sunil Srivatsa, Founder of <a href="http://saddle.finance/">Saddle</a>, about the lessons he&#8217;s learned about importance of community and the power of memes while building their AMM.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q1-1.png" alt="" class="wp-image-9026" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size">We’re building Saddle, an automated market maker for pegged value crypto assets, like tokenized bitcoin, stablecoins, or ETH derivatives.&nbsp; The team is currently wrapping up work on V1 Virtual Swaps (powered by Synthetix), which will enable large, low slippage trades between any type of asset supported by Saddle.&nbsp; These types of swaps suffer from a common flaw on L1 though, which is that they break existing aggregator integrations (e.g. 1inch, Matcha) since they are multi-step trades.</p>
+
+
+
+<p class="has-medium-font-size">Saddle solves this by being co-located with Synthetix on Optimism’s L2 scalability stack &#8211; we just recently performed our first test trades on Optimism!&nbsp; By porting our Virtual Swap contracts to Optimism, we’ll be able to offer these same swaps with instant settlement and lower transaction fees, which also makes smaller trades viable.</p>
+
+
+
+<p class="has-medium-font-size">Another key differentiator that sets us apart from similar offerings is that all of our code has been open sourced under a permissive license.&nbsp; We’ve since seen several other well known projects build upon our work, including Sushiswap V3, Nerve on Binance Smart Chain, and Snowball on Avalanche!</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">Different use cases will have different priorities when it comes to tradeoffs between security, scalability, and decentralization.&nbsp; <strong>In decentralized finance, applications are handling large amounts of capital and user funds, and security is generally the most important consideration.</strong></p>
+
+
+
+<p class="has-medium-font-size">Security lapses, especially ones that involve the loss of funds, are some of the worst events for a protocol’s reputation.&nbsp; The security of user funds is our top priority, which is why we conducted three back-to-back smart contract audits with Certik, Quantstamp, and Open Zeppelin before launching Saddle.</p>
+
+
+
+<p class="has-medium-font-size"><strong>A common place where you can see this tradeoff in action is how many protocols have a smaller multisig with admin key capabilities for emergency situations</strong> (e.g. temporarily pausing trades if a vulnerability is found).&nbsp; In these cases, protocols are trading decentralization for security.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/04/Q6.png" alt="" class="wp-image-9134" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/04/Q6.png 1200w, ./../../../wp-content/uploads/2021/04/Q6-300x55.png 300w, ./../../../wp-content/uploads/2021/04/Q6-1024x188.png 1024w, ./../../../wp-content/uploads/2021/04/Q6-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size"><strong>It’s vital that community members feel ownership and a sense of belonging.&nbsp; </strong>Compound’s launch of the COMP governance token in June of last year revolutionized community ownership by introducing the concept of giving away network equity to users.&nbsp; This approach was iterated on by Andre Cronje, who popularized the “fair launch” when releasing Yearn.</p>
+
+
+
+<p class="has-medium-font-size">Contrast this with traditional businesses, where ownership is usually only available to tenured employees or a privileged few.&nbsp;<strong> This new ownership and equity paradigm makes it significantly easier to grow tight knit communities with aligned incentives.</strong>&nbsp; Some examples of awesome communities are the Chainlink Marines and Synthetix Spartans.&nbsp; We’re in the early days here at Saddle, and I’m incredibly excited for what the future holds for all of us!</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q3-1.png" alt="" class="wp-image-9031" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size">Decentralized autonomous organizations, or DAOs.&nbsp; I fell down the DAO and governance rabbit hole in June 2020 when I co-founded Urza DAO, a for-profit DAO focused on staking and liquidity mining opportunities.&nbsp; The DAO has since grown to 24 members and ~$3.5MM in crypto assets under management and I’ve learned a bunch along the way.</p>
+
+
+
+<p class="has-medium-font-size">DAOs are an exciting new coordination mechanism and we’re just starting to explore what’s possible with them.&nbsp; <br><strong>Here are a few DAO-related projects I’d keep an eye on:</strong><br><a href="https://coordinape.com/">Coordinape</a>, by tracheopteryx et al at Yearn<br><a href="https://daohaus.club/">Daohaus</a><br><a href="https://withtally.com/">Tally</a><br><a href="http://boardroom.to/">Boardroom</a><br><a href="https://deepdao.io/">DeepDAO</a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q4-1.png" alt="" class="wp-image-9032" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size"><strong>Never underestimate the power of memes.</strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/04/andre-bikestick.png" alt="" class="wp-image-9173" width="350" height="501"/></figure>
+
+
+
+<p class="has-medium-font-size">Definitely the Andre Cronje bicycle meme</p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-very-light-gray-background-color has-very-light-gray-color is-style-wide"/>
+
+
+
+<p class="has-medium-font-size">Thanks for your time and the insights for Sunil. You can find Sunil on Twitter at <a href="https://twitter.com/devops199fan">@devops199fan</a>. Keep up to date with <a href="http://saddle.finance/">Saddle</a> by following them on <a href="https://twitter.com/saddlefinance">Twitter</a>, reading their <a href="https://medium.com/saddle">blog</a>, and joining their <a href="https://discord.gg/hX8RZFBW9R">Discord</a> or <a href="https://t.me/saddle_finance">Telegram</a>.</p>
+
+
+
+<p class="has-medium-font-size"><strong>Thanks for reading! </strong>Please be sure to share with us which founders you think should be highlighted next.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>SIREN &#8211; Decentralized Options For Sophisticated Traders</title>
+		<link>./../../../2021/03/01/siren/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 01 Mar 2021 21:19:51 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[amm]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[options]]></category>
+		<category><![CDATA[options trading]]></category>
+		<category><![CDATA[siren]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8929</guid>
+
+					<description><![CDATA[Options trading has become more popular than ever now that anyone can trade from anywhere with a few taps. The...]]></description>
+										<content:encoded><![CDATA[
+<p>Options trading has become more popular than ever now that anyone can trade from anywhere with a few taps. The barriers to entry have been lowered improving accessibility for the average joe. In case you don’t know, options are financial primitives that give a trader the choice (or the <em>option</em>) to buy or sell an asset at a predetermined strike price at some point in the future. Traders can utilize options to hedge against potential price changes or to speculate on the future price of an asset. As DeFi matures, on-chain financial primitives like options become the building blocks for even more sophisticated financial instruments.</p>
+
+
+
+<p>If options trading is what floats your boat, say ahoy to SIREN, a decentralized protocol aiming to carve out a unique market niche by catering specifically to sophisticated users interested in holding and actively trading tokenized options contracts. This nautical-themed on-chain options marketplace launched its alpha release in December 2020 and is about to embark on the next chapter of its journey. <strong><a href="http://sirenmarkets.com/">SIREN Markets</a> is set to launch on mainnet March 1.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/03/siren-1000x500-1-1.jpg" alt="" class="wp-image-8932"/></figure>
+
+
+
+<h2>SIREN Markets offer seamless on-chain options trading</h2>
+
+
+
+<p>SIREN is a decentralized protocol which facilitates a marketplace of fully-collateralized, on-chain options. SIREN protocol tokenizes both the long and short sides of an options contract as ERC20 tokens which enables options to be traded via its AMM design requiring no third-party settling mechanism or order matching to complete option settlement on chain. Siren AMM v2 can trade up to 6 SIREN options contracts which all share collateral and payment assets in a single pool. This enables liquidity to be rolled over when a market expires for a seamless UX for liquidity providers.</p>
+
+
+
+<p>It starts with liquidity providers depositing collateral into the SIREN AMM pool. So for the WBTC/USDC calls the collateral asset would be WBTC. When you as a trader go to buy options from the AMM, the collateral held within the pool is used to mint a pair of tokens: bToken and wToken. bToken, which stands for buyToken, is sent to the buyer and gives the holder the right to purchase or sell the underlying asset at a predetermined strike price. While wToken, short for writeToken, stays in the pool. If the option is left unexercised, wTokens allow the holder to withdraw the collateral or withdraw the exercise payment from the contract after expiration.</p>
+
+
+
+<p>Note, that SIREN AMM v2 only trades bTokens, but not wTokens. Although, the Siren team has stated that trading of wTokens may become available in the future. Users pay a premium to the pool in the collateral asset each time they make a trade. This process results in liquidity providers passively becoming covered option writers, automatically underwriting contracts to meet demand from traders. In addition to collecting premiums, liquidity providers benefit from any slippage in AMM trades and earn SI token rewards from the SIREN <a href="https://sirenmarkets.medium.com/expanding-the-siren-lpp-c69969e25d41">Liquidity Provider Program (LPP)</a>. It’s always worth noting <a href="https://docs.sirenmarkets.com/faq/what-is-a-liquidity-provider#risks">the risks associated with providing liquidity</a>.</p>
+
+
+
+<h3>Giving sophisticated options traders the right tools for the job</h3>
+
+
+
+<p>The tools that options traders have come to rely on in traditional finance were refined over decades and decades. So it only makes sense that these early days of DeFi provide ample opportunity to incorporate and innovate on these tools. SIREN’s design allows traders to easily swap options in and out in order to build complex positions as well as the necessary information to assess those positions.</p>
+
+
+
+<h4><strong>SIREN AMM v2 pricing is time-decay-aware</strong></h4>
+
+
+
+<p>There are two factors that determine the price of each trade on SIREN v2: spot price and slippage. The spot price is determined using a Black-Scholes model, which takes into account parameters like the underlying price, time to expiration, option strike and implied volatility, coupled with a Chainlink price oracle. Utilizing this formula allows Siren Markets to be time-decay-aware requiring no arbitrage in order to quote reasonable prices. Similar to other AMMs, trades will be impacted by slippage based on the size of the trade and available assets in the pool. In other words, the larger the trade relative to the size of the pool, the higher the slippage. This slippage ultimately benefits liquidity providers as another source of returns for liquidity providers on top of collecting option premiums.</p>
+
+
+
+<h4><strong>What is ITM, ATM and OTM?</strong></h4>
+
+
+
+<p>These expressions are likely familiar to options traders so we’ll skim through these rather quickly. For more in-depth info, you can refer to <a href="https://www.investopedia.com/terms/i/inthemoney.asp">Investopedia’s definitions</a>. An ITM (short for ‘in the money’) option which has value because it has a favorable strike price compared to the current market price. As you can probably guess, an OTM (short for ‘out of the money’) option still needs to reach its strike price whereas an ATM (short for ‘at the money’) has reached the strike price.&nbsp;</p>
+
+
+
+<p>These terms help determine what kind of options traders buy or sell taking into account how that option might behave in the current market. For example, an ITM call may require a smaller rise in the cryptocurrency price to be profitable, but there is less potential upside compared to an ATM or OTM call. So if you believe the market price is going to rise significantly, you might consider buying an OTM call because you’d have a greater potential upside while limiting exposure to loss if the price fell.</p>
+
+
+
+<p>These are just a couple examples of the ways traders can make use of different option characteristics to influence their trading strategy. Greeks are another way options traders can assess an option.</p>
+
+
+
+<h4><strong>Meet the Greeks</strong></h4>
+
+
+
+<p>As Siren is meant for experienced options traders, we’re only going to give a brief overview of <a href="https://docs.sirenmarkets.com/faq/what-are-the-greeks">how option Greeks apply to Siren Markets</a>. To get caught up to speed, you can learn more about these general concepts <a href="https://www.investopedia.com/trading/getting-to-know-the-greeks/">here</a>.</p>
+
+
+
+<p><strong>Delta</strong></p>
+
+
+
+<p>Delta measures a ratio comparing the difference between the underlying asset price relative to the strike price of the option. The delta of a long call is positive; the delta of a long put is negative. The delta is reversed for short calls and puts. Delta is only a theoretical approximation of your exposure in the underlying asset.&nbsp;</p>
+
+
+
+<p><strong>Gamma</strong></p>
+
+
+
+<p>If you imagine delta as the &#8220;speed&#8221; of your option position, gamma is the &#8220;acceleration.” The gamma of long options, calls or puts, is always positive; of short options, always negative.&nbsp;</p>
+
+
+
+<p>The more gamma your position has, your position delta can change a great deal and probably needs close monitoring. Gamma is highest for the ATM strike, and slopes off toward the ITM and OTM strikes.</p>
+
+
+
+<p>If you think the price of an underlying asset is about to change quickly, you want to buy an option with relatively high gamma. For example, the higher the gamma, the more delta if the underlying asset price moves the way you want it to, and vice versa.</p>
+
+
+
+<p><strong>Theta</strong></p>
+
+
+
+<p>As touched on before, Theta measures the rate of decline in the value of an option due to the passage of time sometimes referred to as time decay. No one can escape time, not even options. Time decay describes how long calls and puts have negative theta, losing money as time goes on. Short calls and puts are the opposite having positive theta and making money as time passes.&nbsp;</p>
+
+
+
+<p>Theta is highest for the ATM strike, and slopes off to the ITM and OTM options, and responds to the passage of time and changes in volatility the same way that gamma does. The theta of options is indirectly proportional to gamma. When gamma is big and positive, theta tends to be big and negative. That&#8217;s the trade-off. A position that has a lot of gamma (good for fast changing underlying assets) also has lots of theta that is continuously eroding its value.</p>
+
+
+
+<p><strong>Vega</strong></p>
+
+
+
+<p>Vega is how much the value of an option changes when the implied volatility of that option changes. Long calls and puts both have positive vega and profit when implied volatility rises. Inversely, short calls and puts both have negative vega and profit when implied volatility falls.&nbsp;</p>
+
+
+
+<p>The more time there is until expiration, the higher the vega is for an option. Vega also depends on where the price of the underlying asset is relative to the strike price of the option. Like gamma and theta, vega is highest for the ATM options, and drops for the OTM and ITM options. So, ATM options with lots of time to expiration are the most sensitive to changes in implied volatility.</p>
+
+
+
+<h2>SIREN Governance</h2>
+
+
+
+<p>The SIREN Market project was created to bring the features and tools options traders are familiar with from traditional finance to a seamless on-chain experience without sacrificing autonomy. The Siren team understands that a platform built to cater to sophisticated users only benefits from their feedback and collaboration. And so, SIREN’s native token SI is designed to reward early users placing the future of the platform in their hands via protocol governance. Liquidity providers, traders, and market makers will receive SI token rewards in exchange for their participation. By design, the most experienced and knowledgeable users will be given the most influence over the platform to help respond to future market demands.</p>
+
+
+
+<p>The SI community will be able to create new option markets and determine the fee rate for writing, closing, and redeeming an option. These fees accrue to SI token holders; although it should be noted that upon launch these fees will be set to 0 to reduce the friction for users looking to explore SIREN Markets.</p>
+
+
+
+<p>The first SIREN Liquidity Provider Program (LPP) began in December 2020 and was <a href="https://sirenmarkets.medium.com/expanding-the-siren-lpp-c69969e25d41">extended through May 2021</a>. Find out more about SIREN’s SI token and liquidity providing program <a href="https://sirenmarkets.medium.com/si-token-distribution-event-cff0be106fc6">here</a>.</p>
+
+
+
+<h2>Roadmap</h2>
+
+
+
+<p>Looking toward the future, <a href="https://sirenmarkets.medium.com/si-token-distribution-event-cff0be106fc6">SIREN’S roadmap</a> details many future upgrades to the platform like expanding the list of available asset pools. SIREN is considering adding SUSHI/USDC, UNI/USDC, YFI/USDC, LINK/USDC pools starting with Sushi. Even further out, SIREN protocol will be modified to allow yield-generating assets to be used as collateral.</p>
+
+
+
+<p>Other improvements which option traders may want to keep their eye out for include future interfaces for constructing option spreads and effecting basket trades natively. SIREN also plans to explore layer 2 solutions to improve efficiency and lower fees for its users.</p>
+
+
+
+<h2>Concluding Thoughts</h2>
+
+
+
+<p>DeFi is disruptive because it gives everyone access to the same tools and data as the experts. Many users who had never had never previously owned a share in a company or a treasury bond are now active participants in a new financial paradigm. With the increasing popularity of options trading in traditional finance, it stands to reason that on-chain options may play a bigger role as DeFi reaches more widespread adoption.&nbsp;</p>
+
+
+
+<p>It boils down to: Do you desire a more sophisticated options trading experience? If so, SIREN would like to invite you to join them in building a platform that suits your needs. This is an opportunity to influence the platform early in its development. <strong><a href="http://sirenmarkets.com/">SIREN Markets</a> is set to go live on mainnet on March 1, 2021. </strong>If you want to know more, we recommend joining SIREN’S <a href="https://t.me/sirenmarkets">Telegram</a> or following them on <a href="https://twitter.com/sirenprotocol">Twitter</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with SIREN to help educate and inform the community about Siren Markets. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Vampire Mining and the SushiSwap Saga</title>
+		<link>./../../../2020/09/25/vampire-mining-and-the-sushiswap-saga/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2020 15:00:00 +0000</pubDate>
+				<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[amm]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[sushi]]></category>
+		<category><![CDATA[sushiswap]]></category>
+		<category><![CDATA[uni]]></category>
+		<category><![CDATA[Uniswap]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8567</guid>
+
+					<description><![CDATA[A vampire attack or “vampire mining” is a new term in DeFi popularized by SushiSwap’s aggressive migration incentives designed to...]]></description>
+										<content:encoded><![CDATA[
+<p>A vampire attack or “vampire mining” is a new term in DeFi popularized by SushiSwap’s aggressive migration incentives designed to pull liquidity from Uniswap.</p>
+
+
+
+<p>The strategy involves forking an already successful open-source fee-generating protocol, and where opportunities exist, making slight adjustments to better incentivize participants in the new protocol, encouraging the migration of already existing liquidity for essentially the same purpose.</p>
+
+
+
+<p><a href="https://uniswap.org/?gclid=Cj0KCQjwwOz6BRCgARIsAKEG4FVDaI7egyJ4cGSoT7Uc8xLy8Yfd-NFBh3AH8PXuhEGcW3H3pTkesjQaAiAPEALw_wcB">Uniswap</a> made a prime target as it was one of the largest decentralised protocols not to have some sort of governance token or fee distribution token at the time. Uniswap liquidity providers currently share 0.3% fees on all trades made within pools they have provided liquidity to, however the protocol has a <a href="https://uniswap.org/blog/uniswap-v2/">lever</a> that can be pulled that redirects 0.05% (16.7%) of this 0.3% fee into a funding pool supposedly for ecosystem development, though there are concerns from some members of the community that this would likely just line the pockets of Uniswap’s VCs instead.</p>
+
+
+
+<p>Thus <a href="https://sushiswapclassic.org/">SushiSwap</a> was born, an almost direct clone of Uniswap except with an additional protocol related token SUSHI. SUSHI acts as both a governance token and a yield token- always sharing between its holders the 0.05% of fees on trades that Uniswap can divert by activating its lever.</p>
+
+
+
+<p>This change also allows prior liquidity providers to continue to earn fees from the protocol even after withdrawing their liquidity from the SUSHI tokens they’ve earned- strongly rewarding early participants with the aim to bolster its community.&nbsp;</p>
+
+
+
+<p>SushiSwap’s “attack,” as some would call it, hinged on the fact that liquidity providers get Uniswap LP tokens for depositing liquidity in Uniswap’s pool- redeemable for their share of the pool at any time.</p>
+
+
+
+<p>SushiSwap capitalised on this by offering staking contracts where Uniswap LP tokens could be deposited to earn SUSHI tokens. The idea was to have a 2-week early distribution at an enhanced rate where 1000 SUSHI were split between stakers per block to attract a lot of LP tokens, before SushiSwap would mass migrate a tonne of Uniswap’s liquidity into its own pools by redeeming the staked Uniswap LP tokens and swapping staker’s Uniswap LP tokens 1 for 1 with SushiSwap SLP tokens, making them whole again in SushiSwap’s new pools. Trading would then begin and the protocol would continue to emit SUSHI to active liquidity providers at 10% of the early distribution rate.</p>
+
+
+
+<p>SushiSwap’s staking contracts and SUSHI distribution began on August 28th, causing a parabolic rise from about $280m to $1.8B of total value locked (TVL) in Uniswap over 11 days, before the migration occurred a couple of days early on September 8th, causing about $800m of liquidity to be instantly drained to SushiSwap, with Uniswap’s TVL plunging back to ~$400m.</p>
+
+
+
+<p>Interestingly, this is still higher than Uniswap’s TVL prior to SushiSwap. So despite concerns that SushiSwap could have spelled the end for Uniswap, the whole debacle still seems to have been of net benefit to the protocol.</p>
+
+
+
+<p>Another point of debate was whether liquidity providers would remain with SushiSwap once the post-migration rewards fell to 100 SUSHI per block or correct back to the more trusted and time-tested Uniswap.</p>
+
+
+
+<p>Whilst the initial distribution was going on, Chef Nomi (SushiSwap’s anonymous founder) withdrew the entirety of the dev pool- $7m of eth and ~2.5m SUSHI which they sold for ~$6m of Eth on Saturday 5th, making away with around $13m of ETH profit despite early promises not to, causing SUSHI to decline in price and leaving the community in doubt of the future. Chef Nomi however pledged to continue to support the project’s development.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/nFBb9rskxUfBDSK1cJAwaIY7KrYSY2PwNqUUfn4wOTUJ_Hlxie6OCnT1dxIB6Aoq0-Yu01xPABTLPXvs-pQ9wZbAHJHC0X2audCV1IbSbu6dkpwuaLj691e4DAzbwpcUyKnwYqxM" alt=""/></figure>
+
+
+
+<p>A day later they rescinded his commitment and gave control of SushiSwap to the CEO of FTX Sam Bankman-Fried.</p>
+
+
+
+<p>&nbsp;In a final twist, Chef Nomi returned all ~$14m of ETH back to SushiSwap’s treasury on September 11th.</p>
+
+
+
+<p>Since then, the community has successfully migrated liquidity to SushiSwap and continued forward with the project, though with everything going on SUSHI has unsurprisingly seen some significant price volatility.</p>
+
+
+
+<h3>Is this the start of a trend?</h3>
+
+
+
+<p>SushiSwap’s aggressive liquidity migration from Uniswap might have been the first significant example of a “vampire attack”, but it bears considering it will probably not be the last.</p>
+
+
+
+<p>Any protocol where capital is free to leave easily and can be better incentivized to perform a similar function in another protocol is at risk. In particular protocols that are “simpler” in functionality and that rely more on their own smart contracts and platform to provide their service over being highly integrated with other projects (possessing stronger network effects) are at higher risk.</p>
+
+
+
+<p>Uniswap made such a great target precisely because copying the project is largely as simple as copying its smart contracts, and the main requirement for a successful liquidity platform is sufficient liquidity, which as this whole saga has shown can clearly be (at least temporarily) incentivized.</p>
+
+
+
+<p>All done and said, it&#8217;s definitely going to be interesting to watch how SushiSwap and Uniswap continue to co-exist (or not) over the next few months.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Balancer &#8211; Start Liquidity Mining and Earn BAL Tokens Today</title>
+		<link>./../../../2020/05/31/balancer-start-liquidity-mining-and-earn-bal-tokens-today/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 31 May 2020 13:55:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[amm]]></category>
+		<category><![CDATA[bal]]></category>
+		<category><![CDATA[balancer]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[exchange]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8276</guid>
+
+					<description><![CDATA[Liquidity is paramount to the growth of DeFi. Many DApps require reliable pools of liquidity to function. One of the...]]></description>
+										<content:encoded><![CDATA[
+<p>Liquidity is paramount to the growth of DeFi. Many DApps require reliable pools of liquidity to function. One of the most interesting project&#8217;s innovating in the pool liquidity space is Balancer. If you haven&#8217;t heard of Balancer, now&#8217;s a great time to learn because Balancer is about to start distributing BAL tokens to liquidity providers on June 1st, 2020 at 00:00 UTC. We&#8217;re working with Balancer Labs to get the word out about this Liquidity Mining process as part of our DeFi Pulse Drop series.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2020/05/1_hrBWNLyxr4YwrdCnRsfOeQ-1024x576.png" alt="" class="wp-image-8278" srcset="./../../../wp-content/uploads/2020/05/1_hrBWNLyxr4YwrdCnRsfOeQ-1024x576.png 1024w, ./../../../wp-content/uploads/2020/05/1_hrBWNLyxr4YwrdCnRsfOeQ-300x169.png 300w, ./../../../wp-content/uploads/2020/05/1_hrBWNLyxr4YwrdCnRsfOeQ-768x432.png 768w, ./../../../wp-content/uploads/2020/05/1_hrBWNLyxr4YwrdCnRsfOeQ.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2>What is Balancer?</h2>
+
+
+
+<p>Balancer is a non-custodial generalized automatic market maker (AMM) protocol that launched in March of this year. Yes, that&#8217;s a mouthful but it&#8217;s easy to understand once you break it down. You&#8217;re probably familiar with AMM exchange models like Uniswap, but where Balancer differs is the fact it&#8217;s generalized making it suitable for all sorts of needs, but more on that in a bit.</p>
+
+
+
+<h3>Balancer pools are like self-balancing index funds</h3>
+
+
+
+<p>Anyone can create a Balancer pool and add liquidity to the protocol. However, what makes Balancer pools so unique is that you aren&#8217;t restricted to pools with the typical 50/50 split between two tokens we&#8217;re used to. Balancer pools support up to 8 tokens with custom distributions. For example, a pool could be 30% WETH, 30% MKR, and 30% USDC, and 10% LINK while another pool is 80% WETH and 20% DAI. </p>
+
+
+
+<p>Balancer uses smart order routing (SOR) to route users&#8217; trades to the pools that combined provide the best rate possible. Essentially, Balancer pools are like self-balancing index funds but instead of charging you fees you actually get paid for contributing your liquidity.</p>
+
+
+
+<h3>Different pools for different needs</h3>
+
+
+
+<p>As previously mentioned, Balancer liquidity pools are highly flexible and can be optimized for specific use cases. Balancer Labs has even released templates for new innovative pool designs. Take for instance <a href="https://medium.com/balancer-protocol/building-liquidity-into-token-distribution-a49d4286e0d4">Liquidity Bootstrapping Pools</a> (LBPs) that communities can use to build deep liquidity for their token. Or even, <a href="https://medium.com/balancer-protocol/zero-impermanent-loss-stablecoin-pool-with-lending-interests-a3da6d8bb782">stablecoin pools with zero impermanent-loss</a>.</p>
+
+
+
+<h2>Balancer Protocol Governance Token (BAL)</h2>
+
+
+
+<p>Balancer V1 initially launched with no native token; this latest update to Balancer introduces the Balancer Protocol Governance Token (BAL). BAL holders will determine the future of Balancer protocol, making decisions like implementing new features, potential protocol fees, or even bigger picture plans like whether to use layer 2 scaling and/or deploy contracts on other blockchains. </p>
+
+
+
+<p>Out of the total supply of 100M BAL tokens, 25M were initially allocated to founders, core devs, advisors and investors and are all subject to vesting periods. The remaining 75M BAL tokens will be mostly distributed to users who provide liquidity to Balancer pools in a process called <strong>liquidity mining</strong>. </p>
+
+
+
+<h2>Liquidity mining &#8211; Earn BAL on top of pool returns</h2>
+
+
+
+<p>For a protocol like Balancer to remain decentralized, the governance process also needs to be decentralized. And, it only makes sense for those that use the protocol the most to be given a voice in said process. This is exactly what Balancer&#8217;s liquidity mining aims to do. </p>
+
+
+
+<p>Each week, 145k BAL will be awarded to users with liquidity in Balancer pools, totaling 7.5M BAL per year. The idea is to create a really strong incentive for early adopters grow liquidity and get involved in the governance process.</p>
+
+
+
+<p><strong>Starting on June 1st, 2020 at 00:00 UTC (which is tonight if you&#8217;re reading this Sunday May 31st), those currently providing liquidity to Balancer protocol will be eligible to receive BAL tokens.</strong> So now&#8217;s your chance to <a href="https://pools.balancer.exchange/#/">add liquidity or create a new pool</a> to reap the benefits of being that early adopter.</p>
+
+
+
+<p><em>&#8220;All liquidity providers will receive Balancer Protocol Governance Tokens as long as a USD price can be extracted from CoinGecko for at least 2 tokens present in their liquidity pools. Liquidity from tokens without such USD price is not eligible.&#8221;</em></p>
+
+
+
+<h3>Earn BAL on top of pool swap fees</h3>
+
+
+
+<p>Every Balancer pool has its own customized <em>pool swap fee</em>; whenever someone performs a trade that utilizes the pool&#8217;s liquidity, this fee is distributed equally to that pool&#8217;s liquidity providers. So when you provide liquidity not only are you earning this fee, but you&#8217;re also earning BAL </p>
+
+
+
+<h3>Liquidity mining encourages lower pool fees</h3>
+
+
+
+<p>One of the coolest parts of liquidity mining is that it&#8217;s designed to incentivize pools to have low pool swap fees. The USD value of each pool&#8217;s underlying tokens according to CoinGecko is multiplied by what&#8217;s called a <em>feeFactor</em> to determine how many BAL the pool is eligible to receive. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="621" src="./../../../wp-content/uploads/2020/05/1_07aShFlZ136DIIx8ltsWPA@2x-1024x621.png" alt="" class="wp-image-8277" srcset="./../../../wp-content/uploads/2020/05/1_07aShFlZ136DIIx8ltsWPA@2x-1024x621.png 1024w, ./../../../wp-content/uploads/2020/05/1_07aShFlZ136DIIx8ltsWPA@2x-300x182.png 300w, ./../../../wp-content/uploads/2020/05/1_07aShFlZ136DIIx8ltsWPA@2x-768x466.png 768w, ./../../../wp-content/uploads/2020/05/1_07aShFlZ136DIIx8ltsWPA@2x.png 1362w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>As you can see in the chart above, the higher the fee, the lower this feeFactor is, and the less BAL tokens that pool&#8217;s liquidity providers receive each week. The logic is that pools with lower fees pull in more users willing to trade on Balancer and so these pools should receive greater rewards. Personally, I think it&#8217;s a clever way to optimize Balancer to achieve lower fees while still rewarding liquidity providers accordingly.</p>
+
+
+
+<h2>Don&#8217;t miss out. Liquidity mining starts soon.</h2>
+
+
+
+<p>If you haven&#8217;t tried it yet, there&#8217;s never been a better time to consider <a href="https://pools.balancer.exchange/">adding liquidity to existing pools or creating your own pool</a>. <strong>Starting tonight Sunday 31st (June 1st, 2020 at 00:00 UTC to be precise), those currently providing liquidity to Balancer protocol will be eligible to receive BAL</strong>. Not only will you earn BAL, getting involved early is also a great way to ensure Balancer works best for you, implementing changes you want to see as a stakeholder in the protocol.</p>
+
+
+
+<p>Want to learn more about BAL and Balancer Protocol? Click here to learn more about<a href="https://medium.com/balancer-protocol/balancer-liquidity-mining-begins-6e65932eaea9"> liquidity mining</a> and <a href="https://medium.com/balancer-protocol/proposing-balancer-liquidity-mining-cab4503972fa">BAL distribution</a>. Join the <a href="https://discord.gg/7efCEzA">Balancer Discord</a> to follow the discussion.</p>
+
+
+
+<p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve partnered with Balancer Labs to help spread the word about Liquidity Mining and BAL token distribution. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express as part of a DeFi Pulse Drop are our own. Not only are we thrilled to receive BAL tokens, we&#8217;re even more excited to be a part of the Balancer community</em>!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

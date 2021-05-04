@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MKR &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sun, 15 Mar 2020 07:52:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>DeFi Status Report Post-Black Thursday</title>
+		<link>./../../../2020/03/15/defi-status-report-black-thursday/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 15 Mar 2020 07:52:35 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Compound]]></category>
+		<category><![CDATA[crash]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[debt auction]]></category>
+		<category><![CDATA[decentralized exchanges]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<category><![CDATA[MKR]]></category>
+		<category><![CDATA[price]]></category>
+		<category><![CDATA[synthetix]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8026</guid>
+
+					<description><![CDATA[On Thursday March 12, 2020, the price of Ether (ETH) dropped over 30% in about 24 hours. The result sent...]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="./../../../wp-content/uploads/2020/03/the-road-815297_1280-1-1024x682.jpg" alt="" class="wp-image-8061"/></figure></div>
+
+
+
+<p>On Thursday March 12, 2020, the price of Ether (ETH) dropped over 30% in about 24 hours. The result sent chain reaction rippling through DeFi in an event many will likely come to refer to as Black Thursday. DeFi users rushed to make transactions like trading on DEXes, paying off debts, bolstering collateral ratio, etc. The increased activity led to record-setting high gas prices at times exceeding 200 gwei. </p>
+
+
+
+<p>If you&#8217;re unfamiliar with how gas prices work, think of it as an auction for the limited space in each block. Users desperate to get their transaction through start to outbid each other to get their transactions completed in a timely manner. And then, the ensuing &#8220;bidding wars&#8221; drive up gas prices and subsequently cause low-priced transactions to be stuck until things settle down. <strong><em>The bottom line is that the increased volume put a lot of stress on DeFi smart contracts along with the entire Ethereum network.</em> </strong>So we&#8217;ve decided to put together this status update to provide context for those unaware who may panic at the sight of the charts lately.</p>
+
+
+
+<h4>Don&#8217;t panic. All is not lost and DeFi endured the test.</h4>
+
+
+
+<p>I think it&#8217;s worth taking a moment to say: <em>there are safety measures in place for a reason.</em> When you install fire alarms and safety systems you hope you never need to use them, but know that there could always come a day when you have to. And if your home catches on fire, you don&#8217;t abandon the concept of living in homes altogether. You rebuild your home and this time you build it bit safer and better overall. We, as a community, have been tested before and have only grown stronger for these trials. A decentralized financial market is a market worth fighting for and the truth is&#8230; DeFi remains one of the most exciting and innovative spaces on this planet and will only continue to grow and evolve despite the occasional bump in the road.</p>
+
+
+
+<p><em>High levels of network congestion affected the entire Ethereum network so we&#8217;ll only be addressing some of the more notable ways DeFi projects were affected by recent events.</em></p>
+
+
+
+<h2>Maker</h2>
+
+
+
+<p>While the exact issue is still <a href="https://blog.makerdao.com/recent-market-activity-and-next-steps/">under investigation</a>, the dramatic increase in gas prices caused Maker&#8217;s price feed oracle to remain stuck at ~$166 despite the market dipping almost 15% lower at times. High gas prices also affected Keeper bots, preventing many from liquidating undercollateralized loans. Unfortunately, some Keepers were able to bid on and purchase collateral ETH for 0 DAI. And, many Vault owners reported 100% of their collateral being liquidated. </p>
+
+
+
+<p>A Maker community call was held to determine the best plan of action. Maker put out <a href="https://blog.makerdao.com/recent-market-activity-and-next-steps/">a blog post</a> addressing the situation and proposed various parameters which could be adjusted to prevent further issues. MKR holders have since <a href="https://vote.makerdao.com/executive-proposal/adjust-multiple-risk-parameters">approved changes</a> including lowering debt ceilings, lowering stability fees, changing auction parameters to allow keepers additional time and limit the total number of auctions.</p>
+
+
+
+<p>Among the approved parameter changes was delaying the Debt Auction, designed to cover the +$4M in remaining system debt, in an attempt to give the community more time to prepare.</p>
+
+
+
+<h3>MKR Debt Auction</h3>
+
+
+
+<p>Maker is designed with a pool of DAI called the <em>Maker Buffer</em> reserved to cover debts in situations like this<em>.</em> However, the Maker Buffer was unable to cover the deficit caused by the tremendous amount of liquidations. As stated in its <a href="https://makerdao.com/en/whitepaper/">whitepaper</a>, the Maker Protocol will now trigger a Debt Auction where MKR is minted and sold for DAI to re-collateralize the system. </p>
+
+
+
+<p><strong>Here are the details for the auction according to<a href="https://blog.makerdao.com/mkr-debt-auction-announcement-and-details/"> MakerDAO&#8217;s blog</a>: </strong></p>
+
+
+
+<ul><li>Start time: March 19, 6:25 am ET (March 19, 10:25 am UTC)</li><li> MKR will be auctioned off in lots for 50,000 Dai</li><li>According to parameters of the Maker Protocol as determined by governance, the auction works as in the following example:<ul><li>The protocol offers a Keeper (bidder) a lot of 250 MKR for 50,000 Dai, which translates to a price of 200 Dai/MKR. </li><li>A second keeper bids 50,000 Dai but only requires 230 MKR, which translates to a price of 217 Dai/MKR. </li><li>The bid prices increase through the Keepers’ willingness to take slightly less MKR in exchange for 50,000 Dai. </li></ul></li><li>If no one bids on the first lot of 250 MKR, then the auction can be re-initialized after three days, offering 20% more MKR (300 MKR) for 50,000 Dai, which translates to a price of 166.66 Dai/MKR.</li><li>Finally, if there is at least one bid, and no one outbids it within 6 hours, the auction ends.</li></ul>
+
+
+
+<p>Anyone is free to participate in the auction by running an Auction Keeper. Maker provides <a href="https://blog.makerdao.com/how-to-run-your-own-auction-keeper-bot-in-mcd/">documentation on how to run an auction keeper bot</a> but no official front-end UI. However, there are some in the community working on making these systems more accessible for the auction.</p>
+
+
+
+<h3>Dai Backstop Syndicate</h3>
+
+
+
+<div class="wp-block-image"><figure class="alignleft size-large"><a href="https://t.me/backstopsyndicate"><img src="./../../../wp-content/uploads/2020/03/backstopsyndicate-1.jpg" alt="" class="wp-image-8034"/></a></figure></div>
+
+
+
+<p>We&#8217;re working with Dharma and many other community members to organize a community-led effort dubbed the <strong><a href="https://t.me/backstopsyndicate">DAI Backstop Syndicate</a></strong> to form a backstop in support of MKR and act as a buyer of last resort in the upcoming MKR auction.</p>
+
+
+
+<p>The idea is to create pool contract that would give syndicate participants a way to participate in the auction process should MKR fall below a given price like 100 DAI / MKR.  The intention is to be a backstop, not necessarily buy the MKR nor will it provide liquidity for liquidations during Dai Surplus Auctions (flaps).</p>
+
+
+
+<p>The contract will be designed so anyone could trigger an auction using pooled funds at the given price once auctions begin. At which point, all participants would be able to redeem the tokens they minted by supplying Dai for the equiv. Dai / MKR blend held by the pool.</p>
+
+
+
+<p><strong><em>If you&#8217;re interested in participating, <a href="https://t.me/backstopsyndicate">join the telegram</a> to help organize, review<a href="https://docs.google.com/document/d/1miS-snhSYBKwjQHM1MOPnLZZl9i2gj3zTcvuQWecV2M/edit#"> the proposal</a> and <a href="https://github.com/backstop-syndicate/dai-backstop-syndicate">Github repo</a> for full details</em></strong>.</p>
+
+
+
+<h3>Nexus Mutual claims</h3>
+
+
+
+<p>As of writing this, 3 out of the 11 <a href="https://nexustracker.io/claims">submitted claims</a> related to the MakerDAO incident have been denied by Nexus Mutual. Those with Nexus Mutual cover on MakerDAO have been <a href="https://twitter.com/NexusMutual/status/1238496725054230534">instructed to wait</a> for more complete information before submitting new claims.</p>
+
+
+
+<h2>Compound</h2>
+
+
+
+<p>Compound placed in its timelock three precautionary changes to how its protocol handles DAI in the case it becomes unpegged and mass liquidations are required.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Three changes have been queued in the Compound protocol timelock, as a precaution due to recent volatility:<br><br>A new price feed that allows DAI to become unpegged in a MakerDAO emergency shutdown;<br>Liquidation incentive 5% -&gt; 8% -&gt; 15%<br><br>These will only be activated if necessary.</p>&mdash; Compound Labs (@compoundfinance) <a href="https://twitter.com/compoundfinance/status/1238308271963828226?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h2>Synthetix</h2>
+
+
+
+<p>The high network congestion forced Synthetix to go down for short period of time as its rates provided by on-chain Chainlink oracles to go stale. </p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/03/Selection_999064-1.png" alt="" class="wp-image-8028"/></figure>
+
+
+
+<p>After some time, the system was brought back online and the Synthetix team released <a href="https://github.com/Synthetixio/SIPs/blob/master/SCCP/sccp-16.md">SCCP-16</a> which temporarily increased fee reclamation waiting period to an hour to accommodate extreme network congestion. This change was reverted after the congestion subsided.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/03/Selection_999065-1.png" alt="" class="wp-image-8045"/></figure>
+
+
+
+<h2>Aave</h2>
+
+
+
+<p>Aave protocol also took measures to reduce the impact of MKR and DAI instability.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Due to the current instability of the DAI stablecoin system, our risk assessment team has decided to lower the LTV for future borrowers of both MKR and DAI to 1% as a safety measure to prevent possible abuse. This doesn&#39;t affect current borrowers using these assets as collateral.</p>&mdash; Aave (@AaveAave) <a href="https://twitter.com/AaveAave/status/1238174876541898752?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h2>dYdX</h2>
+
+
+
+<p>Combating high gas costs, dYdX progressively increased its minimum trade size throughout the day on March 12. The first step was up to 10 ETH or 2000 DAI, it was ultimately raised as high as 40 ETH or 5000 DAI. By the evening of March 13, the min. trade size was restored back to normal (0.1 ETH or 20 DAI).</p>
+
+
+
+<h2>DDEX</h2>
+
+
+
+<p>DDEX incurred minor losses of $5373 which will be covered by its built-in insurance.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">1/3<br>In the last 24 hours the price of <a href="https://twitter.com/hashtag/ETH?src=hash&amp;ref_src=twsrc%5Etfw">#ETH</a> fluctuated by over 30%, and <a href="https://twitter.com/hashtag/DDEX?src=hash&amp;ref_src=twsrc%5Etfw">#DDEX</a> liquidated ~$500,000 of collateral in minutes. Due to liquidity shortage, $5,373 (~1%) loss was incurred. By design, this amount will be covered by built in insurance. No lenders will lose assets.</p>&mdash; DDEX (@ddexio2018) <a href="https://twitter.com/ddexio2018/status/1238149663238152192?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h2>Green on the board</h2>
+
+
+
+<p>The silver lining of the day was that many smart contracts like Uniswap functioned performed as expected under the massive stress placed on the Ethereum network. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Yesterday during all the insanity Uniswap 24hr volume reached $53M<br><br>I don’t feel like celebrating but I’m glad it was able to handle the massively increased load without issue. <br><br>A major testament to Ethereum imo<br><br>Was this the highest volume day of any DEX ever? <a href="https://t.co/cv4x3m8Zyu">pic.twitter.com/cv4x3m8Zyu</a></p>&mdash; Hayden Adams <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f984.png" alt="🦄" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@haydenzadams) <a href="https://twitter.com/haydenzadams/status/1238457224214786048?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p><strong>Examining our DeFi rankings during these events, it was clear DEXes like Uniswap, DeFi lenders [like dYdX, Nuo, Robo-Advisor for Yield (RAY), and Dharma], and payment networks like xDai and Connext fared the best.</strong> All of which are DeFi smart contracts generally less impacted by price fluctuations and high gas prices with more diverse collateral options and/or lower risk yields.</p>
+
+
+
+<h2>Conclusion</h2>
+
+
+
+<p>Stress tests like these help expose cracks in DeFi smart contracts that can be repaired and improved upon. They also serve as important reminders to do your own research and plan accordingly for potential smart contract risks. DeFi is still a very young market and bumps in the road are to be expected. And when things get rough, remember what brought us here together as a community: the exciting prospect of a decentralized financial system open to all.</p>
+
+
+
+<p>Whether you just want to stay informed or get involved, we&#8217;re always there for community members with questions or looking to dig a little deeper. Reach out to us on <a href="http://twitter.com/defipulse">Twitter</a> or join the discussion in our <a href="http://t.me/defipulse">Telegram</a> or <a href="https://discord.gg/Gx4TCTk">Discord</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Generate DAI with a Maker Vault</title>
+		<link>./../../../2020/02/19/how-to-generate-dai-with-a-maker-vault/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2020 14:24:32 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[ether]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<category><![CDATA[MKR]]></category>
+		<category><![CDATA[smart contract]]></category>
+		<category><![CDATA[vault]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7990</guid>
+
+					<description><![CDATA[DAI is an ERC20 token designed to maintain a peg to the US Dollar, also known as a stablecoin, generated...]]></description>
+										<content:encoded><![CDATA[
+<p>DAI is an ERC20 token designed to maintain a peg to the US Dollar, also known as a stablecoin, generated and maintained by the <a href="https://makerdao.com/">Maker Protocol</a>. Every single DAI in existence has been generated by users <a href="https://defipulse.com/maker">locking collateral into Maker&#8217;s smart contract system</a> and opening what&#8217;s called a Vault.</p>
+
+
+
+<p>When you open a Maker Vault, you lock in collateral such as ether (ETH) or BAT. And then, you’re able to generate or borrow up to 2/3 of the US dollar value of your collateral in DAI. In other words, your Vault&#8217;s ratio of collateral value to total debt in DAI must be above 150%.</p>
+
+
+
+<p>For every 1 DAI, there is at least $1.50 worth of collateral locked into a Maker Vault. And if your collateral value falls, you must lock in more ETH, pay back some of your debt, or risk having the collateral in your Vault liquidated. When a Vault position is liquidated, the held collateral is automatically sold to pay back the debts in addition to a penalty fee for failing to keep your collateral ratio above 150%.</p>
+
+
+
+<h2>Using Maker&#8217;s Oasis portal to borrow your first DAI</h2>
+
+
+
+<p><strong>Navigate to Maker&#8217;s <a href="https://oasis.app/borrow">Oasis Borrow</a>.</strong><br>There are many ways to interface with a Maker Vault; Oasis is <a href="https://github.com/OasisDEX">open-source</a> and was developed by the Maker. </p>
+
+
+
+<p><strong>Connect the wallet of your choice and click &#8216;Get Started&#8217;</strong><br><a href="https://metamask.io/">MetaMask</a> is a browser extension commonly recommended for interacting with many DApps. Ledger and Trezor are hardware wallets. Wallet Connect and Coinbase Wallet allow you to scan a QR code to access Oasis via mobile wallet.</p>
+
+
+
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="./../../../wp-content/uploads/2020/02/Selection_999019-1-1024x508.png" alt="" data-id="7995" data-full-url="./../../../wp-content/uploads/2020/02/Selection_999019-1.png" data-link="https://defipulse.com/blog/?attachment_id=7995" class="wp-image-7995"/></figure></li></ul></figure>
+
+
+
+<p><strong>Select a collateral type and click &#8216;Continue&#8217;</strong><br>ETH and BAT are the only supported collateral types as of writing this. In this example, we selected ETH.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/02/Selection_999017-1-1024x510.png" alt="" class="wp-image-7996"/></figure>
+
+
+
+<p><strong>Setup Vault and Set Allowance</strong><br>Follow the prompts to send a few transactions in preparation for opening your Maker Vault and generating DAI. We recommend referencing <a href="http://ethgasstation.info/">EthGasStation</a> for the latest gas prices.</p>
+
+
+
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="./../../../wp-content/uploads/2020/02/Selection_999016-1-1024x511.png" alt="" data-id="7997" data-full-url="./../../../wp-content/uploads/2020/02/Selection_999016-1.png" data-link="https://defipulse.com/blog/?attachment_id=7997" class="wp-image-7997"/></figure></li></ul></figure>
+
+
+
+<p><strong>Deposit Collateral and Generate Dai</strong><br>Enter the amount of collateral you&#8217;d like to deposit and the amount of DAI you wish to generate. You cannot withdraw the collateral until you pay back any DAI you generate or borrow. Note, opening a Vault requires a minimum of 20 Dai to be generated. Click continue and confirm your transaction.</p>
+
+
+
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="./../../../wp-content/uploads/2020/02/Selection_999018-1024x510.png" alt="" data-id="7998" data-full-url="./../../../wp-content/uploads/2020/02/Selection_999018.png" data-link="https://defipulse.com/blog/?attachment_id=7998" class="wp-image-7998"/></figure></li></ul></figure>
+
+
+
+<p><strong>Wait for your newly generated DAI to arrive in your wallet</strong><br>Once submitted, your transaction may take a moment depending on the gas price you paid. Finally, your transaction will be confirmed and your DAI should be available in your wallet.</p>
+
+
+
+<h3>What can I use DAI for?</h3>
+
+
+
+<p>DAI is one of the most liquid assets in the DeFi ecosystem. You can spend, save, lend, and tons more with your DAI. You can trade DAI for ETH, MKR, and many other ERC20 tokens at the best prices in DeFi using a DEX aggregator like <a href="https://dex.ag/">DEX.AG</a>.</p>
+
+
+
+<p>You can <a href="https://defipulse.com/income">earn interest</a> by lending out your DAI on other DeFi lending protocols. Remember to keep in mind the stability fees you&#8217;ll owe on any DAI you generate or borrow from your Vault. And also, consider the various risks involved in lending some of which we cover in our <a href="https://defipulse.com/blog/zero-to-defi-cdai/">Zero to DeFi</a> guide.</p>
+
+
+
+<p>Another way to earn interest is to deposit DAI into Maker&#8217;s <a href="https://defipulse.com/blog/dsr-dai-savings-rate/">Dai Savings Rate</a> (DSR). The DSR allows users to lock in DAI to earn a variable interest rate. However, don&#8217;t go generating DAI just to deposit it into the DSR because the DSR is designed to be lower than the stability fee. <a href="https://oasis.app/save">Learn more</a> about the Dai Savings Rate.</p>
+
+
+
+<p>You&#8217;d be surprised the many interesting ways you can use your DAI! Explore <a href="https://github.com/makerdao/awesome-makerdao#dai-1">a full list of ecosystem resources</a> composed by the Maker community.</p>
+
+
+
+<p>Learn more about Maker and the world of decentralized finance (DeFi)! Come chat with us and stay informed in our <a href="http://t.me/defipulse">Telegram</a> or <a href="https://discord.gg/Gx4TCTk">Discord</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>3 DeFi DApps Starting 2020 Off Strong</title>
+		<link>./../../../2020/01/09/3-defi-dapps-starting-2020-off-strong/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2020 19:10:07 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[chainlink]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[dsr]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[istanbul]]></category>
+		<category><![CDATA[layer 2]]></category>
+		<category><![CDATA[link]]></category>
+		<category><![CDATA[loopring]]></category>
+		<category><![CDATA[lrc]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<category><![CDATA[MKR]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7862</guid>
+
+					<description><![CDATA[2020 is set to be an exciting year for DeFi. Lending markets are more competitive than ever. Countless layer 2...]]></description>
+										<content:encoded><![CDATA[<p>2020 is set to be an exciting year for DeFi. Lending markets are more competitive than ever. Countless layer 2 solutions are being built with new ZK technology. And to top it off, this year we&#8217;re likely to see interoperability make great strides. Let&#8217;s dive into a few DApps who have hit the ground running this year.</p>
+<h3>Maker</h3>
+<p>Fresh off the successful launch of Multi-Collateral Dai, <a href="https://makerdao.com/">Maker</a> has been solidifying its #1 position on the <a href="https://defipulse.com/">DeFi Pulse</a> rankings headed into 2020. As of writing this, there&#8217;s <a href="https://defipulse.com/maker">over 36M DAI locked</a> in MakerDAO, primarily in the Dai Savings Rate. And now, MakerDAO voted to increase the <a href="https://defipulse.com/blog/dsr-dai-savings-rate/">Dai Savings Rate</a> (<a href="https://defipulse.com/blog/dsr-dai-savings-rate/">DSR</a>) to 6%. It&#8217;s no wonder the total DAI locked in DeFi is setting a new all-time high.</p>
+<h3><img loading="lazy" class="alignnone size-full wp-image-7878" src="./../../../wp-content/uploads/2020/01/Selection_898.png" alt="" width="895" height="311" srcset="./../../../wp-content/uploads/2020/01/Selection_898.png 895w, ./../../../wp-content/uploads/2020/01/Selection_898-300x104.png 300w, ./../../../wp-content/uploads/2020/01/Selection_898-768x267.png 768w" sizes="(max-width: 895px) 100vw, 895px" /></h3>
+<p>To add fuel to the fire, <a href="https://defipulse.com/blog/what-is-chai/">CHAI</a> is a smart contract that wraps DAI in the DSR so DeFi users can have their cake and eat it too. Chai can also be used in smart contracts. For example, Fulcrum&#8217;s iDAI now supports CHAI so any idle DAI earns the DSR.</p>
+<h3>Chainlink</h3>
+<p><a href="https://chain.link/">Chainlink</a>&#8216;s following extends beyond the LINK Army you&#8217;ve likely come across on social media to partnerships big and small, including Intel and Google Cloud services.</p>
+<p><img loading="lazy" class="alignnone wp-image-7870" src="./../../../wp-content/uploads/2020/01/ENr_U9sU0AYf_rX.jpeg" alt="chainlink" width="525" height="452" srcset="./../../../wp-content/uploads/2020/01/ENr_U9sU0AYf_rX.jpeg 958w, ./../../../wp-content/uploads/2020/01/ENr_U9sU0AYf_rX-300x258.jpeg 300w, ./../../../wp-content/uploads/2020/01/ENr_U9sU0AYf_rX-768x661.jpeg 768w" sizes="(max-width: 525px) 100vw, 525px" /></p>
+<p>Just take a look at this smorgasbord of Chainlink partnerships and the network effects of the project seem undeniable. Synthetix&#8217;s <a href="https://blog.synthetix.io/chainlink-decentralizes-first-wave-of-synthetix-price-feeds/">recent integration of Chainlink oracles</a> to its FX/commodities markets is a primary example of a fruitful partnership to keep an eye in 2020. Another example would be <a href="https://medium.com/loopring-protocol/chainlink-and-loopring-collaborate-on-oracles-for-zkrollup-dex-protocol-c1c8094afc27">Loopring&#8217;s work with Chainlink</a> to ensure its economic security. We&#8217;ll discuss this more in a bit.</p>
+<p>Not to mention, Aave Protocol just launched its lending protocol with all 16 of its supported assets powered by Chainlink oracles.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">1/<a href="https://twitter.com/AaveAave?ref_src=twsrc%5Etfw">@AaveAave</a> ( <a href="https://twitter.com/search?q=%24LEND&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$LEND</a>) launched its lending protocol today with a bang!<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f4a5.png" alt="💥" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Here&#39;s a TLDR:</p>
+<p>&quot;flash loans enable a .. smart contract to borrow assets from our reserve pools within one transaction on the condition that the liquidity is returned to the pool before the transaction ends&quot; <a href="https://t.co/YiVYLnBX3X">https://t.co/YiVYLnBX3X</a></p>
+<p>&mdash; DEX.AG Token Wire (@DEXAG_TokenWire) <a href="https://twitter.com/DEXAG_TokenWire/status/1215020025276272640?ref_src=twsrc%5Etfw">January 8, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h3>Loopring</h3>
+<p>Following Ethereum&#8217;s Istanbul upgrade, <a href="https://loopring.org/#/">Loopring</a>&#8216;s ZK tech has been given a <a href="https://defipulse.com/blog/how-ethereums-istanbul-network-upgrade-affects-defi/">performance boost by EIP-2028</a>. WeDEX launched their beta in December as the first ZK Rollup DEX built with Loopring v3. Test results <a href="https://medium.com/loopring-protocol/loopring-testing-phase-1-data-recap-ed0c67396870">released this week</a> revealed that the &#8220;average settlement cost per trade [on WeDEX was] about 5,000 gas, or 0.0000177 ETH.&#8221;</p>
+<p><a href="https://twitter.com/loopringorg/status/1214278030308335616"><img loading="lazy" class="alignnone size-large wp-image-7885" src="./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-1024x420.jpeg" alt="" width="640" height="263" srcset="./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-1024x420.jpeg 1024w, ./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-300x123.jpeg 300w, ./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-768x315.jpeg 768w, ./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-1536x630.jpeg 1536w, ./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-2048x840.jpeg 2048w, ./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-1568x643.jpeg 1568w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<p>Additionally, Loopring&#8217;s recent decision to integrate Chainlink seems like a promising sign for the platform&#8217;s future. Long story short, the Loopring Protocol requires users to stake LRC tokens for a number of reasons. Particularly, zkRollup DEX owners stake LRC in order to process layer 2 trades and submit them to Ethereum. Chainlink will help Loopring scale off-chain functions and ensure the protocol&#8217;s economic security by providing a reliable decentralized price oracle for LRC/ETH. <a href="https://medium.com/loopring-protocol/chainlink-and-loopring-collaborate-on-oracles-for-zkrollup-dex-protocol-c1c8094afc27">Read more</a> about Loopring&#8217;s Chainlink integration.</p>
+<p><span style="font-weight: 400;">F</span>ollow us on <a href="https://twitter.com/defipulse">Twitter</a> or join us in <span style="font-weight: 400;">our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a> to keep up with the DeFi ecosystem</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DSR: Dai Savings Rate &#8211; Earn Interest with Your DAI</title>
+		<link>./../../../2019/10/09/dsr-dai-savings-rate/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Wed, 09 Oct 2019 17:18:02 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Portfolio]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[dai savings rate]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[dsr]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<category><![CDATA[MKR]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7670</guid>
+
+					<description><![CDATA[The Maker Foundation announced at Devcon5 that Multi-Collateral Dai is coming November 18th, 2019. This means that you will soon...]]></description>
+										<content:encoded><![CDATA[<p>The Maker Foundation <a href="https://blog.makerdao.com/breaking-launch-date-of-multi-collateral-dai-announced-at-devcon-5/">announced at Devcon5</a> that Multi-Collateral Dai is coming November 18th, 2019. This means that you will soon have the opportunity to earn interest with your DAI. It&#8217;s all thanks to a new feature coming with Multi-Collateral Dai called the Dai Savings Rate, or DSR for short.</p>
+<p><figure id="attachment_7672" aria-describedby="caption-attachment-7672" style="width: 375px" class="wp-caption alignnone"><img loading="lazy" class="wp-image-7672" src="./../../../wp-content/uploads/2019/10/new-dai-layered-1024x1024.png" alt="Dai Savings Rate (DSR)" width="375" height="375" srcset="./../../../wp-content/uploads/2019/10/new-dai-layered-1024x1024.png 1024w, ./../../../wp-content/uploads/2019/10/new-dai-layered-300x300.png 300w, ./../../../wp-content/uploads/2019/10/new-dai-layered-150x150.png 150w, ./../../../wp-content/uploads/2019/10/new-dai-layered-768x768.png 768w, ./../../../wp-content/uploads/2019/10/new-dai-layered-1536x1536.png 1536w, ./../../../wp-content/uploads/2019/10/new-dai-layered-1568x1568.png 1568w, ./../../../wp-content/uploads/2019/10/new-dai-layered.png 1600w" sizes="(max-width: 375px) 100vw, 375px" /><figcaption id="caption-attachment-7672" class="wp-caption-text">DAI&#8217;s new symbol</figcaption></figure></p>
+<h3>What is the Dai Savings Rate (DSR)?</h3>
+<p>The Dai Savings Rate is a mechanism for the MakerDAO to control the demand side of the supply and demand equation by offering an interest rate for locking in some of the total DAI supply. Up until this point, MakerDAO only had the ability to directly affect the supply of DAI through the stability fee it charges <a href="https://defipulse.com/blog/what-is-a-cdp/">CDP</a> holders.</p>
+<h4>How does it work?</h4>
+<p>Once live, DAI token holders will have the option to lock their DAI into Maker&#8217;s DAI Savings Rate contract and earn a variable interest rate in DAI. The DAI necessary to pay the DSR contract is taken from the stability fee pool. If the pool ever runs dry, the Maker contract prints new MKR to cover the debt. Ultimately, it&#8217;s up to MKR holders to properly govern the rate and ensure the system runs smoothly.</p>
+<p>A<a href="https://blog.makerdao.com/an-update-on-the-dai-savings-rate-in-multi-collateral-dai/"> recent DSR update</a> discussed some of the challenges in governing this new component of the MakerDAO system.</p>
+<h4>How much will I make for locking in my DAI?</h4>
+<p>The rate is not set in stone like the stability fee its controlled by MakerDAO token holders. However, we can assume that the DSR can never be greater than the stability fee. And, the <a href="https://mkr.tools/governance/stabilityfee">current stability fee</a> is 10.5% (subject to change with MCDai). We can also look towards existing secondary lending markets which currently <a href="https://defipulse.com/income">offer around 8% APY</a> to get an idea of what would be competitive.</p>
+<p><strong>MKR Holders, don&#8217;t forget to <a href="https://vote.makerdao.com/polling">vote for MCDai on November 15th</a>.</strong> Stay tuned for more details about Multi-Collateral Dai and how to start earning with the DSR!</p>
+<p><span style="font-weight: 400;"><em>How will Maker introducing the DSR affect secondary lending markets like Compound and bZX?</em> Stay up-to-date on the world of DeFi by following us on <a href="https://twitter.com/defipulse">Twitter</a> or come chat us in our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord.</a></span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

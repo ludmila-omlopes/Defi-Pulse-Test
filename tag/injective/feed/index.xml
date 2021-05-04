@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>injective &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 26 Mar 2021 19:42:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Founder Fireside Chat with Eric Chen of Injective Protocol</title>
+		<link>./../../../2021/03/26/founder-fireside-chat-with-eric-chen-from-injective-protocol/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 26 Mar 2021 19:42:10 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[ama]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[injective]]></category>
+		<category><![CDATA[interview]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8990</guid>
+
+					<description><![CDATA[The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Injective-Header-1-2.png" alt="" class="wp-image-9029" width="1024" height="512"/></figure>
+
+
+
+<p class="has-medium-font-size">The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity to better understand their perspective and what drives them to build their vision.</p>
+
+
+
+<p class="has-medium-font-size">To kick off our Founder Fireside Chat series, we speak with <a href="https://twitter.com/ericinjective">Eric Chen</a>, Co-founder of <a href="https://injectiveprotocol.com/">Injective Protocol</a>, who is working to bring unparalleled access to new decentralized derivatives markets with restrictions.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q1-1.png" alt="" class="wp-image-9026" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size">Injective Protocol is the first fully decentralized exchange protocol that unlocks the full potential of decentralized derivatives and borderless DeFi. Injective Protocol enables fully decentralized trading without any restrictions, allowing individuals to trade on any derivative market of their choosing. A few unique features set us apart from the rest. We are devoid of any and all gas fees, which means no one has to pay the ridiculously high gas fees that currently plague the Ethereum ecosystem. </p>
+
+
+
+<p class="has-medium-font-size">In addition, we enable a higher level of interoperability given our integration with the Cosmos network. We are also an orderbook model exchange with instant finality, so traders are able to trade more freely without having to worry about slippage and other issues on DEXs today. Our scaling infrastructure also allows us to scale Ethereum-based transactions with composability with the greater DeFi ecosystem.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">I would have to go with decentralization. <strong>If we sacrifice decentralization, we&#8217;re no better than the legacy CeFi infrastructure.</strong> As a result, I think that this is the most important aspect that sets apart blockchain-based systems from other platforms.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q3-1.png" alt="" class="wp-image-9031" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size">I believe decentralized derivatives hold tremendous promise. In traditional finance, <strong>this sector encompasses literally quadrillions of dollars</strong>. If DeFi can capture even 1% of this market, it would tremendously help accelerate the adoption of crypto-based networks as a whole.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q4-1.png" alt="" class="wp-image-9032" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size">Due to the technical nature of our team and origin, we started off Injective with an overly complicated structure that proved to be unsustainable in the long run due to its engineering challenges. <strong>What we&#8217;ve learned is that we should take Occam&#8217;s razor approach when it comes to product focus and development.</strong> This way we can provide a clear avenue and value proposition for new traders to access our ecosystem. This is why we built a user-friendly frontend that helps to abstract away the decentralized infrastructure, leading to an exchange that can be adopted globally.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size"><strong>NGMI</strong><br><em>Editor&#8217;s note: For those of you unaware, 1) NGMI 2) that stands for &#8220;Not Gonna Make It&#8221;</em></p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p class="has-medium-font-size">Special thanks to Eric for taking the time to chat with us. You can find Eric on Twitter at <a href="https://twitter.com/ericinjective">@ericinjective</a> and on <a href="https://www.linkedin.com/company/injective-protocol/">LinkedIn</a>. You can learn more about <a href="https://injectiveprotocol.com/">Injective Protocol</a> by visiting their site or checking out <a href="https://linktr.ee/injective">Injective&#8217;s Linktree</a> full of resources.</p>
+
+
+
+<p class="has-medium-font-size"><strong>Thank you for reading. </strong>We&#8217;d love to hear your thoughts on the series like, for example, which DeFi founders you&#8217;d like to see highlighted in the future.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

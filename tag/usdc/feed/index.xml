@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>USDC &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 23 Feb 2021 19:00:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Introducing Cryptodollars</title>
+		<link>./../../../2021/02/23/cryptodollars-stablecoins/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Tue, 23 Feb 2021 19:00:00 +0000</pubDate>
+				<category><![CDATA[New Features]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[stablecoin]]></category>
+		<category><![CDATA[stablecoins]]></category>
+		<category><![CDATA[susd]]></category>
+		<category><![CDATA[synthetix]]></category>
+		<category><![CDATA[USDC]]></category>
+		<category><![CDATA[usdt]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8898</guid>
+
+					<description><![CDATA[From their inception, the coins or tokens pegged to the US Dollar, commonly referred to as stablecoins, provided a way...]]></description>
+										<content:encoded><![CDATA[
+<p>From their inception, the coins or tokens pegged to the US Dollar, commonly referred to as stablecoins, provided a way for many users to exit positions without exiting crypto. One could make the case that the popularity of tokenized dollars in crypto was a necessary precursor to the DeFi ecosystem we know today. Their liquidity and relative stability enabled new possibilities for smart contracts which ultimately led to the rapid maturity in decentralized financial instruments built on-chain.</p>
+
+
+
+<p>And so we’re happy to unveil our new <a href="http://defipulse.com/usd">Cryptodollars</a> page dedicated to measuring the amount of tokenized dollars in DeFi. At the time of writing, the total value locked in cryptodollars exceeds $34.5B. This new addition to DeFi Pulse helps to capture the full picture of the extraordinary growth of DeFi with years of historical data.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="defipulse.com/usd"><img loading="lazy" width="574" height="289" src="./../../../wp-content/uploads/2021/02/cryptodollars.png" alt="" class="wp-image-8924" srcset="./../../../wp-content/uploads/2021/02/cryptodollars.png 574w, ./../../../wp-content/uploads/2021/02/cryptodollars-300x151.png 300w" sizes="(max-width: 574px) 100vw, 574px" /></a></figure>
+
+
+
+<p><strong><em>At launch, the following cryptodollars will be included: USDT, USDC, DAI, BUSD, PAX, HUSD, TUSD, sUSD, GUSD, MUSD, and DUSD</em></strong>.</p>
+
+
+
+<p><strong>How do we define each type of cryptodollar?</strong></p>
+
+
+
+<ul><li>Custodial &#8211; a USD token backed by USD held in custody by a third party</li><li>Collateralized &#8211; a token pegged to USD backed by another asset or basket of assets</li></ul>
+
+
+
+<p>We’d also like to take a moment to acknowledge algorithmic stablecoin communities and the innovations happening in that sector. We will continue to monitor the evolution of the different &#8220;Algorithmic dollars&#8221; and we&#8217;ll be happy to add this category in the future should they start maintaining the peg (or reasonably close enough) with the US dollar.</p>
+
+
+
+<p>Special thanks to all the teams for working with us! Be sure to check out the new <a href="http://defipulse.com/usd">Cryptodollars</a> page. And if you’re interested in joining the DeFi Pulse Leaderboard, please check out this <a href="https://defipulse.com/blog/how-to-join-the-defi-pulse-leaderboard/">step-by-step guide.</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Introducing mStable &#8211; meta-assets with native yield and zero slippage swaps</title>
+		<link>./../../../2020/07/10/introducing-mstable/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 10 Jul 2020 13:30:00 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[aave]]></category>
+		<category><![CDATA[Compound]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[mstable]]></category>
+		<category><![CDATA[musd]]></category>
+		<category><![CDATA[stablecoins]]></category>
+		<category><![CDATA[USDC]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8351</guid>
+
+					<description><![CDATA[The fragmentation of the stablecoin market in DeFi has led to a lackluster experience for many crypto users. Gone are...]]></description>
+										<content:encoded><![CDATA[
+<p>The fragmentation of the stablecoin market in DeFi has led to a lackluster experience for many crypto users. Gone are the days when DeFi was DAI-centric; nowadays, most DeFi users find themselves having to shuffle between a handful of stablecoins in order to take advantage of the opportunities available in DeFi. </p>
+
+
+
+<p>And if you aren&#8217;t trying to hack your yield, you&#8217;re missing out by today&#8217;s standards. The whole process can be a lot to take in for even experienced users; imagine being a new user trying to determine the best stablecoin to own <em>and </em>earn the best yield. On its face, it&#8217;s not a simple problem to solve and sometimes users are forced to make compromises. At least until now&#8230; One of the best qualities of DeFi is that there&#8217;s always someone tackling new problems as they arise. That&#8217;s where mStable comes in with meta-assets like mUSD.</p>
+
+
+
+<h2>mStable&#8217;s mUSD is tokenized USD made simpler, safer, and more efficient</h2>
+
+
+
+<p>mStable&#8217;s mUSD addresses both the fragmentation of USD-pegged stablecoins and the lack of native yield by uniting stablecoin swapping and lending. And, it does so while also offering protection against complete capital loss (more on that in a bit). mUSD is a USD-pegged token backed by a basket of popular stablecoins with built-in yield generated from mStable SWAP fees and lending collateral on Compound and Aave. To be more precise, mStable assets like mUSD are actually a LP share in a dynamic pool of assets that generates yield, offers 0 slippage swaps between its underlying assets, and serves as a first class asset. I know that&#8217;s a bit of a mouthful. So let&#8217;s take a look at mUSD, which is <a href="https://medium.com/mstable/mstable-now-live-on-mainnet-c9f55f748ac7">live on the mainnet</a>, as an example.</p>
+
+
+
+<p>When you first open <a href="https://app.mstable.org/">the app</a>, you&#8217;re greeted with mStable&#8217;s sleek interface containing a few quick slides that break down mUSD&#8217;s three main functions: <strong>MINT</strong>, <strong>SAVE</strong>, and <strong>SWAP</strong>.</p>
+
+
+
+<h3>MINT</h3>
+
+
+
+<p>Anyone can <a href="https://app.mstable.org/mint">mint new mUSD</a> by depositing a 1:1 ratio of USDT, USDC, TUSD or DAI into mStable. For example, if you send 1000 USDT, you&#8217;ll receive 1000 mUSD. You can also conveniently &#8220;multi-mint&#8221; mUSD sending multiple stablecoins at the same time. On the flip side, you can redeem mUSD 1:1 for any of the underlying assets under normal conditions.</p>
+
+
+
+<p>An important aspect of mStable&#8217;s design is the maximum weights set for assets in each basket. This limit prevents a basket from becoming unbalanced with too much of one asset. When an asset reaches its max weight, it changes how users can mint, swap, or redeem mStable assets like mUSD.</p>
+
+
+
+<p>Say mUSD is overweighted towards USDT, users are unable to mint mUSD with USDT, only TUSD, DAI, and USDC. Whereas if you&#8217;re looking to redeem mUSD, you would only be able to multi-redeem into an equivalent combination of assets according to the basket&#8217;s current weight or straight 1:1 for USDT. These limits keep mUSD on peg and act as a safety measure to keep mUSD collateralized in the unfortunate event one of the underlying assets&#8217; value falls below its peg. You can find current mUSD basket analytics <a href="https://app.mstable.org/analytics">here</a>.</p>
+
+
+
+<p>mStable&#8217;s <a href="https://docs.mstable.org/mstable-assets/functions/governance">governance system</a> and Meta (MTA) token are designed to reduce the risks for mUSD holders. If an underlying asset completely loses its value causing mUSD to fall off its peg, mStable&#8217;s Meta Governors as they are called can vote to purge the asset and recover the lost value using by selling staked MTA token for the outstanding mUSD. This mUSD is then burned until the system is re-collateralized. MTA token holders stake their MTA essentially acting as insurance against loss to receive a portion of all revenue that mStable generates.</p>
+
+
+
+<p>mUSD&#8217;s design affords DeFi users convenient access to its underlying stablecoins while offering a hedge against their individual risks and enhance their functionality with features such as native yield. Another handy aspect of mUSD is that the yield it generates through SAVE actually mints new mUSD meaning it&#8217;s always priced 1:1 to the USD by design.</p>
+
+
+
+<h3>SAVE</h3>
+
+
+
+<p>Once you&#8217;ve minted some mUSD, you can <a href="https://app.mstable.org/save">deposit your mUSD into SAVE and start earning</a>. All mStable asset holders can earn a native yield generated from mStable SWAP fees combined with interest accrued from lending out the underlying assets to decentralized lending markets like Compound and AAVE. A portion of this yield is allocated to Meta (MTA) holders as reward for governing and insuring mStable. At the time of writing, the average daily APY over the past 7 days on mUSD&#8217;s SAVE contract is over 23%. Obviously, this rate is subject to change as lending market rates and trading volumes vary.</p>
+
+
+
+<p>mStable&#8217;s SAVE contract takes chasing interest rates between stablecoins and lending markets which is practically a full-time job at this point and makes it simple for users just looking to hold and earn value as tokenized USD. SAVE currently supports lending on Compound and AAVE but Meta Governors will have the ability to add or remove lending platforms through mStable governance. When you combine this with the fees generated from mStable zero-slippage SWAP fees and single asset mUSD redemptions, mUSD&#8217;s advantages over holding any individual stablecoin start to add up.</p>
+
+
+
+<h3>SWAP</h3>
+
+
+
+<p>Anyone can use <a href="https://app.mstable.org/swap">mStable SWAP</a> to swap TUSD, DAI, USDC, and USDT with zero-slippage and a fixed BPS fee. Zero-slippage swaps are made possible by a combination of mStable&#8217;s straight line <a href="https://medium.com/mstable/introducing-constant-sum-bonding-curves-for-tokenised-assets-6e18879cdc5b">constant sum bonding curves</a> and the insurance MTA tokens provide to the system. This also enables SWAP to scale from day 1 because prices are not dependent on the amount of liquidity in the pool.</p>
+
+
+
+<p>As with minting, swaps that would push an asset over its max weight are paused, altering swap rules for only this asset until the basket is rebalanced. And as previously mentioned, users with mUSD in SAVE earn the fees generated from SWAP. Although, a portion of these fees are rewarded to those staking MTA.</p>
+
+
+
+<h2>Meta (MTA) token and mStable governance</h2>
+
+
+
+<p>mStable&#8217;s core team controls the mStable protocol at launch; However, the plan is to distribute Meta (MTA) tokens and gradually turn mStable governance systems over to the community of Meta Governors. MTA reward programs will be used to bootstrap the mStable ecosystem rewarding early adopters. Although MTA doesn&#8217;t exist yet, you can actually take part in ecosystem rewards and earn MTA early right now (more details in the section below).</p>
+
+
+
+<p>To participate in governance and earn their allotted share of mStable revenue, users must stake their MTA tokens. Staking rewards act as an incentive for Meta Governors to properly maintain the growth and stability of mStable. Meta Governors may propose and vote on protocol changes such as:</p>
+
+
+
+<ul><li>Add or remove mStable assets</li><li>Add or remove basket assets</li><li>Adjust the max weights of basket assets</li><li>Change SWAP fees</li><li>Change MTA staking rewards / revenue take</li></ul>
+
+
+
+<h4>Meta (MTA) Distribution</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="963" height="591" src="./../../../wp-content/uploads/2020/07/mta-dist.png" alt="" class="wp-image-8358" srcset="./../../../wp-content/uploads/2020/07/mta-dist.png 963w, ./../../../wp-content/uploads/2020/07/mta-dist-300x184.png 300w, ./../../../wp-content/uploads/2020/07/mta-dist-768x471.png 768w" sizes="(max-width: 963px) 100vw, 963px" /></figure>
+
+
+
+<ul><li><strong>Current Investors:&nbsp;</strong>6.5%</li><li><strong>Reserved for future sales &amp; growth:</strong>&nbsp;26.0%</li><li><strong>Reserved for Public Rewards:&nbsp;</strong>20.0%</li><li><strong>Reserved for Institutional Rewards:&nbsp;</strong>5.0%</li><li><strong>Rewards yet to be allocated:&nbsp;</strong>20.0%</li><li><strong>Team, Advisors &amp; Future Team:&nbsp;</strong>22.5%</li></ul>
+
+
+
+<h3>Ecosystem rewards</h3>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/07/mta-rewards-1024x479.png" alt="" class="wp-image-8362"/></figure>
+
+
+
+<p>20,000,000 MTA in total, or rather 20% of MTA’s total supply, will be emitted via ecosystem rewards over the next 5 years to bootstrap mStable and promote a fairer, wider distribution of Meta tokens. Rewards encourage users to mint mStable assets and to create liquidity and utility with those assets.</p>
+
+
+
+<p>Ecosystem Rewards began June 26th, 2020 with the launch of mStable&#8217;s first reward pool on Balancer creating liquidity for mUSD&lt;&gt;USDC. Ecosystem rewards will continue in monthly tranches, increasing over the first 15 months, and then slowly decline until the allocated MTA is exhausted.</p>
+
+
+
+<h4>Earn MTA via Balancer pools</h4>
+
+
+
+<p>mStable&#8217;s<a href="https://pools.balancer.exchange/#/pool/0x72Cd8f4504941Bf8c5a21d1Fd83A96499FD71d2C"> first MTA reward pool</a> is a Balancer pool weighted 50% mUSD / 50% USDC with a 5 bps trading fee. Anyone can mint mUSD and deposit equal parts mUSD and USDC into the pool and start earning MTA on top of the usual BAL token rewards and potential Balancer pool profits. The <a href="https://medium.com/mstable/mstables-second-mta-reward-pool-is-now-live-af22ad151b47">second MTA reward pool</a> is another Balancer pool with similar weights and fees; however this pool is mUSD/WETH.</p>
+
+
+
+<p>350,000 MTA will be awarded to pool liquidity providers over the first month. Each week, a snapshot will be taken at a random time and 50,000 MTA will be allocated to the participating addresses in proportion to their contribution to their respective pools.</p>
+
+
+
+<h3>MTA token launch</h3>
+
+
+
+<p>mStable is set to launch Meta (MTA) on Balancer at approximately 14:00 UTC on Wednesday, July 15th 2020. At that time, 2,666,666 MTA tokens and ~$400,000 mUSD will be deposited into a new Balancer liquidity pool. The initial liquidity pool price will effectively be set to $0.15 mUSD/MTA. <a href="https://medium.com/mstable/introducing-meta-mta-mstables-protocol-token-6e1032291ccf">Read more</a>. <em>** Since publication, <a href="https://twitter.com/mstable_/status/1283264646405746688">the launch has been delayed</a>.</em></p>
+
+
+
+<h2>Concluding thoughts</h2>
+
+
+
+<p>As someone who has been around for a while, I&#8217;ve seen a lot and I can say that mStable&#8217;s mUSD is an elegant solution to the current issues stablecoin holders face. The purpose of stablecoins is to act as a useful and stable store of value; mUSD takes this to the next level by extending the functionality of existing stablecoins while also mitigating risk for holders. </p>
+
+
+
+<p>I&#8217;m excited to see the future of mStable protocol with assets like mBTC, mGBP, mEUR, and mGLD. Not to mention, there are so many opportunities for Meta Governors to expand the utility of mAssets by integrating new lending protocols and DeFi services.</p>
+
+
+
+<p><a href="https://app.mstable.org/">Mint your first mUSD today</a> or learn more about mStable by heading to their <a href="https://mstable.org/">website</a>. Thanks for reading! I hope you enjoyed learning about this awesome project.</p>
+
+
+
+<p><em>Disclosure: This post is part a promotional series; We&#8217;ve partnered with mStable to inform the community about their cool meta-assets system. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+
+
+
+<p><br><br><br></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DeFi Dive: Set Protocol &#8211; automated asset management strategies</title>
+		<link>./../../../2020/02/03/defi-dive-set-protocol/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 03 Feb 2020 15:44:49 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[set]]></category>
+		<category><![CDATA[Set Protocol]]></category>
+		<category><![CDATA[sets]]></category>
+		<category><![CDATA[tokensets]]></category>
+		<category><![CDATA[USDC]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7951</guid>
+
+					<description><![CDATA[Felix Feng, Co-Founder and CEO of Set Protocol, sat down with us today to discuss the future of asset management....]]></description>
+										<content:encoded><![CDATA[<p><em><strong><img loading="lazy" class="alignnone wp-image-7952 size-full" src="./../../../wp-content/uploads/2020/01/DFP-defi-dive-SET-twitter-thumbnail.png" alt="" width="1024" height="512" srcset="./../../../wp-content/uploads/2020/01/DFP-defi-dive-SET-twitter-thumbnail.png 1024w, ./../../../wp-content/uploads/2020/01/DFP-defi-dive-SET-twitter-thumbnail-300x150.png 300w, ./../../../wp-content/uploads/2020/01/DFP-defi-dive-SET-twitter-thumbnail-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></strong></em></p>
+<p><em><strong>Felix Feng, Co-Founder and CEO of Set Protocol, sat down with us today to discuss the future of asset management.</strong></em></p>
+<h3>How did you get your start in crypto and what inspired you to build Set Protocol?</h3>
+<p>I first heard about crypto during the bull market in 2013 when Bitcoin went from $100 to $1300. When I studied abroad in Milan, I had the chance to attend Bitcoin 2014, the annual Bitcoin conference. I listened to many of the technical presentations, met early companies like Coinbase and figures like Charlie Lee. I left that event convinced crypto was going to change the financial/legal industries to same way that the internet changed media and communications industries.</p>
+<p>Since then, I&#8217;ve gone down the rabbit hole, working at 21.co, starting an angel syndicate called Turing Capital, and since then Set.</p>
+<h3>What are you building and what sets it apart?</h3>
+<p>Set is a protocol that makes fund strategies easy and accessible. We built TokenSets, which is the first interface where you can acquire a Set with a few clicks of a button. Today, you can get simple strategies like an Index and more complicated technical analysis strategies like a Moving Average Crossover.&nbsp;Recently, we launched Set Social Trading on TokenSets which allows traders to effectively tokenize their strategies. Users can buy into traders Sets and gain automated exposure to their strategy.</p>
+<h3>Who do you view as the ideal user or customer for your product or service?</h3>
+<p>The amateur investor or trader would find our products useful &#8211; those who understand the power of implementing a strategy, but don&#8217;t necessarily have the knowledge, effort, or skills to do it.</p>
+<h3>What future event or feature on your road map are you most excited for?</h3>
+<div class="answer__Wrapper-sc-1k75oj5-1 jpwJZg">
+<div class="Split-sc-3xe4fi-0 answer__BlockSplit-sc-1k75oj5-4 jdjoQR">
+<div class="SplitItem-sc-3xe4fi-1 cReNwR">We&#8217;re most excited about onboarding more Social Traders and continuing to release more robo Sets onto the TokenSets platform.</div>
+</div>
+</div>
+<h3>Where do you see your project, product, or service fitting into the future of DeFi?</h3>
+<div class="answer__Wrapper-sc-1k75oj5-1 jpwJZg">
+<div class="Split-sc-3xe4fi-0 answer__BlockSplit-sc-1k75oj5-4 jdjoQR">
+<div class="SplitItem-sc-3xe4fi-1 cReNwR"><span class="Text-wqps8m-0 text-value__ValueText-di8e7l-0 gDygKs fs-block" data-qa="response-answer">We hope our product serves as a fundamental primitive for automated trading and asset management.</span></div>
+</div>
+</div>
+<h3><span class="Text-wqps8m-0 answer__QuestionText-sc-1k75oj5-0 jWxpxy" data-qa="response-question">What’s something in DeFi that you think more people should be paying attention to?</span></h3>
+<div class="Spacer-cjod5i-0 frBWpl">
+<div class="answer__Wrapper-sc-1k75oj5-1 jpwJZg">
+<div class="Split-sc-3xe4fi-0 answer__BlockSplit-sc-1k75oj5-4 jdjoQR">
+<div class="SplitItem-sc-3xe4fi-1 cReNwR"><span class="Text-wqps8m-0 text-value__ValueText-di8e7l-0 gDygKs fs-block" data-qa="response-answer">Asset Management Primitives!</span></div>
+</div>
+</div>
+</div>
+<h3>How can readers learn more about your product/service?</h3>
+<div>Find us on twitter at <a href="https://twitter.com/SetProtocol">@SetProtocol</a> or join our <a href="https://t.me/joinchat/Fx8D6wyprLUlM1jMVnaRdg">Telegram</a>&nbsp;and <a href="https://discord.gg/x3PGVfP">Discord</a>. Also:&nbsp;<a href="https://www.tokensets.com/">https://www.tokensets.com/</a></div>
+<div></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

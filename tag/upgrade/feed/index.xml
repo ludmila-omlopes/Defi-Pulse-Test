@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>upgrade &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 11 Dec 2019 21:16:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>How Ethereum&#8217;s Istanbul Network Upgrade Affects DeFi</title>
+		<link>./../../../2019/12/11/how-ethereums-istanbul-network-upgrade-affects-defi/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2019 21:16:20 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[istanbul]]></category>
+		<category><![CDATA[upgrade]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7807</guid>
+
+					<description><![CDATA[At 12:25 AM (UTC) on December 8th, 2019, the Ethereum network mined block 9,069,000 activating the Istanbul network upgrade. Let&#8217;s...]]></description>
+										<content:encoded><![CDATA[<p>At 12:25 AM (UTC) on December 8th, 2019, the Ethereum network mined block 9,069,000 activating the Istanbul network upgrade. Let&#8217;s take a look at how the upgrade might affect existing and future DeFi applications.</p>
+<h3>So what&#8217;s changed with the Istanbul Upgrade?</h3>
+<p>Istanbul included 6 Ethereum Improvement Proposals (EIPs).</p>
+<h4>EIP-152: Add Blake2 compression function `F` precompile</h4>
+<p><a href="https://github.com/ethereum/EIPs/issues/152">EIP-152</a> introduces a new precompiled contract which implements the compression function F used in the BLAKE2b cryptographic hashing algorithm. Put simply, this EIP creates new interoperability and privacy capabilities for Ethereum smart contracts. BLAKE2b allows for efficient verification of the Equihash PoW used in Zcash which means that Ethereum smart contracts could act like SPV clients.</p>
+<p>In a nutshell, it&#8217;s now possible for DeFi protocols to perform trustless atomic swaps between Ethereum and Zcash, tapping into its inherent privacy features.</p>
+<h4>EIP-1108: Reduce alt_bn128 precompile gas costs</h4>
+<p>Changes in 2018 to the underlying library used by the official Go reference implementation led to significant performance gains for precompiled contracts on the alt_bn128 elliptic curve. Logically, performance gains means faster operations on Ethereum clients. And so, <a href="https://eips.ethereum.org/EIPS/eip-1108">EIP-1108</a> aims to reduce the gas cost for elliptic curve arithmetic precompiles to account for these performance gains.</p>
+<p>All in all, DeFi privacy and scaling solutions built on Ethereum which utilize these precompiles cost less gas now. This is a big win for DeFi users because it makes zk-SNARKs cheaper.</p>
+<h4>EIP-1344: ChainID opcode</h4>
+<p>Originally introduced in <a href="https://eips.ethereum.org/EIPS/eip-155">EIP-155</a> to prevent replay attacks during the ETC hardfork, Chain ID is another way to indicate which blockchain your node or DApp follows. <a href="https://eips.ethereum.org/EIPS/eip-1344">EIP-1344</a> adds an opcode to Ethereum which returns the current chain&#8217;s ID.</p>
+<p>Currently, developers must manually hardcode specific chain IDs into their clients, smart contracts, etc. You can probably see how that might lead to human error among other unintended consequences. This EIP now allows EVM-based DeFi applications to verify chain IDs, handle potential network upgrades, and/or mitigate failures, which is particularly useful for layer 2 solutions.</p>
+<h4>EIP-1884: Repricing for trie-size-dependent opcodes</h4>
+<p>As the Ethereum network grew, so did the resources required for some opcodes. <a href="https://eips.ethereum.org/EIPS/eip-1884">EIP-1884</a> raises the gas costs for these opcodes in an attempt to find a balance between operation cost and resources consumed.</p>
+<p>This EIP may break smart contracts which were designed around these opcodes and static gas costs. However, the tradeoff is that changing the gas cost prevents contracts from abusing underpriced but highly intensive opcodes and clogging the network.</p>
+<h4>EIP-2028: Transaction data gas cost reduction</h4>
+<p><a href="https://eips.ethereum.org/EIPS/eip-2028">EIP-2028</a> reduced the gas cost of Calldata from 68 gas per byte to 16 gas per byte. In other words, less gas per byte means more bytes per block resulting scaling benefits from higher calldata bandwidth.</p>
+<p>Most of all, DeFi applications and layer 2 solutions using zk-SNARKs and zk-STARKs are now cheaper because of the cost reduction for calling data within transactions. Additonally, layer 2 solutions benefit from a potential throughput increase.</p>
+<h4>EIP-2200: Net gas metering for SSTORE operations</h4>
+<p>EIP-2200 implements a structured definition of net gas metering changes for SSTORE opcode. Simply put, it changes the cost calculation of storage in the EVM and will enable contracts to introduce new functions such as re-entry locks and same-contract multi-send.</p>
+<h4>In general, network upgrades can cause disruptions to node operators</h4>
+<p>Network upgrades require a lot of coordination to pull off. There&#8217;s plenty of room for human error when it comes to making sure each node is upgraded and ready. If a DeFi application relies on a node and then that node becomes desynchronized from the rest of the network, it may prevent you from using certain features or the DApp entirely until the team puts out a fix.</p>
+<h3>Now that Istanbul&#8217;s live, what&#8217;s next for the Ethereum network?</h3>
+<p>Muir Glacier Upgrade&#8217;s slated for activation on Block #9,200,000 or rather January 6th, 2020. This upgrade includes <a href="https://eips.ethereum.org/EIPS/eip-2384">one EIP</a> titled, &#8220;EIP 2384: Muir Glacier Difficulty Bomb Delay.&#8221; As of October 5th, 2019, the difficulty bombed kicked in again slowing Ethereum blocktimes to over 13 seconds on average. As you might have guessed, slower Ethereum blocktimes impacts the performance of DeFi protocols and DApps. And so, EIP-2384 proposes to delay the difficulty bomb for another 4,000,000 blocks (~611 days).</p>
+<p><span style="font-weight: 400;">F</span>ollow us on <a href="https://twitter.com/defipulse">Twitter</a> or join us in <span style="font-weight: 400;">our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a> to keep up with the DeFi ecosystem</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

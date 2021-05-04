@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>derivatives &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 26 Mar 2021 19:42:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Founder Fireside Chat with Eric Chen of Injective Protocol</title>
+		<link>./../../../2021/03/26/founder-fireside-chat-with-eric-chen-from-injective-protocol/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 26 Mar 2021 19:42:10 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[ama]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[injective]]></category>
+		<category><![CDATA[interview]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8990</guid>
+
+					<description><![CDATA[The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Injective-Header-1-2.png" alt="" class="wp-image-9029" width="1024" height="512"/></figure>
+
+
+
+<p class="has-medium-font-size">The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity to better understand their perspective and what drives them to build their vision.</p>
+
+
+
+<p class="has-medium-font-size">To kick off our Founder Fireside Chat series, we speak with <a href="https://twitter.com/ericinjective">Eric Chen</a>, Co-founder of <a href="https://injectiveprotocol.com/">Injective Protocol</a>, who is working to bring unparalleled access to new decentralized derivatives markets with restrictions.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q1-1.png" alt="" class="wp-image-9026" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size">Injective Protocol is the first fully decentralized exchange protocol that unlocks the full potential of decentralized derivatives and borderless DeFi. Injective Protocol enables fully decentralized trading without any restrictions, allowing individuals to trade on any derivative market of their choosing. A few unique features set us apart from the rest. We are devoid of any and all gas fees, which means no one has to pay the ridiculously high gas fees that currently plague the Ethereum ecosystem. </p>
+
+
+
+<p class="has-medium-font-size">In addition, we enable a higher level of interoperability given our integration with the Cosmos network. We are also an orderbook model exchange with instant finality, so traders are able to trade more freely without having to worry about slippage and other issues on DEXs today. Our scaling infrastructure also allows us to scale Ethereum-based transactions with composability with the greater DeFi ecosystem.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">I would have to go with decentralization. <strong>If we sacrifice decentralization, we&#8217;re no better than the legacy CeFi infrastructure.</strong> As a result, I think that this is the most important aspect that sets apart blockchain-based systems from other platforms.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q3-1.png" alt="" class="wp-image-9031" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size">I believe decentralized derivatives hold tremendous promise. In traditional finance, <strong>this sector encompasses literally quadrillions of dollars</strong>. If DeFi can capture even 1% of this market, it would tremendously help accelerate the adoption of crypto-based networks as a whole.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q4-1.png" alt="" class="wp-image-9032" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size">Due to the technical nature of our team and origin, we started off Injective with an overly complicated structure that proved to be unsustainable in the long run due to its engineering challenges. <strong>What we&#8217;ve learned is that we should take Occam&#8217;s razor approach when it comes to product focus and development.</strong> This way we can provide a clear avenue and value proposition for new traders to access our ecosystem. This is why we built a user-friendly frontend that helps to abstract away the decentralized infrastructure, leading to an exchange that can be adopted globally.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size"><strong>NGMI</strong><br><em>Editor&#8217;s note: For those of you unaware, 1) NGMI 2) that stands for &#8220;Not Gonna Make It&#8221;</em></p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p class="has-medium-font-size">Special thanks to Eric for taking the time to chat with us. You can find Eric on Twitter at <a href="https://twitter.com/ericinjective">@ericinjective</a> and on <a href="https://www.linkedin.com/company/injective-protocol/">LinkedIn</a>. You can learn more about <a href="https://injectiveprotocol.com/">Injective Protocol</a> by visiting their site or checking out <a href="https://linktr.ee/injective">Injective&#8217;s Linktree</a> full of resources.</p>
+
+
+
+<p class="has-medium-font-size"><strong>Thank you for reading. </strong>We&#8217;d love to hear your thoughts on the series like, for example, which DeFi founders you&#8217;d like to see highlighted in the future.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>SIREN &#8211; Decentralized Options For Sophisticated Traders</title>
+		<link>./../../../2021/03/01/siren/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 01 Mar 2021 21:19:51 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[amm]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[options]]></category>
+		<category><![CDATA[options trading]]></category>
+		<category><![CDATA[siren]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8929</guid>
+
+					<description><![CDATA[Options trading has become more popular than ever now that anyone can trade from anywhere with a few taps. The...]]></description>
+										<content:encoded><![CDATA[
+<p>Options trading has become more popular than ever now that anyone can trade from anywhere with a few taps. The barriers to entry have been lowered improving accessibility for the average joe. In case you don’t know, options are financial primitives that give a trader the choice (or the <em>option</em>) to buy or sell an asset at a predetermined strike price at some point in the future. Traders can utilize options to hedge against potential price changes or to speculate on the future price of an asset. As DeFi matures, on-chain financial primitives like options become the building blocks for even more sophisticated financial instruments.</p>
+
+
+
+<p>If options trading is what floats your boat, say ahoy to SIREN, a decentralized protocol aiming to carve out a unique market niche by catering specifically to sophisticated users interested in holding and actively trading tokenized options contracts. This nautical-themed on-chain options marketplace launched its alpha release in December 2020 and is about to embark on the next chapter of its journey. <strong><a href="http://sirenmarkets.com/">SIREN Markets</a> is set to launch on mainnet March 1.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/03/siren-1000x500-1-1.jpg" alt="" class="wp-image-8932"/></figure>
+
+
+
+<h2>SIREN Markets offer seamless on-chain options trading</h2>
+
+
+
+<p>SIREN is a decentralized protocol which facilitates a marketplace of fully-collateralized, on-chain options. SIREN protocol tokenizes both the long and short sides of an options contract as ERC20 tokens which enables options to be traded via its AMM design requiring no third-party settling mechanism or order matching to complete option settlement on chain. Siren AMM v2 can trade up to 6 SIREN options contracts which all share collateral and payment assets in a single pool. This enables liquidity to be rolled over when a market expires for a seamless UX for liquidity providers.</p>
+
+
+
+<p>It starts with liquidity providers depositing collateral into the SIREN AMM pool. So for the WBTC/USDC calls the collateral asset would be WBTC. When you as a trader go to buy options from the AMM, the collateral held within the pool is used to mint a pair of tokens: bToken and wToken. bToken, which stands for buyToken, is sent to the buyer and gives the holder the right to purchase or sell the underlying asset at a predetermined strike price. While wToken, short for writeToken, stays in the pool. If the option is left unexercised, wTokens allow the holder to withdraw the collateral or withdraw the exercise payment from the contract after expiration.</p>
+
+
+
+<p>Note, that SIREN AMM v2 only trades bTokens, but not wTokens. Although, the Siren team has stated that trading of wTokens may become available in the future. Users pay a premium to the pool in the collateral asset each time they make a trade. This process results in liquidity providers passively becoming covered option writers, automatically underwriting contracts to meet demand from traders. In addition to collecting premiums, liquidity providers benefit from any slippage in AMM trades and earn SI token rewards from the SIREN <a href="https://sirenmarkets.medium.com/expanding-the-siren-lpp-c69969e25d41">Liquidity Provider Program (LPP)</a>. It’s always worth noting <a href="https://docs.sirenmarkets.com/faq/what-is-a-liquidity-provider#risks">the risks associated with providing liquidity</a>.</p>
+
+
+
+<h3>Giving sophisticated options traders the right tools for the job</h3>
+
+
+
+<p>The tools that options traders have come to rely on in traditional finance were refined over decades and decades. So it only makes sense that these early days of DeFi provide ample opportunity to incorporate and innovate on these tools. SIREN’s design allows traders to easily swap options in and out in order to build complex positions as well as the necessary information to assess those positions.</p>
+
+
+
+<h4><strong>SIREN AMM v2 pricing is time-decay-aware</strong></h4>
+
+
+
+<p>There are two factors that determine the price of each trade on SIREN v2: spot price and slippage. The spot price is determined using a Black-Scholes model, which takes into account parameters like the underlying price, time to expiration, option strike and implied volatility, coupled with a Chainlink price oracle. Utilizing this formula allows Siren Markets to be time-decay-aware requiring no arbitrage in order to quote reasonable prices. Similar to other AMMs, trades will be impacted by slippage based on the size of the trade and available assets in the pool. In other words, the larger the trade relative to the size of the pool, the higher the slippage. This slippage ultimately benefits liquidity providers as another source of returns for liquidity providers on top of collecting option premiums.</p>
+
+
+
+<h4><strong>What is ITM, ATM and OTM?</strong></h4>
+
+
+
+<p>These expressions are likely familiar to options traders so we’ll skim through these rather quickly. For more in-depth info, you can refer to <a href="https://www.investopedia.com/terms/i/inthemoney.asp">Investopedia’s definitions</a>. An ITM (short for ‘in the money’) option which has value because it has a favorable strike price compared to the current market price. As you can probably guess, an OTM (short for ‘out of the money’) option still needs to reach its strike price whereas an ATM (short for ‘at the money’) has reached the strike price.&nbsp;</p>
+
+
+
+<p>These terms help determine what kind of options traders buy or sell taking into account how that option might behave in the current market. For example, an ITM call may require a smaller rise in the cryptocurrency price to be profitable, but there is less potential upside compared to an ATM or OTM call. So if you believe the market price is going to rise significantly, you might consider buying an OTM call because you’d have a greater potential upside while limiting exposure to loss if the price fell.</p>
+
+
+
+<p>These are just a couple examples of the ways traders can make use of different option characteristics to influence their trading strategy. Greeks are another way options traders can assess an option.</p>
+
+
+
+<h4><strong>Meet the Greeks</strong></h4>
+
+
+
+<p>As Siren is meant for experienced options traders, we’re only going to give a brief overview of <a href="https://docs.sirenmarkets.com/faq/what-are-the-greeks">how option Greeks apply to Siren Markets</a>. To get caught up to speed, you can learn more about these general concepts <a href="https://www.investopedia.com/trading/getting-to-know-the-greeks/">here</a>.</p>
+
+
+
+<p><strong>Delta</strong></p>
+
+
+
+<p>Delta measures a ratio comparing the difference between the underlying asset price relative to the strike price of the option. The delta of a long call is positive; the delta of a long put is negative. The delta is reversed for short calls and puts. Delta is only a theoretical approximation of your exposure in the underlying asset.&nbsp;</p>
+
+
+
+<p><strong>Gamma</strong></p>
+
+
+
+<p>If you imagine delta as the &#8220;speed&#8221; of your option position, gamma is the &#8220;acceleration.” The gamma of long options, calls or puts, is always positive; of short options, always negative.&nbsp;</p>
+
+
+
+<p>The more gamma your position has, your position delta can change a great deal and probably needs close monitoring. Gamma is highest for the ATM strike, and slopes off toward the ITM and OTM strikes.</p>
+
+
+
+<p>If you think the price of an underlying asset is about to change quickly, you want to buy an option with relatively high gamma. For example, the higher the gamma, the more delta if the underlying asset price moves the way you want it to, and vice versa.</p>
+
+
+
+<p><strong>Theta</strong></p>
+
+
+
+<p>As touched on before, Theta measures the rate of decline in the value of an option due to the passage of time sometimes referred to as time decay. No one can escape time, not even options. Time decay describes how long calls and puts have negative theta, losing money as time goes on. Short calls and puts are the opposite having positive theta and making money as time passes.&nbsp;</p>
+
+
+
+<p>Theta is highest for the ATM strike, and slopes off to the ITM and OTM options, and responds to the passage of time and changes in volatility the same way that gamma does. The theta of options is indirectly proportional to gamma. When gamma is big and positive, theta tends to be big and negative. That&#8217;s the trade-off. A position that has a lot of gamma (good for fast changing underlying assets) also has lots of theta that is continuously eroding its value.</p>
+
+
+
+<p><strong>Vega</strong></p>
+
+
+
+<p>Vega is how much the value of an option changes when the implied volatility of that option changes. Long calls and puts both have positive vega and profit when implied volatility rises. Inversely, short calls and puts both have negative vega and profit when implied volatility falls.&nbsp;</p>
+
+
+
+<p>The more time there is until expiration, the higher the vega is for an option. Vega also depends on where the price of the underlying asset is relative to the strike price of the option. Like gamma and theta, vega is highest for the ATM options, and drops for the OTM and ITM options. So, ATM options with lots of time to expiration are the most sensitive to changes in implied volatility.</p>
+
+
+
+<h2>SIREN Governance</h2>
+
+
+
+<p>The SIREN Market project was created to bring the features and tools options traders are familiar with from traditional finance to a seamless on-chain experience without sacrificing autonomy. The Siren team understands that a platform built to cater to sophisticated users only benefits from their feedback and collaboration. And so, SIREN’s native token SI is designed to reward early users placing the future of the platform in their hands via protocol governance. Liquidity providers, traders, and market makers will receive SI token rewards in exchange for their participation. By design, the most experienced and knowledgeable users will be given the most influence over the platform to help respond to future market demands.</p>
+
+
+
+<p>The SI community will be able to create new option markets and determine the fee rate for writing, closing, and redeeming an option. These fees accrue to SI token holders; although it should be noted that upon launch these fees will be set to 0 to reduce the friction for users looking to explore SIREN Markets.</p>
+
+
+
+<p>The first SIREN Liquidity Provider Program (LPP) began in December 2020 and was <a href="https://sirenmarkets.medium.com/expanding-the-siren-lpp-c69969e25d41">extended through May 2021</a>. Find out more about SIREN’s SI token and liquidity providing program <a href="https://sirenmarkets.medium.com/si-token-distribution-event-cff0be106fc6">here</a>.</p>
+
+
+
+<h2>Roadmap</h2>
+
+
+
+<p>Looking toward the future, <a href="https://sirenmarkets.medium.com/si-token-distribution-event-cff0be106fc6">SIREN’S roadmap</a> details many future upgrades to the platform like expanding the list of available asset pools. SIREN is considering adding SUSHI/USDC, UNI/USDC, YFI/USDC, LINK/USDC pools starting with Sushi. Even further out, SIREN protocol will be modified to allow yield-generating assets to be used as collateral.</p>
+
+
+
+<p>Other improvements which option traders may want to keep their eye out for include future interfaces for constructing option spreads and effecting basket trades natively. SIREN also plans to explore layer 2 solutions to improve efficiency and lower fees for its users.</p>
+
+
+
+<h2>Concluding Thoughts</h2>
+
+
+
+<p>DeFi is disruptive because it gives everyone access to the same tools and data as the experts. Many users who had never had never previously owned a share in a company or a treasury bond are now active participants in a new financial paradigm. With the increasing popularity of options trading in traditional finance, it stands to reason that on-chain options may play a bigger role as DeFi reaches more widespread adoption.&nbsp;</p>
+
+
+
+<p>It boils down to: Do you desire a more sophisticated options trading experience? If so, SIREN would like to invite you to join them in building a platform that suits your needs. This is an opportunity to influence the platform early in its development. <strong><a href="http://sirenmarkets.com/">SIREN Markets</a> is set to go live on mainnet on March 1, 2021. </strong>If you want to know more, we recommend joining SIREN’S <a href="https://t.me/sirenmarkets">Telegram</a> or following them on <a href="https://twitter.com/sirenprotocol">Twitter</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with SIREN to help educate and inform the community about Siren Markets. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Introducing Cryptodollars</title>
+		<link>./../../../2021/02/23/cryptodollars-stablecoins/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Tue, 23 Feb 2021 19:00:00 +0000</pubDate>
+				<category><![CDATA[New Features]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[stablecoin]]></category>
+		<category><![CDATA[stablecoins]]></category>
+		<category><![CDATA[susd]]></category>
+		<category><![CDATA[synthetix]]></category>
+		<category><![CDATA[USDC]]></category>
+		<category><![CDATA[usdt]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8898</guid>
+
+					<description><![CDATA[From their inception, the coins or tokens pegged to the US Dollar, commonly referred to as stablecoins, provided a way...]]></description>
+										<content:encoded><![CDATA[
+<p>From their inception, the coins or tokens pegged to the US Dollar, commonly referred to as stablecoins, provided a way for many users to exit positions without exiting crypto. One could make the case that the popularity of tokenized dollars in crypto was a necessary precursor to the DeFi ecosystem we know today. Their liquidity and relative stability enabled new possibilities for smart contracts which ultimately led to the rapid maturity in decentralized financial instruments built on-chain.</p>
+
+
+
+<p>And so we’re happy to unveil our new <a href="http://defipulse.com/usd">Cryptodollars</a> page dedicated to measuring the amount of tokenized dollars in DeFi. At the time of writing, the total value locked in cryptodollars exceeds $34.5B. This new addition to DeFi Pulse helps to capture the full picture of the extraordinary growth of DeFi with years of historical data.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="defipulse.com/usd"><img loading="lazy" width="574" height="289" src="./../../../wp-content/uploads/2021/02/cryptodollars.png" alt="" class="wp-image-8924" srcset="./../../../wp-content/uploads/2021/02/cryptodollars.png 574w, ./../../../wp-content/uploads/2021/02/cryptodollars-300x151.png 300w" sizes="(max-width: 574px) 100vw, 574px" /></a></figure>
+
+
+
+<p><strong><em>At launch, the following cryptodollars will be included: USDT, USDC, DAI, BUSD, PAX, HUSD, TUSD, sUSD, GUSD, MUSD, and DUSD</em></strong>.</p>
+
+
+
+<p><strong>How do we define each type of cryptodollar?</strong></p>
+
+
+
+<ul><li>Custodial &#8211; a USD token backed by USD held in custody by a third party</li><li>Collateralized &#8211; a token pegged to USD backed by another asset or basket of assets</li></ul>
+
+
+
+<p>We’d also like to take a moment to acknowledge algorithmic stablecoin communities and the innovations happening in that sector. We will continue to monitor the evolution of the different &#8220;Algorithmic dollars&#8221; and we&#8217;ll be happy to add this category in the future should they start maintaining the peg (or reasonably close enough) with the US dollar.</p>
+
+
+
+<p>Special thanks to all the teams for working with us! Be sure to check out the new <a href="http://defipulse.com/usd">Cryptodollars</a> page. And if you’re interested in joining the DeFi Pulse Leaderboard, please check out this <a href="https://defipulse.com/blog/how-to-join-the-defi-pulse-leaderboard/">step-by-step guide.</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Futureswap  &#8211; Decentralized Perpetual Futures with up to 10x Leverage</title>
+		<link>./../../../2021/02/08/futureswap-v2/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 08 Feb 2021 22:12:31 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Futures]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[decentralized exchange]]></category>
+		<category><![CDATA[decentralized exchanges]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[futures]]></category>
+		<category><![CDATA[futureswap]]></category>
+		<category><![CDATA[perpetual]]></category>
+		<category><![CDATA[perpetuals]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8855</guid>
+
+					<description><![CDATA[Recent events have made it all too clear to the average user why decentralization has a key role to play...]]></description>
+										<content:encoded><![CDATA[
+<p>Recent events have made it all too clear to the average user why decentralization has a key role to play in having a fair and efficient market. Futureswap aims to disrupt the multi-billion dollar perpetual futures trading market currently dominated by centralized services. Futureswap takes a different approach with a hybrid between Uniswap and a perpetual futures exchange platform governed by the community. You may remember Futureswap from their <a href="https://medium.com/futureswap/futureswap-lessons-learned-from-a-3-day-alpha-be4e37bc8c52">successful Alpha in April 2020 which ultimately ended early</a> after DeFi users flocked to the platform in overwhelming numbers. In less than 3 days, Futureswap’s Alpha 24hr trading volume grew to $17M and liquidity passed $1M. Erring on the side of caution, the Futureswap team decided to end the Alpha earlier than initially planned.&nbsp;</p>
+
+
+
+<p><strong>Now they’re back with something even better, the Futureswap V2 Beta is </strong><a href="https://futureswap.com/"><strong>already launched on mainnet</strong></a><strong>.</strong> The Futureswap V2 Beta includes upgrades like live pricing and higher capital efficiency which aim to provide a perpetual futures trading experience that outperforms <em>centralized</em> exchanges.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/02/COL_DG-1-1024x494.png" alt="" class="wp-image-8860"/></figure>
+
+
+
+<h2>What makes Futureswap V2 Beta special?</h2>
+
+
+
+<p>Futureswap is a decentralized exchange platform with an automatic market maker (AMM) design that enables traders to enter leveraged perpetual futures with low slippage. Its automatic market maker (AMM) design provides higher capital efficiency offering up to 10x leverage. According to Futureswap: after $50m in liquidity, Futureswap should have better price execution for a $1m trade than any other decentralized exchange and after $300m it has the lowest slippage compared to centralized exchanges based on the current slippage parameters. </p>
+
+
+
+<p>Additionally, Futureswap pools can be very efficient with their use of capital resulting in more stability and potentially high returns for liquidity providers compared to traditional AMM exchanges. Futureswap utilizes what’s called a Dynamic Funding Rate or DFR for short. The DFR is a borrowing fee based on the total trade size designed to maintain the volume balance between open longs and shorts. During times of disproportionate demand, liquidity providers’ pooled assets are used to take up the opposite side of any unmatched trades. So if there were tons of unmatched ETH longs, LPs cover the ETH essentially opening a short.</p>
+
+
+
+<p>Long and short volumes are pooled and then the more popular pool is charged the dynamic funding rate and it’s paid to the pool in low demand.<strong> </strong>This mechanism limits extreme volatility and properly rewards liquidity providers for their exposure to risk. The DFR keeps increasing as the disparity grows to disincentivize trades on the popular side. In other words, the longs pay the shorts or vice versa until the sides become balanced. This also means that liquidity providers have the potential to earn more thanks to the DFR.</p>
+
+
+
+<h3>Oracle Relayer Network (ORN)</h3>
+
+
+
+<p>One of the biggest improvements Futureswap V2 brings is the new Oracle Relayer Network (ORN) which enables instant pricing and real-time trading. ORN has been described as a mesh between a price oracle and a meta-transaction processor node. Futureswap users are able to trade in real-time by signing a message including their order and submitting them to ORN. Then, ORN verifies the signed message and finalizes the trade on-chain at the current price. Transactions will fail if outside accurate price bounds set by ORN to protect users. The Futureswap team is taking further steps to improve the Oracle Relayer Network’s security with audits by <a href="https://www.trailofbits.com/">Trail of Bits</a> and plans to add more nodes to the network.</p>
+
+
+
+<h2><br><strong>How Futureswap works</strong></h2>
+
+
+
+<h3>Traders</h3>
+
+
+
+<p>As we’ve covered, <a href="https://exchange.futureswap.com/">traders on Futureswap can open long or short perpetual future positions with up to 10x leverage</a> in real-time with instant pricing. Perpetual futures on Futureswap have no time limits and can remain open as long as the trader has enough collateral. Traders will either pay or earn the dynamic funding rate when opening longs or shorts depending on whether they are on the popular side of the trade or not. Traders also earn FST token rewards each epoch based on their percentage of close trade volume that distribution period.<br></p>
+
+
+
+<h3>Liquidity providers</h3>
+
+
+
+<p>Liquidity Providers<a href="https://exchange.futureswap.com/pool"> add liquidity to Futureswap pools</a> in equal parts to earn trading fees and FST token rewards. For example, if you wanted to add liquidity to Futureswap’s ETH/USDC pool, you would need $100 worth of ETH and 100 USDC. Once deposited, LP tokens are minted representing your share of the pool. These LP tokens can be redeemed at any time if their liquidity is not in a trade. Liquidity providers earn trading fees for allowing traders to use their liquidity. Liquidity providers also earn FST token rewards as an incentive to further grow Futureswap’s available liquidity.</p>
+
+
+
+<h3>Liquidators</h3>
+
+
+
+<p>Liquidators monitor the platform for positions that are close to violating margin requirements and send liquidation transactions to close at-risk positions for a liquidator fee. It’s vital to the health and stability of the platform for positions to be reliably closed once they reach their liquidation price. It’s worth mentioning that submitting these transactions does not require the liquidator to provide any value or to take over the trade. They simply close the trade on behalf of the protocol and are rewarded for doing so. Currently, the percentage that liquidators receive is 30% of the remaining collateral up to a maximum (currently set to 500 USDC).</p>
+
+
+
+<h2>Futureswap is governed by the community</h2>
+
+
+
+<p>FST is Futureswap’s non-transferable governance token which is<a href="https://exchange.futureswap.com/rewards"> rewarded to traders, liquidity providers, and referrers each day.</a>&nbsp; FST allows the Futureswap community to propose and vote on changes to the protocol, enabling it to evolve and improve over time. We’ve already mentioned FST tokens a few times covering Futureswap’s various incentives designed to incentivize user participation. <a href="https://medium.com/futureswap/futureswap-governance-token-distribution-d2712c855da5">FST is used to reward the Futureswap</a> users contributing to the growth and adoption of the platform. And since Futureswap is governed by the community, this gives the most active users influence over the future of the platform. In other words, users who participate sooner rather than later after the community grows even larger are more likely to have a larger impact with their contributions and receive more FST rewards.</p>
+
+
+
+<h2>Concluding thoughts</h2>
+
+
+
+<p>Potentially disrupting such a big market like perpetual futures presents an opportunity for Futureswap. Futureswap is designed with the expectations of serious trades in mind. Futureswap’s design with its high capital efficiency and low slippage lends itself well to larger trades for whales and industry traders. Its instant pricing and real-time trading ORN system provides a better trading experience with built-in protections against front running attacks. Futureswap may also continue to provide even lower slippage as liquidity grows over time. FST rewards increase the likelihood of this occurring by incentivizing adoption.</p>
+
+
+
+<p>Try <a href="https://www.futureswap.com/">Futureswap</a> today and start earning FST rewards. Also, be sure to check out the Futureswap community on <a href="https://twitter.com/futureswapx">Twitter</a> and <a href="https://discord.gg/ZCcxtu9VxH">Discord</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Futureswap to help educate and inform the community about the launch of Futureswap V2 Beta. </em><em>DeFi Pulse received FST tokens as part of its payment. </em><em>As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Introducing Bitcoin at Work</title>
+		<link>./../../../2020/12/22/introducing-bitcoin-at-work/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Tue, 22 Dec 2020 19:50:15 +0000</pubDate>
+				<category><![CDATA[New Features]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[acbtc]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[bch]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[btc++]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[hbtc]]></category>
+		<category><![CDATA[imbtc]]></category>
+		<category><![CDATA[pbtc]]></category>
+		<category><![CDATA[renbtc]]></category>
+		<category><![CDATA[sbtc]]></category>
+		<category><![CDATA[tBTC]]></category>
+		<category><![CDATA[token]]></category>
+		<category><![CDATA[WBTC]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8726</guid>
+
+					<description><![CDATA[Over the course of 2020, more than 140,000 BTC entered the DeFi ecosystem. With so many different alternatives for Bitcoin...]]></description>
+										<content:encoded><![CDATA[
+<p>Over the course of 2020, more than 140,000 BTC entered the DeFi ecosystem. With so many different alternatives for Bitcoin tokens, it only makes sense to break it out into its own page to provide more detailed metrics. We&#8217;re excited to introduce a new page highlighting the use of Bitcoin in the DeFi ecosystem. <a href="http://defipulse.com/btc">Bitcoin at Work</a> measures the total amount of BTC being utilized within decentralized finance (DeFi).</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="http://defipulse.com/btc"><img loading="lazy" src="./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-1024x1024.png" alt="" class="wp-image-8793" width="512" height="512" srcset="./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-1024x1024.png 1024w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-300x300.png 300w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-150x150.png 150w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-768x768.png 768w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1.png 1080w" sizes="(max-width: 512px) 100vw, 512px" /></a></figure></div>
+
+
+
+<p>We worked with 10 different teams from all across our industry to bring you a wide variety of BTC token metrics. <strong>The following BTC tokens will be included at launch:&nbsp;WBTC, RENBTC, HBTC, sBTC, tBTC, imBTC, oBTC, acBTC, pBTC, and BTC++.</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/12/btc-logo-board03-1024x512.png" alt="" class="wp-image-8785" width="768" height="384" srcset="./../../../wp-content/uploads/2020/12/btc-logo-board03-1024x512.png 1024w, ./../../../wp-content/uploads/2020/12/btc-logo-board03-300x150.png 300w, ./../../../wp-content/uploads/2020/12/btc-logo-board03-768x384.png 768w, ./../../../wp-content/uploads/2020/12/btc-logo-board03.png 1500w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
+
+
+
+<p>As you might have noticed, WBTC has been moved to this new page and its TVL is no longer included in the TVL metrics found on our homepage. WBTC was originally added to the leaderboard at a time when it was practically the only tokenized BTC utilized in DeFi, but given the current landscape we now think it is a better fit for the Bitcoin at Work leaderboard.</p>
+
+
+
+<p>We know that not every BTC token is quite the same. Each one has its own method of minting and redeeming and varying degrees of centralization ranging from custodial to fully decentralized.<strong> </strong><br><strong>We broke down each BTC token into four types to better distinguish their different qualities:<br></strong><br><strong>Decentralized</strong> &#8211; a BTC token backed by BTC held within a fully decentralized protocol<br><br><strong>Custodial</strong> &#8211; a BTC token backed by BTC held in custody by a third party<br><br><strong>Synthetic</strong> &#8211; a token which follows the price of Bitcoin but is not directly backed by BTC<br><br><strong>Hybrid</strong> &#8211; a BTC token backed by BTC held within an open protocol transitioning towards decentralization</p>
+
+
+
+<p>Aside from recognizing the hard work and growth of this sector, we hope the metrics and information included in this new page will help DeFi users discover new possibilities and make more informed decisions.&nbsp;</p>
+
+
+
+<p>Special thanks to all the teams for working with us! Be sure to check out the new page and explore the <a href="http://defipulse.com/btc">Bitcoin at Work</a> metrics for yourself. And if you’re interested in joining the DeFi Pulse Leaderboard, please check out this <a href="https://defipulse.com/blog/how-to-join-the-defi-pulse-leaderboard/">step-by-step guide.</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hegic Protocol &#8211; On-chain Options Trading Protocol</title>
+		<link>./../../../2020/11/28/hegic-protocol-on-chain-options-trading-protocol/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sat, 28 Nov 2020 17:35:13 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[hegic]]></category>
+		<category><![CDATA[options]]></category>
+		<category><![CDATA[options trading]]></category>
+		<category><![CDATA[protocol]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8721</guid>
+
+					<description><![CDATA[During DeFi’s most innovative and exciting year, a new kind of trading experience has exploded onto the scene. Hegic is...]]></description>
+										<content:encoded><![CDATA[
+<p>During DeFi’s most innovative and exciting year, a new kind of trading experience has exploded onto the scene. <a href="https://www.hegic.co/">Hegic</a> is an on-chain, non-custodial platform for options trading, launched by the enigmatic Molly Wintermute. The platform has grown significantly in recent months, after its <a href="https://decrypt.co/35038/hegics-molly-wintermute-im-paying-a-high-price-for-the-mainnet-first-approach-to-building">inauspicious start </a>in April. The first iteration suffered from buggy code, which required Wintermute to return almost $50,000 in locked funds to users. Since then, Hegic has been running smoothly, and volume has <a href="https://www.hegic.co/analytics">rapidly grown</a>. It is poised to become one of the key players in the crypto trading ecosystem.</p>
+
+
+
+<p>Hegic allows users to buy put and call options on ETH and WBTC. Currently, total options volume for WBTC exceeds that of ETH. For those who are unfamiliar with options trading, calls and puts are essentially bets on the future price of assets. Buying a call means you have the right but not the obligation to purchase an asset at a certain price (the “strike price”) for an agreed-upon length of time. You pay a premium to purchase the option. </p>
+
+
+
+<p>Let’s say you buy a call for ETH at $500. The call option expires one month later. If the price of ETH shoots up to $1,000 during this window of time, you can exercise the option for a profit of $500 less the premium cost. Put options work the opposite way. You reserve the right but are not required to sell $ETH at $500 one month later. If ETH plummets to $250 during this time, you can go buy some ETH at market price then turn around and sell it for $500 as agreed. You profit $250 minus the premium you paid. Premium costs depend on the length of the options contract and the “moneyness” of the option (basically, how far the strike price and the actual price deviate at the time of purchase).</p>
+
+
+
+<p>Why would anyone want to use options? Well, for starters, it allows you to trade with leverage and still manage your risk. The beauty of options trading is that traders can use them when they are extremely confident or extremely uncertain, as options can be used as a hedging measure in combination with other trades. The price of a crypto-asset can go parabolic rather quickly. Options allow you to capture all of the upside (or downside) with only the cost of the premium. You are also protected from the asset going <em>against</em> your thesis to an astronomical amount. At worst, you choose not to exercise the option and the only money you’re out is the sunk premium cost. One key aspect of Hegic that experienced traders will need to consider is that the premium is priced in ETH. As the price of ETH fluctuates, the value of the premium also changes, which will impact your P&amp;L.</p>
+
+
+
+<p>To offer a viable trading experience, Hegic requires a deep well of liquidity from which traders can draw. Without sufficient liquidity, traders will be unable to enjoy the same experience provided by centralized exchanges, and liquidity providers will be exposed to even greater counterparty risk when writing contracts. Hegic aims to accomplish this by incentivizing liquidity providers. LPs are called ‘writers’ in the Hegic ecosystem. Writers share the premiums paid in their pools. Hegic also incentivizes liquidity provision with the native HEGIC token. </p>
+
+
+
+<p>Wintermute envisions HEGIC to become a governance token for the protocol at some point in the future, but currently the token is only a requirement for purchasing a staking lot. 888,000 HEGIC buys a staking lot and with it, the right to the protocol’s settlement fees. There is one additional incentive available to writers. By providing liquidity, you are credited with writeBTC or writeETH tokens. These tokens can be staked to earn rHegic token, which is essentially a vested version of HEGIC that can be sold at a hefty discount before the vesting period ends in late 2021.</p>
+
+
+
+<p>Hegic&nbsp;is one of the more complicated DeFi protocols on the market today. It involves a lot more levers and cranks than discussed here, including a bonding curve that controls the new supply of Hegic. To learn more about Hegic, you can check out <a href="https://hegic.gitbook.io/start/">Hegic&#8217;s documentation</a>. You can also try it out for yourself; All you need is an Ethereum wallet. The protocol does not require KYC or account verification. Hegic is proving to be a worthy rival for Deribit, although they are likely to grow in unison given the unique advantages that each provide. Hopefully, there will be plenty of opportunities for arbitrage between the two platforms headed into the future.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Lien &#8211; Governance-less ETH Options and Stablecoins</title>
+		<link>./../../../2020/09/05/lien/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sat, 05 Sep 2020 15:12:51 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[lien]]></category>
+		<category><![CDATA[options]]></category>
+		<category><![CDATA[options trading]]></category>
+		<category><![CDATA[stablecoins]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8535</guid>
+
+					<description><![CDATA[In the background of all the DeFi and yield farming commotion, stablecoins have been booming. DAI, USDC, USDT, and countless...]]></description>
+										<content:encoded><![CDATA[
+<p>In the background of all the DeFi and yield farming commotion, stablecoins have been booming. DAI, USDC, USDT, and countless others have been pouring into DeFi. While it is great to have so many options, each stablecoin has its trade-offs which users must consider. For some, the centralization risk of stablecoins like USDC are simply too great; they desire a stablecoin that is truly decentralized.</p>
+
+
+
+<p><a href="https://lien.finance/">Lien</a>, brought to you by an anonymous team of developers, has a solution for these folks: stablecoins backed by ETH derivatives with &#8220;governance-less&#8221; design which requires no over-collateralization and no manual adjustments to maintain the pegged exchange rate.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://lien.finance/"><img loading="lazy" width="1024" height="341" src="./../../../wp-content/uploads/2020/09/LienBannerWoTagline-1024x341.png" alt="" class="wp-image-8550" srcset="./../../../wp-content/uploads/2020/09/LienBannerWoTagline-1024x341.png 1024w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline-300x100.png 300w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline-768x256.png 768w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h2>Lien Protocol and iDOL</h2>
+
+
+
+<p>Lien Protocol powers a stablecoin called iDOL backed by ETH derivatives which allows it to utilize tranches or &#8220;tranching&#8221; to maintain stability.  iDOL is designed to be insensitive to the fluctuations in the USD price of ETH, minimizing the volatility by having speculators insure the risk. Instead of being directly backed ETH requiring over-collateralization to maintain its peg, iDOL is backed by a basket of bond tokens.</p>
+
+
+
+<p>Lien uses a system where ETH is tranched into two derivative contract tokens: Liquid Bond Token (LBT) and Solid Bond Token (SBT). These two bond tokens are minted at the same time with the same strike price and maturity date. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="534" src="./../../../wp-content/uploads/2020/09/Selection_396-1-1024x534.jpg" alt="" class="wp-image-8541" srcset="./../../../wp-content/uploads/2020/09/Selection_396-1-1024x534.jpg 1024w, ./../../../wp-content/uploads/2020/09/Selection_396-1-300x156.jpg 300w, ./../../../wp-content/uploads/2020/09/Selection_396-1-768x400.jpg 768w, ./../../../wp-content/uploads/2020/09/Selection_396-1.jpg 1310w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Upon maturity, SBT holders receive a fixed dollar amount (if possible) and then any remaining ETH is given to the LBT holder. If the price of ETH upon maturity is lower than the strike price, then the smart contract will pay out the entire ETH to the SBT holder and the LBT holder will receive nothing. In this way, LBT holders take on the brunt of the risk through speculation.</p>
+
+
+
+<h3>Let&#8217;s examine Lien Protocol in action</h3>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="552" src="./../../../wp-content/uploads/2020/09/Selection_397-1024x552.jpg" alt="" class="wp-image-8543" srcset="./../../../wp-content/uploads/2020/09/Selection_397-1024x552.jpg 1024w, ./../../../wp-content/uploads/2020/09/Selection_397-300x162.jpg 300w, ./../../../wp-content/uploads/2020/09/Selection_397-768x414.jpg 768w, ./../../../wp-content/uploads/2020/09/Selection_397.jpg 1034w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>This diagram above can be a bit confusing at first glance but it is simpler than you think once explained. First, you deposit ETH into Lien&#8217;s smart contracts which then splits or &#8220;tranches&#8221; ETH into SBT and LBT that have the same maturity and strike price. The SBT is sent to the iDOL smart contract and used as collateral to mint iDOL. At this point, you hold the LBT and the freshly minted iDOL which can be used and spent like other stablecoins. </p>
+
+
+
+<p>As the maturity date approaches, the SBT is auctioned off for iDOL by the protocol. Once it reaches maturity, the smart contract will pay out to the SBT holder,&nbsp;the dollar amount that the holder is entitled to in ETH. And then, the smart contract pays any remaining ETH to you as the LBT holder. As previously mentioned, LBT holders risk receiving nothing if the price of ETH is below the strike price upon maturity.</p>
+
+
+
+<h3>What makes Lien and iDOL special?</h3>
+
+
+
+<p>Instead of relying on over-collateralization, iDOL is backed by a basket of SBTs, each with their own maturity date, placing the brunt of risk on those speculating on the value of LBTs. As their <a href="https://lien.finance/pdf/iDOLWP_v1.pdf">whitepaper</a> so eloquently puts it: <em>&#8220;The stability of the SBT value is based upon the instability of the LBT value. That is, all the risks related to the price volatility of Ether are undertaken by the LBT holder, which then makes the value of SBT stable. We can think of LBT as a leveraged derivative token, the value of which is associated with Ether but fluctuates much more than Ether.&#8221;</em></p>
+
+
+
+<p>Lien Protocol has placed a buffer of sorts between iDOL holders and the volatility of ETH and the wider market. The system can automatically stabilize the price of SBT and subsequently iDOL at target levels using market forces alone without the need for governance.</p>
+
+
+
+<p>For those bullish on ETH, LBT functions like a call option on ETH that performs as a 2x leveraged ETH token. This allows you to create leveraged long positions by holding LBT. As with call options, you don’t have to worry about margin calls and liquidation during flash crashes.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="700" height="465" src="./../../../wp-content/uploads/2020/09/lien-diagram.png" alt="" class="wp-image-8536" srcset="./../../../wp-content/uploads/2020/09/lien-diagram.png 700w, ./../../../wp-content/uploads/2020/09/lien-diagram-300x199.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
+
+
+
+<h2>Lien FairSwap</h2>
+
+
+
+<p>Lien FairSwap is an AMM DEX which takes inspiration from Uniswap and attempts to mitigate some of the disadvantages of its design. FairSwap has built-in front-running protection which ensures transactions are settled in &#8220;a fair manner&#8221; by taking advantage of a frequent batch auction mechanism. FairSwap doesn&#8217;t process orders one by one and instead batches orders across a few blocks, called an &#8220;exchange box,&#8221; and then clears them all simultaneously.</p>
+
+
+
+<p>FairSwap provides liquidity for iDOL-related derivative tokens like SBT and LBT. Unlike iDOL&#8217;s smart contracts, FairSwap&#8217;s parameters can be modified after launch. To learn more about FairSwap, I recommend you check out the <a href="https://lien.finance/pdf/LienFairSwapWP_v1.pdf">whitepaper</a>.</p>
+
+
+
+<h2>LIEN token</h2>
+
+
+
+<p>As previously mentioned, Lien Protocol is designed to operate autonomously and &#8220;governance-free.&#8221; And so, LIEN token is not your typical governance token. LIEN can be considered a utility token that can be used to receive discounts/rebates on protocol fees. </p>
+
+
+
+<p>The Lien Protocol charges a fee (0.2%) when users mint the iDOL stable coin and when users exchange assets using FairSwap (0.3% &#8211; variable). Fees are collected in ETH or iDOL and are then distributed proportionally to holders of the Lien Token as discounts/rebates at the end of each month. 100% of Lien Protocol fees and 20% of FairSwap fees are attributed to Lien Token holders. <a href="https://medium.com/lien-finance/lien-token-metrics-f9e7bae3e407">See here for more info about LIEN.</a></p>
+
+
+
+<h2>Closing thoughts</h2>
+
+
+
+<p>Each and every week I get the pleasure of diving into new protocols and Lien Protocol did not disappoint. I can easily see how iDOL fulfills many people&#8217;s desire for a stablecoin without centralization or governance risk. I&#8217;d be curious to see down the line if there is an iGBP or iJPY because while iDOL is based on the dollar the system can be applied to other assets with sufficient oracles and market forces.</p>
+
+
+
+<h3>Lien Protocol and FairSwap are live on mainnet</h3>
+
+
+
+<p><strong>Although the Lien team is completely anonymous, special attention has been paid to smart contract security by the Lien team with initial code audits perform by <a href="https://diligence.consensys.net/audits/2020/05/lien-protocol/">ConsenSys Dilligence</a> in May and final code audits performed by <a href="https://certificate.certik.org/reports/lien_finance.pdf">CertiK</a>. </strong>To give you an even better idea of their mindset, the Lien team even imparts users with these wise words in<a href="https://medium.com/lien-finance/lien-apps-go-live-on-ethereum-mainnet-2b16cb28a5bf"> their launch post</a>: &#8220;<em>While audits are extremely important in assessing the validity and security of the code, they do not eliminate risks completely.&#8221;</em></p>
+
+
+
+<p><strong>Lien Protocol and FairSwap are live as of Friday Sept 4th, 2020.</strong> Head over to <a href="https://app.lien.finance/">Lien.finance</a> where you can trade LBT, mint iDOL, bid on SBT auctions, provide liquidity, and more today! </p>
+
+
+
+<p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve been paid by Lien Protocol to inform readers about their platform and iDOL. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Perpetual Protocol &#8211; 20x Leverage Perpetuals Never Limited by Available Liquidity</title>
+		<link>./../../../2020/08/30/perpetual-protocol/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 30 Aug 2020 16:18:11 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Exchanges]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[futures]]></category>
+		<category><![CDATA[perp]]></category>
+		<category><![CDATA[perpetual]]></category>
+		<category><![CDATA[perpetuals]]></category>
+		<category><![CDATA[vamm]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8489</guid>
+
+					<description><![CDATA[Innovation happens at a head-spinning pace in decentralized finance. As the ecosystem continues to stack up brick after brick, our...]]></description>
+										<content:encoded><![CDATA[
+<p>Innovation happens at a head-spinning pace in decentralized finance. As the ecosystem continues to stack up brick after brick, our capabilities reach new heights and knock down old barriers. The protocol I have the pleasure of introducing to you in this week&#8217;s DeFi Pulse Drop has its eyes set on disrupting the existing futures and derivatives market by offering innovations that lower the barrier to entry for even low liquidity futures.</p>
+
+
+
+<p><a href="https://perp.fi/">Perpetual Protocol</a> is a decentralized perpetual contract protocol capable of supporting 20x leverage for any asset without being limited by available liquidity thanks to its virtual AMM (vAMM) design.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://perp.fi/"><img loading="lazy" width="700" height="179" src="./../../../wp-content/uploads/2020/08/1_1wIKLnIokys0kmlCyynzTg.png" alt="" class="wp-image-8506" srcset="./../../../wp-content/uploads/2020/08/1_1wIKLnIokys0kmlCyynzTg.png 700w, ./../../../wp-content/uploads/2020/08/1_1wIKLnIokys0kmlCyynzTg-300x77.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></figure>
+
+
+
+<h2>What is a Virtual AMM (vAMM)?</h2>
+
+
+
+<p>To get a better understanding of the differences between your average AMM like Uniswap or Curve and Perpetual&#8217;s vAMM, let&#8217;s take a step back. Automated Market Maker (AMM) exchanges you&#8217;ve likely encountered before swap tokens with a constant product function <em>x*y=k</em>. And while there has been a lot of innovation happening around AMMs in the past couple years to optimize swapping assets, Perpetual Protocol&#8217;s virtual AMM (vAMM) is something unique which enables perpetual contracts for any asset with lower slippage by design. </p>
+
+
+
+<p>I know what you&#8217;re saying: &#8220;Aren&#8217;t all smart contracts <em>virtual</em>?&#8221; And, you&#8217;re not wrong, so let&#8217;s clear up what this means exactly by examining that function <em>x*y=k</em> from earlier. With most other AMMs, you deposit two assets into reserves represented as <em>x</em> and <em>y.</em> The available quantities of these two assets establishes the price you might pay to swap in either direction. As the supply of <em>x</em> increases, the supply of <em>y</em> decreases and vice versa. The result is that <em>k</em> remains constant and liquidity is always available albeit the price gets higher and higher as you approach the extremes in either direction. Perpetual Protocol&#8217;s vAMM functions similarly except it doesn&#8217;t actually store any tokens inside the AMM itself.</p>
+
+
+
+<p>Perpetual Protocol&#8217;s <a href="https://gov.perp.fi/t/deep-dive-into-our-virtual-amm-vamm/38">virtual AMM (vAMM)</a> gets its name from the fact that its doesn&#8217;t store, swap or spot trade any tokens and is only used for price discovery. Assets are instead sent to another smart contract referred to as the &#8220;Clearing House&#8221; which then stores the assets in the &#8220;Vault.&#8221; The Clearing House accepts deposits and records position ownership with the relevant info such as initial margin, level of leverage, and whether it is long or short.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1920" height="1080" src="./../../../wp-content/uploads/2020/08/perpetual-protocol-vammGIF-1.gif" alt="" class="wp-image-8500"/></figure>
+
+
+
+<p>This GIF illustrates a user entering a new position; Alice longs 2.439 ETH with 100 DAI as the collateral, subsequently changing the state inside this vAMM. As you can see, the initial state of this vAMM was 40000 vDAI and 100 vETH and now the vAMM&#8217;s state becomes 97.5609756 vETH and 41000 vDAI, but remember that the Vault still holds the 100 DAI Alice deposited. The Vault always has enough collateral to pay back every trader (given the assets are able to be liquidated) because one trader&#8217;s gain will cancel out another trader&#8217;s loss. Alice&#8217;s gains are Bob&#8217;s losses and so on and so on.</p>
+
+
+
+<h3>Funding Rate</h3>
+
+
+
+<p>In order to ensure vAMM markets follow the wider market, Perpetual Protocol utilizes an hourly funding rate similar to that of FTX Exchange. Each and every hour, funding payments are paid to traders as incentive to take up the unpopular side of the market bringing it back in line with the index price. For example, if the funding rate is positive, long positions pay short position holders,</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="614" height="68" src="./../../../wp-content/uploads/2020/08/9830363769d701def459c9d411726a64fae37ffb.png" alt="" class="wp-image-8496" srcset="./../../../wp-content/uploads/2020/08/9830363769d701def459c9d411726a64fae37ffb.png 614w, ./../../../wp-content/uploads/2020/08/9830363769d701def459c9d411726a64fae37ffb-300x33.png 300w" sizes="(max-width: 614px) 100vw, 614px" /></figure>
+
+
+
+<p>Chainlink oracles are used for the index price because in the words of the Perpetual team, &#8220;it&#8217;s the most battle-tested Oracle solution on the market.&#8221;</p>
+
+
+
+<h4>Insurance Fund</h4>
+
+
+
+<p>50% of all transaction fees on Perpetual Protocol are deposited into an Insurance Fund, which is used as the first line of defense when the system faces unexpected losses such as losses in the liquidation process and funding payments.</p>
+
+
+
+<h2>What makes a vAMM unique?</h2>
+
+
+
+<p>Perpetual Protocol&#8217;s vAMM affords it a few key advantages over other AMM designs.</p>
+
+
+
+<h3>No liquidity providers = no liquidity restrictions or impermanent losses</h3>
+
+
+
+<p>Perpetual Protocol has no cap on the open interest in its markets. <strong>Separating token reserves from price discovery allows Perpetual Protocol to guarantee liquidity for any size trade.</strong> Perpetual Protocol doesn&#8217;t require large liquidity reserves or liquidity providers at all to function due to the fact no funds are stored in the vAMM. As previously mentioned, one trader&#8217;s losses are another&#8217;s gains. Each trade counteracts another and the funding rate creates incentives to keep the market moving in the right direction. <strong>And because there are no liquidity providers, there is no impermanent loss from price fluctuations.</strong></p>
+
+
+
+<h3>Adjusting k to manage slippage</h3>
+
+
+
+<p>Another major difference with the design of virtual AMMs is Perpetual Protocol&#8217;s ability to adjust <em>k </em>in the equation to respond to market conditions i.e. reducing price slippage for traders. At first, <em>k </em>will be manually set by governance but the ultimate goal is to algorithmically adjust it based on a number of potential factors such as volumes, open interest, funding payments, volatility, etc.</p>
+
+
+
+<h2>PERP token</h2>
+
+
+
+<p>PERP tokens have three major functions: governance, staking, and acting as the asset of last resort.</p>
+
+
+
+<h3>Asset of Last Resort</h3>
+
+
+
+<p>PERP acts as the ultimate backstop of the system. In the case where the Insurance Fund is unable to cover unexpected losses, PERP tokens are minted and sold to cover the rest.</p>
+
+
+
+<h3>Governance</h3>
+
+
+
+<p>The Perpetual Protocol team has laid out a <a href="https://docs.perp.fi/getting-started/governance-plan">governance plan</a> with a timeline for transitioning control of the protocol to an on-chain governance system ran by PERP token stakers. The plan details future updates including on-chain voting with delegation, bug bounty programs, ecosystem grants, and eventually proposals will only be executable code, much like Compound&#8217;s current governance. In the immediate term, you can visit <a href="https://gov.perp.fi/">gov.perp.fi</a> to propose and discuss governance proposals. </p>
+
+
+
+<h3>Staking</h3>
+
+
+
+<p>PERP holders can stake their tokens for a fixed amount of time known as an &#8220;epoch&#8221; to receive staking rewards in PERP as well as a portion of the transaction fees in stablecoins. At launch, epochs last 7 days but can be adjusted by protocol governance. Although you may stake at anytime during an epoch, staking rewards are time-weighted meaning that staking earlier in the epoch yields a greater portion of rewards. Staked PERP tokens continue to rollover into the next epoch unless unstaked in the present epoch.</p>
+
+
+
+<p>50% of Perpetual Protocol fees are awarded to PERP stakers for taking on the risk of being the backstop to the Insurance Fund and properly governing the protocol. At the end of each epoch, stakers can claim their portion of transaction fees paid in stablecoins immediately; however, PERP earned via staking is locked until the first day of the same month in the subsequent year.</p>
+
+
+
+<h3>PERP Distribution</h3>
+
+
+
+<p>According to Perpetual Protocol&#8217;s distribution <a href="https://docs.perp.fi/getting-started/perp-tokens">overview</a> found in their docs, the initial total supply is distributed as follows:</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="371" src="./../../../wp-content/uploads/2020/08/perp-distribution.png" alt="" class="wp-image-8491" srcset="./../../../wp-content/uploads/2020/08/perp-distribution.png 600w, ./../../../wp-content/uploads/2020/08/perp-distribution-300x186.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+
+
+
+<ul><li><em>7,500,000 PERP tokens: Balancer LBP.</em></li><li><em>36,000,000 PERP tokens: Team and advisors.</em></li><li><em>6,250,000 PERP tokens: Binance Labs, invested in the development of the Perpetual Protocol approximately 2 years ago.</em></li><li><em>22,500,000 PERP tokens: Strategic investors to the extent they fully exercise their rights to purchase PERP tokens.</em></li><li><em>77,750,000 PERP tokens: Ecosystem and rewards, which will benefit traders, stakers, and developers who participate in the Perpetual Protocol ecosystem. As Perpetual Protocol transits to community governance, the Perpetual Protocol community will make all decisions regarding the distribution of ecosystem rewards.</em></li></ul>
+
+
+
+<p>It&#8217;s worth noting that only 10% of the PERP tokens allotted to ecosystem and rewards will be unlocked until the community governs the protocol on-chain. Additionally, protocol governance or an emergency minting of PERP tokens to backstop the system could result in the max supply of 150,000,000 PERP being altered.</p>
+
+
+
+<p>The Perpetual Protocol team plans to make 7.5M PERP tokens available on Balancer around Sep 7, 2020 at 6:00 am UTC. This first Balancer pool will be a liquidity bootstrapping pool designed to disincentivize price speculation and front running. Check <a href="https://medium.com/@perpetualprotocol/perp-token-distribution-2f1b6196744d">here</a> for more details and also stay tuned to <a href="https://twitter.com/perpprotocol">Perpetual&#8217;s twitter</a>. There are also plans to have a <a href="https://docs.perp.fi/getting-started/liquidity-mining-proposal">liquidity mining rewards</a> program to further bootstrap the system. </p>
+
+
+
+<h2>Conclusion</h2>
+
+
+
+<p>It&#8217;s been truly exciting to watch DeFi grow recently. And to me, projects like Perpetual Protocol mark a new level of maturity for decentralized finance. The Perpetual team has put together some interesting new concepts with existing money legos to expand the DeFi ecosystem&#8217;s toolbox. I recommend you check out Perpetual Protocol&#8217;s<a href="https://perp.fi/"> trading interface</a>, dive into their <a href="https://docs.perp.fi/">documentation</a> if you&#8217;d like more information, or even join the discussions happening in their <a href="https://gov.perp.fi/">gov. forum</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve been paid by Perpetual Protocol to inform readers about their platform and perpetual contracts. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ACO &#8211; A Non-Custodial Options Protocol Built for DeFi</title>
+		<link>./../../../2020/08/09/aco/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 09 Aug 2020 14:58:53 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Derivatives]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[aco]]></category>
+		<category><![CDATA[auctus]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[options]]></category>
+		<category><![CDATA[options trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8441</guid>
+
+					<description><![CDATA[The DeFi ecosystem is growing at a breathtaking pace. Unsurprisingly, staying on top of everything in the space is becoming...]]></description>
+										<content:encoded><![CDATA[
+<p>The DeFi ecosystem is growing at a breathtaking pace. Unsurprisingly, staying on top of everything in the space is becoming practically impossible. DeFi is becoming increasingly sophisticated each day as the building blocks or rather money legos fall into place. Most people can tell you the basics of spot and margin trading, but I&#8217;ve started to see more and more people admit they know are unfamiliar with options trading. And, that&#8217;s okay because as many will tell you being a fan of DeFi often times means being a student. We&#8217;ve teamed up with folks behind ACO to explore how options fit into DeFi and how you might take advantage of options in your trading strategy. <a href="https://aco.finance/">ACO</a> is a decentralized non-custodial options protocol created by <a href="https://auctus.org/">Auctus</a>.</p>
+
+
+
+<h2>What is an option?</h2>
+
+
+
+<p>If you&#8217;re not familiar with the term, <a href="https://www.investopedia.com/terms/o/option.asp">options</a> are financial derivatives that offers the option contract holder the opportunity to buy or sell an asset for a specific strike price within a specific time period. In other words, a &#8220;call option&#8221; contract gives you the <em>option</em> to buy an asset at a given price before it expires by &#8220;exercising the option&#8221; as it&#8217;s called. A &#8220;put option&#8221; allows you to exercise the contract and sell at the strike price before the expiration date. Options are different from simply purchasing the underlying asset because you only pay the contract premium initially until you exercise the contract, allowing traders to hedge risks or trade with more leverage at a lower capital cost.</p>
+
+
+
+<p>This is what makes options different from spot trading or even future contracts: you have no obligation to exercise the contract thus buying/selling the underlying asset. If the trade wouldn&#8217;t be in your favor, you can simply let the option contract expire and only be out the premium you paid to purchase the contract. On the flipside, the individual who wrote that option contract earns that premium if it expires without being exercised.</p>
+
+
+
+<h2>What is ACO?</h2>
+
+
+
+<div class="wp-block-image"><figure class="alignright size-medium"><a href="https://aco.finance/"><img loading="lazy" width="300" height="300" src="./../../../wp-content/uploads/2020/08/aco-300x300.png" alt="" class="wp-image-8453" srcset="./../../../wp-content/uploads/2020/08/aco-300x300.png 300w, ./../../../wp-content/uploads/2020/08/aco-1024x1024.png 1024w, ./../../../wp-content/uploads/2020/08/aco-150x150.png 150w, ./../../../wp-content/uploads/2020/08/aco-768x768.png 768w, ./../../../wp-content/uploads/2020/08/aco.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure></div>
+
+
+
+<p>ACO is a decentralized non-custodial options protocol that allows users to trustlessly trade, mint, and exercise call and put options. ACO protocol tokenizes put and call options contracts creating ERC20 tokens which you can send, trade, or even integrate ACO Tokens into other DeFi projects. Each ACO token option has its own smart contract programmed with the terms of the option contract. Additionally, these terms are also included in the ticker symbol of the ACO token.</p>
+
+
+
+<p>ACO tokens’ symbols consists of four parts:</p>
+
+
+
+<ol><li class="">Symbol of the underlying asset</li><li class="">Strike price &amp; Strike Asset</li><li class="">Option type, either P or C, for put or call</li><li class="">Expiration</li></ol>
+
+
+
+<p>Take for example: <strong>ACO ETH-200USDC-C-26JUN20-0800UTC</strong></p>
+
+
+
+<p>The above symbol represents a call option on ETH, expiring on 26 June 2020 08:00 UTC, with a strike price of 200 USDC.</p>
+
+
+
+<p>Auctus, the team behind ACO, has deployed an interface <a href="https://aco.finance/">ACO.finance </a>that allows you to mint, manage and trade ACO tokens (which powered by 0x protocol). ACO Protocol and the interface have been <a href="https://blog.openzeppelin.com/aco-protocol-audit/">audited by OpenZepplin</a>. More on ACO protocol in a bit, but first let&#8217;s explore some of the ways ACO option tokens are utilized by DeFi users.</p>
+
+
+
+<h2>How do I trade options in DeFi?</h2>
+
+
+
+<p>Now at this point, I&#8217;m sure you&#8217;re itching to see how you might take advantage of options. Let&#8217;s take a moment and break down a few situations where options could be a useful tool in your trading strategy. </p>
+
+
+
+<h3>Use Call Options to speculate on rising ETH prices</h3>
+
+
+
+<p>If you expect the price of ETH to rise, you can purchase ETH call options to take advantage of leverage, gaining positive exposure to ETH with less money than outright purchasing ETH at spot prices.</p>
+
+
+
+<p>Let’s assume ETH is currently trading for $400. You could buy 100 ETH for a total of $40,000  and be completely exposed to the price of ETH. Or, you could buy 100 ETH calls with a $400 strike price for $8.00 and have a similar exposure but do so with only $800 ($8 X 100 = 800).</p>
+
+
+
+<p>I&#8217;m sure you can see how this is advantageous. If the price goes up as you expect, you&#8217;ll be able to break even at $408 (the strike price $400 + the $8 premium). However if the price of ETH goes sideways or falls, you might be able to sell the option for a loss (less of a premium) or you can simply let your contract expire without exercising it and only be out the money you spent on the premium.</p>
+
+
+
+<h3>Use Put Options to hedge against declining ETH prices without limiting your exposure</h3>
+
+
+
+<p>If you aren&#8217;t confident in the market and want to protect yourself ETH&#8217;s price falling, you can purchase ETH put options to hedge your bets without selling your ETH or losing your potential upside if the price rises. You can think of ETH put options as a form of insurance which costs you a premium to cover potential losses.</p>
+
+
+
+<p>If ETH is currently trading at $380 and you want to protect yourself against it falling below $360 but don&#8217;t want to sell your 100 ETH quite yet. You could buy 100 put options with a $360 strike price for $4 and pay $400 to have the ability to sell your 100 ETH at $360 if the price of ETH were to drop before your options expire.</p>
+
+
+
+<p>Options tend to give you more time to make a decision when compared to stop orders which are final once filled. Unlike a stop order, you can always wait to see if the price rebounds in your favor.</p>
+
+
+
+<h2>Earn income by writing options on ACO</h2>
+
+
+
+<p>As previously mentioned, you can write options contracts and potentially earn a premium on any unexercised contracts. Needless to say, signing a contract to buy or sell an asset comes with its risks. As a writer of an option, you may be obligated to sell your underlying asset at the strike price if the holder exercises the contract. We urge you as always to do your own research and to take into account these considerations before writing/minting your first option.</p>
+
+
+
+<h3>Write ETH Call Options to earn income on your ETH</h3>
+
+
+
+<p>Say you have ETH that you&#8217;re willing to part with for the right price. Using options, you can receive money today for your willingness to sell your ETH at a higher price.</p>
+
+
+
+<p>Say ETH is at $380, you could mint and sell 100 ETH call options with a $420 strike price at a $9 premium and collect $900 on your willingness to sell your ETH. If things go sideways or your option expires before being exercised, you get to pocket the premium and keep your ETH. Of course, you&#8217;re still exposed to the price of ETH and will be obligated to sell the your ETH at the strike price if your option contract is exercised by the holder.</p>
+
+
+
+<p>There a plenty of factors to it for sure but I think you can see how in right situation writing ETH call options could be a way to capitalize on a sideways or bear market.</p>
+
+
+
+<h3>Write Put Options to earn income on your USDC</h3>
+
+
+
+<p>Do you have USDC on the side waiting to buy ETH at a price below the current? You could earn a little extra income by writing and selling ETH put options. </p>
+
+
+
+<p>Let’s assume ETH is currently trading for $380. You would like to buy 200 ETH if it drops to $300. You could write 200 ETH puts with a $300 strike at $4 and collect $800 on your willingness to buy 200 ETH at $300. Unlike setting a limit order, options let you collect money today for being willing to assume the obligation of buying ETH at the strike price.</p>
+
+
+
+<p>By using this strategy, you can generate additional returns in your stablecoin holdings by collecting a premium for your willingness to be obligated to buy a ETH at a price that is below current price.</p>
+
+
+
+<h2>ACO Protocol and its use of money legos</h2>
+
+
+
+<p>Many aspects of their design make ACO Option Tokens a nice addition to existing money legos, but its the team&#8217;s use of existing money legos to create new functionality that I found the most fascinating.</p>
+
+
+
+<h3>Flash Exercise</h3>
+
+
+
+<p>This is by far one of the coolest parts of ACO. ACO has a feature called &#8220;flash exercise&#8221; which, as its name eludes to, allows you to cover the cost of exercising your ACO options using Uniswap V2 flash swaps leaving you with the remaining profits. Uniswap V2 flash swaps let you withdraw tokens from Uniswap&#8217;s reserves as long as you pay back the tokens in the same transaction. ACO&#8217;s flash exercise makes use of this by withdrawing the tokens necessary to exercise your options contract and then repaying the withdrawn tokens by swapping the underlying asset all in one transaction.</p>
+
+
+
+<p><em>Net Profit = Number of Options * (( Uniswap Price &#8211; Strike Price ) / Uniswap Price )</em></p>
+
+
+
+<p><strong>Essentially, you can always exercise profitable options contracts in one transaction even if you don&#8217;t have the funds available to buy/sell the asset before expiration. </strong>This opens the door for traders who might want to greater exposure with less funds.</p>
+
+
+
+<h3>Governance</h3>
+
+
+
+<p>Currently, the ACO protocol allows a single address to modify parameters, create new options series, add new strike assets and change the template for tokens that will be created in the future. The admin key which controls this address is currently administered by the Auctus team. However, the team plans to ultimately transition control to holders of their AUC token. Once launched, the governance dashboard and system which will allow AUC holders to decide which assets should be supported by the protocol and what fee percentage should be charged and used to buy back and burn AUC.</p>
+
+
+
+<p>One key aspects of the current design which you may have noticed is that these parameters only affect future ACO option tokens. <strong>The protocol&#8217;s admin key has no ability to affect existing tokens</strong>, only you have access to your funds and all contracts are exercised in a non-custodial fashion.</p>
+
+
+
+<h3>Coming up on the roadmap &#8211; YFI, Chainlink, and more</h3>
+
+
+
+<p>YFI put and call options will be added to ACO within the next few weeks. Options will open the door for new strategies for the yearn.finance community. Auctus eventually plans to release an ACO OTC platform allowing users to trade customized options p2p, allowing greater variations of strike prices and expiration dates.</p>
+
+
+
+<p>One of the next crucial components for ACO as a platform is the addition of an automated market maker (AMM) for ACO tokens. The AMM would provide option contract holders, whether it be a trader or a smart contract, with constant on-chain liquidity for ACO Tokens. </p>
+
+
+
+<p>To further improve decentralization, the team is also looking to create volatility oracles with Chainlink.</p>
+
+
+
+<h2>Concluding thoughts</h2>
+
+
+
+<p>Watching DeFi mature has been exhilarating. As each building block is produced, you can see some things like options coming from a mile away. But, I can tell you I didn&#8217;t see something like flash exercise coming. It really goes to show how innovations build on one another so quickly in this space.</p>
+
+
+
+<p>Thanks for reading! We hope you learned a thing or two. We encourage you to go check out <a href="https://aco.finance/">ACO.finance</a> and the slick options trading platform they have built there. You can also learn more by <a href="https://docs.aco.finance/">reading the docs</a> or <a href="https://discord.gg/9JqeMxs">joining the Auctus Discord</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part our DeFi Pulse Drops promotional series; We&#8217;ve been paid by ACO to inform readers about why one might use options and about their decentralized non-custodial options platform. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MCDEX &#8211; 10x Perpetual Contracts Powered by Order Book/AMM Hybrid</title>
+		<link>./../../../2020/06/28/mcdex/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 28 Jun 2020 15:29:36 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[leverage]]></category>
+		<category><![CDATA[mcdex]]></category>
+		<category><![CDATA[perpetual]]></category>
+		<category><![CDATA[perpetuals]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8310</guid>
+
+					<description><![CDATA[DeFi has been on fire lately. Following the space has been absolutely riveting. We&#8217;ve got another sneak peek of an...]]></description>
+										<content:encoded><![CDATA[
+<p>DeFi has been on fire lately. Following the space has been absolutely riveting. We&#8217;ve got another sneak peek of an interesting DeFi protocol for you today. The folks over at MCDEX have taken decentralized perpetual contracts and combined them with a hybrid on-chain AMM/off-chain order book in their recent upgrade MCDEX V2. </p>
+
+
+
+<p><strong>MCDEX&#8217;s first decentralized perpetual contract ETH-PERP launching Monday June 29th, 2020</strong> makes full use of this hybrid model to enable users to <a href="https://mcdex.io/trade?invite_code=052t01">trade ETH/USD perpetual contracts with up to 10x leverage</a> and no expiration. Additionally, MCDEX has recently proposed a new AMM price formula which enables lower slippage, better capital efficiency, and near 0 impermanent loss for liquidity providers.</p>
+
+
+
+<h2>What is MCDEX?</h2>
+
+
+
+<p>Before we dive into the tech, I think it is useful to understand what inspired MCDEX. The team that built MCDEX is a team from China formerly involved in PoW mining. They saw the potential in DeFi and decided to build products that make investing in DeFi easier to continue contributing to the ecosystem as the industry transitions to ETH2.0. Personally, I think the team&#8217;s foresight is readily apparent in many of their designs. So without further ado, let&#8217;s dive into it.</p>
+
+
+
+<p><a href="https://mcdex.io/trade?invite_code=052t01">MCDEX</a> is a decentralized derivatives exchange for traders to long/short efficiently and securely. MCDEX is built on the Mai Protocol V2. Fun fact: the name Mai is actually a pun made with the pinyin for two Chinese characters măi &#8220;买&#8221; meaning buy and mài &#8220;卖&#8221; meaning sell.&nbsp;Funny enough, that&#8217;s exactly what the Mai Protocol does: reduce the complexity of trading decentralized perpetual contracts down to just buy or sell. Historically, decentralized derivatives required many steps; MCDEX eliminates the extra step, streamlining the process and making it more approachable to new users. Additionally, security audits for MCDEX’s Mai Protocol V2 and perpetual contracts have been completed by OpenZeppelin and ConSensys Diligence.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="728" height="376" src="./../../../wp-content/uploads/2020/06/mai2-arch.png" alt="" class="wp-image-8313" srcset="./../../../wp-content/uploads/2020/06/mai2-arch.png 728w, ./../../../wp-content/uploads/2020/06/mai2-arch-300x155.png 300w" sizes="(max-width: 728px) 100vw, 728px" /><figcaption>hybrid architecture of Mai Protocol V2</figcaption></figure>
+
+
+
+<p>As previously mentioned, what makes MCDEX unique is its combination of perpetual contracts with an off-chain order book / on-chain AMM hybrid. This hybrid model gives traders the best of both worlds. The off-chain order book provides traders with the look and feel of a centralized exchange while the AMM provides reliable on-chain liquidity. </p>
+
+
+
+<p>There&#8217;s a sort of symbiosis between the two; the order book offers efficient liquidity but tends to be a bit more centralized whereas the AMM&#8217;s liquidity is always available to both traders and other smart contracts on-chain. This opens up a world of possibilities for these perpetual contracts to be used in the wider DeFi ecosystem.</p>
+
+
+
+<p>Introducing the AMM to MCDEX not only provided reliable on-chain liquidity, it also enabled a key feature of perpetual contracts: funding rate. In a nutshell, the funding rate&#8217;s purpose is to balance out long or short orders in times of high demand to maintain an accurate index price. So naturally, the funding rate is dynamically adjusted by the protocol in response market demand.  For example, when the funding rate is positive it means long position holders pay to fund short positions (short position holders). This incentivizes users to take up the short side of the trade effectively balancing demand for both sides.</p>
+
+
+
+<p>This is where the AMM and off-chain order book work so nicely together. The funding rate needs to be derived on-chain to be sufficiently decentralized but on-chain trading isn&#8217;t always ideal for traders. Liquidity and trading activity will naturally gravitate towards the efficiency of the off-chain order book, but arbitrage opportunities between the order book and AMM improve the AMM&#8217;s liquidity and earn more fees for liquidity providers. Not to mention, many of you will be happy to hear ETH-PERP takes advantage of Chainlink&#8217;s ETH/USD Price Reference Contract live on the Ethereum mainnet as its index price feed.</p>
+
+
+
+<h2>Trade ETH-PERP with up to 10x leverage</h2>
+
+
+
+<p>MCDEX is set to launch ETH-PERP trading on Monday June 29, 2020. Get a <a href="https://mcdex.io/trade?invite_code=052t01">sneak peek</a> at the interface today.</p>
+
+
+
+<p>MCDEX&#8217;s trading interface was designed to be intuitive with a familiar look and feel for experienced traders yet simple enough for new users. I liked how all the info I needed was laid out in the interface; I found the Etherscan links for contract and asset addresses particularly helpful.</p>
+
+
+
+<p>Traders will appreciate the performance of MCDEX&#8217;s order book interface. With its speed, efficiency, and support for features like limit orders you might find yourself surprised you aren&#8217;t trading on a centralized exchange.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://mcdex.io/trade?invite_code=052t01"><img loading="lazy" width="1024" height="613" src="./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-1024x613.jpg" alt="" class="wp-image-8337" srcset="./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-1024x613.jpg 1024w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-300x180.jpg 300w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-768x460.jpg 768w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39.jpg 1270w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Order book trading interface</figcaption></figure></div>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/06/1_l9B7vSmVvIYYPa6ZgwCNqQ-1024x500.png" alt="" class="wp-image-8317"/><figcaption>AMM interface</figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p>If you&#8217;re familiar with other popular perpetual contract exchanges like BitMEX, it&#8217;ll take no time at all to get settled in. Head over to <a href="https://mcdex.io/trade?invite_code=052t01">MCDEX</a> and explore it for yourself. </p>
+
+
+
+<h2>Looking towards the future</h2>
+
+
+
+<p>Many aspects of MCDEX&#8217;s design illustrate the team&#8217;s willingness to learn from battle-tested concepts in DeFi and desire to contribute the ecosystem&#8217;s long-term success. Take for example, 1% out of the 2.5% liquidation penalty automatically goes to an insurance fund. You can find more info about MCDEX&#8217;s roadmap in<a href="https://mcdex.io/references/#/en/white-paper"> the whitepaper</a>.</p>
+
+
+
+<h3>Structured funds enable new strategies for even inexperienced DeFi users</h3>
+
+
+
+<p>Trading perpetual contracts isn&#8217;t everyone&#8217;s cup of tea but that doesn&#8217;t mean they won&#8217;t be able to get in on the action. While perpetual contracts are MCDEX&#8217;s first product, the team plans to release structured trading funds for various risk preferences. This creates the opportunity for even inexperienced traders to take part in perpetual contract trading.</p>
+
+
+
+<p>Structured funds on MCDEX will allow anyone to deposit assets and automatically trade perpetual contracts with a robotic or human-managed fund strategy. This creates the opportunity for MCDEX users to expose themselves to many different strategies and potentially maximize their profits. Not to mention, fundholders will be eligible for liquidity mining incentives&#8230;</p>
+
+
+
+<h3>MCB token and Liquidity Mining</h3>
+
+
+
+<p>MCDEX plans to launch a native token (tentatively in Q3 2020) called MCB token to align its stakeholders, a portion of which will be distributed through liquidity mining to incentivize users to invest in funds. Once launched, MCB tokens will be distributed to the funds based on their net asset value at a fixed amount per day. This should effectively incentivize users to invest in the funds that perform the best whether they be a social or automated funds. Put simply, the better a fund performs, the faster its net asset value grows, the more MCB tokens fundholders are rewarded. Social fund managers will even receive a cut of the MCB they earn for fundholders.</p>
+
+
+
+<p><strong>Initial distribution of MCB tokens</strong></p>
+
+
+
+<ol><li>25% to founding team and early investors</li><li>25% to MCDEX Foundation for token sale to cover expenses such as development, audits, market makers, marketing, etc. </li><li>50% to user incentives with a limit up to 5% per year.</li></ol>
+
+
+
+<p>That limit of 5% a year stuck out to me as something interested because it means that user incentives are planned for a minimum of 10 years. This fits well into MCDEX&#8217;s roadmap to add more user incentives and eventually enable on-chain governance run by MCB token holders. </p>
+
+
+
+<p><strong>Trading competition</strong></p>
+
+
+
+<p>To celebrate the launch of their ETH-PERP smart contract, MCDEX is holding a trading competition with prizes up to $2500 + 2500MCB. The competition will begin on June 29th, 2020 from 12:00 pm UTC, and will close on July 13, 2020, at 12:00 pm UTC. More details can be found <a href="https://mcdex.io/competition">here</a>.</p>
+
+
+
+<h3>Concluding thoughts</h3>
+
+
+
+<p>Ultimately, I find it very encouraging how MCDEX seems to understand the necessity of balancing ease of use, efficiency, decentralization and sustainability when designing smart contract systems. On a personal note, I enjoyed poking through Mai Protocol V2 to write this article because it reminds me again how we&#8217;re truly on the cutting edge here in DeFi.</p>
+
+
+
+<p><strong>We highly recommend you check out MCDEX and see for yourself how the order book enables a smooth and efficient trading experience. Stay tuned for more details regarding MCB liquidity mining.</strong> In the mean time, click here to <a href="https://mcdex.io/trade?invite_code=052t01">head over to MCDEX and get started trading perpetual contracts</a> today.</p>
+
+
+
+<p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve partnered with MCDEX to inform the community about their protocol. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express as part of a DeFi Pulse Drop are our own. </em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

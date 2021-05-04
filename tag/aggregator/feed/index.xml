@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>aggregator &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sun, 13 Dec 2020 21:59:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Harvest Finance &#8211; Industrial Automated Yield Farming for All</title>
+		<link>./../../../2020/12/13/harvest-finance-drop/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 13 Dec 2020 21:59:09 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[aggregator]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[harvest]]></category>
+		<category><![CDATA[harvest finance]]></category>
+		<category><![CDATA[harvest-finance]]></category>
+		<category><![CDATA[yield]]></category>
+		<category><![CDATA[yield farming]]></category>
+		<category><![CDATA[yieldfarming]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8734</guid>
+
+					<description><![CDATA[Yield farming allows projects to bootstrap their communities through incentives created by distributing their protocol’s token, essentially killing two birds...]]></description>
+										<content:encoded><![CDATA[
+<p>Yield farming allows projects to bootstrap their communities through incentives created by distributing their protocol’s token, essentially killing two birds with one stone. While these farming opportunities are open to all participants, making the most of these opportunities requires a certain amount of capital and expertise. And nowadays, yield farming has practically become a full-time job.</p>
+
+
+
+<p>Harvest Finance set out to make life easier for farmers big and small. It allows users to farm as a collective to achieve the best risk-adjusted rate for a given asset. Launched on September 1st, 2020 in the midst of the yield farming craze with the slogan, “Bread for the People”, <a href="https://harvest.finance/">Harvest Finance</a> has gone on to become one of the largest yield aggregators with a vibrant community from all over the world. With farming having become the new norm, using a yield aggregator like Harvest Finance is like using a tractor instead of a manual plow; it’ll take less effort and ultimately be more efficient.</p>
+
+
+
+<h2>Farming at Scale with Harvest Finance</h2>
+
+
+
+<p>If you’re new to farming, it seems rather simple. Typically, you deposit a token, stablecoin, or liquidity pool token into a farm to earn tokens at a variable APR. You could simply deposit your assets and come back later to harvest your yield, but you’d be missing out. Manually harvesting and compounding your yields to achieve a higher APY means covering all the gas costs involved. For smaller farmers, the gas costs involved in this process can really start to eat into your returns. Not to mention, you’d need to meticulously calculate and track your APY in order to make sure it was even worth your time or the opportunity cost.</p>
+
+
+
+<p>When a user deposits assets into Harvest to farm, they receive fTokens (i.e. fUSDC) which represent a yield-bearing version of the asset. fTokens can be redeemed for the underlying asset at any time. Depositors receive 70% of the profits generated from farming via Harvest as well as FARM token rewards. The remaining 30% is sent to a protocol token buyback and profit sharing program, but more on that later. As the first yield aggregator to adopt a performance-based fee structure, Harvest never charged a withdraw fee as others did. I know what you’re thinking: Why would I give up 30% of my profits when I can farm by myself?</p>
+
+
+
+<p>Farming as a collective comes with its advantages compared to going it alone. It can be helpful to think of it as “farming at scale” to reduce operational costs and improve efficiency. If you opted to farm with Harvest Finance in the scenario above, your deposit would automatically compound for a higher APY when possible. Best of all, Harvest covers the gas costs associated with executing farming strategies and compounding deposits. The advantages of Harvest’s collective farming and FARM token design don’t end there though.</p>
+
+
+
+<h3>FARM token aligns stakeholders of the Harvest Cooperative</h3>
+
+
+
+<p>The goal of the Harvest Cooperative is to become the world’s largest farming cooperative making the latest yield farming techniques accessible to anyone, even those who are currently underbanked. In order to achieve this goal, the farmers of the Harvest Cooperative pool together resources to earn profits and create additional utility and value for its community of Harvest stakeholders.&nbsp;</p>
+
+
+
+<p>At the heart of the Harvest Cooperative is Harvest’s FARM token which incentivizes participation, governs Harvest Finance, and allows users to benefit from the performance of the platform. At launch, FARM started with an initial supply of 0. Harvest Finance bootstrapped its community completely by offering FARM token rewards to depositors and liquidity providers. Only 690,420 FARM will be minted over 4 years with a current emission rate of 4.4% per week. At the time of writing, roughly 50% of FARM tokens have been minted so far. FARM tokens are distributed as follows: 70% of FARM tokens go to depositors and liquidity pool providers, 10% of tokens are vested over 4 years to the Operational Treasury to pay for additional development and promotion, and finally 20% are vested over 4 years to the Development Team.&nbsp;</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh4.googleusercontent.com/H1p0SHH5s-9KmMUH4gDeF9w8yCqiNUNQzmpZGzpi5t8G4JalzDe6hdhUK9jk8CBhafbgqyrasyWkHZ7mQ4_hdYKZfGA-uXMtyZHe2Ewl-oYfZ2JaJ62axGOef2RMRDKOFxfw0hhl" alt=""/></figure>
+
+
+
+<h4>FARM Buybacks and Profit Sharing Pool</h4>
+
+
+
+<p>As previously mentioned, 30% of all the profits generated by Harvest are converted to USDC and used to buy FARM tokens off the market. These FARM tokens are then distributed to Harvest Cooperative members with FARM tokens staked in Harvest’s Profit Sharing Pool. FARM buybacks create natural demand for FARM and are fueled purely by how much profit Harvest is able to generate for its users. The idea is that everyone in the Harvest Cooperative from farmers earning token incentives to the initiatives funded by the Operational Treasury benefit when the value of FARM increases further aligning the different Harvest stakeholders.</p>
+
+
+
+<h3>Harvest Cooperative is able to steer growth and adoption together</h3>
+
+
+
+<p>The Harvest Cooperative is incentivized to make changes that help the platform grow. Unlike an individual farmer, the Harvest Cooperative has a budget of sorts which it can use to collectively pay for things. FARM holders can create and vote on proposals for new strategies, protocol changes, or even initiatives to be funded by the Operational Treasury. This allows the Harvest Cooperative to stay on top of the latest yield farming strategies. Harvest was the first yield aggregator to release a farming strategy for SWRV, UNI, and Idle Finance. The treasury can also be used to incentivize users to participate in more profitable farms for the Cooperative. The Harvest community also makes use of the treasury to fund programs like creativity contests, bounties programs, and prizes for developer challenges which we’ll cover a bit more later on.</p>
+
+
+
+<h3>Farming as a collective offers additional forms of risk mitigation</h3>
+
+
+
+<p>Not only can pooling resources fund the development of new strategies, it also can be used to make farming <a href="https://farm.chainwiki.dev/en/security">more sustainable through test suites</a>, ongoing <a href="https://github.com/harvest-finance/harvest/tree/master/audits">audits</a> and <a href="https://immunefi.com/bounty/harvest/">security bug bounties</a>.</p>
+
+
+
+<h4>GRAIN reparations after USDC/USDT vaults exploited</h4>
+
+
+
+<p>On October 26, 2020, an attacker was able to use a flash loan to <a href="https://medium.com/harvest-finance/harvest-flashloan-economic-attack-post-mortem-3cf900d65217">steal 12.5% of funds from Harvest&#8217;s USDC and USDT vaults via an exploit</a>, resulting in a shared loss of $33.8M. The Harvest Community <a href="https://snapshot.page/#/farm/proposal/QmYF62qGaqyHAXt88Hmxise6CFaSWxnTmi5VedZ3VX8Zy2">voted to provide reparations to those affected by the exploit</a> in the form of an <a href="https://medium.com/harvest-finance/announcing-the-grain-claims-portal-20dd12c4f631">IOU token known as GRAIN</a>. Those affected were able to<a href="https://claim.harvest.finance/"> claim their share</a> of the $2.48M returned by the attacker as well as GRAIN tokens. Each week 0.5% of the total FARM emissions are sent to reparation pools, GRAIN buyback and FARM/GRAIN liquidity pool, up to the amount lost in the attack. Creating an incentivized FARM/GRAIN pool creates the liquidity necessary to support the buyback program and allows GRAIN holders to receive more FARM rewards for staking their liquidity as well. For those curious, <a href="https://duneanalytics.com/0xBoxer/-grain">this dashboard</a> has some interesting stats regarding the amount of GRAIN claimed. Solo farmers are often forced to accept losses due to attacks, but as you can see collective farming with an on-going revenue stream offers potential ways to remedy situations such as this.</p>
+
+
+
+<h2>Harvest Cooperative has a strong sense of identity</h2>
+
+
+
+<p>Even though Harvest community members are from all around the world (with a notable presence in the Chinese DeFi community), Harvest Cooperative has a strong identity and incentive structure that is welcoming of all. Harvest has previously affirmed their belief that financial inclusion is important for everyone, especially the unbanked and the underbanked. An understated benefit of farming together is that Harvest Cooperative is able express their values and give back to the community as a collective.&nbsp;</p>
+
+
+
+<p>From the start, Harvest Finance community has had an appreciation for memes as made evident by their Farmer Chad logo. Anyone who keeps up with DeFi on Twitter has probably seen countless memes of Farmer Chad. This is no coincidence; In the spirit of its #BreadForThePeople slogan, Harvest frequently hosts creativity contests where users are rewarded for their creative contributions to Harvest Cooperative. <a href="https://medium.com/harvest-finance/harvest-finance-farm-arts-creativity-contest-round-4-festive-edition-3ba3e5843da2">The most recent Creativity Competition</a>’s theme is “Celebrating the Festive Season”. The cool part about these competitions is that it allows those without the capital necessary to farm to benefit from Harvest Cooperative’s success.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1024x1024.jpeg" alt="" class="wp-image-8759" width="512" height="512" srcset="./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1024x1024.jpeg 1024w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-300x300.jpeg 300w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-150x150.jpeg 150w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-768x768.jpeg 768w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1536x1536.jpeg 1536w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-2048x2048.jpeg 2048w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1568x1568.jpeg 1568w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption>Artwork from Harvest community member <a href="https://twitter.com/stulmtuno4273/status/1330292559277682693/photo/3">Sumire</a></figcaption></figure></div>
+
+
+
+<p>Developers will also find they are warmly welcomed in the Harvest community. Harvest hosts developer contests and has <a href="https://gitcoin.co/issue/harvest-finance/harvest/15/100024325">bounty programs</a> to reward developers who want to contribute to the Harvest Finance ecosystem. For those interested, head over to the <a href="https://discord.gg/ayKVET52z6">Harvest Discord</a>’s #dev channel and introduce yourself.</p>
+
+
+
+<p>The Harvest Cooperative also expresses their support for the wider community by giving back to programs like Gitcoin Grants which supports future builders. Harvest <a href="https://harvestfinance.medium.com/week-14-updates-building-today-funding-the-builders-of-tomorrow-74c5ea8575f6">announced on December 1, 2020</a> that it would be partnering with Gitcoin to launch a $500k grant matching pool in the latest Gitcoin Grants Round 8.&nbsp;</p>
+
+
+
+<h2>Partnerships with Harvest Cooperative</h2>
+
+
+
+<p>Harvest also likes to drive engagement through community partnerships and collaborations that present unique opportunities for Harvest Cooperative members to earn rewards in the form of tokens, NFTs, and more. For example, Harvest <a href="https://medium.com/harvest-finance/harvest-apy-vision-partnership-be80f577b18?source=collection_home---6------4-----------------------">will be giving away a total of 80 APYCHADPRO NFTs</a> that grants 90 days of access to the PRO edition of liquidity pool tracker APY.vision to Harvest Cooperative members staking in the Uniswap FARM/USDC liquidity pool. Another example being 88mph’s <a href="https://medium.com/88mphapp/88mph-x-harvest-degen-challenge-over-6k-in-prizes-94979f3a5fa9">recently announced</a> 2-week ‘Degen Challenge’ in collaboration with Harvest which encourages participants to build something creative combining 88mph’s fixed-yield pools or floating-rate bonds with Harvest’s vaults. Last but not least, Harvest <a href="https://badgerdao.medium.com/harvest-finance-joins-the-league-of-badger-builders-551031da69a1">collaborated with Bitcoin-focused BadgerDAO</a> to help launch Badger DAO’s Harvest SuperSett vault. Harvest community members <a href="https://twitter.com/BadgerDAO/status/1334921775013109761">were also eligible to receive</a> at least 20 BADGER during the launch of Badger token.</p>
+
+
+
+<h2>Closing thoughts</h2>
+
+
+
+<p>With yield farming practically being a full-time job, Harvest Finance has quickly become one of the leading yield aggregators in DeFi. It’s effective use of incentive structures aims to create a positive feedback loop that benefits all stakeholders of the Harvest Cooperative, ultimately forming a strong sense of community. If this farming experience interests you, <a href="https://harvest.finance/">go explore the opportunities available on Harvest Finance</a>. Or, join the Harvest <a href="https://discord.gg/ayKVET52z6">discord</a> to get to know the Harvest community for yourself. Thanks for reading.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Harvest to help educate and inform the community about the Harvest Cooperative. </em><em>DeFi Pulse received FARM tokens as part of its payment. </em><em>As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Rari Capital V2: A Yield Maximizing Robo-Advisor for Any Risk Appetite</title>
+		<link>./../../../2020/10/19/rari-capital-v2/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2020 13:59:29 +0000</pubDate>
+				<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[aggregator]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[rari]]></category>
+		<category><![CDATA[yield farming]]></category>
+		<category><![CDATA[yieldfarming]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8580</guid>
+
+					<description><![CDATA[As any yield farmer can tell you, chasing higher yields can be a risky endeavour and in most cases is...]]></description>
+										<content:encoded><![CDATA[
+<p>As any yield farmer can tell you, chasing higher yields can be a risky endeavour and in most cases is not a sustainable strategy for the average user. It’s all too easy to get caught up in hype and be blinded by outrageous yields. If you aren’t careful or are simply unaware of risks such as hidden backdoors in unaudited smart contracts, it becomes increasingly possible that you could get burned. Getting exploited, “rug pulled”, and otherwise losing your investment is devastating. This sort of risk is intolerable for most investors. Although, that doesn’t mean those same investors aren’t out to maximize their yields; They simply want to strike the right balance of risk versus reward. This is exactly what <a href="https://www.rari.capital/">Rari Capital</a> aims to offer users: a way to maximize DeFi returns while minimizing risks. <strong>Rari Capital V2, launching October 20th, 2020, has even more to offer than its predecessor.<br></strong><br>Rari Capital is a robo-advisor for DeFi which optimizes for the highest possible yield. Rari Capital&#8217;s ‘DeRisking as a Service’ approach is largely what sets them apart from the pack. Armed with the experience of having co-founded Ambo (later acquired by MyCrypto), the Rari team has experienced first-hand the value of earning the community’s trust. So when they set out to build a protocol that anyone can use to maximize returns in DeFi, risk management and transparency were top priorities. If you haven’t already, we recommend checking out <a href="https://defipulse.com/blog/rari-capital/">our coverage of Rari Capital V1’s guarded launch</a>.<br><br>The Rari team has been busy since we last checked in with them developing features and integrations, perfecting new strategies, and preparing for the<strong> </strong>launch of Rari Capital V2.</p>
+
+
+
+<h2>Goodbye deposit limits</h2>
+
+
+
+<p>As part of its guarded launch, Rari V1 launched with deposit limits designed to manage risks and grow the platform in a controlled manner. Thorough <a href="https://www.rari.capital/risks.html">risk assessment</a> for integrations and transparency have also been core components of Rari’s guarded launch allowing the team to gradually increase the deposit limits over time. Rari is <a href="https://quantstamp.com/blog/chasing-yield-with-defi-aggregators">working with Quantstamp</a> on several security reviews. <strong>Rari Capital has since removed deposit limits. </strong></p>
+
+
+
+<h2>New integrations enable higher yields</h2>
+
+
+
+<p>Since the launch of Rari Capital V1, <a href="https://medium.com/rari-capital/rari-capital-integrates-aave-fa2574a15a3a">Aave</a> and mStable have been integrated into the protocol. It doesn’t stop there though; Rari Capital V2 goes beyond lending protocols and stablecoin swaps to achieve higher returns for its users. In the past few weeks, Rari’s theoretical APY has spiked as high as 109%, thanks in part to the recent mStable integration.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh4.googleusercontent.com/z6Fuc0bQhXYIz75pRi-w5hIfH5A4NRLHJm-sqAJ6Aa95BydKOwv5zZ0fjnEQu1vyE4_Ik0wwAzpJuRDw8jXTbGLAeofiYSL-G2wo1dKFN7lHI0piviCrcaXq0gLc4WpgN4WIyBOj" alt=""/></figure>
+
+
+
+<p><br>The Rari team continues to explore new integrations to optimize pool strategies including yEarn and <a href="https://medium.com/rari-capital/rari-capital-x-synthetix-48413e50a56e">Synthetix</a>.&nbsp;</p>
+
+
+
+<h2>3 Pools with Unique Strategies</h2>
+
+
+
+<p>Rari is introducing 3 pools with strategies that cater to different risk appetites. The Rari team is also working on even more new strategies that will be able to weather any crypto market conditions generating sustainable yields.</p>
+
+
+
+<p><strong>Rari Stable Pool (RSPT)</strong></p>
+
+
+
+<p>This pool caters to the risk-averse investor seeking to maximize their USD-based returns with caution, making use of exclusively audited smart contracts in its strategy.</p>
+
+
+
+<p><strong>Rari Yield Pool (RYPT)</strong></p>
+
+
+
+<p>Are you willing to risk it for the biscuit as they say? This pool will always have the highest yield utilizing anything from unaudited smart contracts to even leverage in order to maximize your returns at all costs. You can think of this pool as: higher risk, higher reward.</p>
+
+
+
+<p><strong>Rari ETH Pool (REPT)</strong></p>
+
+
+
+<p>If you’re the type of person that measures their net worth in ETH, this pool is for you. The Rari ETH Pool aims to provide consistent returns based in ETH.</p>
+
+
+
+<h2>Rari Governance&nbsp;</h2>
+
+
+
+<p>The upgrade to version 2.0 also introduces decentralized governance to Rari Capital via Rari Governance Tokens (RGT). RGT holders will decide how to govern the protocol and the Rari Treasury, determining new protocols integrations, pool parameters, and risk parameters. RGT can be staked to receive fee discounts from the Rari Protocol, a feature powered by Chainlink. Rari Capital V2 is designed so that 70% of all protocol revenue will be used to buy and burn RGT, reducing the total supply.</p>
+
+
+
+<h3>Passthrough Governance</h3>
+
+
+
+<p>Rari’s governance has a cool feature called ‘Passthrough Governance’ where if a pool begins to accumulate tokens such as COMP or BAL, RGT holders can use these tokens to engage in their respective governance systems. It’s a practical solution that mitigates the current shortcoming found in other protocols where users must sacrifice the ability to engage with token governance in order to utilize an automated strategy. As Rari continues to integrate more and more protocols, this feature may become more important over time. Some protocols issue rewards for participating in governance which means this feature could potentially be used as part of a yield generating strategy at some point in the future.</p>
+
+
+
+<h3>Liquidity Mining</h3>
+
+
+
+<p>87.50% of RGT will be distributed over a 60 day period via a liquidity mining program set to start on October 20th, 2020 with the launch of Rari Capital V2. The remaining RGT is reserved for the Rari team and is subject to a vesting schedule. <strong>For full details, we recommend reading </strong><a href="https://medium.com/rari-capital/announcing-rgt-the-long-term-yield-token-b2593502a7f3"><strong>the RGT announcement post</strong></a><strong>. It’s worth noting that while the distribution will last 60 days nearly half of the tokens will be distributed in the first 15 days. Additionally, “there is a ‘burn’ as a user when you attempt to transfer your $RGT before the 60-day distribution schedule is expired.”</strong></p>
+
+
+
+<h2>Concluding Thoughts</h2>
+
+
+
+<p>Rari Capital V2 further cements its product-market fit by offering more to users of any risk appetite. Whether you’re looking to earn risk-minimized returns on idle ETH or stablecoins or you’d rather chase the highest yields, Rari Capital’s sophisticated robo-advisor can be an effective tool in your arsenal. And it’s safe to expect more pools and integrations on the horizon, especially with the introduction of community governance. It’ll also be curious to see how the community chooses to govern the protocol and in what ways they may evolve each strategy.</p>
+
+
+
+<p><strong>Rari Capital V2 is set to launch on October 20th, 2020</strong>. Be sure to check it out at <a href="https://app.rari.capital/">Rari Capital</a> when the time comes and <a href="https://twitter.com/Raricapital">follow them on Twitter</a> in the meantime to hear the latest regarding the launch of V2.</p>
+
+
+
+<p><strong><em>Disclosure: This post is part a promotional series; We’ve partnered with Rari Capital to help educate and inform the community about the launch of Rari Capital V2. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Build Sustainable DApps with your own X Blaster with Custom Fees</title>
+		<link>./../../../2020/05/18/build-sustainable-dapps-with-your-own-x-blaster-with-custom-fees/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 18 May 2020 14:16:08 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Developer Docs]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[New Features]]></category>
+		<category><![CDATA[aggregator]]></category>
+		<category><![CDATA[developer tools]]></category>
+		<category><![CDATA[Dex.Ag]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[ERC20]]></category>
+		<category><![CDATA[liquidity]]></category>
+		<category><![CDATA[swaps]]></category>
+		<category><![CDATA[token]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8256</guid>
+
+					<description><![CDATA[TLDR: Integrating DEX.AG&#8217;s X Blaster with custom fees into your platform provides your users or smart contract with convenient native...]]></description>
+										<content:encoded><![CDATA[
+<p><em><strong>TLDR: </strong><a href="https://docs.dex.ag/proxy-contract">Integrating DEX.AG&#8217;s X Blaster with custom fees</a> into your platform provides your users or smart contract with convenient native liquidity while allowing you to build a sustainable business model.</em></p>
+
+
+
+<h2>Liquidity is vital for the growth of DeFi</h2>
+
+
+
+<p>Users want to experience all DeFi has to offer. But often times to do that you  need to swap between tokens or stablecoins. Liquidity is an important resource that enables DeFi&#8217;s composability and makes it possible for many DApps to function. It&#8217;s the blood that flows through the veins of DeFi. </p>
+
+
+
+<p>For a smooth user experience, it&#8217;s essential to have a reliable liquidity at a decent price. DEXes are an obvious choice for reliable liquidity when designing an application or smart contract. However, relying on a single DEX comes with its disadvantages. For example, maybe the token your users want to trade isn&#8217;t listed or has extremely low liquidity causing costly price slippage. </p>
+
+
+
+<h3>DeFi is all about having options</h3>
+
+
+
+<p>If one DEX isn&#8217;t ideal, The obvious answer is to do what DeFi does best with money legos and combine the awesome powers of DEXes. That&#8217;s why we built our other service DEX.AG, a DEX aggregator. DEX.AG&#8217;s X Blaster let&#8217;s you trade multiple DEXes and even splits trades across the combination of DEXes that results in the best price. Each DEX has its strengths, the X Blaster combines those strengths and connects users with the DEX or DEXes that best suits their needs. Not to mention, the X Blaster&#8217;s API has a blazing fast response time that delivers available trades within a fraction of a second so users never wait.</p>
+
+
+
+<h4>X Blaster <strong>aggregates liquidity from popular DEXes: </strong></h4>
+
+
+
+<ul><li>0x v3</li><li>Bancor</li><li>Curve</li><li>Kyber</li><li>Oasis</li><li>Uniswap</li><li>Synthetix<br>&#8230;. and more</li></ul>
+
+
+
+<p>With each new update, new tokens, exchanges, and integrations like Compound cTokens and CHAI are added to the X Blaster. We focus on token listings and improving your integrated X Blaster so you can focus on what matters.</p>
+
+
+
+<h2>Custom fees enable flexible and sustainable business models</h2>
+
+
+
+<p>We built DEX.AG because we understand the power of bringing the community together and the value that can create. We see our proxy contracts with custom fees as an opportunity for teams build sustainable models and grow their communities.</p>
+
+
+
+<p>We know how crucial the right business model can be to finding the perfect product-market fit. You choose the custom fees on your X Blaster proxy contract. Developers know their users best and this gives them the flexibility to grow their community on their terms. </p>
+
+
+
+<h2>X Blaster in action</h2>
+
+
+
+<p>Want to witness the X Blaster in action? You can trade using the X Blaster on <a href="https://dex.ag/">DEX.AG</a>. Here are examples of the X Blaster integrated directly into two of the most popular wallets in the Ethereum community.</p>
+
+
+
+<h3>MyCrypto Beta</h3>
+
+
+
+<p><a href="http://beta.mycrypto.com/">MyCrypto Beta</a> users can take advantage of the X Blaster under the <a href="https://beta.mycrypto.com/swap">Swap Assets</a>.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Our Swap functionality is NEW and IMPROVED! <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br><br>Let us know what you think. <br><br><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/y1wikwDz0f">https://t.co/y1wikwDz0f</a> <a href="https://t.co/O3ZintskMf">pic.twitter.com/O3ZintskMf</a></p>&mdash; MyCrypto.com (@MyCrypto) <a href="https://twitter.com/MyCrypto/status/1245851750499680258?ref_src=twsrc%5Etfw">April 2, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h3>MyEtherWallet</h3>
+
+
+
+<p><a href="https://www.myetherwallet.com/">MEW</a> recently rolled out the X Blaster to its Android users.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">MEW finds the best price for you with <a href="https://twitter.com/DEXAG_TokenWire?ref_src=twsrc%5Etfw">@DEXAG_TokenWire</a><br><br>Make decentralized swaps from your smartphone with just a few clicks in MEW wallet app <a href="https://t.co/i0dGyXFw5L">pic.twitter.com/i0dGyXFw5L</a></p>&mdash; MyEtherWallet | MEW (@myetherwallet) <a href="https://twitter.com/myetherwallet/status/1255943097986342913?ref_src=twsrc%5Etfw">April 30, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h2>Get your own X Blaster and level up your UX/UI</h2>
+
+
+
+<p>Once integrated, the X Blaster puts the hottest new DEXes and tokens just a few taps away. You can focus on your core product while your users get the liquidity they need conveniently right inside your application. And to top it off, when we ship updates to the X Blaster (which is quite often) you don&#8217;t have to lift a finger to reap the benefits in your platform. </p>
+
+
+
+<p>Give your users what they want and get your own X Blaster today! Head over to our <a href="https://docs.dex.ag/proxy-contract">API/SDK documention</a> to get started.<br></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

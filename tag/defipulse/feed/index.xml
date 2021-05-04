@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>defipulse &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Feb 2020 16:04:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>DeFi breaks $1 Billion Total Value Locked (TVL)</title>
+		<link>./../../../2020/02/07/1-billion-tvl-in-defi/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 07 Feb 2020 16:04:45 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[defipulse]]></category>
+		<category><![CDATA[tvl]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7957</guid>
+
+					<description><![CDATA[It&#8217;s official! Decentralized Finance (DeFi) has reached a new milestone surpassing $1,000,000,000 Total Value Locked (TVL). Thank you to the...]]></description>
+										<content:encoded><![CDATA[<p>It&#8217;s official! Decentralized Finance (DeFi) has reached a new milestone surpassing $1,000,000,000 Total Value Locked (TVL).</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-7960" src="./../../../wp-content/uploads/2020/02/Selection_981.png" alt="" width="895" height="314" srcset="./../../../wp-content/uploads/2020/02/Selection_981.png 895w, ./../../../wp-content/uploads/2020/02/Selection_981-300x105.png 300w, ./../../../wp-content/uploads/2020/02/Selection_981-768x269.png 768w" sizes="(max-width: 895px) 100vw, 895px" /></p>
+<p>Thank you to the community for every like, share, retweet, mention, citation, and refresh! $1 Billion marks an important milestone for DeFi to be celebrated. It illustrates the progress we&#8217;ve made towards our community&#8217;s vision of decentralized finance and the future of the world at large.</p>
+<p>Additionally, $1B feels like an early birthday present for DeFi Pulse which was launched in February 2019. Come celebrate with us in our <a href="http://t.me/defipulse">Telegram</a> or <a href="https://discord.gg/Gx4TCTk">Discord</a>!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DeFi Dive: Sablier &#8211; the protocol for real-time finance on Ethereum</title>
+		<link>./../../../2020/01/20/defi-dive-sablier-protocol/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 20 Jan 2020 16:12:19 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[defipulse]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Payments]]></category>
+		<category><![CDATA[sablier]]></category>
+		<category><![CDATA[stream]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7902</guid>
+
+					<description><![CDATA[Today we interview Paul Razvan Berg, previously a part of Aztec Protocol, self-proclaimed &#8220;Streamer of Money&#8221; and the man behind...]]></description>
+										<content:encoded><![CDATA[<p><strong><em><img loading="lazy" class="alignnone wp-image-7909 size-full" src="./../../../wp-content/uploads/2020/01/DFP-defi-dive-sablier-twitter-thumbnail.png" alt="" width="1024" height="512" srcset="./../../../wp-content/uploads/2020/01/DFP-defi-dive-sablier-twitter-thumbnail.png 1024w, ./../../../wp-content/uploads/2020/01/DFP-defi-dive-sablier-twitter-thumbnail-300x150.png 300w, ./../../../wp-content/uploads/2020/01/DFP-defi-dive-sablier-twitter-thumbnail-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></em></strong></p>
+<p><strong><em>Today we interview Paul Razvan Berg, previously a part of Aztec Protocol, self-proclaimed &#8220;Streamer of Money&#8221; and the man behind new <a href="https://www.sablier.finance/">Sablier</a>.</em></strong></p>
+<h3>How did you get your start in crypto and what inspired you to build Sablier?</h3>
+<p>The bull market of 2017 took me by surprise and I said to myself that there must be some kind of fundamentals behind all the hype. It turned out there was and I&#8217;ve been involved with Ethereum and smart contracts ever since.</p>
+<p>I started working on Sablier after getting my paycheck delayed by a few days. Mind you, I was working at a crypto startup, so I asked myself why do we have to use these legacy payment systems when smart contracts can be as fast as &#8230; real-time?</p>
+<h3>What are you building and what sets it apart?</h3>
+<p>Building Sablier, the protocol for real-time finance. Just like you can stream music on Spotify, so you can stream money on Sablier.</p>
+<p>As far as I know, we are the first Ethereum project to have implemented a money streaming protocol that is production-ready and is accompanied by a nice user interface.</p>
+<h3>Who do you view as the ideal user or customer for your product or service?</h3>
+<div class="answer__Wrapper-sc-1k75oj5-1 cdoaIi">
+<div class="Split-sc-3xe4fi-0 answer__BlockSplit-sc-1k75oj5-4 dSektV">
+<div class="SplitItem-sc-3xe4fi-1 hqqccI">
+<p><span class="Text-wqps8m-0 text-value__ValueText-di8e7l-0 jZTfRo fs-block" data-qa="response-answer">DeFi people, particularly freelancers and gig workers, but we have bigger plans for the long term. Check out this Twitter thread.&nbsp;</span></p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">1/</p>
+<p>Today, we&#8217;re publishing &#8220;Building with Sablier&#8221;: a broad collection of ideas and use cases for real-time finance<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/23f3.png" alt="⏳" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>This is invite for you to steal any of the tweets below and make it your own project <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>We provide you with the picks &amp; shovels for the money streaming part <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f4b8.png" alt="💸" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/WWPCtItsHs">pic.twitter.com/WWPCtItsHs</a></p>
+<p>— Sablier (@SablierHQ) <a href="https://twitter.com/SablierHQ/status/1214239545220386819?ref_src=twsrc%5Etfw">January 6, 2020</a></p></blockquote>
+<p><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+</div>
+</div>
+</div>
+<h3>What future event or feature on your roadmap are you most excited for?</h3>
+<p>Sablier v1 is cool, but we can do much better. I look forward to not require our users to deposit in advance, so they can start a stream for e.g. 1 year without having the money upfront.</p>
+<h3>Where do you see your Sablier fitting into the future of DeFi?</h3>
+<p>Sablier provides insurance and optionality by making the passage of time itself the trust-binding mechanism.</p>
+<p>I know nothing about the future, but we came up with a new financial contract. I&#8217;m excited to see what people will use it for!</p>
+<h3><span class="Text-wqps8m-0 answer__QuestionText-sc-1k75oj5-0 jWxpxy" data-qa="response-question">What’s something in DeFi that you think more people should be paying attention to?</span></h3>
+<div class="Spacer-cjod5i-0 frBWpl">+ Zero-knowledge proof technology (ZKSync, STARKs, AZTEC)</div>
+<div class="Spacer-cjod5i-0 frBWpl">+ Automated investment vehicles (TokenSets, DeFiZap)</div>
+<div class="Spacer-cjod5i-0 frBWpl">+ Smart contract wallets</div>
+<div class="Spacer-cjod5i-0 frBWpl">+ Permissionless employment (Gitcoin, CLR matching)</div>
+<h3>How can readers learn more about Sablier?</h3>
+<div>Our FAQ page is a good place to start: <a href="https://faq.sablier.finance/">https://faq.sablier.finance/ </a></div>
+<div>For any questions, ideas, or issues, please join <a href="https://shr.link/paazu">Sablier&#8217;s Discord community</a>.</div>
+<div></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DeFi Dive: Augur &#8211;  a decentralized oracle and prediction market platform</title>
+		<link>./../../../2019/12/27/defi-dive-augur-a-decentralized-oracle-and-prediction-market-platform/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 27 Dec 2019 17:15:45 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Augur]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[defipulse]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[oracle]]></category>
+		<category><![CDATA[prediction market]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7794</guid>
+
+					<description><![CDATA[&#160; We spoke with&#160;Peter Vecchiarelli, Operations at Augur, a bit about where Augur&#8217;s been and where it&#8217;s headed&#8230; How did...]]></description>
+										<content:encoded><![CDATA[<h3></h3>
+<p><em><strong><img loading="lazy" class="wp-image-7855 size-full aligncenter" src="./../../../wp-content/uploads/2019/12/DFP-augur-defi-dive-twitter-thumbnail.png" alt="" width="1024" height="512" srcset="./../../../wp-content/uploads/2019/12/DFP-augur-defi-dive-twitter-thumbnail.png 1024w, ./../../../wp-content/uploads/2019/12/DFP-augur-defi-dive-twitter-thumbnail-300x150.png 300w, ./../../../wp-content/uploads/2019/12/DFP-augur-defi-dive-twitter-thumbnail-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></strong></em></p>
+<p>&nbsp;</p>
+<p><em><strong>We spoke with&nbsp;Peter Vecchiarelli, Operations at Augur, a bit about where Augur&#8217;s been and where it&#8217;s headed&#8230;</strong></em></p>
+<h3>How did you get your start in crypto and what inspired you to build your project, product, or service?</h3>
+<p>Augur was started by Joey Krug in the following manner:</p>
+<p><em>&#8220;I got involved in Bitcoin in 2011 by mining Bitcoin. In 2013, I built a Bitcoin point of sale system, but ended up abandoning it after realizing that the most powerful applications of blockchain tech would not involve the external world much because it adds in trusted third parties and gets rid of a lot of the benefits. In 2014, I dropped out of Pomona College to cofound one of the first projects on Ethereum called Augur, and in 2015 we did the first crowdsale on Ethereum.&#8221;</em></p>
+<h3>What are you building and what sets it apart?</h3>
+<p>Augur is a decentralized oracle and prediction market platform. It is one of a few use cases that is dependent on censorship-resistance.</p>
+<p>Markets on the outcome of events are highly regulated in some jurisdictions and Augur&#8217;s censorship-resistance by way of using a decentralized blockchain allows for an unstoppable system. If this system thrives, the byproduct is that prices in the market outcomes would become the most accurate information signal on the probability of events.</p>
+<p>What sets it apart from centralized competitors such as Betfair and Predictit is the lack of limits imposed by regulations or profit motive. On Augur, there are no limits on what you can bet on, how much, where from, etc. Additionally, because Augur is not for-profit, it is able to facilitate the lowest fees and unbeatable odds.</p>
+<h3>Who do you view as the ideal user or customer for your product or service?</h3>
+<p>The ideal user is anyone who participates in betting or financial markets but is limited by how much they can bet, what they can bet on, where they can bet from, or is de-platformed for winning too much.</p>
+<p>For example, PredictIt, a regulated political prediction market platform imposes an $850 limit for each market per participant. On other online betting platforms, if you consistently win, you&#8217;ll be kicked or have your betting maximums severely reduced. Others aren&#8217;t able to access the markets they&#8217;d like to participate in due to the geography they live in.</p>
+<p>These limitations distort the signal that a robust betting market conveys.</p>
+<h3>What future event or feature on your roadmap are you most excited for?</h3>
+<p>Glad you asked! We are launching v2 of the Augur platform in Q1 2020.</p>
+<p>This release features the adoption of a stable betting unit (McDai), a faster, more intuitive UI, quicker market resolutions, and several months post-launch we&#8217;ll be introducing a very slick betting UI.</p>
+<h3>Where do you see your project, product, or service fitting into the future of DeFi?</h3>
+<p>We believe prediction markets are a vital engine for a parallel financial system. Because Augur is an open system with composability, there are literally endless applications for implementing Augur into products and services.</p>
+<h3><span class="Text-wqps8m-0 answer__QuestionText-sc-1k75oj5-0 jWxpxy" data-qa="response-question">What’s something in DeFi that you think more people should be paying attention to?</span></h3>
+<div class="Spacer-cjod5i-0 frBWpl">We may be a bit contrarian here, but we believe that it&#8217;s important to consider centralization and trust minimization at every junction. In the thorny path towards product-market fit, it can be tempting to stray from an initial vision of decentralization, but we think the true potential of a parallel financial system becomes possible with protocols that don&#8217;t waver on this.</div>
+<h3>How can readers learn more about your product/service?</h3>
+<div><a href="http://Augur.net/">Augur.net</a></div>
+<div><a href="http://Augur.substack.com/">Augur&#8217;s Weekly Newsletter</a></div>
+<div></div>
+<div></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to make money on DeFi (Hint: It&#8217;s not hard.)</title>
+		<link>./../../../2019/11/01/how-to-make-money-on-defi/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 01 Nov 2019 19:04:52 +0000</pubDate>
+				<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Exchange]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[Compound]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[Dapp]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[defipulse]]></category>
+		<category><![CDATA[Dex.Ag]]></category>
+		<category><![CDATA[lending]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7709</guid>
+
+					<description><![CDATA[Decentralized finance (DeFi) is changing the way people interact with their money.  However, we know it can be a lot...]]></description>
+										<content:encoded><![CDATA[<p>Decentralized finance (DeFi) is changing the way people interact with their money.  However, we know it can be a lot to take in. Don&#8217;t worry, because we&#8217;ve put together this quick guide to give you jump start.</p>
+<h2>Start making money on DeFi in 4 steps</h2>
+<p>If you&#8217;re familiar with Ethereum, these steps will only take a few minutes. And when it&#8217;s all said and done, you&#8217;ll be earning interest in DAI every block. <em><strong>However if you&#8217;re completely new to Ethereum,</strong></em> you may instead want to check out <strong><a href="https://defipulse.com/blog/zero-to-defi-cdai/">Zero to DeFi</a></strong>, a beginner&#8217;s guide which breaks down the entire process of getting a wallet, acquiring ETH, and lending out your DAI.</p>
+<h3>1. Get ETH into an address that you own</h3>
+<p>As the saying goes, if you don&#8217;t hold the private keys to the wallet, then they aren&#8217;t your coins. So, be sure to perform these steps from a wallet that you hold the private keys to. And, don&#8217;t forget to keep them backed up somewhere safe.</p>
+<h3>2. Head to <a href="https://dex.ag/">DEX.AG</a> and sell most of that ETH for DAI</h3>
+<p><a href="http://DEX.AG/">DEX.AG</a> is a decentralized exchange or DEX aggregator that gets you the best price available from several of the most popular DEXes. It even splits your trade across multiple DEXes if it improves the price, all in one transaction. <strong>Make sure to leave a little ETH leftover for <a href="https://ethgasstation.info/blog/what-is-gas/">gas fees</a>.</strong></p>
+<h3><a href="https://dex.ag/"><img loading="lazy" class="alignnone wp-image-7722" src="./../../../wp-content/uploads/2019/11/Selection_300.jpg" alt="" width="600" height="600" srcset="./../../../wp-content/uploads/2019/11/Selection_300.jpg 1000w, ./../../../wp-content/uploads/2019/11/Selection_300-300x300.jpg 300w, ./../../../wp-content/uploads/2019/11/Selection_300-150x150.jpg 150w, ./../../../wp-content/uploads/2019/11/Selection_300-768x768.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" /></a></h3>
+<h3>3. Go to DeFi Pulse&#8217;s <a href="https://defipulse.com/income">Earn Income page</a></h3>
+<p>DeFi Pulse is a site where you can find the latest analytics and rankings of DeFi protocols. The DeFi Pulse <a href="https://defipulse.com/income">Earn Income page</a> compares the interest rates you can earn from DeFi lending protocols.</p>
+<p><a href="https://defipulse.com/income"><img loading="lazy" class="alignnone wp-image-7715" src="./../../../wp-content/uploads/2019/11/Selection_295-260x300.jpg" alt="" width="600" height="693" srcset="./../../../wp-content/uploads/2019/11/Selection_295-260x300.jpg 260w, ./../../../wp-content/uploads/2019/11/Selection_295-886x1024.jpg 886w, ./../../../wp-content/uploads/2019/11/Selection_295-768x887.jpg 768w, ./../../../wp-content/uploads/2019/11/Selection_295.jpg 934w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<h3>4. Pick a lending protocol, and start earning interest</h3>
+<p>Enter the asset and amount you wish to lend to find which lending protocol has the best interest rate. Pick a protocol and click the &#8216;Next&#8217; button which will redirect you to that app/service. Compound finance is currently the most popular lending protocol. Follow the app&#8217;s instructions to begin lending out your DAI and start earning interest.</p>
+<h3>And then later, when you&#8217;re ready to cash out&#8230;</h3>
+<p>Head back to the lending protocol you chose and use your private key to unlock the DAI plus interest generated whenever you want. There&#8217;s no &#8220;lock-in&#8221; period or time you have to wait before earning interest. Your DAI is earning interest every block until you choose to stop.</p>
+<p><em>Still have questions? </em>Come chat us in our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a> and stay up-to-date on the world of DeFi by following us on <a href="https://twitter.com/defipulse">Twitter.</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Meet The DeFi List</title>
+		<link>./../../../2019/07/15/meet-the-defi-list/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 15 Jul 2019 15:41:51 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[defipulse]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7408</guid>
+
+					<description><![CDATA[Thanks to the support of the community DeFi Pulse has quickly become a resource people turn to when discussing decentralized...]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Thanks to the support of the community DeFi Pulse has quickly become a resource people turn to when discussing decentralized finance. Up until now, DeFi Pulse only ranks on-chain DeFi projects. But we know that the DeFi community is larger than what’s listed on the leaderboard. And some aspects of our community aren’t as easily measured as a smart contract. So that’s why we’re adding to DeFi Pulse what we call <a href="http://defipulse.com/defi-list" target="_blank" rel="noopener">The DeFi List</a>.</span></p>
+<p><span style="font-weight: 400;"> <img loading="lazy" class="aligncenter wp-image-7423" src="/blog/wp-content/uploads/2019/07/defilist0-300x227.png" alt="The DeFi List" width="600" height="454" srcset="./../../../wp-content/uploads/2019/07/defilist0-300x227.png 300w, ./../../../wp-content/uploads/2019/07/defilist0-768x581.png 768w, ./../../../wp-content/uploads/2019/07/defilist0.png 852w" sizes="(max-width: 600px) 100vw, 600px" /><br />
+</span></p>
+<p><span style="font-weight: 400;">The DeFi List is a collection of the best DeFi resources, and a new way for all the DeFi community to grow together. Anyone helping build DeFi has an opportunity to be on the list. </span><span style="font-weight: 400;">Whether you’re a project, newsletter, news site, blog, analytics site, or service provider, a</span>nyone can apply. Check out the <a href="https://concourseopen.typeform.com/to/fLufMQ?defipulse=xxxxx" target="_blank" rel="noopener">application form</a> for specific details.</p>
+<p><span style="font-weight: 400;">We&#8217;ll take the best applications and add them to our list helping our users discover your work. If you&#8217;re included, we&#8217;ll add a short description and a link to your site to the list. And in order to be listed on the DeFi Pulse Leaderboard, you must be included on this list.</span></p>
+<h3>Learning about decentralized finance just got a little easier</h3>
+<p><span style="font-weight: 400;">Our hope is that this list will provide a great resource for newcomers and veterans alike. Aiding their research and helping them to discover DeFi projects. Being included in The DeFi List signals to users that the site they are visiting has been perceived as being of high value within the DeFi community. Also, it helps new users understand what it is and is not decentralized finance. </span></p>
+<p><span style="font-weight: 400;">We want to use DeFi Pulse to help highlight where the community is growing. In addition to be included on The DeFi List, you’ll have the opportunity to post marketing announcements to the DeFi Pulse discord channel. And have your announcements broadcasted to the broader DeFi community via the <a href="https://twitter.com/defipulse" target="_blank" rel="noopener">@DefiPulse Twitter</a> (at social media manager’s discretion). The DeFi community grows bigger and gets stronger collectively with every new addition. And we want to world to know it!</span></p>
+<p><span style="font-weight: 400;">Check out <a href="http://defipulse.com/defi-list">The DeFi List</a> for yourself! And if you’re interested in being included, please <a href="https://concourseopen.typeform.com/to/fLufMQ?defipulse=xxxxx" target="_blank" rel="noopener">fill out our short application</a>. Let us hear your thoughts in our discord or <a href="https://twitter.com/defipulse" target="_blank" rel="noopener">@DefiPulse</a> on Twitter.</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

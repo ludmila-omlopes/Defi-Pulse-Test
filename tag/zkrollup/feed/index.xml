@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>zkrollup &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 24 Apr 2020 13:21:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>DeFi Dive: Loopring &#8211; Ethereum’s zkRollup Exchange Protocol</title>
+		<link>./../../../2020/04/24/defi-dive-loopring/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 24 Apr 2020 13:21:06 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Exchange]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[decentralized exchanges]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[layer 2]]></category>
+		<category><![CDATA[loopring]]></category>
+		<category><![CDATA[lrc]]></category>
+		<category><![CDATA[zk-snarks]]></category>
+		<category><![CDATA[zkrollup]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8191</guid>
+
+					<description><![CDATA[In this edition of DeFi Dive, Daniel Wang, founder and CEO of Loopring, discusses how zkRollups can scale high-throughput DeFi...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="512" src="./../../../wp-content/uploads/2020/04/loopring-1.png" alt="" data-id="8198" data-full-url="./../../../wp-content/uploads/2020/04/loopring-1.png" data-link="https://defipulse.com/blog/?attachment_id=8198" class="wp-image-8198" srcset="./../../../wp-content/uploads/2020/04/loopring-1.png 1024w, ./../../../wp-content/uploads/2020/04/loopring-1-300x150.png 300w, ./../../../wp-content/uploads/2020/04/loopring-1-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+
+
+
+<p><em style=""><b>In this edition of DeFi Dive, Daniel Wang, founder and CEO of Loopring, discusses how zkRollups can scale high-throughput DeFi applications like Loopring.io while </b></em><strong><em>maintaining layer 1 security.</em></strong></p>
+
+
+
+<h3>How did you get your start in crypto and what inspired you to build your project, product, or service?</h3>
+
+
+
+<p>I learned Bitcoin back in 2013 when I was working for JD.com as a senior engineering director. Later I quit JD.com and built a centralized exchange in China, which listed BTC, Ripple, and some other cryptocurrencies. The multiple hacks of exchanges during 2014 &#8211; 2017 made me think about what technicalities can be used to create a better kind of crypto exchanges that can offer much higher security for user assets. </p>
+
+
+
+<p>When Ethereum came out, we formed a team to verify a straightforward idea: using smart-contract to build an exchange to trade tokens. We believe a well audited smart-contract exchange should offer the same level of security as the assets. That&#8217;s the beginning of Loopring, but the project ends up with a very different technical solution that we have never imagined.</p>
+
+
+
+<h3>What are you building and what sets it apart?</h3>
+
+
+
+<p>Loopring, in its latest version (3.0), is the first zkRollup-based exchange protocol that can settle more than 2K trades per second without sacrificing the layer1 security and incurs less than 200USD per million settlements. We have just started to operate an exchange built on top of this protocol &#8211; the Loopring Exchange, aka Loopring.io. </p>
+
+
+
+<p>However, this is not the end of the protocol or the exchange. We are working on versions that will offer better support for onchain composability and easier customization. With the new version, multiple exchanges built on top of the same protocol may have very different DeFi properties and business models. We believe zkRollup is the right solution for scalability, not just for exchanges, but many dApps that are designed to target millions of active users.</p>
+
+
+
+<h3>Who do you view as the ideal user or customer for your product or service?</h3>
+
+
+
+<p>We target people who use centralized exchanges. As of now, DeFi&#8217;s active user base is still very small, and DeFi onboarding is quite challenging for users without a technical background. With our new smart wallet app (launching later this year), we hope to offer a mobile platform for a massive user base with a language they speak and a set of features they can quickly understand. Eventually, security will be part of the minimum requirement a crypto platform shall offer, not a feature that we now talk about so often.</p>
+
+
+
+<h3>What future event or feature on your roadmap are you most excited for?</h3>
+
+
+
+<p>Loopring 3.5 is something we look forward to, and it will be code-complete very soon. We also expect Loopring Wallet to make a difference in terms of user acquisition.</p>
+
+
+
+<h3>Where do you see your project, product, or service fitting into the future of DeFi?</h3>
+
+
+
+<p>Orderbook-based exchanges are essential infrastructures for cryptocurrencies, and they fulfill user needs and will remain the dominant form of trading for the massive, even in the future. We believe Loopring is on the right track, and with continuous optimizations and improvements, we will remain competitive and gradually eliminate the centralized exchange technical stack.</p>
+
+
+
+<h3>What’s something in DeFi that you think more people should be paying attention to?</h3>
+
+
+
+<p>Serious investors should be concerned with DeFi&#8217;s ever-growing complexity and composability. Our crypto-assets on these products are only as secure as the weakest link in the stack. I do not participate in DeFi aggressively as the return doesn&#8217;t justify the risk for the asset I put in. I&#8217;m not saying we should not participate in DeFi at all, but a wise thing to do is only to invest want we can afford to lose.</p>
+
+
+
+<h3>How can readers learn more about your product/service?</h3>
+
+
+
+<p>The best source of information regarding Loopring is our <a href="https://loopring.org/">website</a>. For engineers and hackers, our <a href="https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md">design doc</a> is where they can find the most technical details. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

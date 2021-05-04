@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ERC20 &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 18 May 2020 14:16:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Build Sustainable DApps with your own X Blaster with Custom Fees</title>
+		<link>./../../../2020/05/18/build-sustainable-dapps-with-your-own-x-blaster-with-custom-fees/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 18 May 2020 14:16:08 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Developer Docs]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[New Features]]></category>
+		<category><![CDATA[aggregator]]></category>
+		<category><![CDATA[developer tools]]></category>
+		<category><![CDATA[Dex.Ag]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[ERC20]]></category>
+		<category><![CDATA[liquidity]]></category>
+		<category><![CDATA[swaps]]></category>
+		<category><![CDATA[token]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8256</guid>
+
+					<description><![CDATA[TLDR: Integrating DEX.AG&#8217;s X Blaster with custom fees into your platform provides your users or smart contract with convenient native...]]></description>
+										<content:encoded><![CDATA[
+<p><em><strong>TLDR: </strong><a href="https://docs.dex.ag/proxy-contract">Integrating DEX.AG&#8217;s X Blaster with custom fees</a> into your platform provides your users or smart contract with convenient native liquidity while allowing you to build a sustainable business model.</em></p>
+
+
+
+<h2>Liquidity is vital for the growth of DeFi</h2>
+
+
+
+<p>Users want to experience all DeFi has to offer. But often times to do that you  need to swap between tokens or stablecoins. Liquidity is an important resource that enables DeFi&#8217;s composability and makes it possible for many DApps to function. It&#8217;s the blood that flows through the veins of DeFi. </p>
+
+
+
+<p>For a smooth user experience, it&#8217;s essential to have a reliable liquidity at a decent price. DEXes are an obvious choice for reliable liquidity when designing an application or smart contract. However, relying on a single DEX comes with its disadvantages. For example, maybe the token your users want to trade isn&#8217;t listed or has extremely low liquidity causing costly price slippage. </p>
+
+
+
+<h3>DeFi is all about having options</h3>
+
+
+
+<p>If one DEX isn&#8217;t ideal, The obvious answer is to do what DeFi does best with money legos and combine the awesome powers of DEXes. That&#8217;s why we built our other service DEX.AG, a DEX aggregator. DEX.AG&#8217;s X Blaster let&#8217;s you trade multiple DEXes and even splits trades across the combination of DEXes that results in the best price. Each DEX has its strengths, the X Blaster combines those strengths and connects users with the DEX or DEXes that best suits their needs. Not to mention, the X Blaster&#8217;s API has a blazing fast response time that delivers available trades within a fraction of a second so users never wait.</p>
+
+
+
+<h4>X Blaster <strong>aggregates liquidity from popular DEXes: </strong></h4>
+
+
+
+<ul><li>0x v3</li><li>Bancor</li><li>Curve</li><li>Kyber</li><li>Oasis</li><li>Uniswap</li><li>Synthetix<br>&#8230;. and more</li></ul>
+
+
+
+<p>With each new update, new tokens, exchanges, and integrations like Compound cTokens and CHAI are added to the X Blaster. We focus on token listings and improving your integrated X Blaster so you can focus on what matters.</p>
+
+
+
+<h2>Custom fees enable flexible and sustainable business models</h2>
+
+
+
+<p>We built DEX.AG because we understand the power of bringing the community together and the value that can create. We see our proxy contracts with custom fees as an opportunity for teams build sustainable models and grow their communities.</p>
+
+
+
+<p>We know how crucial the right business model can be to finding the perfect product-market fit. You choose the custom fees on your X Blaster proxy contract. Developers know their users best and this gives them the flexibility to grow their community on their terms. </p>
+
+
+
+<h2>X Blaster in action</h2>
+
+
+
+<p>Want to witness the X Blaster in action? You can trade using the X Blaster on <a href="https://dex.ag/">DEX.AG</a>. Here are examples of the X Blaster integrated directly into two of the most popular wallets in the Ethereum community.</p>
+
+
+
+<h3>MyCrypto Beta</h3>
+
+
+
+<p><a href="http://beta.mycrypto.com/">MyCrypto Beta</a> users can take advantage of the X Blaster under the <a href="https://beta.mycrypto.com/swap">Swap Assets</a>.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Our Swap functionality is NEW and IMPROVED! <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br><br>Let us know what you think. <br><br><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/y1wikwDz0f">https://t.co/y1wikwDz0f</a> <a href="https://t.co/O3ZintskMf">pic.twitter.com/O3ZintskMf</a></p>&mdash; MyCrypto.com (@MyCrypto) <a href="https://twitter.com/MyCrypto/status/1245851750499680258?ref_src=twsrc%5Etfw">April 2, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h3>MyEtherWallet</h3>
+
+
+
+<p><a href="https://www.myetherwallet.com/">MEW</a> recently rolled out the X Blaster to its Android users.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">MEW finds the best price for you with <a href="https://twitter.com/DEXAG_TokenWire?ref_src=twsrc%5Etfw">@DEXAG_TokenWire</a><br><br>Make decentralized swaps from your smartphone with just a few clicks in MEW wallet app <a href="https://t.co/i0dGyXFw5L">pic.twitter.com/i0dGyXFw5L</a></p>&mdash; MyEtherWallet | MEW (@myetherwallet) <a href="https://twitter.com/myetherwallet/status/1255943097986342913?ref_src=twsrc%5Etfw">April 30, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h2>Get your own X Blaster and level up your UX/UI</h2>
+
+
+
+<p>Once integrated, the X Blaster puts the hottest new DEXes and tokens just a few taps away. You can focus on your core product while your users get the liquidity they need conveniently right inside your application. And to top it off, when we ship updates to the X Blaster (which is quite often) you don&#8217;t have to lift a finger to reap the benefits in your platform. </p>
+
+
+
+<p>Give your users what they want and get your own X Blaster today! Head over to our <a href="https://docs.dex.ag/proxy-contract">API/SDK documention</a> to get started.<br></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Meet The Token List — An Accurate List of Authentic Tokens on Ethereum</title>
+		<link>./../../../2020/05/07/meet-the-token-list/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Thu, 07 May 2020 17:42:43 +0000</pubDate>
+				<category><![CDATA[New Features]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[defi pulse]]></category>
+		<category><![CDATA[ERC20]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[list]]></category>
+		<category><![CDATA[token]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8230</guid>
+
+					<description><![CDATA[Imagine you&#8217;re trying out a new DeFi project. Everything is going smoothly; the instructions on screen guide you, making you...]]></description>
+										<content:encoded><![CDATA[
+<p>Imagine you&#8217;re trying out a new DeFi project. Everything is going smoothly; the instructions on screen guide you, making you feel confident in your actions. That is until you complete your transaction and then your tokens don&#8217;t arrive. You start to get that sinking feeling in your stomach as you realize you&#8217;ve received tokens the wrong tokens&#8230;</p>
+
+
+
+<p>Looking at your transaction confirmation you realize you received a token with the same name and ticker symbol as the one you thought you selected. In fact, upon reviewing the token selection menu you realize there are lots of inaccurate and confusing tokens listed. It&#8217;s a simple mistake but costly mistake anyone could make that leaves a sour taste in your mouth about the whole experience.</p>
+
+
+
+<h4>So what happened?</h4>
+
+
+
+<p>On Ethereum, anyone can create a token with any name or ticker symbol. It&#8217;s not like registering a username on a website; there&#8217;s no native mechanism preventing a new token from having the same name, symbol, or even icon as an existing token. Whether intentionally or not, duplicate or misleading tokens are created all the time making mistakes like the one described above more and more likely to occur for even the most experienced users.</p>
+
+
+
+<p>Not to mention, DeFi grows so quickly that it&#8217;s practically impossible to keep up with the countless new tokens being produced by projects. DAI alone has over 30 variations. This situation isn&#8217;t slowing down anytime soon and a lot of collective time is being spent in our community right now playing detective in order to determine if a token is the right token.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://defipulse.com/token-list"><img loading="lazy" src="./../../../wp-content/uploads/2020/05/token-list-thumb-1-wo-padding.jpg" alt="" class="wp-image-8247" width="638" height="638"/></a></figure></div>
+
+
+
+<h2>Meet The Token List</h2>
+
+
+
+<p>The Token List provides an accurate list of authentic tokens submitted and curated by the community. Its purpose is to create a standard list of tokens that everyone can rely on. <strong>Anyone can apply to have a token added to The Token List as long as it isn’t likely to be confused with previously listed or well-known tokens. And, it&#8217;s free for anyone to integrate The Token List into their project.</strong></p>
+
+
+
+<p>A reliable well-vetted token list serves as a source of truth for the community helping ensure users are never confused by misleading tokens or outright scams. The idea is that when you see a platform is using The Token List, you can be confident that the tokens available are the real deal.</p>
+
+
+
+<h3>Implementation is fast, easy and forever free</h3>
+
+
+
+<p>Integrating The Token List into your project is simple and worry-free with little to no maintenance. <a href="https://defipulse.com/token-list">The Token List</a> lets your team work smarter, not harder. No more wasting man hours on listing new tokens on top of maintaining the ever-growing list of existing tokens. And best of all, <strong>it&#8217;s forever free to use</strong> &#8211; no upfront cost or ongoing fees.</p>
+
+
+
+<p>The Token List provides all the relevant information for each authentic token in JSON format: </p>
+
+
+
+<ul><li>token name</li><li>contract address </li><li>ticker symbol </li><li>decimals</li><li>icon image</li><li>token standard (ERC20, ERC223, etc)</li><li>and flags describing token qualities such as: is it used in governance, is it a social token, etc.</li></ul>
+
+
+
+<p>We handle the listing and maintenance for you so you can get back to building what matters.</p>
+
+
+
+<h4>Got a token? Apply to The Token List in a snap.</h4>
+
+
+
+<p>As previously mentioned, anyone can submit an application to list any authentic token to The Token List. Simply, visit <a href="https://defipulse.com/token-list">The Token List</a>, click the &#8216;Add a Token now!&#8217; button (powered by Unlock Protocol). It costs a flat fee of 0.05 ETH to apply. And then, follow the prompts to fill out the simple form with the required token details. </p>
+
+
+
+<p>We review all applications for authenticity and to ensure that they are unique enough to not confuse the average user. We want to help improve user experience, not act as gatekeepers, so we&#8217;ll err on the side of inclusion where possible (but for the safety of the community we do reserve the right to reject outright scams or tokens intending to mislead, etc).</p>
+
+
+
+<h3>Adaptive token selection</h3>
+
+
+
+<p>Opening up the token listing process benefits all involved by making UX/UIs become more responsive and inclusive. Instead of acting as a potential gatekeepers, DeFi projects now become advocates of collaboration and empower their community to take ownership of the token listing process. Additionally, the community lends their watchful eyes to help maintain the accuracy and authenticity of existing token listings (because we know how fast some things change in DeFi).</p>
+
+
+
+<h3>Collaboration and composability</h3>
+
+
+
+<p>The ability to connect and combine existing smart contracts to create something new is a defining aspect of DeFi. We&#8217;re an industry built on collaboration which increases the pace of innovation. Projects and users alike benefit from keeping this shared list of tokens up-to-date with the latest listings and changes to existing tokens, potentially serving as a catalyst for even more composability between DeFi projects. Naturally, it&#8217;s easier to work together when you&#8217;re all on the same page. For example: when one project submits their newest token, it&#8217;s automatically added to all projects using The Token List.</p>
+
+
+
+<h2>Take advantage of The Token List today</h2>
+
+
+
+<p>Whether you&#8217;re hacking together an idea, tired of maintaining your current token listings, or want to make your token known to the world, <a href="https://defipulse.com/token-list">The Token List</a> is a simple but effective solution to meet your needs.</p>
+
+
+
+<p>We&#8217;re really excited for this release and the potential impact an open, accessible standard token list could have on DeFi. Standards can improve quality of life and safety for users and make developers&#8217; work easier and more efficient. We&#8217;re also interested to see how this list will grow with community input. We&#8217;re 100% open to new ideas like new descriptive flags. So please let us know what you think on <a href="https://twitter.com/defipulse">Twitter</a>, <a href="https://discord.gg/Gx4TCTk">Discord</a>, and <a href="https://t.me/defipulse">Telegram</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DeFi Dive: Frontier &#8211; DeFi Simple, Safe and Mobile</title>
+		<link>./../../../2020/02/26/defi-dive-frontier/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2020 13:57:13 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Dapp]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[ERC20]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[frontier]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[wallet]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8009</guid>
+
+					<description><![CDATA[We spoke with Frontier Co-Founder &#38; Head of Marketing Palash Jain who longs to bring DeFi to the masses with...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="512" src="./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-1024x512.png" alt="" class="wp-image-8010" srcset="./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-1024x512.png 1024w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-300x150.png 300w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-768x384.png 768w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-1536x768.png 1536w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-1568x784.png 1568w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong><em>We spoke with Frontier Co-Founder &amp; Head of Marketing Palash Jain who longs to bring DeFi to the masses with slick features like</em></strong> <strong>TxLink.<em><br></em></strong></p>
+
+
+
+<h3>How did you get your start in crypto and what inspired you to build your project, product, or service?</h3>
+
+
+
+<p>I first heard about Ethereum back in 2017, and that&#8217;s where my crypto journey started. Entered into this space out of curiosity and ended up finding the fit in this space. Since then, I have worked with promising start-ups in the space, helping them on the Marketing and the growth end. Now Leading Marketing and Growth at Frontier to bring DeFi to masses.<br></p>
+
+
+
+<h3>What are you building and what sets it apart?</h3>
+
+
+
+<p>What are you building and what sets it apart? To briefly introduce, Frontier is a mobile-first, user-facing application. Frontier natively integrates multiple DeFi Protocols and wallets, making it super easy for users to Track, View and Manage positions across various DeFi protocols in real-time without having to give away private keys. </p>
+
+
+
+<p>Frontier&#8217;s focus is bringing DeFi to Mobile, and that&#8217;s what sets us apart. We offer Native UI/UX for dApps and protocols and native wallet integration on Mobile. To bring wallet composability on mobile we came up with TxLink a middleware which enables Frontier to connect with multiple wallets such that user can choose the preferred wallet to sign transactions, thereby the user never gives away the private key nor has to import wallet. </p>
+
+
+
+<p>If we look at the current way of interacting with dApps on Mobile, the experience is slow and sluggish on dApp browsers, and if there&#8217;s a product which offers native integration of dApps, perhaps the user has to create or import wallet onto that App. The user keeps hopping from one app to another app in search of perfect DeFi experience on Mobile. With Frontier, we remove this pain point by giving the user the options to choose existing wallets to transact with and better UI/UX experience.</p>
+
+
+
+<h3>Who do you view as the ideal user or customer for your product or service?</h3>
+
+
+
+<p>Our current users are sophisticated Defi users that are aiming for maximising their returns from their investments in this space. However, what brings Defi users to Frontier is the app simplicity and its user-friendliness, hence everyone&#8217;s invited to make the most of this space. </p>
+
+
+
+<p>DeFi is for everyone and so is Frontier.</p>
+
+
+
+<h3>What future event or feature on your roadmap are you most excited for?</h3>
+
+
+
+<p>There’s a lot of exciting stuff which we are working on, our focus for the coming months is to integrate leading DeFi protocols such as MakerDao(Native Vaults module and DSR), Synthetix(Native Mintr), Compound, KAVA. Extend support to more wallets such as Gnosis Safe, Coinbase wallet. Gasless transactions for all DeFi operations via Frontier, and introduce Native staking for PoS and dPos based chains such as Matic Network.<br></p>
+
+
+
+<h3>Where do you see your project, product, or service fitting into the future of DeFi?</h3>
+
+
+
+<p>Frontier being a user-facing product, aims to bring DeFi to masses! Making it easy for users to access multiple financial protocols giving them the options to choose products based on their risk appetite. DeFi Bank which is open 24/7</p>
+
+
+
+<h3>What’s something in DeFi that you think more people should be paying attention to?</h3>
+
+
+
+<p>There&#8217;s a lot of awesome stuff people are building in this space! Every single day is exciting in DeFi. Folks should look into Ren protocol &#8211; inter-blockchain liquidity for all dApps bringing BTC to Ethereum ecosystem and of course Frontier, every DeFi user must have this App <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<h3>How can readers learn more about your product/service?</h3>
+
+
+
+<p>You can find us <a href="https://twitter.com/Frontierwallet">Twitter</a>, and you are most welcome to join our <a href="https://t.me/frontierwallet">telegram community</a>. </p>
+
+
+
+<p>Frontier App is also available on <a href="https://apple.co/2ORqvbh">App Store</a> and <a href="https://bit.ly/2ORqKTJ">Play Store</a>, or you can download the App from our website<a href="http://Frontierwallet.com/"> Frontierwallet.com</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DeFi Dive: TokenTax &#8211; DeFi crypto tax calculator and cryptocurrency accounting firm</title>
+		<link>./../../../2020/02/18/defi-dive-tokentax/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Tue, 18 Feb 2020 16:29:58 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Humans]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[ERC20]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[tax]]></category>
+		<category><![CDATA[taxes]]></category>
+		<category><![CDATA[tokens]]></category>
+		<category><![CDATA[tokentax]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7972</guid>
+
+					<description><![CDATA[Alex Miles, co-founder of TokenTax, discusses his quest to ease the crypto community&#8217;s DeFi tax woes. How did you get...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb.png" alt="" class="wp-image-7974" width="1024" height="512" srcset="./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb.png 1024w, ./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb-300x150.png 300w, ./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong><em>Alex Miles, co-founder of TokenTax, discusses his quest to ease the crypto community&#8217;s DeFi tax woes.</em></strong></p>
+
+
+
+<h3>How did you get your start in crypto and what inspired you to build your project, product, or service?</h3>
+
+
+
+<p>I first heard about bitcoin while i was in university around 2010, but didn’t mine or purchase any (fml). I bought my first half bitcoin in 2013. Fast forward to 2017, I started trading and casually buying/selling alt coins, I realized that calculating taxes on my activity would be very complicated. </p>
+
+
+
+<p>Over the course of a month in 2017, I built a simple demo application that linked your coinbase account and calculated your cost basis data. The application then generated a filled out 8949. I showed it to a few friends and they were really happy with the experience. I submitted what I built to the 2017 Product Hunt Global Hackathon and ended up winning the grand prize! </p>
+
+
+
+<p>After that, I partnered with my co-founder Zac McClure who has a background in finance, accounting, and impact investing. Together we formed a plan to take TokenTax to the next level. A lot of our initial plan is now built and we plan to continue to grow the business.</p>
+
+
+
+<h3>What are you building and what sets it apart?</h3>
+
+
+
+<p>We are building the easiest way for cryptocurrency users to calculate and file their crypto taxes. At TokenTax we are intensely focused on building the best tax experience for DeFi. We believe DeFi has the potential to bring mainstream adoption to cryptocurrency and we want to do everything in our power to help make this a reality.</p>
+
+
+
+<h3>Who do you view as the ideal user or customer for your product or service?</h3>
+
+
+
+<p>Any cryptocurrency or DeFi user! We are an international crypto tax calculator so we support any country, not just the US.</p>
+
+
+
+<h3>What future event or feature on your roadmap are you most excited for?</h3>
+
+
+
+<p>I’m excited to continue to build out our DeFi tax tools. These are open to the public and can be used to download your transaction history for popular DeFi apps like Uniswap or compound. Every popular DeFi app in in the works like dYdX, Chai, and Maker to name a few <br>&#8211; <a href="https://tokentax.co/compound-finance">https://tokentax.co/compound-finance</a> <br>&#8211; <a href="https://tokentax.co/uniswap">https://tokentax.co/uniswap </a></p>
+
+
+
+<p>We also have built a wonderful knowledge base of guides and help articles. We are working full time to build our more helpful resources:<br>&#8211; <a href="https://tokentax.co/guides/defi-crypto-tax/">https://tokentax.co/guides/defi-crypto-tax/</a></p>
+
+
+
+<h3>Where do you see your project, product, or service fitting into the future of DeFi?</h3>
+
+
+
+<p>We plan on being the tax and reporting backbone behind DeFi. We want to help legitimize DeFi in the eyes of our government authorities around the world by providing users with excellent documentation.</p>
+
+
+
+<h3>What’s something in DeFi that you think more people should be paying attention to?</h3>
+
+
+
+<p>Honestly, I think one of the best things the DeFi community has, is the people within the community. There’s so much creativity and passion being shared online and I think this helps fuel a ton of innovation. I think we often forget we’re all on the same team. We should try to fight less about small topics that don’t matter. We need to remember who we are fighting against.</p>
+
+
+
+<h3>How can readers learn more about your product/service?</h3>
+
+
+
+<p>Go to our website and contact our very helpful support team with any crypto tax questions you may have <a href="https://tokentax.co/">https://tokentax.co/ </a></p>
+
+
+
+<p>Follow us and send us a nice message on Twitter <a href="https://twitter.com/tokentax">https://twitter.com/tokentax </a></p>
+
+
+
+<p>Also follow me on Twitter! <a href="https://twitter.com/milesalex">https://twitter.com/milesalex</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

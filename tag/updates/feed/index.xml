@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>updates &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 31 Dec 2020 19:42:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>2020: Year in Review</title>
+		<link>./../../../2020/12/31/2020-year-in-review/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Thu, 31 Dec 2020 19:42:18 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[2020]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[features]]></category>
+		<category><![CDATA[releases]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[updates]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8804</guid>
+
+					<description><![CDATA[There’s no doubt that 2020 was a wild ride for everyone, especially for anyone involved in DeFi. When you look...]]></description>
+										<content:encoded><![CDATA[
+<p>There’s no doubt that 2020 was a wild ride for everyone, especially for anyone involved in DeFi. When you look back at the year, it’s honestly hard to wrap your head around how much things have changed in our community. There are so many projects that launched this year that have become core to the foundation of decentralized finance. Many new projects rose to fill the needs of the ecosystem and many more challenged our preconceived notions of what was thought possible or where DeFi was headed at the start of the year. To round out the year, we thought it would be best to take a moment to celebrate the Top Builders in DeFi of 2020 as nominated by you in our first ever community survey. </p>
+
+
+
+<h2>Top Builders in DeFi of 2020</h2>
+
+
+
+<p>Without further ado, here are the results:<br><br>Andre Cronje won DeFi&#8217;s MVP builder, engineer, and top project lead of 2020. Fellow YFI proponent Banteg came in second for the top engineer in DeFi of 2020.<br><br>Argent won the top UX/UI of 2020 with honorable mentions going to both DeFi Saver and Synthetix.<br><br>Ryan Sean Adams won DeFi&#8217;s top communications lead of 2020.<br><br>Anthony Sassano won DeFi&#8217;s top community manager of 2020.<br><br>As many guessed, Samczun won DeFi&#8217;s top white hat hacker and top auditor of 2020.</p>
+
+
+
+<p>Kudos to all of you and your hard work! DeFi wouldn’t be what it is today without your contributions!<br><br>Now on a more personal level, we’d like to highlight the ways we here at DeFi Pulse have grown in 2020.</p>
+
+
+
+<h2>DeFi Pulse Adapters</h2>
+
+
+
+<p>It feels like forever ago that we released the <a href="https://github.com/ConcourseOpen/DeFi-Pulse-Adapters">open source adapter framework</a> that now powers our metrics on the DeFi Pulse leaderboard in February 2020. In the past, we had to learn each project and code their adapters ourselves. This new framework allowed projects to collaborate with our team making the listing process faster and ensuring TVL metrics were measured accurately. This year alone we more than doubled the number of projects on DeFi Pulse, listing close to 40 new projects in 2020 (not including any updates to existing projects): <a href="https://defipulse.com/aave">Aave</a>, <a href="https://defipulse.com/alpha-homora">Alpha Homora</a>, <a href="https://defipulse.com/auctus">Auctus</a>, <a href="https://defipulse.com/balancer">Balancer</a>, <a href="https://defipulse.com/b.protocol">B.Protocol</a>, <a href="https://defipulse.com/c.r.e.a.m.-finance">C.R.E.A.M. Finance</a>, <a href="https://defipulse.com/c.r.e.a.m.-swap">C.R.E.A.M. Swap</a>, <a href="https://defipulse.com/cvault.finance">COREVault Finance</a>, <a href="https://defipulse.com/curve-finance">Curve Finance</a>, <a href="https://defipulse.com/defi-swap">DeFi Swap</a>, <a href="https://defipulse.com/definer">DeFiner</a>, <a href="https://defipulse.com/deversifi">DeversiFi</a>, <a href="https://defipulse.com/dfi.money">DFI.money</a>, <a href="https://defipulse.com/dforce">dForce</a>, <a href="https://defipulse.com/dodo">DODO</a>, <a href="https://defipulse.com/erasure">Erasure</a>, <a href="https://defipulse.com/flexa">Flexa</a>, <a href="https://defipulse.com/fortube">Fortube</a>, <a href="https://defipulse.com/gnosis">Gnosis</a>, <a href="https://defipulse.com/harvest-finance">Harvest</a>, <a href="https://defipulse.com/hegic">Hegic</a>, <a href="https://defipulse.com/idle-finance">Idle Finance</a>, <a href="https://defipulse.com/loopring">Loopring</a>, <a href="https://defipulse.com/matic-network">Matic Network</a>, <a href="https://defipulse.com/mcdex">MCDEX</a>, <a href="https://defipulse.com/metronome">Metronome</a>, <a href="https://defipulse.com/mstable">mStable</a>, <a href="https://defipulse.com/opium-network">Opium Network</a>, <a href="https://defipulse.com/opyn">Opyn</a>, <a href="https://defipulse.com/perlinx">PerlinX</a>, <a href="https://defipulse.com/pickle-finance">Pickle Finance</a>, <a href="https://defipulse.com/piedao">PieDAO</a>, <a href="https://defipulse.com/qian">QIAN</a>, <a href="https://defipulse.com/renvm">RenVM</a>, <a href="https://defipulse.com/robo-advisor-for-yield">Robo-Advisor for Yield</a>, <a href="https://defipulse.com/sushiswap">SushiSwap</a>, <a href="https://defipulse.com/swerve-finance">Swerve Finance</a>, <a href="https://defipulse.com/value-defi">Value DeFi</a>, and <a href="https://defipulse.com/yearn.finance">Yearn</a>.</p>
+
+
+
+<h2>Setting new records for Total Value Locked (TVL)</h2>
+
+
+
+<p>The total value locked (TVL) in DeFi grew exponentially during 2020. With more than $14B TVL currently, this was a year of massive growth across all DeFi categories. We saw the birth of dozens of new projects, the emergence of new ways of distributing ownership to the community, the consolidation of open orgs as a novel coordination system, and massive technological experimentation that brought tremendous innovation to DeFi. One can&#8217;t help but wonder what DeFi&#8217;s growth will be in 2021 and what new innovations we will witness. But one thing is for sure, though: these are still very early days, and we&#8217;re only beginning to see what the future of finance will look like.</p>
+
+
+
+<h2><img loading="lazy" src="https://lh3.googleusercontent.com/dMVfoTQwv0JVf-_X611Isx86nm_aTyYieJGC2i_bMFA6hCGOhPOcsT4lLG3E_AiRoc6t83_61_uu6jGEBjKJQqNdE_Dsb7Yt-Dq7y6MPCJgmORoCmEXCMoPRWdi-Gl5zqncapmNV" width="458" height="231"></h2>
+
+
+
+<p>It seems hard to believe that we were celebrating that the <a href="https://defipulse.com/blog/1-billion-tvl-in-defi/">(TVL) had hitted the $1B</a> mark for the first time less than one year ago.&nbsp;</p>
+
+
+
+<h2>DeFi Pulse Data</h2>
+
+
+
+<p>In April 2020, we<a href="https://defipulse.com/blog/see-the-bigger-picture-with-defi-pulse-data/"> released</a> <a href="https://data.defipulse.com/">DeFi Pulse Data</a> combining DeFi Pulse’s popular metrics with data from Concourse Open’s other popular services’ APIs like <a href="https://ethgasstation.info/">ETHGasStation</a>. Whether you’re writing a blog post analyzing DeFi or building an application that needs accurate gas prices from ETH Gas Station, any task benefits from the right information. We’ve been thrilled to see what the community has done with our data at their disposal.</p>
+
+
+
+<h2>DeFi Pulse Drops</h2>
+
+
+
+<p>We launched DeFi Pulse Drops, a promotional series where we partnered with projects to inform the community about their latest features, releases, and builds. All in all, we provided in-depth analysis of the following projects throughout 2020: <a href="https://defipulse.com/blog/futureswap/">Futureswap</a>, <a href="https://defipulse.com/blog/balancer-start-liquidity-mining-and-earn-bal-tokens-today/">Balancer</a>, <a href="https://defipulse.com/blog/mcdex/">MCDEX</a>, <a href="https://defipulse.com/blog/introducing-mstable/">mStable</a>, Rari Capital <a href="https://defipulse.com/blog/rari-capital/">v1</a> and <a href="https://defipulse.com/blog/rari-capital-v2/">v2</a>, <a href="https://defipulse.com/blog/aco/">Auctus</a>’s ACO, Akropolis’s <a href="https://defipulse.com/blog/delphi/">Delphi, Perpetual Protocol</a>, <a href="https://defipulse.com/blog/lien/">Lien</a>, Hakka’s <a href="https://defipulse.com/blog/3f-mutual/">3F Mutual</a>, <a href="https://defipulse.com/blog/dextf/">DEXTF</a>, <a href="https://defipulse.com/blog/deversifi-nectar-beehive-v1/">DeversiFi</a>, and <a href="https://defipulse.com/blog/harvest-finance-drop/">Harvest Finance</a>.</p>
+
+
+
+<h2>DeFi Pulse Farmer</h2>
+
+
+
+<p>This year’s most important trend within the DeFi space was, without a doubt, <a href="https://defipulse.com/blog/the-yield-farming-frenzy-and-its-impact-on-defi/">yield farming</a>. Ignited by the launch of the COMP governance token in June, farming developed into one of the key strategies most projects relied on to attract capital to their platforms. By distributing ownership of their protocols to the DeFi community via liquidity incentives in the form of governance tokens, projects grew the liquidity of their platforms exponentially, making the TVL break all-time highs consistently during most weeks of Q3 and Q4.<br><img loading="lazy" src="https://lh6.googleusercontent.com/ZmckhJ5sGa2qwaeDds0vUdEHjjJvKk1Rx1Fh4mK4frzcfO42WtTjPBbHMCTTkCjenkiOFIe2ImQKiCVd1I_Jwo3xrhjlP3W7cw6SCJzEl8EA_-6_Pz0i6Wo1PZjpsmZr--tl_-oS" width="624" height="112"></p>
+
+
+
+<p>In early August, we launched the <a href="https://yieldfarmer.substack.com/">DeFi Pulse Farmer newsletter</a> to extensively cover this massive trend and get to the heart of the most critical innovations in the space. Currently at edition #21, DeFi Pulse Farmer also offers premium subscribers access to the Alpha Tractor and Protocol Express series. You can <a href="https://yieldfarmer.substack.com/subscribe?utm_source=menu&amp;simple=true&amp;next=https%3A%2F%2Fyieldfarmer.substack.com%2F">sign up to DeFi Pulse Farmer here</a>.</p>
+
+
+
+<h2>DeFi Pulse Index</h2>
+
+
+
+<p>The <a href="https://www.indexcoop.com/dpi">DeFi Pulse Index</a> (DPI), a capitalization weighted index built on Set Protocol’s V2 infrastructure consisting of the most popular DeFi tokens available on Ethereum was<a href="https://defipulse.com/blog/defi-pulse-index/"> launched in September 2020</a>. DeFi Pulse Index was the first of its kind, an index of decentralized finance that wasn’t synthetic or a derivative but rather you own the underlying DeFi tokens and can redeem them using your DPI. Much like our Total Value Locked (TVL) metrics, we aimed to make DeFi Pulse Index a standard the community could stand behind. At the time of writing, DPI is the leading DeFi index token with 5769 holders and a market capitalization of over $25M.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh4.googleusercontent.com/ynAyW6qEsjl34s5yIgXBL5v8iL5vS51SntCYOaWKtALa0b965ZZwNLkFQ9ZG92h2TxqN1iJUS8woB6vuM0zNNT5FOFXfxhrynwy7tSFlB4D5aLa3VQJbQXeU15rBY_qB0mk4vJFf" alt=""/></figure>
+
+
+
+<h2>DeFi Pulse Economic Safety Grade</h2>
+
+
+
+<p>In October 2020, the <a href="https://defipulse.com/blog/introducing-the-defi-pulse-economic-safety-grade/">DeFi Pulse Economic Safety Grade was released in partnership with Gauntlet</a> and added to <a href="https://defipulse.com/compound">Compound</a> and <a href="https://defipulse.com/aave">Aave</a>’s project pages on DeFi Pulse. As the name implies, each Economic Safety Grade is a 1 to 100 grade that allows users to more easily quantify and compare the economic risks of using on-chain protocols. Grades are created by running simulations utilizing data from centralized and decentralized exchanges combined with on-chain user data to estimate market risks. For a more in-depth explanation of the simulation model, we recommend you read this <a href="https://medium.com/gauntlet-networks/understanding-risk-in-defi-f64574593979">blog post from Gauntlet</a>.</p>
+
+
+
+<h2>Bitcoin at Work</h2>
+
+
+
+<p>Marking the last major release for DeFi Pulse in 2020, our team <a href="https://defipulse.com/blog/introducing-bitcoin-at-work/">unveiled a new page </a>highlighting the use of Bitcoin in the DeFi ecosystem called <a href="https://defipulse.com/btc">Bitcoin at Work</a>. We worked with 10 different teams from all across the industry to support a wide variety of BTC tokens at launch including: WBTC, RENBTC, HBTC, sBTC, tBTC, imBTC, oBTC, acBTC, pBTC, and BTC++. Thanks again to the team’s who coordinated with us on this launch. Aside from recognizing the hard work and growth of this sector, we hope the metrics and information included in this new page will help DeFi users discover new possibilities and make more informed decisions.&nbsp;</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh6.googleusercontent.com/espfahPdgGdQCx3GUwVEmNd8Wv4-D10oKwYZAAF_pE0S4g1qx3acdEDloF_CNTh3_Nj3YCY9DwLT-2ZcPqAwaa9vnpw3Kzr1t75tegsI3h34BBXF8plgJjnVAB-cBAYxM0cEDbU6" alt=""/></figure>
+
+
+
+<p><a href="https://defipulse.com/btc"></a></p>
+
+
+
+<h2>Conclusion</h2>
+
+
+
+<p>Thank you to each and every one of you reading this. With all the flashy numbers and tech, it can be easy to forget that DeFi begins and ends with the people that make up this community. There would be no value, liquidity, or any other metrics to measure without the time and attention each one of us dedicates to building a brighter future together. Our team’s resolution for 2021 is to keep working with project communities to highlight the awesome work being done in this space with the platform we’ve been given by you. Thanks for reading and have a happy new year.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Humans &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sun, 03 May 2020 13:32:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>DeFi Dive: UMA &#8211; a DeFi platform built to enable Universal Market Access</title>
+		<link>./../../../2020/05/03/defi-dive-uma/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 03 May 2020 13:32:28 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Humans]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[oracle]]></category>
+		<category><![CDATA[synthetics]]></category>
+		<category><![CDATA[uma]]></category>
+		<category><![CDATA[universal market access]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8222</guid>
+
+					<description><![CDATA[Today, we interview UMA co-founder Allison Lu who talks about her and her team&#8217;s mission to bring market access to...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="512" src="./../../../wp-content/uploads/2020/04/DeFi_Dive_uma__Social_Media.png" alt="" class="wp-image-8226" srcset="./../../../wp-content/uploads/2020/04/DeFi_Dive_uma__Social_Media.png 1024w, ./../../../wp-content/uploads/2020/04/DeFi_Dive_uma__Social_Media-300x150.png 300w, ./../../../wp-content/uploads/2020/04/DeFi_Dive_uma__Social_Media-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong><em>Today, we interview UMA co-founder Allison Lu who talks about her and her team&#8217;s mission to bring market access to everyone through synthetic asset tokens, decentralized oracles, and priceless financial contracts.</em></strong></p>
+
+
+
+<h3>How did you get your start in crypto and what inspired you to build your project, product, or service?</h3>
+
+
+
+<p>Starting in late-2017, my co-founder Hart and I were exploring various ideas for blockchain-based solutions to problems within the financial services industry. Our method was to go through the history of financial innovations, and we very quickly came to financial derivatives. We realized that blockchain-based financial contracts had the capacity to help people all over the world leapfrog the existing fiat financial infrastructure in their countries and attain Universal Market Access. </p>
+
+
+
+<p>We always knew that in building infrastructure to create financial contracts, that our protocol would need an oracle. As we started to conduct R&amp;D on oracles, we realized that if we wanted to build a protocol that could scale to support trillions of dollars of economic value, we needed an oracle with economic guarantees. So, we also developed the <a href="https://twitter.com/hal2001/status/1149466877543845888?lang=en">Data Verification Mechanism</a>. </p>
+
+
+
+<h3>What are you building and what sets it apart?</h3>
+
+
+
+<p>UMA builds financial infrastructure on Ethereum. Specifically this is two things: </p>
+
+
+
+<ol><li>The Data Verification Mechanism (DVM), a decentralized oracle service </li><li>Priceless financial contract designs, which can be used to create synthetic tokens</li></ol>
+
+
+
+<p>The DVM is optimized for maintaining economic security for the contracts that use it. The DVM design itself is based on a bold claim that any on-chain oracle can be corrupted. This means that any smart contract relying on off-chain data is manipulatable for some price. Our solution is to introduce a simple economic security framework for evaluating oracles. We look at the potential profit from corruption (PfC) and cost of corruption (CoC) of contracts in our system, and have designed a mechanism to ensure that the cost of corrupting our oracle will exceed the potential profit. In doing so, we eliminate the economic incentives for corrupting our oracle in the first place.</p>
+
+
+
+<p>The second part of what we build is priceless financial contracts. Priceless financial contracts don’t require an on-chain price feed to function, and minimize on-chain oracle usage to reduce the frequency and surface area for oracle attacks. Previously in DeFi, when oracle failures happened, most were live and brief. In contrast, priceless contracts, when they require a price from the oracle, look backwards in time, which makes the price more secure.</p>
+
+
+
+<h3>Who do you view as the ideal user or customer for your product or service?</h3>
+
+
+
+<p>We’re a financial infrastructure company, so our users are developers, who generally in turn have their own customers.</p>
+
+
+
+<p>Project developers use our financial contract factories to define custom synthetic tokens that track things like local currencies, real world assets, or cross-chain assets. Their users can then interact with these synthetic tokens through any interface supporting the ERC20 standard, or mint new tokens from a custom UI. These projects cover a range of use cases, including local payments, investments, and speculation.</p>
+
+
+
+<p>In addition to project developers, UMA also relies on a network of liquidators and disputers to ensure that synthetic tokens remain pegged to the target price and that each token contract remains solvent. Economic incentives embedded in Priceless contracts encourage DeFi community members to run these liquidation and dispute “bots.”</p>
+
+
+
+<h3>What future event or feature on your roadmap are you most excited for?</h3>
+
+
+
+<p>Near-term, I’m most excited about revealing the synthetic tokens that our user base has been developing. We (or our partners) ran a number of POCs the past year to validate users’ interest in synthetic tokens, and many are now gearing up for broader release. You’ll be hearing more and more from our partners in 2020.</p>
+
+
+
+<p>Very long-term, I’m excited to make myself obsolete! What I mean is that UMA token holders have control over the UMA ecosystem in the form of tokenholder-driven governance. Over time, we want to reduce the role of core devs and help the community self-organize to maintain and build what it needs.</p>
+
+
+
+<h3>Where do you see your project, product, or service fitting into the future of DeFi?</h3>
+
+
+
+<p>Digital assets on Ethereum (including ETH itself) already have immense economic value. DeFi has given users an ability to do something with those assets while still retaining control over their private keys: store it, trade it, borrow against it, etc. UMA adds another composable capability: the ability to transform the economic value of a user’s assets into the risk of something else. Imagine being able to use ETH to also hedge against the risk of your BTC holdings. Or using Dai to access global stock indices. Or locking in interest rates across different DeFi protocols.</p>
+
+
+
+<p>In the long run, we see the DVM securing all kinds of different financial contracts, and the ability for everyone who can access DeFi to also have Universal Market Access.</p>
+
+
+
+<h3>What’s something in DeFi that you think more people should be paying attention to?</h3>
+
+
+
+<p>Oracle Extractable Value, or OEV. We’re all familiar with Miner-Extractable-Value, as popularized by “Flash Boys 2.0,” but I think users are less familiar with oracle-extractable-value. The general idea is similar: entities that control oracles can also extract profit by manipulating the oracle price and then interacting with the permissionless smart contracts that use them. Almost all of DeFi depends on oracles at some level to function, and the surface area for attack, mistakes, and OEV is huge &#8211; and getting worse. That’s why we believe so strongly in the Priceless design framework, which has core design principles anchored in a) minimizing oracle usage; and b) only if absolutely necessary, using an asynchronous oracle with economic guarantees (the DVM).</p>
+
+
+
+<h3>How can readers learn more about your product/service?</h3>
+
+
+
+<p><a href="https://umaproject.org/">Website</a><br><a href="https://twitter.com/UMAprotocol">Twitter</a><br><a href="https://medium.com/uma-project/">Medium</a>  <br><a href="https://github.com/UMAprotocol/">Github</a><br>Join our mostly developer-focused <a href="https://join.slack.com/t/umaprotocol/shared_invite/zt-7mtxxds5-OIhE~q_WkwGCVNrq0~G~rg">Slack</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DeFi Dive: TokenTax &#8211; DeFi crypto tax calculator and cryptocurrency accounting firm</title>
+		<link>./../../../2020/02/18/defi-dive-tokentax/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Tue, 18 Feb 2020 16:29:58 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Humans]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[ERC20]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[tax]]></category>
+		<category><![CDATA[taxes]]></category>
+		<category><![CDATA[tokens]]></category>
+		<category><![CDATA[tokentax]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7972</guid>
+
+					<description><![CDATA[Alex Miles, co-founder of TokenTax, discusses his quest to ease the crypto community&#8217;s DeFi tax woes. How did you get...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb.png" alt="" class="wp-image-7974" width="1024" height="512" srcset="./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb.png 1024w, ./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb-300x150.png 300w, ./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong><em>Alex Miles, co-founder of TokenTax, discusses his quest to ease the crypto community&#8217;s DeFi tax woes.</em></strong></p>
+
+
+
+<h3>How did you get your start in crypto and what inspired you to build your project, product, or service?</h3>
+
+
+
+<p>I first heard about bitcoin while i was in university around 2010, but didn’t mine or purchase any (fml). I bought my first half bitcoin in 2013. Fast forward to 2017, I started trading and casually buying/selling alt coins, I realized that calculating taxes on my activity would be very complicated. </p>
+
+
+
+<p>Over the course of a month in 2017, I built a simple demo application that linked your coinbase account and calculated your cost basis data. The application then generated a filled out 8949. I showed it to a few friends and they were really happy with the experience. I submitted what I built to the 2017 Product Hunt Global Hackathon and ended up winning the grand prize! </p>
+
+
+
+<p>After that, I partnered with my co-founder Zac McClure who has a background in finance, accounting, and impact investing. Together we formed a plan to take TokenTax to the next level. A lot of our initial plan is now built and we plan to continue to grow the business.</p>
+
+
+
+<h3>What are you building and what sets it apart?</h3>
+
+
+
+<p>We are building the easiest way for cryptocurrency users to calculate and file their crypto taxes. At TokenTax we are intensely focused on building the best tax experience for DeFi. We believe DeFi has the potential to bring mainstream adoption to cryptocurrency and we want to do everything in our power to help make this a reality.</p>
+
+
+
+<h3>Who do you view as the ideal user or customer for your product or service?</h3>
+
+
+
+<p>Any cryptocurrency or DeFi user! We are an international crypto tax calculator so we support any country, not just the US.</p>
+
+
+
+<h3>What future event or feature on your roadmap are you most excited for?</h3>
+
+
+
+<p>I’m excited to continue to build out our DeFi tax tools. These are open to the public and can be used to download your transaction history for popular DeFi apps like Uniswap or compound. Every popular DeFi app in in the works like dYdX, Chai, and Maker to name a few <br>&#8211; <a href="https://tokentax.co/compound-finance">https://tokentax.co/compound-finance</a> <br>&#8211; <a href="https://tokentax.co/uniswap">https://tokentax.co/uniswap </a></p>
+
+
+
+<p>We also have built a wonderful knowledge base of guides and help articles. We are working full time to build our more helpful resources:<br>&#8211; <a href="https://tokentax.co/guides/defi-crypto-tax/">https://tokentax.co/guides/defi-crypto-tax/</a></p>
+
+
+
+<h3>Where do you see your project, product, or service fitting into the future of DeFi?</h3>
+
+
+
+<p>We plan on being the tax and reporting backbone behind DeFi. We want to help legitimize DeFi in the eyes of our government authorities around the world by providing users with excellent documentation.</p>
+
+
+
+<h3>What’s something in DeFi that you think more people should be paying attention to?</h3>
+
+
+
+<p>Honestly, I think one of the best things the DeFi community has, is the people within the community. There’s so much creativity and passion being shared online and I think this helps fuel a ton of innovation. I think we often forget we’re all on the same team. We should try to fight less about small topics that don’t matter. We need to remember who we are fighting against.</p>
+
+
+
+<h3>How can readers learn more about your product/service?</h3>
+
+
+
+<p>Go to our website and contact our very helpful support team with any crypto tax questions you may have <a href="https://tokentax.co/">https://tokentax.co/ </a></p>
+
+
+
+<p>Follow us and send us a nice message on Twitter <a href="https://twitter.com/tokentax">https://twitter.com/tokentax </a></p>
+
+
+
+<p>Also follow me on Twitter! <a href="https://twitter.com/milesalex">https://twitter.com/milesalex</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

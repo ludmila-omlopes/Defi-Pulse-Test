@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>istanbul &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 09 Jan 2020 19:10:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>3 DeFi DApps Starting 2020 Off Strong</title>
+		<link>./../../../2020/01/09/3-defi-dapps-starting-2020-off-strong/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2020 19:10:07 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[chainlink]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[dsr]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[istanbul]]></category>
+		<category><![CDATA[layer 2]]></category>
+		<category><![CDATA[link]]></category>
+		<category><![CDATA[loopring]]></category>
+		<category><![CDATA[lrc]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<category><![CDATA[MKR]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7862</guid>
+
+					<description><![CDATA[2020 is set to be an exciting year for DeFi. Lending markets are more competitive than ever. Countless layer 2...]]></description>
+										<content:encoded><![CDATA[<p>2020 is set to be an exciting year for DeFi. Lending markets are more competitive than ever. Countless layer 2 solutions are being built with new ZK technology. And to top it off, this year we&#8217;re likely to see interoperability make great strides. Let&#8217;s dive into a few DApps who have hit the ground running this year.</p>
+<h3>Maker</h3>
+<p>Fresh off the successful launch of Multi-Collateral Dai, <a href="https://makerdao.com/">Maker</a> has been solidifying its #1 position on the <a href="https://defipulse.com/">DeFi Pulse</a> rankings headed into 2020. As of writing this, there&#8217;s <a href="https://defipulse.com/maker">over 36M DAI locked</a> in MakerDAO, primarily in the Dai Savings Rate. And now, MakerDAO voted to increase the <a href="https://defipulse.com/blog/dsr-dai-savings-rate/">Dai Savings Rate</a> (<a href="https://defipulse.com/blog/dsr-dai-savings-rate/">DSR</a>) to 6%. It&#8217;s no wonder the total DAI locked in DeFi is setting a new all-time high.</p>
+<h3><img loading="lazy" class="alignnone size-full wp-image-7878" src="./../../../wp-content/uploads/2020/01/Selection_898.png" alt="" width="895" height="311" srcset="./../../../wp-content/uploads/2020/01/Selection_898.png 895w, ./../../../wp-content/uploads/2020/01/Selection_898-300x104.png 300w, ./../../../wp-content/uploads/2020/01/Selection_898-768x267.png 768w" sizes="(max-width: 895px) 100vw, 895px" /></h3>
+<p>To add fuel to the fire, <a href="https://defipulse.com/blog/what-is-chai/">CHAI</a> is a smart contract that wraps DAI in the DSR so DeFi users can have their cake and eat it too. Chai can also be used in smart contracts. For example, Fulcrum&#8217;s iDAI now supports CHAI so any idle DAI earns the DSR.</p>
+<h3>Chainlink</h3>
+<p><a href="https://chain.link/">Chainlink</a>&#8216;s following extends beyond the LINK Army you&#8217;ve likely come across on social media to partnerships big and small, including Intel and Google Cloud services.</p>
+<p><img loading="lazy" class="alignnone wp-image-7870" src="./../../../wp-content/uploads/2020/01/ENr_U9sU0AYf_rX.jpeg" alt="chainlink" width="525" height="452" srcset="./../../../wp-content/uploads/2020/01/ENr_U9sU0AYf_rX.jpeg 958w, ./../../../wp-content/uploads/2020/01/ENr_U9sU0AYf_rX-300x258.jpeg 300w, ./../../../wp-content/uploads/2020/01/ENr_U9sU0AYf_rX-768x661.jpeg 768w" sizes="(max-width: 525px) 100vw, 525px" /></p>
+<p>Just take a look at this smorgasbord of Chainlink partnerships and the network effects of the project seem undeniable. Synthetix&#8217;s <a href="https://blog.synthetix.io/chainlink-decentralizes-first-wave-of-synthetix-price-feeds/">recent integration of Chainlink oracles</a> to its FX/commodities markets is a primary example of a fruitful partnership to keep an eye in 2020. Another example would be <a href="https://medium.com/loopring-protocol/chainlink-and-loopring-collaborate-on-oracles-for-zkrollup-dex-protocol-c1c8094afc27">Loopring&#8217;s work with Chainlink</a> to ensure its economic security. We&#8217;ll discuss this more in a bit.</p>
+<p>Not to mention, Aave Protocol just launched its lending protocol with all 16 of its supported assets powered by Chainlink oracles.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">1/<a href="https://twitter.com/AaveAave?ref_src=twsrc%5Etfw">@AaveAave</a> ( <a href="https://twitter.com/search?q=%24LEND&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$LEND</a>) launched its lending protocol today with a bang!<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f4a5.png" alt="💥" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Here&#39;s a TLDR:</p>
+<p>&quot;flash loans enable a .. smart contract to borrow assets from our reserve pools within one transaction on the condition that the liquidity is returned to the pool before the transaction ends&quot; <a href="https://t.co/YiVYLnBX3X">https://t.co/YiVYLnBX3X</a></p>
+<p>&mdash; DEX.AG Token Wire (@DEXAG_TokenWire) <a href="https://twitter.com/DEXAG_TokenWire/status/1215020025276272640?ref_src=twsrc%5Etfw">January 8, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h3>Loopring</h3>
+<p>Following Ethereum&#8217;s Istanbul upgrade, <a href="https://loopring.org/#/">Loopring</a>&#8216;s ZK tech has been given a <a href="https://defipulse.com/blog/how-ethereums-istanbul-network-upgrade-affects-defi/">performance boost by EIP-2028</a>. WeDEX launched their beta in December as the first ZK Rollup DEX built with Loopring v3. Test results <a href="https://medium.com/loopring-protocol/loopring-testing-phase-1-data-recap-ed0c67396870">released this week</a> revealed that the &#8220;average settlement cost per trade [on WeDEX was] about 5,000 gas, or 0.0000177 ETH.&#8221;</p>
+<p><a href="https://twitter.com/loopringorg/status/1214278030308335616"><img loading="lazy" class="alignnone size-large wp-image-7885" src="./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-1024x420.jpeg" alt="" width="640" height="263" srcset="./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-1024x420.jpeg 1024w, ./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-300x123.jpeg 300w, ./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-768x315.jpeg 768w, ./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-1536x630.jpeg 1536w, ./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-2048x840.jpeg 2048w, ./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-1568x643.jpeg 1568w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<p>Additionally, Loopring&#8217;s recent decision to integrate Chainlink seems like a promising sign for the platform&#8217;s future. Long story short, the Loopring Protocol requires users to stake LRC tokens for a number of reasons. Particularly, zkRollup DEX owners stake LRC in order to process layer 2 trades and submit them to Ethereum. Chainlink will help Loopring scale off-chain functions and ensure the protocol&#8217;s economic security by providing a reliable decentralized price oracle for LRC/ETH. <a href="https://medium.com/loopring-protocol/chainlink-and-loopring-collaborate-on-oracles-for-zkrollup-dex-protocol-c1c8094afc27">Read more</a> about Loopring&#8217;s Chainlink integration.</p>
+<p><span style="font-weight: 400;">F</span>ollow us on <a href="https://twitter.com/defipulse">Twitter</a> or join us in <span style="font-weight: 400;">our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a> to keep up with the DeFi ecosystem</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How Ethereum&#8217;s Istanbul Network Upgrade Affects DeFi</title>
+		<link>./../../../2019/12/11/how-ethereums-istanbul-network-upgrade-affects-defi/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2019 21:16:20 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[istanbul]]></category>
+		<category><![CDATA[upgrade]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7807</guid>
+
+					<description><![CDATA[At 12:25 AM (UTC) on December 8th, 2019, the Ethereum network mined block 9,069,000 activating the Istanbul network upgrade. Let&#8217;s...]]></description>
+										<content:encoded><![CDATA[<p>At 12:25 AM (UTC) on December 8th, 2019, the Ethereum network mined block 9,069,000 activating the Istanbul network upgrade. Let&#8217;s take a look at how the upgrade might affect existing and future DeFi applications.</p>
+<h3>So what&#8217;s changed with the Istanbul Upgrade?</h3>
+<p>Istanbul included 6 Ethereum Improvement Proposals (EIPs).</p>
+<h4>EIP-152: Add Blake2 compression function `F` precompile</h4>
+<p><a href="https://github.com/ethereum/EIPs/issues/152">EIP-152</a> introduces a new precompiled contract which implements the compression function F used in the BLAKE2b cryptographic hashing algorithm. Put simply, this EIP creates new interoperability and privacy capabilities for Ethereum smart contracts. BLAKE2b allows for efficient verification of the Equihash PoW used in Zcash which means that Ethereum smart contracts could act like SPV clients.</p>
+<p>In a nutshell, it&#8217;s now possible for DeFi protocols to perform trustless atomic swaps between Ethereum and Zcash, tapping into its inherent privacy features.</p>
+<h4>EIP-1108: Reduce alt_bn128 precompile gas costs</h4>
+<p>Changes in 2018 to the underlying library used by the official Go reference implementation led to significant performance gains for precompiled contracts on the alt_bn128 elliptic curve. Logically, performance gains means faster operations on Ethereum clients. And so, <a href="https://eips.ethereum.org/EIPS/eip-1108">EIP-1108</a> aims to reduce the gas cost for elliptic curve arithmetic precompiles to account for these performance gains.</p>
+<p>All in all, DeFi privacy and scaling solutions built on Ethereum which utilize these precompiles cost less gas now. This is a big win for DeFi users because it makes zk-SNARKs cheaper.</p>
+<h4>EIP-1344: ChainID opcode</h4>
+<p>Originally introduced in <a href="https://eips.ethereum.org/EIPS/eip-155">EIP-155</a> to prevent replay attacks during the ETC hardfork, Chain ID is another way to indicate which blockchain your node or DApp follows. <a href="https://eips.ethereum.org/EIPS/eip-1344">EIP-1344</a> adds an opcode to Ethereum which returns the current chain&#8217;s ID.</p>
+<p>Currently, developers must manually hardcode specific chain IDs into their clients, smart contracts, etc. You can probably see how that might lead to human error among other unintended consequences. This EIP now allows EVM-based DeFi applications to verify chain IDs, handle potential network upgrades, and/or mitigate failures, which is particularly useful for layer 2 solutions.</p>
+<h4>EIP-1884: Repricing for trie-size-dependent opcodes</h4>
+<p>As the Ethereum network grew, so did the resources required for some opcodes. <a href="https://eips.ethereum.org/EIPS/eip-1884">EIP-1884</a> raises the gas costs for these opcodes in an attempt to find a balance between operation cost and resources consumed.</p>
+<p>This EIP may break smart contracts which were designed around these opcodes and static gas costs. However, the tradeoff is that changing the gas cost prevents contracts from abusing underpriced but highly intensive opcodes and clogging the network.</p>
+<h4>EIP-2028: Transaction data gas cost reduction</h4>
+<p><a href="https://eips.ethereum.org/EIPS/eip-2028">EIP-2028</a> reduced the gas cost of Calldata from 68 gas per byte to 16 gas per byte. In other words, less gas per byte means more bytes per block resulting scaling benefits from higher calldata bandwidth.</p>
+<p>Most of all, DeFi applications and layer 2 solutions using zk-SNARKs and zk-STARKs are now cheaper because of the cost reduction for calling data within transactions. Additonally, layer 2 solutions benefit from a potential throughput increase.</p>
+<h4>EIP-2200: Net gas metering for SSTORE operations</h4>
+<p>EIP-2200 implements a structured definition of net gas metering changes for SSTORE opcode. Simply put, it changes the cost calculation of storage in the EVM and will enable contracts to introduce new functions such as re-entry locks and same-contract multi-send.</p>
+<h4>In general, network upgrades can cause disruptions to node operators</h4>
+<p>Network upgrades require a lot of coordination to pull off. There&#8217;s plenty of room for human error when it comes to making sure each node is upgraded and ready. If a DeFi application relies on a node and then that node becomes desynchronized from the rest of the network, it may prevent you from using certain features or the DApp entirely until the team puts out a fix.</p>
+<h3>Now that Istanbul&#8217;s live, what&#8217;s next for the Ethereum network?</h3>
+<p>Muir Glacier Upgrade&#8217;s slated for activation on Block #9,200,000 or rather January 6th, 2020. This upgrade includes <a href="https://eips.ethereum.org/EIPS/eip-2384">one EIP</a> titled, &#8220;EIP 2384: Muir Glacier Difficulty Bomb Delay.&#8221; As of October 5th, 2019, the difficulty bombed kicked in again slowing Ethereum blocktimes to over 13 seconds on average. As you might have guessed, slower Ethereum blocktimes impacts the performance of DeFi protocols and DApps. And so, EIP-2384 proposes to delay the difficulty bomb for another 4,000,000 blocks (~611 days).</p>
+<p><span style="font-weight: 400;">F</span>ollow us on <a href="https://twitter.com/defipulse">Twitter</a> or join us in <span style="font-weight: 400;">our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a> to keep up with the DeFi ecosystem</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

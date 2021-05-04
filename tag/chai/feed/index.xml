@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>chai &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 16 Dec 2019 17:02:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>What is Chai? An Instant DAI Savings Account Powered by Maker</title>
+		<link>./../../../2019/12/16/what-is-chai/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2019 17:02:33 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[cDai]]></category>
+		<category><![CDATA[chai]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[dai savings rate]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[dsr]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7830</guid>
+
+					<description><![CDATA[No, we&#8217;re not talking about the beverage. We&#8217;re talking about this new token creating buzz in the Ethereum community lately...]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone wp-image-7832 size-large" src="./../../../wp-content/uploads/2019/12/14271895046_2100131b06_b-1024x622.jpg" alt="chai" width="640" height="389" /></p>
+<p>No, we&#8217;re not talking about the beverage. We&#8217;re talking about this new token creating buzz in the Ethereum community lately called Chai. CHAI is an ERC20 token that&#8217;s like DAI which earns interest from Maker&#8217;s <a href="https://defipulse.com/blog/dsr-dai-savings-rate/">Dai Savings Rate</a> (DSR), currently 4% as of writing this. It&#8217;s a lot like how <a href="https://defipulse.com/blog/what-is-cdai/">cDAI</a> represents DAI supplied to Compound plus interest. Chai.sol, the token&#8217;s smart contact, deposits your DAI into the DSR and issues you CHAI tokens which can be stored, transferred, traded, and later redeemed for the underlying DAI plus any interest earned. As an added bonus, it&#8217;s also supports gas-less token transfers.</p>
+<p>The <a href="https://github.com/dapphub/chai">project</a>, smart contract, and interface was created by Martin Lundfall, Lucas Vogelsang, and Lev Livnev. Also, Abbey Titcomb made the lovely mug pixel art. Deployed on December 1st, 2019, you can now pay friends, grow your savings, trade, etc. while still earning interest on your DAI.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Introducing `chai.sol`, a simple ERC20 wrapper over the Dai Savings Rate:</p>
+<p><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2705.png" alt="✅" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Interest accruing Dai<br /><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2705.png" alt="✅" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Gas-less token transfers<br /><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2705.png" alt="✅" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 184 LOC from the makers of MCD</p>
+<p>We&#39;re soliciting feedback from the community before launching on December 1st</p>
+<p><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f375.png" alt="🍵" class="wp-smiley" style="height: 1em; max-height: 1em;" /> -&gt; <a href="https://t.co/MGSEQ6BQWm">https://t.co/MGSEQ6BQWm</a></p>
+<p>&mdash; Martin Lundfall (@MartinLundfall) <a href="https://twitter.com/MartinLundfall/status/1197627208136658944?ref_src=twsrc%5Etfw">November 21, 2019</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h3>How do I get Chai tokens?</h3>
+<p>It&#8217;s super easy to start earning interest, playfully named &#8220;brewing your DAI!&#8221; Just perform the following steps:</p>
+<ol>
+<li>Navigate to this handy Chai <a href="https://chai.money/">interface</a></li>
+<li>Connect your wallet</li>
+<li>Enter amount of DAI you&#8217;d like to convert</li>
+<li>Click the Convert button and the prompts to confirm transaction</li>
+</ol>
+<p>And when you&#8217;re ready to stop &#8220;brewing&#8221; and cash out, flip over to the CHAI -&gt; DAI tab and redeem tokens for your DAI plus interest.</p>
+<h2>Money Legos in action</h2>
+<p>The awesome part thing about DeFi is that smart contracts like Legos can be pieced together in many different ways to create new utility. Similar to cDAI, Chai takes DAI that would normally be locked away and turns them into useful liquid assets. And, it isn&#8217;t the only one to take advantage of Maker&#8217;s Dai Savings Rate contract and it won&#8217;t be the last. For example, there&#8217;s also <a href="https://medium.com/@keydonix/dai-hrd-token-hold-rated-dai-dfd3fe491d83?">DAI-HRD</a> which similarly wraps DAI into the DSR. Another prime example of a project adding utility to DAI is <a href="https://rdai.money/">rDAI</a> which let&#8217;s you redirect the interest generated from your DAI on multiple DeFi platforms. Nothing stops someone from making an interest bearing meta-stablecoin by combining cDAI, Chai, and/or cUSD, etc. The only limit is the imagination of developers in the DeFi community.</p>
+<p><span style="font-weight: 400;">F</span>ollow us on <a href="https://twitter.com/defipulse">Twitter</a> or join us in <span style="font-weight: 400;">our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a> to keep up with the DeFi ecosystem</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

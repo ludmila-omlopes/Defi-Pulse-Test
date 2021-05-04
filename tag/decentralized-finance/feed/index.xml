@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>decentralized finance &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 08 Feb 2021 22:12:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Futureswap  &#8211; Decentralized Perpetual Futures with up to 10x Leverage</title>
+		<link>./../../../2021/02/08/futureswap-v2/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 08 Feb 2021 22:12:31 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Futures]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[decentralized exchange]]></category>
+		<category><![CDATA[decentralized exchanges]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[futures]]></category>
+		<category><![CDATA[futureswap]]></category>
+		<category><![CDATA[perpetual]]></category>
+		<category><![CDATA[perpetuals]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8855</guid>
+
+					<description><![CDATA[Recent events have made it all too clear to the average user why decentralization has a key role to play...]]></description>
+										<content:encoded><![CDATA[
+<p>Recent events have made it all too clear to the average user why decentralization has a key role to play in having a fair and efficient market. Futureswap aims to disrupt the multi-billion dollar perpetual futures trading market currently dominated by centralized services. Futureswap takes a different approach with a hybrid between Uniswap and a perpetual futures exchange platform governed by the community. You may remember Futureswap from their <a href="https://medium.com/futureswap/futureswap-lessons-learned-from-a-3-day-alpha-be4e37bc8c52">successful Alpha in April 2020 which ultimately ended early</a> after DeFi users flocked to the platform in overwhelming numbers. In less than 3 days, Futureswap’s Alpha 24hr trading volume grew to $17M and liquidity passed $1M. Erring on the side of caution, the Futureswap team decided to end the Alpha earlier than initially planned.&nbsp;</p>
+
+
+
+<p><strong>Now they’re back with something even better, the Futureswap V2 Beta is </strong><a href="https://futureswap.com/"><strong>already launched on mainnet</strong></a><strong>.</strong> The Futureswap V2 Beta includes upgrades like live pricing and higher capital efficiency which aim to provide a perpetual futures trading experience that outperforms <em>centralized</em> exchanges.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/02/COL_DG-1-1024x494.png" alt="" class="wp-image-8860"/></figure>
+
+
+
+<h2>What makes Futureswap V2 Beta special?</h2>
+
+
+
+<p>Futureswap is a decentralized exchange platform with an automatic market maker (AMM) design that enables traders to enter leveraged perpetual futures with low slippage. Its automatic market maker (AMM) design provides higher capital efficiency offering up to 10x leverage. According to Futureswap: after $50m in liquidity, Futureswap should have better price execution for a $1m trade than any other decentralized exchange and after $300m it has the lowest slippage compared to centralized exchanges based on the current slippage parameters. </p>
+
+
+
+<p>Additionally, Futureswap pools can be very efficient with their use of capital resulting in more stability and potentially high returns for liquidity providers compared to traditional AMM exchanges. Futureswap utilizes what’s called a Dynamic Funding Rate or DFR for short. The DFR is a borrowing fee based on the total trade size designed to maintain the volume balance between open longs and shorts. During times of disproportionate demand, liquidity providers’ pooled assets are used to take up the opposite side of any unmatched trades. So if there were tons of unmatched ETH longs, LPs cover the ETH essentially opening a short.</p>
+
+
+
+<p>Long and short volumes are pooled and then the more popular pool is charged the dynamic funding rate and it’s paid to the pool in low demand.<strong> </strong>This mechanism limits extreme volatility and properly rewards liquidity providers for their exposure to risk. The DFR keeps increasing as the disparity grows to disincentivize trades on the popular side. In other words, the longs pay the shorts or vice versa until the sides become balanced. This also means that liquidity providers have the potential to earn more thanks to the DFR.</p>
+
+
+
+<h3>Oracle Relayer Network (ORN)</h3>
+
+
+
+<p>One of the biggest improvements Futureswap V2 brings is the new Oracle Relayer Network (ORN) which enables instant pricing and real-time trading. ORN has been described as a mesh between a price oracle and a meta-transaction processor node. Futureswap users are able to trade in real-time by signing a message including their order and submitting them to ORN. Then, ORN verifies the signed message and finalizes the trade on-chain at the current price. Transactions will fail if outside accurate price bounds set by ORN to protect users. The Futureswap team is taking further steps to improve the Oracle Relayer Network’s security with audits by <a href="https://www.trailofbits.com/">Trail of Bits</a> and plans to add more nodes to the network.</p>
+
+
+
+<h2><br><strong>How Futureswap works</strong></h2>
+
+
+
+<h3>Traders</h3>
+
+
+
+<p>As we’ve covered, <a href="https://exchange.futureswap.com/">traders on Futureswap can open long or short perpetual future positions with up to 10x leverage</a> in real-time with instant pricing. Perpetual futures on Futureswap have no time limits and can remain open as long as the trader has enough collateral. Traders will either pay or earn the dynamic funding rate when opening longs or shorts depending on whether they are on the popular side of the trade or not. Traders also earn FST token rewards each epoch based on their percentage of close trade volume that distribution period.<br></p>
+
+
+
+<h3>Liquidity providers</h3>
+
+
+
+<p>Liquidity Providers<a href="https://exchange.futureswap.com/pool"> add liquidity to Futureswap pools</a> in equal parts to earn trading fees and FST token rewards. For example, if you wanted to add liquidity to Futureswap’s ETH/USDC pool, you would need $100 worth of ETH and 100 USDC. Once deposited, LP tokens are minted representing your share of the pool. These LP tokens can be redeemed at any time if their liquidity is not in a trade. Liquidity providers earn trading fees for allowing traders to use their liquidity. Liquidity providers also earn FST token rewards as an incentive to further grow Futureswap’s available liquidity.</p>
+
+
+
+<h3>Liquidators</h3>
+
+
+
+<p>Liquidators monitor the platform for positions that are close to violating margin requirements and send liquidation transactions to close at-risk positions for a liquidator fee. It’s vital to the health and stability of the platform for positions to be reliably closed once they reach their liquidation price. It’s worth mentioning that submitting these transactions does not require the liquidator to provide any value or to take over the trade. They simply close the trade on behalf of the protocol and are rewarded for doing so. Currently, the percentage that liquidators receive is 30% of the remaining collateral up to a maximum (currently set to 500 USDC).</p>
+
+
+
+<h2>Futureswap is governed by the community</h2>
+
+
+
+<p>FST is Futureswap’s non-transferable governance token which is<a href="https://exchange.futureswap.com/rewards"> rewarded to traders, liquidity providers, and referrers each day.</a>&nbsp; FST allows the Futureswap community to propose and vote on changes to the protocol, enabling it to evolve and improve over time. We’ve already mentioned FST tokens a few times covering Futureswap’s various incentives designed to incentivize user participation. <a href="https://medium.com/futureswap/futureswap-governance-token-distribution-d2712c855da5">FST is used to reward the Futureswap</a> users contributing to the growth and adoption of the platform. And since Futureswap is governed by the community, this gives the most active users influence over the future of the platform. In other words, users who participate sooner rather than later after the community grows even larger are more likely to have a larger impact with their contributions and receive more FST rewards.</p>
+
+
+
+<h2>Concluding thoughts</h2>
+
+
+
+<p>Potentially disrupting such a big market like perpetual futures presents an opportunity for Futureswap. Futureswap is designed with the expectations of serious trades in mind. Futureswap’s design with its high capital efficiency and low slippage lends itself well to larger trades for whales and industry traders. Its instant pricing and real-time trading ORN system provides a better trading experience with built-in protections against front running attacks. Futureswap may also continue to provide even lower slippage as liquidity grows over time. FST rewards increase the likelihood of this occurring by incentivizing adoption.</p>
+
+
+
+<p>Try <a href="https://www.futureswap.com/">Futureswap</a> today and start earning FST rewards. Also, be sure to check out the Futureswap community on <a href="https://twitter.com/futureswapx">Twitter</a> and <a href="https://discord.gg/ZCcxtu9VxH">Discord</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Futureswap to help educate and inform the community about the launch of Futureswap V2 Beta. </em><em>DeFi Pulse received FST tokens as part of its payment. </em><em>As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Introducing Bitcoin at Work</title>
+		<link>./../../../2020/12/22/introducing-bitcoin-at-work/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Tue, 22 Dec 2020 19:50:15 +0000</pubDate>
+				<category><![CDATA[New Features]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[acbtc]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[bch]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[btc++]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[hbtc]]></category>
+		<category><![CDATA[imbtc]]></category>
+		<category><![CDATA[pbtc]]></category>
+		<category><![CDATA[renbtc]]></category>
+		<category><![CDATA[sbtc]]></category>
+		<category><![CDATA[tBTC]]></category>
+		<category><![CDATA[token]]></category>
+		<category><![CDATA[WBTC]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8726</guid>
+
+					<description><![CDATA[Over the course of 2020, more than 140,000 BTC entered the DeFi ecosystem. With so many different alternatives for Bitcoin...]]></description>
+										<content:encoded><![CDATA[
+<p>Over the course of 2020, more than 140,000 BTC entered the DeFi ecosystem. With so many different alternatives for Bitcoin tokens, it only makes sense to break it out into its own page to provide more detailed metrics. We&#8217;re excited to introduce a new page highlighting the use of Bitcoin in the DeFi ecosystem. <a href="http://defipulse.com/btc">Bitcoin at Work</a> measures the total amount of BTC being utilized within decentralized finance (DeFi).</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="http://defipulse.com/btc"><img loading="lazy" src="./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-1024x1024.png" alt="" class="wp-image-8793" width="512" height="512" srcset="./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-1024x1024.png 1024w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-300x300.png 300w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-150x150.png 150w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-768x768.png 768w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1.png 1080w" sizes="(max-width: 512px) 100vw, 512px" /></a></figure></div>
+
+
+
+<p>We worked with 10 different teams from all across our industry to bring you a wide variety of BTC token metrics. <strong>The following BTC tokens will be included at launch:&nbsp;WBTC, RENBTC, HBTC, sBTC, tBTC, imBTC, oBTC, acBTC, pBTC, and BTC++.</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/12/btc-logo-board03-1024x512.png" alt="" class="wp-image-8785" width="768" height="384" srcset="./../../../wp-content/uploads/2020/12/btc-logo-board03-1024x512.png 1024w, ./../../../wp-content/uploads/2020/12/btc-logo-board03-300x150.png 300w, ./../../../wp-content/uploads/2020/12/btc-logo-board03-768x384.png 768w, ./../../../wp-content/uploads/2020/12/btc-logo-board03.png 1500w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
+
+
+
+<p>As you might have noticed, WBTC has been moved to this new page and its TVL is no longer included in the TVL metrics found on our homepage. WBTC was originally added to the leaderboard at a time when it was practically the only tokenized BTC utilized in DeFi, but given the current landscape we now think it is a better fit for the Bitcoin at Work leaderboard.</p>
+
+
+
+<p>We know that not every BTC token is quite the same. Each one has its own method of minting and redeeming and varying degrees of centralization ranging from custodial to fully decentralized.<strong> </strong><br><strong>We broke down each BTC token into four types to better distinguish their different qualities:<br></strong><br><strong>Decentralized</strong> &#8211; a BTC token backed by BTC held within a fully decentralized protocol<br><br><strong>Custodial</strong> &#8211; a BTC token backed by BTC held in custody by a third party<br><br><strong>Synthetic</strong> &#8211; a token which follows the price of Bitcoin but is not directly backed by BTC<br><br><strong>Hybrid</strong> &#8211; a BTC token backed by BTC held within an open protocol transitioning towards decentralization</p>
+
+
+
+<p>Aside from recognizing the hard work and growth of this sector, we hope the metrics and information included in this new page will help DeFi users discover new possibilities and make more informed decisions.&nbsp;</p>
+
+
+
+<p>Special thanks to all the teams for working with us! Be sure to check out the new page and explore the <a href="http://defipulse.com/btc">Bitcoin at Work</a> metrics for yourself. And if you’re interested in joining the DeFi Pulse Leaderboard, please check out this <a href="https://defipulse.com/blog/how-to-join-the-defi-pulse-leaderboard/">step-by-step guide.</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Lien &#8211; Governance-less ETH Options and Stablecoins</title>
+		<link>./../../../2020/09/05/lien/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sat, 05 Sep 2020 15:12:51 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[lien]]></category>
+		<category><![CDATA[options]]></category>
+		<category><![CDATA[options trading]]></category>
+		<category><![CDATA[stablecoins]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8535</guid>
+
+					<description><![CDATA[In the background of all the DeFi and yield farming commotion, stablecoins have been booming. DAI, USDC, USDT, and countless...]]></description>
+										<content:encoded><![CDATA[
+<p>In the background of all the DeFi and yield farming commotion, stablecoins have been booming. DAI, USDC, USDT, and countless others have been pouring into DeFi. While it is great to have so many options, each stablecoin has its trade-offs which users must consider. For some, the centralization risk of stablecoins like USDC are simply too great; they desire a stablecoin that is truly decentralized.</p>
+
+
+
+<p><a href="https://lien.finance/">Lien</a>, brought to you by an anonymous team of developers, has a solution for these folks: stablecoins backed by ETH derivatives with &#8220;governance-less&#8221; design which requires no over-collateralization and no manual adjustments to maintain the pegged exchange rate.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://lien.finance/"><img loading="lazy" width="1024" height="341" src="./../../../wp-content/uploads/2020/09/LienBannerWoTagline-1024x341.png" alt="" class="wp-image-8550" srcset="./../../../wp-content/uploads/2020/09/LienBannerWoTagline-1024x341.png 1024w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline-300x100.png 300w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline-768x256.png 768w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h2>Lien Protocol and iDOL</h2>
+
+
+
+<p>Lien Protocol powers a stablecoin called iDOL backed by ETH derivatives which allows it to utilize tranches or &#8220;tranching&#8221; to maintain stability.  iDOL is designed to be insensitive to the fluctuations in the USD price of ETH, minimizing the volatility by having speculators insure the risk. Instead of being directly backed ETH requiring over-collateralization to maintain its peg, iDOL is backed by a basket of bond tokens.</p>
+
+
+
+<p>Lien uses a system where ETH is tranched into two derivative contract tokens: Liquid Bond Token (LBT) and Solid Bond Token (SBT). These two bond tokens are minted at the same time with the same strike price and maturity date. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="534" src="./../../../wp-content/uploads/2020/09/Selection_396-1-1024x534.jpg" alt="" class="wp-image-8541" srcset="./../../../wp-content/uploads/2020/09/Selection_396-1-1024x534.jpg 1024w, ./../../../wp-content/uploads/2020/09/Selection_396-1-300x156.jpg 300w, ./../../../wp-content/uploads/2020/09/Selection_396-1-768x400.jpg 768w, ./../../../wp-content/uploads/2020/09/Selection_396-1.jpg 1310w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Upon maturity, SBT holders receive a fixed dollar amount (if possible) and then any remaining ETH is given to the LBT holder. If the price of ETH upon maturity is lower than the strike price, then the smart contract will pay out the entire ETH to the SBT holder and the LBT holder will receive nothing. In this way, LBT holders take on the brunt of the risk through speculation.</p>
+
+
+
+<h3>Let&#8217;s examine Lien Protocol in action</h3>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="552" src="./../../../wp-content/uploads/2020/09/Selection_397-1024x552.jpg" alt="" class="wp-image-8543" srcset="./../../../wp-content/uploads/2020/09/Selection_397-1024x552.jpg 1024w, ./../../../wp-content/uploads/2020/09/Selection_397-300x162.jpg 300w, ./../../../wp-content/uploads/2020/09/Selection_397-768x414.jpg 768w, ./../../../wp-content/uploads/2020/09/Selection_397.jpg 1034w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>This diagram above can be a bit confusing at first glance but it is simpler than you think once explained. First, you deposit ETH into Lien&#8217;s smart contracts which then splits or &#8220;tranches&#8221; ETH into SBT and LBT that have the same maturity and strike price. The SBT is sent to the iDOL smart contract and used as collateral to mint iDOL. At this point, you hold the LBT and the freshly minted iDOL which can be used and spent like other stablecoins. </p>
+
+
+
+<p>As the maturity date approaches, the SBT is auctioned off for iDOL by the protocol. Once it reaches maturity, the smart contract will pay out to the SBT holder,&nbsp;the dollar amount that the holder is entitled to in ETH. And then, the smart contract pays any remaining ETH to you as the LBT holder. As previously mentioned, LBT holders risk receiving nothing if the price of ETH is below the strike price upon maturity.</p>
+
+
+
+<h3>What makes Lien and iDOL special?</h3>
+
+
+
+<p>Instead of relying on over-collateralization, iDOL is backed by a basket of SBTs, each with their own maturity date, placing the brunt of risk on those speculating on the value of LBTs. As their <a href="https://lien.finance/pdf/iDOLWP_v1.pdf">whitepaper</a> so eloquently puts it: <em>&#8220;The stability of the SBT value is based upon the instability of the LBT value. That is, all the risks related to the price volatility of Ether are undertaken by the LBT holder, which then makes the value of SBT stable. We can think of LBT as a leveraged derivative token, the value of which is associated with Ether but fluctuates much more than Ether.&#8221;</em></p>
+
+
+
+<p>Lien Protocol has placed a buffer of sorts between iDOL holders and the volatility of ETH and the wider market. The system can automatically stabilize the price of SBT and subsequently iDOL at target levels using market forces alone without the need for governance.</p>
+
+
+
+<p>For those bullish on ETH, LBT functions like a call option on ETH that performs as a 2x leveraged ETH token. This allows you to create leveraged long positions by holding LBT. As with call options, you don’t have to worry about margin calls and liquidation during flash crashes.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="700" height="465" src="./../../../wp-content/uploads/2020/09/lien-diagram.png" alt="" class="wp-image-8536" srcset="./../../../wp-content/uploads/2020/09/lien-diagram.png 700w, ./../../../wp-content/uploads/2020/09/lien-diagram-300x199.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
+
+
+
+<h2>Lien FairSwap</h2>
+
+
+
+<p>Lien FairSwap is an AMM DEX which takes inspiration from Uniswap and attempts to mitigate some of the disadvantages of its design. FairSwap has built-in front-running protection which ensures transactions are settled in &#8220;a fair manner&#8221; by taking advantage of a frequent batch auction mechanism. FairSwap doesn&#8217;t process orders one by one and instead batches orders across a few blocks, called an &#8220;exchange box,&#8221; and then clears them all simultaneously.</p>
+
+
+
+<p>FairSwap provides liquidity for iDOL-related derivative tokens like SBT and LBT. Unlike iDOL&#8217;s smart contracts, FairSwap&#8217;s parameters can be modified after launch. To learn more about FairSwap, I recommend you check out the <a href="https://lien.finance/pdf/LienFairSwapWP_v1.pdf">whitepaper</a>.</p>
+
+
+
+<h2>LIEN token</h2>
+
+
+
+<p>As previously mentioned, Lien Protocol is designed to operate autonomously and &#8220;governance-free.&#8221; And so, LIEN token is not your typical governance token. LIEN can be considered a utility token that can be used to receive discounts/rebates on protocol fees. </p>
+
+
+
+<p>The Lien Protocol charges a fee (0.2%) when users mint the iDOL stable coin and when users exchange assets using FairSwap (0.3% &#8211; variable). Fees are collected in ETH or iDOL and are then distributed proportionally to holders of the Lien Token as discounts/rebates at the end of each month. 100% of Lien Protocol fees and 20% of FairSwap fees are attributed to Lien Token holders. <a href="https://medium.com/lien-finance/lien-token-metrics-f9e7bae3e407">See here for more info about LIEN.</a></p>
+
+
+
+<h2>Closing thoughts</h2>
+
+
+
+<p>Each and every week I get the pleasure of diving into new protocols and Lien Protocol did not disappoint. I can easily see how iDOL fulfills many people&#8217;s desire for a stablecoin without centralization or governance risk. I&#8217;d be curious to see down the line if there is an iGBP or iJPY because while iDOL is based on the dollar the system can be applied to other assets with sufficient oracles and market forces.</p>
+
+
+
+<h3>Lien Protocol and FairSwap are live on mainnet</h3>
+
+
+
+<p><strong>Although the Lien team is completely anonymous, special attention has been paid to smart contract security by the Lien team with initial code audits perform by <a href="https://diligence.consensys.net/audits/2020/05/lien-protocol/">ConsenSys Dilligence</a> in May and final code audits performed by <a href="https://certificate.certik.org/reports/lien_finance.pdf">CertiK</a>. </strong>To give you an even better idea of their mindset, the Lien team even imparts users with these wise words in<a href="https://medium.com/lien-finance/lien-apps-go-live-on-ethereum-mainnet-2b16cb28a5bf"> their launch post</a>: &#8220;<em>While audits are extremely important in assessing the validity and security of the code, they do not eliminate risks completely.&#8221;</em></p>
+
+
+
+<p><strong>Lien Protocol and FairSwap are live as of Friday Sept 4th, 2020.</strong> Head over to <a href="https://app.lien.finance/">Lien.finance</a> where you can trade LBT, mint iDOL, bid on SBT auctions, provide liquidity, and more today! </p>
+
+
+
+<p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve been paid by Lien Protocol to inform readers about their platform and iDOL. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ACO &#8211; A Non-Custodial Options Protocol Built for DeFi</title>
+		<link>./../../../2020/08/09/aco/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 09 Aug 2020 14:58:53 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Derivatives]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[aco]]></category>
+		<category><![CDATA[auctus]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[options]]></category>
+		<category><![CDATA[options trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8441</guid>
+
+					<description><![CDATA[The DeFi ecosystem is growing at a breathtaking pace. Unsurprisingly, staying on top of everything in the space is becoming...]]></description>
+										<content:encoded><![CDATA[
+<p>The DeFi ecosystem is growing at a breathtaking pace. Unsurprisingly, staying on top of everything in the space is becoming practically impossible. DeFi is becoming increasingly sophisticated each day as the building blocks or rather money legos fall into place. Most people can tell you the basics of spot and margin trading, but I&#8217;ve started to see more and more people admit they know are unfamiliar with options trading. And, that&#8217;s okay because as many will tell you being a fan of DeFi often times means being a student. We&#8217;ve teamed up with folks behind ACO to explore how options fit into DeFi and how you might take advantage of options in your trading strategy. <a href="https://aco.finance/">ACO</a> is a decentralized non-custodial options protocol created by <a href="https://auctus.org/">Auctus</a>.</p>
+
+
+
+<h2>What is an option?</h2>
+
+
+
+<p>If you&#8217;re not familiar with the term, <a href="https://www.investopedia.com/terms/o/option.asp">options</a> are financial derivatives that offers the option contract holder the opportunity to buy or sell an asset for a specific strike price within a specific time period. In other words, a &#8220;call option&#8221; contract gives you the <em>option</em> to buy an asset at a given price before it expires by &#8220;exercising the option&#8221; as it&#8217;s called. A &#8220;put option&#8221; allows you to exercise the contract and sell at the strike price before the expiration date. Options are different from simply purchasing the underlying asset because you only pay the contract premium initially until you exercise the contract, allowing traders to hedge risks or trade with more leverage at a lower capital cost.</p>
+
+
+
+<p>This is what makes options different from spot trading or even future contracts: you have no obligation to exercise the contract thus buying/selling the underlying asset. If the trade wouldn&#8217;t be in your favor, you can simply let the option contract expire and only be out the premium you paid to purchase the contract. On the flipside, the individual who wrote that option contract earns that premium if it expires without being exercised.</p>
+
+
+
+<h2>What is ACO?</h2>
+
+
+
+<div class="wp-block-image"><figure class="alignright size-medium"><a href="https://aco.finance/"><img loading="lazy" width="300" height="300" src="./../../../wp-content/uploads/2020/08/aco-300x300.png" alt="" class="wp-image-8453" srcset="./../../../wp-content/uploads/2020/08/aco-300x300.png 300w, ./../../../wp-content/uploads/2020/08/aco-1024x1024.png 1024w, ./../../../wp-content/uploads/2020/08/aco-150x150.png 150w, ./../../../wp-content/uploads/2020/08/aco-768x768.png 768w, ./../../../wp-content/uploads/2020/08/aco.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure></div>
+
+
+
+<p>ACO is a decentralized non-custodial options protocol that allows users to trustlessly trade, mint, and exercise call and put options. ACO protocol tokenizes put and call options contracts creating ERC20 tokens which you can send, trade, or even integrate ACO Tokens into other DeFi projects. Each ACO token option has its own smart contract programmed with the terms of the option contract. Additionally, these terms are also included in the ticker symbol of the ACO token.</p>
+
+
+
+<p>ACO tokens’ symbols consists of four parts:</p>
+
+
+
+<ol><li class="">Symbol of the underlying asset</li><li class="">Strike price &amp; Strike Asset</li><li class="">Option type, either P or C, for put or call</li><li class="">Expiration</li></ol>
+
+
+
+<p>Take for example: <strong>ACO ETH-200USDC-C-26JUN20-0800UTC</strong></p>
+
+
+
+<p>The above symbol represents a call option on ETH, expiring on 26 June 2020 08:00 UTC, with a strike price of 200 USDC.</p>
+
+
+
+<p>Auctus, the team behind ACO, has deployed an interface <a href="https://aco.finance/">ACO.finance </a>that allows you to mint, manage and trade ACO tokens (which powered by 0x protocol). ACO Protocol and the interface have been <a href="https://blog.openzeppelin.com/aco-protocol-audit/">audited by OpenZepplin</a>. More on ACO protocol in a bit, but first let&#8217;s explore some of the ways ACO option tokens are utilized by DeFi users.</p>
+
+
+
+<h2>How do I trade options in DeFi?</h2>
+
+
+
+<p>Now at this point, I&#8217;m sure you&#8217;re itching to see how you might take advantage of options. Let&#8217;s take a moment and break down a few situations where options could be a useful tool in your trading strategy. </p>
+
+
+
+<h3>Use Call Options to speculate on rising ETH prices</h3>
+
+
+
+<p>If you expect the price of ETH to rise, you can purchase ETH call options to take advantage of leverage, gaining positive exposure to ETH with less money than outright purchasing ETH at spot prices.</p>
+
+
+
+<p>Let’s assume ETH is currently trading for $400. You could buy 100 ETH for a total of $40,000  and be completely exposed to the price of ETH. Or, you could buy 100 ETH calls with a $400 strike price for $8.00 and have a similar exposure but do so with only $800 ($8 X 100 = 800).</p>
+
+
+
+<p>I&#8217;m sure you can see how this is advantageous. If the price goes up as you expect, you&#8217;ll be able to break even at $408 (the strike price $400 + the $8 premium). However if the price of ETH goes sideways or falls, you might be able to sell the option for a loss (less of a premium) or you can simply let your contract expire without exercising it and only be out the money you spent on the premium.</p>
+
+
+
+<h3>Use Put Options to hedge against declining ETH prices without limiting your exposure</h3>
+
+
+
+<p>If you aren&#8217;t confident in the market and want to protect yourself ETH&#8217;s price falling, you can purchase ETH put options to hedge your bets without selling your ETH or losing your potential upside if the price rises. You can think of ETH put options as a form of insurance which costs you a premium to cover potential losses.</p>
+
+
+
+<p>If ETH is currently trading at $380 and you want to protect yourself against it falling below $360 but don&#8217;t want to sell your 100 ETH quite yet. You could buy 100 put options with a $360 strike price for $4 and pay $400 to have the ability to sell your 100 ETH at $360 if the price of ETH were to drop before your options expire.</p>
+
+
+
+<p>Options tend to give you more time to make a decision when compared to stop orders which are final once filled. Unlike a stop order, you can always wait to see if the price rebounds in your favor.</p>
+
+
+
+<h2>Earn income by writing options on ACO</h2>
+
+
+
+<p>As previously mentioned, you can write options contracts and potentially earn a premium on any unexercised contracts. Needless to say, signing a contract to buy or sell an asset comes with its risks. As a writer of an option, you may be obligated to sell your underlying asset at the strike price if the holder exercises the contract. We urge you as always to do your own research and to take into account these considerations before writing/minting your first option.</p>
+
+
+
+<h3>Write ETH Call Options to earn income on your ETH</h3>
+
+
+
+<p>Say you have ETH that you&#8217;re willing to part with for the right price. Using options, you can receive money today for your willingness to sell your ETH at a higher price.</p>
+
+
+
+<p>Say ETH is at $380, you could mint and sell 100 ETH call options with a $420 strike price at a $9 premium and collect $900 on your willingness to sell your ETH. If things go sideways or your option expires before being exercised, you get to pocket the premium and keep your ETH. Of course, you&#8217;re still exposed to the price of ETH and will be obligated to sell the your ETH at the strike price if your option contract is exercised by the holder.</p>
+
+
+
+<p>There a plenty of factors to it for sure but I think you can see how in right situation writing ETH call options could be a way to capitalize on a sideways or bear market.</p>
+
+
+
+<h3>Write Put Options to earn income on your USDC</h3>
+
+
+
+<p>Do you have USDC on the side waiting to buy ETH at a price below the current? You could earn a little extra income by writing and selling ETH put options. </p>
+
+
+
+<p>Let’s assume ETH is currently trading for $380. You would like to buy 200 ETH if it drops to $300. You could write 200 ETH puts with a $300 strike at $4 and collect $800 on your willingness to buy 200 ETH at $300. Unlike setting a limit order, options let you collect money today for being willing to assume the obligation of buying ETH at the strike price.</p>
+
+
+
+<p>By using this strategy, you can generate additional returns in your stablecoin holdings by collecting a premium for your willingness to be obligated to buy a ETH at a price that is below current price.</p>
+
+
+
+<h2>ACO Protocol and its use of money legos</h2>
+
+
+
+<p>Many aspects of their design make ACO Option Tokens a nice addition to existing money legos, but its the team&#8217;s use of existing money legos to create new functionality that I found the most fascinating.</p>
+
+
+
+<h3>Flash Exercise</h3>
+
+
+
+<p>This is by far one of the coolest parts of ACO. ACO has a feature called &#8220;flash exercise&#8221; which, as its name eludes to, allows you to cover the cost of exercising your ACO options using Uniswap V2 flash swaps leaving you with the remaining profits. Uniswap V2 flash swaps let you withdraw tokens from Uniswap&#8217;s reserves as long as you pay back the tokens in the same transaction. ACO&#8217;s flash exercise makes use of this by withdrawing the tokens necessary to exercise your options contract and then repaying the withdrawn tokens by swapping the underlying asset all in one transaction.</p>
+
+
+
+<p><em>Net Profit = Number of Options * (( Uniswap Price &#8211; Strike Price ) / Uniswap Price )</em></p>
+
+
+
+<p><strong>Essentially, you can always exercise profitable options contracts in one transaction even if you don&#8217;t have the funds available to buy/sell the asset before expiration. </strong>This opens the door for traders who might want to greater exposure with less funds.</p>
+
+
+
+<h3>Governance</h3>
+
+
+
+<p>Currently, the ACO protocol allows a single address to modify parameters, create new options series, add new strike assets and change the template for tokens that will be created in the future. The admin key which controls this address is currently administered by the Auctus team. However, the team plans to ultimately transition control to holders of their AUC token. Once launched, the governance dashboard and system which will allow AUC holders to decide which assets should be supported by the protocol and what fee percentage should be charged and used to buy back and burn AUC.</p>
+
+
+
+<p>One key aspects of the current design which you may have noticed is that these parameters only affect future ACO option tokens. <strong>The protocol&#8217;s admin key has no ability to affect existing tokens</strong>, only you have access to your funds and all contracts are exercised in a non-custodial fashion.</p>
+
+
+
+<h3>Coming up on the roadmap &#8211; YFI, Chainlink, and more</h3>
+
+
+
+<p>YFI put and call options will be added to ACO within the next few weeks. Options will open the door for new strategies for the yearn.finance community. Auctus eventually plans to release an ACO OTC platform allowing users to trade customized options p2p, allowing greater variations of strike prices and expiration dates.</p>
+
+
+
+<p>One of the next crucial components for ACO as a platform is the addition of an automated market maker (AMM) for ACO tokens. The AMM would provide option contract holders, whether it be a trader or a smart contract, with constant on-chain liquidity for ACO Tokens. </p>
+
+
+
+<p>To further improve decentralization, the team is also looking to create volatility oracles with Chainlink.</p>
+
+
+
+<h2>Concluding thoughts</h2>
+
+
+
+<p>Watching DeFi mature has been exhilarating. As each building block is produced, you can see some things like options coming from a mile away. But, I can tell you I didn&#8217;t see something like flash exercise coming. It really goes to show how innovations build on one another so quickly in this space.</p>
+
+
+
+<p>Thanks for reading! We hope you learned a thing or two. We encourage you to go check out <a href="https://aco.finance/">ACO.finance</a> and the slick options trading platform they have built there. You can also learn more by <a href="https://docs.aco.finance/">reading the docs</a> or <a href="https://discord.gg/9JqeMxs">joining the Auctus Discord</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part our DeFi Pulse Drops promotional series; We&#8217;ve been paid by ACO to inform readers about why one might use options and about their decentralized non-custodial options platform. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Yield Farming Frenzy and its Impact on DeFi</title>
+		<link>./../../../2020/07/16/the-yield-farming-frenzy-and-its-impact-on-defi/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 16:57:34 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[balancer]]></category>
+		<category><![CDATA[Compound]]></category>
+		<category><![CDATA[compound finance]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[liquidity mining]]></category>
+		<category><![CDATA[mcdex]]></category>
+		<category><![CDATA[yield farming]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8371</guid>
+
+					<description><![CDATA[If you follow DeFi, you’ve probably noticed that the concept of yield farming is everywhere lately. From some of the...]]></description>
+										<content:encoded><![CDATA[
+<p>If you follow DeFi, you’ve probably noticed that the concept of yield farming is everywhere lately. From some of the most original memes in the Ethereum ecosystem to traditional news outlets like Forbes, crop rotation to maximize yield across protocols has become one of the defining activities on DeFi in 2020.</p>
+
+
+
+<h3><strong>So, what is Yield Farming?</strong></h3>
+
+
+
+<p>Yield farming is the act of leveraging different DeFi protocols and products to earn a yield or a return on their assets, in some cases obtaining profits well over 100% APY through a combination of lending interest and token incentives. </p>
+
+
+
+<p>The recent yield farming frenzy made total value Locked (TVL) on DeFi skyrocket to new all-time highs, zooming far past $2B. Yield farming has had a substantial impact on protocols like Compound, Balancer, Curve, MCDEX, and Uniswap V2 just to name a few as DeFi users aim to cash in on the trend. This frenzy has brought some important questions to light. Should short term speculative usage of the Ethereum network be considered an indicator of long term adoption? Is this frenzy only a momentary activity that will lose traction once yields go down? Ultimately, is this the beginning of a new growth cycle for Ethereum?</p>
+
+
+
+<h3><strong>How Did The Yield Farming Frenzy begin?</strong></h3>
+
+
+
+<p>The Yield Farming frenzy started when Compound began the live distribution of COMP, its governance token, on June 14th. Compound reached more than $600M total value locked, and overtook MakerDAO for the first time ever on DeFi Pulse’s leaderboard, making it the #1 protocol in DeFi by this measure in a matter of days. However, COMP appears to have only been the beginning with Balancer having launched their protocol rewards incentive program in May started their live distribution a few days after Compound. Balancer experienced similar exponential growth, adding more than $70M TVL.</p>
+
+
+
+<p>Although the frenzy started with COMP, yield farming has been known and practiced in DeFi for some time now. Synthetix, for example, had introduced the concept of protocol token rewards in exchange for liquidity provision to the sETH/ETH pool on Uniswap V1 in July 2019.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Today marks the end of an era. Right as yield farming is taking off we just finalised a poll on SCCP-29 <a href="https://t.co/bXU07AjQsd">https://t.co/bXU07AjQsd</a>. This was the original yield farming pool for sETH:ETH on Uniswap V1. So as it winds down, let&#39;s take a little trip down memory lane.</p>&mdash; kain.eth (@kaiynne) <a href="https://twitter.com/kaiynne/status/1276417760222797825?ref_src=twsrc%5Etfw">June 26, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Things really started taking off a few hours after COMP began being distributed and users started heavily investing in the USDT market on Compound, the one paying the highest amount of COMP rewards. COMP is distributed on a 50%-50% basis between suppliers and borrowers of a given market, and total rewards are allocated in a proportional way to each market’s yield returns. One of the many strategies that were applied was taking out USDT loans with DAI as collateral and investing them in the corresponding market on Compound. Next, BAT became the most profitable market for COMP farming. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">I just went short on <a href="https://twitter.com/search?q=%24USDT&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$USDT</a> using <a href="https://twitter.com/search?q=%24DAI&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$DAI</a> as collateral on <a href="https://t.co/cnckUC54V0">https://t.co/cnckUC54V0</a> using maximum <a href="https://twitter.com/search?q=%24COMP&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$COMP</a> mining recipe.<br><br>Looks like I&#39;m earning way more than I&#39;m paying interest with the current <a href="https://twitter.com/search?q=%24COMP&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$COMP</a> price hovering around ~$60.<a href="https://twitter.com/hashtag/YOLO?src=hash&amp;ref_src=twsrc%5Etfw">#YOLO</a> <a href="https://t.co/03YGZm0Jui">pic.twitter.com/03YGZm0Jui</a></p>&mdash; Samyak Jain (@smykjain) <a href="https://twitter.com/smykjain/status/1272634332599824390?ref_src=twsrc%5Etfw">June 15, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Compound’s team proposed to update the system’s liquidity incentive one week after COMP distribution went live on June 27th. The proposal looked to discourage an inorganic demand for BAT and other assets since users were concentrating extreme liquidation risks into these markets. The new liquidity incentive proposal was executed on July 2nd. Currently, COMP is distributed proportionally across the markets that borrow more dollars, and not dollars of interest paid. Rewards continue to be distributed on a 50%-50% basis between suppliers and borrowers of a given market. You can read more about <a href="https://compound.comradery.io/post/1762">Compound’s proposal to update the system’s liquidity incentives here.<br><br></a>The liquidity incentive effectively discouraged farmers from leveraging markets such as BAT. And now, yield farmers have ballooned the Compound DAI markets to levels higher than the total DAI in existence.  You can check out <a href="https://compound.finance/markets">the current Compound markets here</a> and <a href="https://compound.finance/governance/comp">COMP distribution here</a>.</p>
+
+
+
+<p>Balancer began its live distribution of BAL on June 23rd, which caused a spike of more than $50M in TVL in a few days. You likely recall our previous DeFi Pulse Drop with <a href="https://defipulse.com/blog/balancer-start-liquidity-mining-and-earn-bal-tokens-today/">Balancer Labs announcing their liquidity incentive program, which allows users to earn BAL on top of pool swap fees</a>. Seventy-five million BAL tokens (75% of fully diluted supply) will be distributed among liquidity providers on a 145K weekly basis.&nbsp;</p>
+
+
+
+<h3><strong>Is this the beginning of a new growth cycle for DeFi?</strong></h3>
+
+
+
+<p>The current Yield Farming frenzy has some resemblances with the ICO frenzy of 2017, in which billions of dollars were invested across many tokens, which ultimately proved to be worthless.<strong> One of the main differences with today’s Governance Tokens is that these are being issued by protocols that <em>already have running products that provide value to the ecosystem</em>, instead of being outright scams.</strong> Even though it’s probable that today’s high yields will face a market correction and be lowered at some point, the current frenzy might still continue for some time. And as we have learned in the past, adoption increases after each frenzy: more users and developers are driven to the ecosystem, and the allocated capital funds the development of new innovations that are later used by a broader ecosystem.</p>
+
+
+
+<p>Are you interested in learning more about Yield Farming strategies? Subscribe to <a href="https://yieldfarmer.substack.com/">DeFi Pulse Farmer</a> to learn fresh yield farming plays and insights on big governance decisions.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Meet The Token List — An Accurate List of Authentic Tokens on Ethereum</title>
+		<link>./../../../2020/05/07/meet-the-token-list/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Thu, 07 May 2020 17:42:43 +0000</pubDate>
+				<category><![CDATA[New Features]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[defi pulse]]></category>
+		<category><![CDATA[ERC20]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[list]]></category>
+		<category><![CDATA[token]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8230</guid>
+
+					<description><![CDATA[Imagine you&#8217;re trying out a new DeFi project. Everything is going smoothly; the instructions on screen guide you, making you...]]></description>
+										<content:encoded><![CDATA[
+<p>Imagine you&#8217;re trying out a new DeFi project. Everything is going smoothly; the instructions on screen guide you, making you feel confident in your actions. That is until you complete your transaction and then your tokens don&#8217;t arrive. You start to get that sinking feeling in your stomach as you realize you&#8217;ve received tokens the wrong tokens&#8230;</p>
+
+
+
+<p>Looking at your transaction confirmation you realize you received a token with the same name and ticker symbol as the one you thought you selected. In fact, upon reviewing the token selection menu you realize there are lots of inaccurate and confusing tokens listed. It&#8217;s a simple mistake but costly mistake anyone could make that leaves a sour taste in your mouth about the whole experience.</p>
+
+
+
+<h4>So what happened?</h4>
+
+
+
+<p>On Ethereum, anyone can create a token with any name or ticker symbol. It&#8217;s not like registering a username on a website; there&#8217;s no native mechanism preventing a new token from having the same name, symbol, or even icon as an existing token. Whether intentionally or not, duplicate or misleading tokens are created all the time making mistakes like the one described above more and more likely to occur for even the most experienced users.</p>
+
+
+
+<p>Not to mention, DeFi grows so quickly that it&#8217;s practically impossible to keep up with the countless new tokens being produced by projects. DAI alone has over 30 variations. This situation isn&#8217;t slowing down anytime soon and a lot of collective time is being spent in our community right now playing detective in order to determine if a token is the right token.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://defipulse.com/token-list"><img loading="lazy" src="./../../../wp-content/uploads/2020/05/token-list-thumb-1-wo-padding.jpg" alt="" class="wp-image-8247" width="638" height="638"/></a></figure></div>
+
+
+
+<h2>Meet The Token List</h2>
+
+
+
+<p>The Token List provides an accurate list of authentic tokens submitted and curated by the community. Its purpose is to create a standard list of tokens that everyone can rely on. <strong>Anyone can apply to have a token added to The Token List as long as it isn’t likely to be confused with previously listed or well-known tokens. And, it&#8217;s free for anyone to integrate The Token List into their project.</strong></p>
+
+
+
+<p>A reliable well-vetted token list serves as a source of truth for the community helping ensure users are never confused by misleading tokens or outright scams. The idea is that when you see a platform is using The Token List, you can be confident that the tokens available are the real deal.</p>
+
+
+
+<h3>Implementation is fast, easy and forever free</h3>
+
+
+
+<p>Integrating The Token List into your project is simple and worry-free with little to no maintenance. <a href="https://defipulse.com/token-list">The Token List</a> lets your team work smarter, not harder. No more wasting man hours on listing new tokens on top of maintaining the ever-growing list of existing tokens. And best of all, <strong>it&#8217;s forever free to use</strong> &#8211; no upfront cost or ongoing fees.</p>
+
+
+
+<p>The Token List provides all the relevant information for each authentic token in JSON format: </p>
+
+
+
+<ul><li>token name</li><li>contract address </li><li>ticker symbol </li><li>decimals</li><li>icon image</li><li>token standard (ERC20, ERC223, etc)</li><li>and flags describing token qualities such as: is it used in governance, is it a social token, etc.</li></ul>
+
+
+
+<p>We handle the listing and maintenance for you so you can get back to building what matters.</p>
+
+
+
+<h4>Got a token? Apply to The Token List in a snap.</h4>
+
+
+
+<p>As previously mentioned, anyone can submit an application to list any authentic token to The Token List. Simply, visit <a href="https://defipulse.com/token-list">The Token List</a>, click the &#8216;Add a Token now!&#8217; button (powered by Unlock Protocol). It costs a flat fee of 0.05 ETH to apply. And then, follow the prompts to fill out the simple form with the required token details. </p>
+
+
+
+<p>We review all applications for authenticity and to ensure that they are unique enough to not confuse the average user. We want to help improve user experience, not act as gatekeepers, so we&#8217;ll err on the side of inclusion where possible (but for the safety of the community we do reserve the right to reject outright scams or tokens intending to mislead, etc).</p>
+
+
+
+<h3>Adaptive token selection</h3>
+
+
+
+<p>Opening up the token listing process benefits all involved by making UX/UIs become more responsive and inclusive. Instead of acting as a potential gatekeepers, DeFi projects now become advocates of collaboration and empower their community to take ownership of the token listing process. Additionally, the community lends their watchful eyes to help maintain the accuracy and authenticity of existing token listings (because we know how fast some things change in DeFi).</p>
+
+
+
+<h3>Collaboration and composability</h3>
+
+
+
+<p>The ability to connect and combine existing smart contracts to create something new is a defining aspect of DeFi. We&#8217;re an industry built on collaboration which increases the pace of innovation. Projects and users alike benefit from keeping this shared list of tokens up-to-date with the latest listings and changes to existing tokens, potentially serving as a catalyst for even more composability between DeFi projects. Naturally, it&#8217;s easier to work together when you&#8217;re all on the same page. For example: when one project submits their newest token, it&#8217;s automatically added to all projects using The Token List.</p>
+
+
+
+<h2>Take advantage of The Token List today</h2>
+
+
+
+<p>Whether you&#8217;re hacking together an idea, tired of maintaining your current token listings, or want to make your token known to the world, <a href="https://defipulse.com/token-list">The Token List</a> is a simple but effective solution to meet your needs.</p>
+
+
+
+<p>We&#8217;re really excited for this release and the potential impact an open, accessible standard token list could have on DeFi. Standards can improve quality of life and safety for users and make developers&#8217; work easier and more efficient. We&#8217;re also interested to see how this list will grow with community input. We&#8217;re 100% open to new ideas like new descriptive flags. So please let us know what you think on <a href="https://twitter.com/defipulse">Twitter</a>, <a href="https://discord.gg/Gx4TCTk">Discord</a>, and <a href="https://t.me/defipulse">Telegram</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DeFi Dive: UMA &#8211; a DeFi platform built to enable Universal Market Access</title>
+		<link>./../../../2020/05/03/defi-dive-uma/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 03 May 2020 13:32:28 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Humans]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[oracle]]></category>
+		<category><![CDATA[synthetics]]></category>
+		<category><![CDATA[uma]]></category>
+		<category><![CDATA[universal market access]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8222</guid>
+
+					<description><![CDATA[Today, we interview UMA co-founder Allison Lu who talks about her and her team&#8217;s mission to bring market access to...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="512" src="./../../../wp-content/uploads/2020/04/DeFi_Dive_uma__Social_Media.png" alt="" class="wp-image-8226" srcset="./../../../wp-content/uploads/2020/04/DeFi_Dive_uma__Social_Media.png 1024w, ./../../../wp-content/uploads/2020/04/DeFi_Dive_uma__Social_Media-300x150.png 300w, ./../../../wp-content/uploads/2020/04/DeFi_Dive_uma__Social_Media-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong><em>Today, we interview UMA co-founder Allison Lu who talks about her and her team&#8217;s mission to bring market access to everyone through synthetic asset tokens, decentralized oracles, and priceless financial contracts.</em></strong></p>
+
+
+
+<h3>How did you get your start in crypto and what inspired you to build your project, product, or service?</h3>
+
+
+
+<p>Starting in late-2017, my co-founder Hart and I were exploring various ideas for blockchain-based solutions to problems within the financial services industry. Our method was to go through the history of financial innovations, and we very quickly came to financial derivatives. We realized that blockchain-based financial contracts had the capacity to help people all over the world leapfrog the existing fiat financial infrastructure in their countries and attain Universal Market Access. </p>
+
+
+
+<p>We always knew that in building infrastructure to create financial contracts, that our protocol would need an oracle. As we started to conduct R&amp;D on oracles, we realized that if we wanted to build a protocol that could scale to support trillions of dollars of economic value, we needed an oracle with economic guarantees. So, we also developed the <a href="https://twitter.com/hal2001/status/1149466877543845888?lang=en">Data Verification Mechanism</a>. </p>
+
+
+
+<h3>What are you building and what sets it apart?</h3>
+
+
+
+<p>UMA builds financial infrastructure on Ethereum. Specifically this is two things: </p>
+
+
+
+<ol><li>The Data Verification Mechanism (DVM), a decentralized oracle service </li><li>Priceless financial contract designs, which can be used to create synthetic tokens</li></ol>
+
+
+
+<p>The DVM is optimized for maintaining economic security for the contracts that use it. The DVM design itself is based on a bold claim that any on-chain oracle can be corrupted. This means that any smart contract relying on off-chain data is manipulatable for some price. Our solution is to introduce a simple economic security framework for evaluating oracles. We look at the potential profit from corruption (PfC) and cost of corruption (CoC) of contracts in our system, and have designed a mechanism to ensure that the cost of corrupting our oracle will exceed the potential profit. In doing so, we eliminate the economic incentives for corrupting our oracle in the first place.</p>
+
+
+
+<p>The second part of what we build is priceless financial contracts. Priceless financial contracts don’t require an on-chain price feed to function, and minimize on-chain oracle usage to reduce the frequency and surface area for oracle attacks. Previously in DeFi, when oracle failures happened, most were live and brief. In contrast, priceless contracts, when they require a price from the oracle, look backwards in time, which makes the price more secure.</p>
+
+
+
+<h3>Who do you view as the ideal user or customer for your product or service?</h3>
+
+
+
+<p>We’re a financial infrastructure company, so our users are developers, who generally in turn have their own customers.</p>
+
+
+
+<p>Project developers use our financial contract factories to define custom synthetic tokens that track things like local currencies, real world assets, or cross-chain assets. Their users can then interact with these synthetic tokens through any interface supporting the ERC20 standard, or mint new tokens from a custom UI. These projects cover a range of use cases, including local payments, investments, and speculation.</p>
+
+
+
+<p>In addition to project developers, UMA also relies on a network of liquidators and disputers to ensure that synthetic tokens remain pegged to the target price and that each token contract remains solvent. Economic incentives embedded in Priceless contracts encourage DeFi community members to run these liquidation and dispute “bots.”</p>
+
+
+
+<h3>What future event or feature on your roadmap are you most excited for?</h3>
+
+
+
+<p>Near-term, I’m most excited about revealing the synthetic tokens that our user base has been developing. We (or our partners) ran a number of POCs the past year to validate users’ interest in synthetic tokens, and many are now gearing up for broader release. You’ll be hearing more and more from our partners in 2020.</p>
+
+
+
+<p>Very long-term, I’m excited to make myself obsolete! What I mean is that UMA token holders have control over the UMA ecosystem in the form of tokenholder-driven governance. Over time, we want to reduce the role of core devs and help the community self-organize to maintain and build what it needs.</p>
+
+
+
+<h3>Where do you see your project, product, or service fitting into the future of DeFi?</h3>
+
+
+
+<p>Digital assets on Ethereum (including ETH itself) already have immense economic value. DeFi has given users an ability to do something with those assets while still retaining control over their private keys: store it, trade it, borrow against it, etc. UMA adds another composable capability: the ability to transform the economic value of a user’s assets into the risk of something else. Imagine being able to use ETH to also hedge against the risk of your BTC holdings. Or using Dai to access global stock indices. Or locking in interest rates across different DeFi protocols.</p>
+
+
+
+<p>In the long run, we see the DVM securing all kinds of different financial contracts, and the ability for everyone who can access DeFi to also have Universal Market Access.</p>
+
+
+
+<h3>What’s something in DeFi that you think more people should be paying attention to?</h3>
+
+
+
+<p>Oracle Extractable Value, or OEV. We’re all familiar with Miner-Extractable-Value, as popularized by “Flash Boys 2.0,” but I think users are less familiar with oracle-extractable-value. The general idea is similar: entities that control oracles can also extract profit by manipulating the oracle price and then interacting with the permissionless smart contracts that use them. Almost all of DeFi depends on oracles at some level to function, and the surface area for attack, mistakes, and OEV is huge &#8211; and getting worse. That’s why we believe so strongly in the Priceless design framework, which has core design principles anchored in a) minimizing oracle usage; and b) only if absolutely necessary, using an asynchronous oracle with economic guarantees (the DVM).</p>
+
+
+
+<h3>How can readers learn more about your product/service?</h3>
+
+
+
+<p><a href="https://umaproject.org/">Website</a><br><a href="https://twitter.com/UMAprotocol">Twitter</a><br><a href="https://medium.com/uma-project/">Medium</a>  <br><a href="https://github.com/UMAprotocol/">Github</a><br>Join our mostly developer-focused <a href="https://join.slack.com/t/umaprotocol/shared_invite/zt-7mtxxds5-OIhE~q_WkwGCVNrq0~G~rg">Slack</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>See the Bigger Picture with DeFi Pulse Data</title>
+		<link>./../../../2020/04/28/see-the-bigger-picture-with-defi-pulse-data/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Tue, 28 Apr 2020 13:28:27 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[New Features]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[defi pulse]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[eth gas station]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[gas]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8202</guid>
+
+					<description><![CDATA[DeFi doesn&#8217;t just stand for decentralized finance; DeFi is a community of users, developers, investors, traders, researchers, writers, and so...]]></description>
+										<content:encoded><![CDATA[
+<p>DeFi doesn&#8217;t just stand for decentralized finance; DeFi is a community of users, developers, investors, traders, researchers, writers, and so much more. Our collective endeavors are etched into the blockchain; our stories and shared history can be found in our data.</p>
+
+
+
+<p>Ask anyone who&#8217;s familiar with DeFi and they&#8217;ll tell you that it&#8217;s been exhilarating to be a part of. Week by week, we&#8217;ve crossed milestones, set new records, and broken new ground. We set goals and then build towards them until they are fulfilled. Our community takes data from the blockchain and translates it into meaningful events that represent our community&#8217;s story and what it values.</p>
+
+
+
+<p>At Concourse Open, we&#8217;ve witnessed this firsthand with our Total Value Locked metric. When we built DeFi Pulse a little over a year ago, we could have never imagined how well it would be received by the community. So many stories have been told with our data and illustrated with our charts. </p>
+
+
+
+<figure class="wp-block-embed-twitter aligncenter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Total Value Locked (TVL) in <a href="https://twitter.com/hashtag/DeFi?src=hash&amp;ref_src=twsrc%5Etfw">#DeFi</a> &#8212; Last 365 Days <a href="https://t.co/FOZY4UxLlq">pic.twitter.com/FOZY4UxLlq</a></p>&mdash; Spencer Noon <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f55b.png" alt="🕛" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@spencernoon) <a href="https://twitter.com/spencernoon/status/1246482345710010370?ref_src=twsrc%5Etfw">April 4, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div><figcaption><em>Graphic made using data from DeFi Pulse Data</em></figcaption></figure>
+
+
+
+<p>We want everyone to have access to the data they need. <a href="https://data.defipulse.com/">DeFi Pulse Data</a> combines its popular DeFi metrics with data from Concourse Open&#8217;s other popular services&#8217; APIs like ETHGasStation and Rekto which thousands of users, websites, and applications rely upon everyday to understand the decentralized ecosystem. Most notably, Ethereum gas price data provided by ETHGasStation’s API has become essential for decentralized application (DApp) developers. </p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://data.defipulse.com/"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2020/04/defipulse-data-social-1024x576.png" alt="" class="wp-image-8212" srcset="./../../../wp-content/uploads/2020/04/defipulse-data-social-1024x576.png 1024w, ./../../../wp-content/uploads/2020/04/defipulse-data-social-300x169.png 300w, ./../../../wp-content/uploads/2020/04/defipulse-data-social-768x432.png 768w, ./../../../wp-content/uploads/2020/04/defipulse-data-social-1536x864.png 1536w, ./../../../wp-content/uploads/2020/04/defipulse-data-social-1568x882.png 1568w, ./../../../wp-content/uploads/2020/04/defipulse-data-social.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p>We understand how valuable accurate data can be when it comes to making informed decisions or effectively accomplishing a task. That&#8217;s why anyone can try DeFi Pulse Data and access all of its comprehensive data sets by simply <a href="https://data.defipulse.com/">signing up for a free account</a>. Because, we know the right data in the right hands can have a big impact on our community. </p>
+
+
+
+<h3>How we utilize data determines our past, present, and future.</h3>
+
+
+
+<p>The way we frame and interpret data points can tell a story, justify a design choice, confirm a hypothesize, and much much more. And when you examine our community, it couldn&#8217;t be clearer that our data represents our past actions but what we create  with that data determines our future.</p>
+
+
+
+<p>We share in the triumph of moments like when the total value locked (TVL) in DeFi broke $1 Billion. We cheer together however our eyes are still looking toward the future.</p>
+
+
+
+<figure class="wp-block-embed-twitter aligncenter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Waiting in a parking lot for <a href="https://twitter.com/defipulse?ref_src=twsrc%5Etfw">@defipulse</a> to refresh with $1 BILLION TVL like&#8230;<br><br><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" />Make no mistake, this is huge. <br><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" />For this to happen despite the bear market&#8230; it’s huge. <br><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" />Many may say “oh there’s bigger goals ahead” but still, it’s huge. <br><br>Enjoy this f*cking moment! <a href="https://twitter.com/hashtag/DeFi?src=hash&amp;ref_src=twsrc%5Etfw">#DeFi</a> <a href="https://t.co/3PBcYuxZPh">pic.twitter.com/3PBcYuxZPh</a></p>&mdash; DeFi Dad ⟠ defidad.eth (@DeFi_Dad) <a href="https://twitter.com/DeFi_Dad/status/1225604176391991298?ref_src=twsrc%5Etfw">February 7, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>We see that 1 BILLION and want to build bigger and better things to get to that next billion. The data taps into something deeply rooted in our brains and inspires us to keep moving forward.</p>
+
+
+
+<p>And when times get tough, we look to the data to determine what happened and how to proceed.</p>
+
+
+
+<figure class="wp-block-embed-twitter aligncenter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr"><a href="https://twitter.com/dForcenet?ref_src=twsrc%5Etfw">@dForcenet</a>’s <a href="https://twitter.com/LendfMe?ref_src=twsrc%5Etfw">@LendfMe</a> $20M money market pool currently under attack <a href="https://t.co/qDJqKkQBnT">pic.twitter.com/qDJqKkQBnT</a></p>&mdash; Andrew Køng (@Rewkang) <a href="https://twitter.com/Rewkang/status/1251707230040150018?ref_src=twsrc%5Etfw">April 19, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>And when it&#8217;s all said and done, we look to the data for answers. And the best of builders, react to the data accordingly looking to rewrite our future and build for a better, safer tomorrow. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Textbook case of early <a href="https://twitter.com/hashtag/DeFi?src=hash&amp;ref_src=twsrc%5Etfw">#DeFi</a> PMF <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f3d2.png" alt="🏒" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/VuLoO4YJSQ">https://t.co/VuLoO4YJSQ</a></p>&mdash; Spencer Noon <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f55b.png" alt="🕛" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@spencernoon) <a href="https://twitter.com/spencernoon/status/1253442490750959622?ref_src=twsrc%5Etfw">April 23, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h3>Build things for the future by understanding where we&#8217;ve been and where we are now</h3>
+
+
+
+<p>Whether you&#8217;re writing a blog post analyzing DeFi or building an application that needs accurate gas prices from ETH Gas Station, any task benefits from the right information. It&#8217;s easy to find the right product-market fit when you have the data to understand your users, readers, or what have you.</p>
+
+
+
+<p>Independent researchers, developers, marketers, companies, consultants, journalists &#8211; everyone needs data to produce content, design new applications, and build successful business models. DeFi Pulse Data provides you with the reliable and comprehensive data you need.</p>
+
+
+
+<p><strong>Sign for <a href="http://data.defipulse.com/">DeFi Pulse Data</a> today for free</strong> and see what the data inspires you to create. Don&#8217;t forget to share it with us on <a href="https://twitter.com/defipulse">Twitter</a>, <a href="https://t.me/defipulse">Telegram</a> or <a href="https://discord.gg/Gx4TCTk">Discord</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DeFi Dive: Synthetix — A protocol for issuing and trading synthetic assets on Ethereum</title>
+		<link>./../../../2020/04/13/defi-dive-synthetix/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2020 00:11:59 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[snx]]></category>
+		<category><![CDATA[synthetics]]></category>
+		<category><![CDATA[synthetix]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8107</guid>
+
+					<description><![CDATA[In this edition of DeFi Dive, we&#8217;re joined by Synthetix Founder Kain Warwick who shares his unique experiences which lead...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" width="1024" height="512" src="./../../../wp-content/uploads/2020/04/DeFi_Dive_2.png" alt="" class="wp-image-8109" srcset="./../../../wp-content/uploads/2020/04/DeFi_Dive_2.png 1024w, ./../../../wp-content/uploads/2020/04/DeFi_Dive_2-300x150.png 300w, ./../../../wp-content/uploads/2020/04/DeFi_Dive_2-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong><em>In this edition of DeFi Dive, we&#8217;re joined by Synthetix Founder Kain Warwick who shares his unique experiences which lead to the creation of DeFi&#8217;s second biggest DApp. </em> </strong></p>
+
+
+
+<h3>How did you get your start in crypto and what inspired you to build your project, product, or service?</h3>
+
+
+
+<p>I’d been involved in several startups in my twenties and founded blueshyft five years ago. It’s become the largest cryptocurrency payment gateway in Australia, processing over two hundred million dollars in deposits since launch. My experience with blueshyft and in retail exposed me to crypto and showed me the need for a decentralised stablecoin, so I launched Havven to build that. Once it became clear that the market was mostly satisfied with centralised stablecoins and DAI, we pivoted Havven to Synthetix, which uses the same pooled collateral model but supports the issuance and trading of a variety of synthetic assets</p>
+
+
+
+<h3>What are you building and what sets it apart?</h3>
+
+
+
+<p>The project really has two components: Synthetix, the underlying protocol; and Synthetix.Exchange, our exchange for trading the synthetic assets enabled by the protocol. Synthetix involves people locking cryptocollateral (which is the staking process) to issue these assets (called Synths). Stakers then receive fees generated by users trading these assets on Synthetix.Exchange. All trading is done peer-to-contract (P2C), so it’s the only decentralised exchange without any liquidity or slippage issues.</p>
+
+
+
+<h3>Who do you view as the ideal user or customer for your product or service?</h3>
+
+
+
+<p>Synthetix.Exchange is for traders, specifically anyone looking to gain exposure to a range of assets with zero slippage, without trusting a centralised party. We’ll continue to introduce new trading features along with additional assets to increase its appeal to a greater range of traders.</p>
+
+
+
+<p>As far the protocol goes, it relies on people staking cryptocollateral (our token, SNX). But it’s quite a complex series of mechanisms, so it’s definitely not for the inexperienced. There are various responsibilities stakers need to take on including managing their debt. The yield is also actively managed with stakers needing to fix collateralization ratios before redeeming rewards — there’s definitely regular input required from stakers.</p>
+
+
+
+<h3>What future event or feature on your roadmap are you most excited for?</h3>
+
+
+
+<p>This year we’re focusing on building out more trading features on Synthetix.Exchange, and you can read the full product roadmap on our blog. The ones I’m most excited for are binary options, leveraged Synths, synthetic futures, and Optimistic Rollups.</p>
+
+
+
+<h3>Where do you see your project, product, or service fitting into the future of DeFi?</h3>
+
+
+
+<p>A bit of a popular meme in our community is that Synthetix.Exchange can be a ‘decentralised Bitmex.’ This obviously relies on our executing the various trading features I just mentioned, but it’s certainly where we’re heading</p>
+
+
+
+<h3>What’s something in DeFi that you think more people should be paying attention to?</h3>
+
+
+
+<p>The unique potential for composability (i.e. protocols permissionlessly plugging into each other) is something that will be interesting as it plays out.</p>
+
+
+
+<h3>How can readers learn more about your product/service?</h3>
+
+
+
+<p>Starting with the <a href="https://www.synthetix.io/litepaper/">litepaper</a> is best, and then there’s a community-run page with a whole host of valuable resources to learn more at <a href="http://synthetix.community/">synthetix.community</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DeFi Status Report Post-Black Thursday</title>
+		<link>./../../../2020/03/15/defi-status-report-black-thursday/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 15 Mar 2020 07:52:35 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Compound]]></category>
+		<category><![CDATA[crash]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[debt auction]]></category>
+		<category><![CDATA[decentralized exchanges]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<category><![CDATA[MKR]]></category>
+		<category><![CDATA[price]]></category>
+		<category><![CDATA[synthetix]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8026</guid>
+
+					<description><![CDATA[On Thursday March 12, 2020, the price of Ether (ETH) dropped over 30% in about 24 hours. The result sent...]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="./../../../wp-content/uploads/2020/03/the-road-815297_1280-1-1024x682.jpg" alt="" class="wp-image-8061"/></figure></div>
+
+
+
+<p>On Thursday March 12, 2020, the price of Ether (ETH) dropped over 30% in about 24 hours. The result sent chain reaction rippling through DeFi in an event many will likely come to refer to as Black Thursday. DeFi users rushed to make transactions like trading on DEXes, paying off debts, bolstering collateral ratio, etc. The increased activity led to record-setting high gas prices at times exceeding 200 gwei. </p>
+
+
+
+<p>If you&#8217;re unfamiliar with how gas prices work, think of it as an auction for the limited space in each block. Users desperate to get their transaction through start to outbid each other to get their transactions completed in a timely manner. And then, the ensuing &#8220;bidding wars&#8221; drive up gas prices and subsequently cause low-priced transactions to be stuck until things settle down. <strong><em>The bottom line is that the increased volume put a lot of stress on DeFi smart contracts along with the entire Ethereum network.</em> </strong>So we&#8217;ve decided to put together this status update to provide context for those unaware who may panic at the sight of the charts lately.</p>
+
+
+
+<h4>Don&#8217;t panic. All is not lost and DeFi endured the test.</h4>
+
+
+
+<p>I think it&#8217;s worth taking a moment to say: <em>there are safety measures in place for a reason.</em> When you install fire alarms and safety systems you hope you never need to use them, but know that there could always come a day when you have to. And if your home catches on fire, you don&#8217;t abandon the concept of living in homes altogether. You rebuild your home and this time you build it bit safer and better overall. We, as a community, have been tested before and have only grown stronger for these trials. A decentralized financial market is a market worth fighting for and the truth is&#8230; DeFi remains one of the most exciting and innovative spaces on this planet and will only continue to grow and evolve despite the occasional bump in the road.</p>
+
+
+
+<p><em>High levels of network congestion affected the entire Ethereum network so we&#8217;ll only be addressing some of the more notable ways DeFi projects were affected by recent events.</em></p>
+
+
+
+<h2>Maker</h2>
+
+
+
+<p>While the exact issue is still <a href="https://blog.makerdao.com/recent-market-activity-and-next-steps/">under investigation</a>, the dramatic increase in gas prices caused Maker&#8217;s price feed oracle to remain stuck at ~$166 despite the market dipping almost 15% lower at times. High gas prices also affected Keeper bots, preventing many from liquidating undercollateralized loans. Unfortunately, some Keepers were able to bid on and purchase collateral ETH for 0 DAI. And, many Vault owners reported 100% of their collateral being liquidated. </p>
+
+
+
+<p>A Maker community call was held to determine the best plan of action. Maker put out <a href="https://blog.makerdao.com/recent-market-activity-and-next-steps/">a blog post</a> addressing the situation and proposed various parameters which could be adjusted to prevent further issues. MKR holders have since <a href="https://vote.makerdao.com/executive-proposal/adjust-multiple-risk-parameters">approved changes</a> including lowering debt ceilings, lowering stability fees, changing auction parameters to allow keepers additional time and limit the total number of auctions.</p>
+
+
+
+<p>Among the approved parameter changes was delaying the Debt Auction, designed to cover the +$4M in remaining system debt, in an attempt to give the community more time to prepare.</p>
+
+
+
+<h3>MKR Debt Auction</h3>
+
+
+
+<p>Maker is designed with a pool of DAI called the <em>Maker Buffer</em> reserved to cover debts in situations like this<em>.</em> However, the Maker Buffer was unable to cover the deficit caused by the tremendous amount of liquidations. As stated in its <a href="https://makerdao.com/en/whitepaper/">whitepaper</a>, the Maker Protocol will now trigger a Debt Auction where MKR is minted and sold for DAI to re-collateralize the system. </p>
+
+
+
+<p><strong>Here are the details for the auction according to<a href="https://blog.makerdao.com/mkr-debt-auction-announcement-and-details/"> MakerDAO&#8217;s blog</a>: </strong></p>
+
+
+
+<ul><li>Start time: March 19, 6:25 am ET (March 19, 10:25 am UTC)</li><li> MKR will be auctioned off in lots for 50,000 Dai</li><li>According to parameters of the Maker Protocol as determined by governance, the auction works as in the following example:<ul><li>The protocol offers a Keeper (bidder) a lot of 250 MKR for 50,000 Dai, which translates to a price of 200 Dai/MKR. </li><li>A second keeper bids 50,000 Dai but only requires 230 MKR, which translates to a price of 217 Dai/MKR. </li><li>The bid prices increase through the Keepers’ willingness to take slightly less MKR in exchange for 50,000 Dai. </li></ul></li><li>If no one bids on the first lot of 250 MKR, then the auction can be re-initialized after three days, offering 20% more MKR (300 MKR) for 50,000 Dai, which translates to a price of 166.66 Dai/MKR.</li><li>Finally, if there is at least one bid, and no one outbids it within 6 hours, the auction ends.</li></ul>
+
+
+
+<p>Anyone is free to participate in the auction by running an Auction Keeper. Maker provides <a href="https://blog.makerdao.com/how-to-run-your-own-auction-keeper-bot-in-mcd/">documentation on how to run an auction keeper bot</a> but no official front-end UI. However, there are some in the community working on making these systems more accessible for the auction.</p>
+
+
+
+<h3>Dai Backstop Syndicate</h3>
+
+
+
+<div class="wp-block-image"><figure class="alignleft size-large"><a href="https://t.me/backstopsyndicate"><img src="./../../../wp-content/uploads/2020/03/backstopsyndicate-1.jpg" alt="" class="wp-image-8034"/></a></figure></div>
+
+
+
+<p>We&#8217;re working with Dharma and many other community members to organize a community-led effort dubbed the <strong><a href="https://t.me/backstopsyndicate">DAI Backstop Syndicate</a></strong> to form a backstop in support of MKR and act as a buyer of last resort in the upcoming MKR auction.</p>
+
+
+
+<p>The idea is to create pool contract that would give syndicate participants a way to participate in the auction process should MKR fall below a given price like 100 DAI / MKR.  The intention is to be a backstop, not necessarily buy the MKR nor will it provide liquidity for liquidations during Dai Surplus Auctions (flaps).</p>
+
+
+
+<p>The contract will be designed so anyone could trigger an auction using pooled funds at the given price once auctions begin. At which point, all participants would be able to redeem the tokens they minted by supplying Dai for the equiv. Dai / MKR blend held by the pool.</p>
+
+
+
+<p><strong><em>If you&#8217;re interested in participating, <a href="https://t.me/backstopsyndicate">join the telegram</a> to help organize, review<a href="https://docs.google.com/document/d/1miS-snhSYBKwjQHM1MOPnLZZl9i2gj3zTcvuQWecV2M/edit#"> the proposal</a> and <a href="https://github.com/backstop-syndicate/dai-backstop-syndicate">Github repo</a> for full details</em></strong>.</p>
+
+
+
+<h3>Nexus Mutual claims</h3>
+
+
+
+<p>As of writing this, 3 out of the 11 <a href="https://nexustracker.io/claims">submitted claims</a> related to the MakerDAO incident have been denied by Nexus Mutual. Those with Nexus Mutual cover on MakerDAO have been <a href="https://twitter.com/NexusMutual/status/1238496725054230534">instructed to wait</a> for more complete information before submitting new claims.</p>
+
+
+
+<h2>Compound</h2>
+
+
+
+<p>Compound placed in its timelock three precautionary changes to how its protocol handles DAI in the case it becomes unpegged and mass liquidations are required.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Three changes have been queued in the Compound protocol timelock, as a precaution due to recent volatility:<br><br>A new price feed that allows DAI to become unpegged in a MakerDAO emergency shutdown;<br>Liquidation incentive 5% -&gt; 8% -&gt; 15%<br><br>These will only be activated if necessary.</p>&mdash; Compound Labs (@compoundfinance) <a href="https://twitter.com/compoundfinance/status/1238308271963828226?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h2>Synthetix</h2>
+
+
+
+<p>The high network congestion forced Synthetix to go down for short period of time as its rates provided by on-chain Chainlink oracles to go stale. </p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/03/Selection_999064-1.png" alt="" class="wp-image-8028"/></figure>
+
+
+
+<p>After some time, the system was brought back online and the Synthetix team released <a href="https://github.com/Synthetixio/SIPs/blob/master/SCCP/sccp-16.md">SCCP-16</a> which temporarily increased fee reclamation waiting period to an hour to accommodate extreme network congestion. This change was reverted after the congestion subsided.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/03/Selection_999065-1.png" alt="" class="wp-image-8045"/></figure>
+
+
+
+<h2>Aave</h2>
+
+
+
+<p>Aave protocol also took measures to reduce the impact of MKR and DAI instability.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Due to the current instability of the DAI stablecoin system, our risk assessment team has decided to lower the LTV for future borrowers of both MKR and DAI to 1% as a safety measure to prevent possible abuse. This doesn&#39;t affect current borrowers using these assets as collateral.</p>&mdash; Aave (@AaveAave) <a href="https://twitter.com/AaveAave/status/1238174876541898752?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h2>dYdX</h2>
+
+
+
+<p>Combating high gas costs, dYdX progressively increased its minimum trade size throughout the day on March 12. The first step was up to 10 ETH or 2000 DAI, it was ultimately raised as high as 40 ETH or 5000 DAI. By the evening of March 13, the min. trade size was restored back to normal (0.1 ETH or 20 DAI).</p>
+
+
+
+<h2>DDEX</h2>
+
+
+
+<p>DDEX incurred minor losses of $5373 which will be covered by its built-in insurance.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">1/3<br>In the last 24 hours the price of <a href="https://twitter.com/hashtag/ETH?src=hash&amp;ref_src=twsrc%5Etfw">#ETH</a> fluctuated by over 30%, and <a href="https://twitter.com/hashtag/DDEX?src=hash&amp;ref_src=twsrc%5Etfw">#DDEX</a> liquidated ~$500,000 of collateral in minutes. Due to liquidity shortage, $5,373 (~1%) loss was incurred. By design, this amount will be covered by built in insurance. No lenders will lose assets.</p>&mdash; DDEX (@ddexio2018) <a href="https://twitter.com/ddexio2018/status/1238149663238152192?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h2>Green on the board</h2>
+
+
+
+<p>The silver lining of the day was that many smart contracts like Uniswap functioned performed as expected under the massive stress placed on the Ethereum network. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Yesterday during all the insanity Uniswap 24hr volume reached $53M<br><br>I don’t feel like celebrating but I’m glad it was able to handle the massively increased load without issue. <br><br>A major testament to Ethereum imo<br><br>Was this the highest volume day of any DEX ever? <a href="https://t.co/cv4x3m8Zyu">pic.twitter.com/cv4x3m8Zyu</a></p>&mdash; Hayden Adams <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f984.png" alt="🦄" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@haydenzadams) <a href="https://twitter.com/haydenzadams/status/1238457224214786048?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p><strong>Examining our DeFi rankings during these events, it was clear DEXes like Uniswap, DeFi lenders [like dYdX, Nuo, Robo-Advisor for Yield (RAY), and Dharma], and payment networks like xDai and Connext fared the best.</strong> All of which are DeFi smart contracts generally less impacted by price fluctuations and high gas prices with more diverse collateral options and/or lower risk yields.</p>
+
+
+
+<h2>Conclusion</h2>
+
+
+
+<p>Stress tests like these help expose cracks in DeFi smart contracts that can be repaired and improved upon. They also serve as important reminders to do your own research and plan accordingly for potential smart contract risks. DeFi is still a very young market and bumps in the road are to be expected. And when things get rough, remember what brought us here together as a community: the exciting prospect of a decentralized financial system open to all.</p>
+
+
+
+<p>Whether you just want to stay informed or get involved, we&#8217;re always there for community members with questions or looking to dig a little deeper. Reach out to us on <a href="http://twitter.com/defipulse">Twitter</a> or join the discussion in our <a href="http://t.me/defipulse">Telegram</a> or <a href="https://discord.gg/Gx4TCTk">Discord</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

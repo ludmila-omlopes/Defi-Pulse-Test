@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>perpetual &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 08 Feb 2021 22:12:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Futureswap  &#8211; Decentralized Perpetual Futures with up to 10x Leverage</title>
+		<link>./../../../2021/02/08/futureswap-v2/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 08 Feb 2021 22:12:31 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Futures]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[decentralized exchange]]></category>
+		<category><![CDATA[decentralized exchanges]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[futures]]></category>
+		<category><![CDATA[futureswap]]></category>
+		<category><![CDATA[perpetual]]></category>
+		<category><![CDATA[perpetuals]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8855</guid>
+
+					<description><![CDATA[Recent events have made it all too clear to the average user why decentralization has a key role to play...]]></description>
+										<content:encoded><![CDATA[
+<p>Recent events have made it all too clear to the average user why decentralization has a key role to play in having a fair and efficient market. Futureswap aims to disrupt the multi-billion dollar perpetual futures trading market currently dominated by centralized services. Futureswap takes a different approach with a hybrid between Uniswap and a perpetual futures exchange platform governed by the community. You may remember Futureswap from their <a href="https://medium.com/futureswap/futureswap-lessons-learned-from-a-3-day-alpha-be4e37bc8c52">successful Alpha in April 2020 which ultimately ended early</a> after DeFi users flocked to the platform in overwhelming numbers. In less than 3 days, Futureswap’s Alpha 24hr trading volume grew to $17M and liquidity passed $1M. Erring on the side of caution, the Futureswap team decided to end the Alpha earlier than initially planned.&nbsp;</p>
+
+
+
+<p><strong>Now they’re back with something even better, the Futureswap V2 Beta is </strong><a href="https://futureswap.com/"><strong>already launched on mainnet</strong></a><strong>.</strong> The Futureswap V2 Beta includes upgrades like live pricing and higher capital efficiency which aim to provide a perpetual futures trading experience that outperforms <em>centralized</em> exchanges.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/02/COL_DG-1-1024x494.png" alt="" class="wp-image-8860"/></figure>
+
+
+
+<h2>What makes Futureswap V2 Beta special?</h2>
+
+
+
+<p>Futureswap is a decentralized exchange platform with an automatic market maker (AMM) design that enables traders to enter leveraged perpetual futures with low slippage. Its automatic market maker (AMM) design provides higher capital efficiency offering up to 10x leverage. According to Futureswap: after $50m in liquidity, Futureswap should have better price execution for a $1m trade than any other decentralized exchange and after $300m it has the lowest slippage compared to centralized exchanges based on the current slippage parameters. </p>
+
+
+
+<p>Additionally, Futureswap pools can be very efficient with their use of capital resulting in more stability and potentially high returns for liquidity providers compared to traditional AMM exchanges. Futureswap utilizes what’s called a Dynamic Funding Rate or DFR for short. The DFR is a borrowing fee based on the total trade size designed to maintain the volume balance between open longs and shorts. During times of disproportionate demand, liquidity providers’ pooled assets are used to take up the opposite side of any unmatched trades. So if there were tons of unmatched ETH longs, LPs cover the ETH essentially opening a short.</p>
+
+
+
+<p>Long and short volumes are pooled and then the more popular pool is charged the dynamic funding rate and it’s paid to the pool in low demand.<strong> </strong>This mechanism limits extreme volatility and properly rewards liquidity providers for their exposure to risk. The DFR keeps increasing as the disparity grows to disincentivize trades on the popular side. In other words, the longs pay the shorts or vice versa until the sides become balanced. This also means that liquidity providers have the potential to earn more thanks to the DFR.</p>
+
+
+
+<h3>Oracle Relayer Network (ORN)</h3>
+
+
+
+<p>One of the biggest improvements Futureswap V2 brings is the new Oracle Relayer Network (ORN) which enables instant pricing and real-time trading. ORN has been described as a mesh between a price oracle and a meta-transaction processor node. Futureswap users are able to trade in real-time by signing a message including their order and submitting them to ORN. Then, ORN verifies the signed message and finalizes the trade on-chain at the current price. Transactions will fail if outside accurate price bounds set by ORN to protect users. The Futureswap team is taking further steps to improve the Oracle Relayer Network’s security with audits by <a href="https://www.trailofbits.com/">Trail of Bits</a> and plans to add more nodes to the network.</p>
+
+
+
+<h2><br><strong>How Futureswap works</strong></h2>
+
+
+
+<h3>Traders</h3>
+
+
+
+<p>As we’ve covered, <a href="https://exchange.futureswap.com/">traders on Futureswap can open long or short perpetual future positions with up to 10x leverage</a> in real-time with instant pricing. Perpetual futures on Futureswap have no time limits and can remain open as long as the trader has enough collateral. Traders will either pay or earn the dynamic funding rate when opening longs or shorts depending on whether they are on the popular side of the trade or not. Traders also earn FST token rewards each epoch based on their percentage of close trade volume that distribution period.<br></p>
+
+
+
+<h3>Liquidity providers</h3>
+
+
+
+<p>Liquidity Providers<a href="https://exchange.futureswap.com/pool"> add liquidity to Futureswap pools</a> in equal parts to earn trading fees and FST token rewards. For example, if you wanted to add liquidity to Futureswap’s ETH/USDC pool, you would need $100 worth of ETH and 100 USDC. Once deposited, LP tokens are minted representing your share of the pool. These LP tokens can be redeemed at any time if their liquidity is not in a trade. Liquidity providers earn trading fees for allowing traders to use their liquidity. Liquidity providers also earn FST token rewards as an incentive to further grow Futureswap’s available liquidity.</p>
+
+
+
+<h3>Liquidators</h3>
+
+
+
+<p>Liquidators monitor the platform for positions that are close to violating margin requirements and send liquidation transactions to close at-risk positions for a liquidator fee. It’s vital to the health and stability of the platform for positions to be reliably closed once they reach their liquidation price. It’s worth mentioning that submitting these transactions does not require the liquidator to provide any value or to take over the trade. They simply close the trade on behalf of the protocol and are rewarded for doing so. Currently, the percentage that liquidators receive is 30% of the remaining collateral up to a maximum (currently set to 500 USDC).</p>
+
+
+
+<h2>Futureswap is governed by the community</h2>
+
+
+
+<p>FST is Futureswap’s non-transferable governance token which is<a href="https://exchange.futureswap.com/rewards"> rewarded to traders, liquidity providers, and referrers each day.</a>&nbsp; FST allows the Futureswap community to propose and vote on changes to the protocol, enabling it to evolve and improve over time. We’ve already mentioned FST tokens a few times covering Futureswap’s various incentives designed to incentivize user participation. <a href="https://medium.com/futureswap/futureswap-governance-token-distribution-d2712c855da5">FST is used to reward the Futureswap</a> users contributing to the growth and adoption of the platform. And since Futureswap is governed by the community, this gives the most active users influence over the future of the platform. In other words, users who participate sooner rather than later after the community grows even larger are more likely to have a larger impact with their contributions and receive more FST rewards.</p>
+
+
+
+<h2>Concluding thoughts</h2>
+
+
+
+<p>Potentially disrupting such a big market like perpetual futures presents an opportunity for Futureswap. Futureswap is designed with the expectations of serious trades in mind. Futureswap’s design with its high capital efficiency and low slippage lends itself well to larger trades for whales and industry traders. Its instant pricing and real-time trading ORN system provides a better trading experience with built-in protections against front running attacks. Futureswap may also continue to provide even lower slippage as liquidity grows over time. FST rewards increase the likelihood of this occurring by incentivizing adoption.</p>
+
+
+
+<p>Try <a href="https://www.futureswap.com/">Futureswap</a> today and start earning FST rewards. Also, be sure to check out the Futureswap community on <a href="https://twitter.com/futureswapx">Twitter</a> and <a href="https://discord.gg/ZCcxtu9VxH">Discord</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Futureswap to help educate and inform the community about the launch of Futureswap V2 Beta. </em><em>DeFi Pulse received FST tokens as part of its payment. </em><em>As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Perpetual Protocol &#8211; 20x Leverage Perpetuals Never Limited by Available Liquidity</title>
+		<link>./../../../2020/08/30/perpetual-protocol/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 30 Aug 2020 16:18:11 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Exchanges]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[futures]]></category>
+		<category><![CDATA[perp]]></category>
+		<category><![CDATA[perpetual]]></category>
+		<category><![CDATA[perpetuals]]></category>
+		<category><![CDATA[vamm]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8489</guid>
+
+					<description><![CDATA[Innovation happens at a head-spinning pace in decentralized finance. As the ecosystem continues to stack up brick after brick, our...]]></description>
+										<content:encoded><![CDATA[
+<p>Innovation happens at a head-spinning pace in decentralized finance. As the ecosystem continues to stack up brick after brick, our capabilities reach new heights and knock down old barriers. The protocol I have the pleasure of introducing to you in this week&#8217;s DeFi Pulse Drop has its eyes set on disrupting the existing futures and derivatives market by offering innovations that lower the barrier to entry for even low liquidity futures.</p>
+
+
+
+<p><a href="https://perp.fi/">Perpetual Protocol</a> is a decentralized perpetual contract protocol capable of supporting 20x leverage for any asset without being limited by available liquidity thanks to its virtual AMM (vAMM) design.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://perp.fi/"><img loading="lazy" width="700" height="179" src="./../../../wp-content/uploads/2020/08/1_1wIKLnIokys0kmlCyynzTg.png" alt="" class="wp-image-8506" srcset="./../../../wp-content/uploads/2020/08/1_1wIKLnIokys0kmlCyynzTg.png 700w, ./../../../wp-content/uploads/2020/08/1_1wIKLnIokys0kmlCyynzTg-300x77.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></figure>
+
+
+
+<h2>What is a Virtual AMM (vAMM)?</h2>
+
+
+
+<p>To get a better understanding of the differences between your average AMM like Uniswap or Curve and Perpetual&#8217;s vAMM, let&#8217;s take a step back. Automated Market Maker (AMM) exchanges you&#8217;ve likely encountered before swap tokens with a constant product function <em>x*y=k</em>. And while there has been a lot of innovation happening around AMMs in the past couple years to optimize swapping assets, Perpetual Protocol&#8217;s virtual AMM (vAMM) is something unique which enables perpetual contracts for any asset with lower slippage by design. </p>
+
+
+
+<p>I know what you&#8217;re saying: &#8220;Aren&#8217;t all smart contracts <em>virtual</em>?&#8221; And, you&#8217;re not wrong, so let&#8217;s clear up what this means exactly by examining that function <em>x*y=k</em> from earlier. With most other AMMs, you deposit two assets into reserves represented as <em>x</em> and <em>y.</em> The available quantities of these two assets establishes the price you might pay to swap in either direction. As the supply of <em>x</em> increases, the supply of <em>y</em> decreases and vice versa. The result is that <em>k</em> remains constant and liquidity is always available albeit the price gets higher and higher as you approach the extremes in either direction. Perpetual Protocol&#8217;s vAMM functions similarly except it doesn&#8217;t actually store any tokens inside the AMM itself.</p>
+
+
+
+<p>Perpetual Protocol&#8217;s <a href="https://gov.perp.fi/t/deep-dive-into-our-virtual-amm-vamm/38">virtual AMM (vAMM)</a> gets its name from the fact that its doesn&#8217;t store, swap or spot trade any tokens and is only used for price discovery. Assets are instead sent to another smart contract referred to as the &#8220;Clearing House&#8221; which then stores the assets in the &#8220;Vault.&#8221; The Clearing House accepts deposits and records position ownership with the relevant info such as initial margin, level of leverage, and whether it is long or short.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1920" height="1080" src="./../../../wp-content/uploads/2020/08/perpetual-protocol-vammGIF-1.gif" alt="" class="wp-image-8500"/></figure>
+
+
+
+<p>This GIF illustrates a user entering a new position; Alice longs 2.439 ETH with 100 DAI as the collateral, subsequently changing the state inside this vAMM. As you can see, the initial state of this vAMM was 40000 vDAI and 100 vETH and now the vAMM&#8217;s state becomes 97.5609756 vETH and 41000 vDAI, but remember that the Vault still holds the 100 DAI Alice deposited. The Vault always has enough collateral to pay back every trader (given the assets are able to be liquidated) because one trader&#8217;s gain will cancel out another trader&#8217;s loss. Alice&#8217;s gains are Bob&#8217;s losses and so on and so on.</p>
+
+
+
+<h3>Funding Rate</h3>
+
+
+
+<p>In order to ensure vAMM markets follow the wider market, Perpetual Protocol utilizes an hourly funding rate similar to that of FTX Exchange. Each and every hour, funding payments are paid to traders as incentive to take up the unpopular side of the market bringing it back in line with the index price. For example, if the funding rate is positive, long positions pay short position holders,</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="614" height="68" src="./../../../wp-content/uploads/2020/08/9830363769d701def459c9d411726a64fae37ffb.png" alt="" class="wp-image-8496" srcset="./../../../wp-content/uploads/2020/08/9830363769d701def459c9d411726a64fae37ffb.png 614w, ./../../../wp-content/uploads/2020/08/9830363769d701def459c9d411726a64fae37ffb-300x33.png 300w" sizes="(max-width: 614px) 100vw, 614px" /></figure>
+
+
+
+<p>Chainlink oracles are used for the index price because in the words of the Perpetual team, &#8220;it&#8217;s the most battle-tested Oracle solution on the market.&#8221;</p>
+
+
+
+<h4>Insurance Fund</h4>
+
+
+
+<p>50% of all transaction fees on Perpetual Protocol are deposited into an Insurance Fund, which is used as the first line of defense when the system faces unexpected losses such as losses in the liquidation process and funding payments.</p>
+
+
+
+<h2>What makes a vAMM unique?</h2>
+
+
+
+<p>Perpetual Protocol&#8217;s vAMM affords it a few key advantages over other AMM designs.</p>
+
+
+
+<h3>No liquidity providers = no liquidity restrictions or impermanent losses</h3>
+
+
+
+<p>Perpetual Protocol has no cap on the open interest in its markets. <strong>Separating token reserves from price discovery allows Perpetual Protocol to guarantee liquidity for any size trade.</strong> Perpetual Protocol doesn&#8217;t require large liquidity reserves or liquidity providers at all to function due to the fact no funds are stored in the vAMM. As previously mentioned, one trader&#8217;s losses are another&#8217;s gains. Each trade counteracts another and the funding rate creates incentives to keep the market moving in the right direction. <strong>And because there are no liquidity providers, there is no impermanent loss from price fluctuations.</strong></p>
+
+
+
+<h3>Adjusting k to manage slippage</h3>
+
+
+
+<p>Another major difference with the design of virtual AMMs is Perpetual Protocol&#8217;s ability to adjust <em>k </em>in the equation to respond to market conditions i.e. reducing price slippage for traders. At first, <em>k </em>will be manually set by governance but the ultimate goal is to algorithmically adjust it based on a number of potential factors such as volumes, open interest, funding payments, volatility, etc.</p>
+
+
+
+<h2>PERP token</h2>
+
+
+
+<p>PERP tokens have three major functions: governance, staking, and acting as the asset of last resort.</p>
+
+
+
+<h3>Asset of Last Resort</h3>
+
+
+
+<p>PERP acts as the ultimate backstop of the system. In the case where the Insurance Fund is unable to cover unexpected losses, PERP tokens are minted and sold to cover the rest.</p>
+
+
+
+<h3>Governance</h3>
+
+
+
+<p>The Perpetual Protocol team has laid out a <a href="https://docs.perp.fi/getting-started/governance-plan">governance plan</a> with a timeline for transitioning control of the protocol to an on-chain governance system ran by PERP token stakers. The plan details future updates including on-chain voting with delegation, bug bounty programs, ecosystem grants, and eventually proposals will only be executable code, much like Compound&#8217;s current governance. In the immediate term, you can visit <a href="https://gov.perp.fi/">gov.perp.fi</a> to propose and discuss governance proposals. </p>
+
+
+
+<h3>Staking</h3>
+
+
+
+<p>PERP holders can stake their tokens for a fixed amount of time known as an &#8220;epoch&#8221; to receive staking rewards in PERP as well as a portion of the transaction fees in stablecoins. At launch, epochs last 7 days but can be adjusted by protocol governance. Although you may stake at anytime during an epoch, staking rewards are time-weighted meaning that staking earlier in the epoch yields a greater portion of rewards. Staked PERP tokens continue to rollover into the next epoch unless unstaked in the present epoch.</p>
+
+
+
+<p>50% of Perpetual Protocol fees are awarded to PERP stakers for taking on the risk of being the backstop to the Insurance Fund and properly governing the protocol. At the end of each epoch, stakers can claim their portion of transaction fees paid in stablecoins immediately; however, PERP earned via staking is locked until the first day of the same month in the subsequent year.</p>
+
+
+
+<h3>PERP Distribution</h3>
+
+
+
+<p>According to Perpetual Protocol&#8217;s distribution <a href="https://docs.perp.fi/getting-started/perp-tokens">overview</a> found in their docs, the initial total supply is distributed as follows:</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="371" src="./../../../wp-content/uploads/2020/08/perp-distribution.png" alt="" class="wp-image-8491" srcset="./../../../wp-content/uploads/2020/08/perp-distribution.png 600w, ./../../../wp-content/uploads/2020/08/perp-distribution-300x186.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+
+
+
+<ul><li><em>7,500,000 PERP tokens: Balancer LBP.</em></li><li><em>36,000,000 PERP tokens: Team and advisors.</em></li><li><em>6,250,000 PERP tokens: Binance Labs, invested in the development of the Perpetual Protocol approximately 2 years ago.</em></li><li><em>22,500,000 PERP tokens: Strategic investors to the extent they fully exercise their rights to purchase PERP tokens.</em></li><li><em>77,750,000 PERP tokens: Ecosystem and rewards, which will benefit traders, stakers, and developers who participate in the Perpetual Protocol ecosystem. As Perpetual Protocol transits to community governance, the Perpetual Protocol community will make all decisions regarding the distribution of ecosystem rewards.</em></li></ul>
+
+
+
+<p>It&#8217;s worth noting that only 10% of the PERP tokens allotted to ecosystem and rewards will be unlocked until the community governs the protocol on-chain. Additionally, protocol governance or an emergency minting of PERP tokens to backstop the system could result in the max supply of 150,000,000 PERP being altered.</p>
+
+
+
+<p>The Perpetual Protocol team plans to make 7.5M PERP tokens available on Balancer around Sep 7, 2020 at 6:00 am UTC. This first Balancer pool will be a liquidity bootstrapping pool designed to disincentivize price speculation and front running. Check <a href="https://medium.com/@perpetualprotocol/perp-token-distribution-2f1b6196744d">here</a> for more details and also stay tuned to <a href="https://twitter.com/perpprotocol">Perpetual&#8217;s twitter</a>. There are also plans to have a <a href="https://docs.perp.fi/getting-started/liquidity-mining-proposal">liquidity mining rewards</a> program to further bootstrap the system. </p>
+
+
+
+<h2>Conclusion</h2>
+
+
+
+<p>It&#8217;s been truly exciting to watch DeFi grow recently. And to me, projects like Perpetual Protocol mark a new level of maturity for decentralized finance. The Perpetual team has put together some interesting new concepts with existing money legos to expand the DeFi ecosystem&#8217;s toolbox. I recommend you check out Perpetual Protocol&#8217;s<a href="https://perp.fi/"> trading interface</a>, dive into their <a href="https://docs.perp.fi/">documentation</a> if you&#8217;d like more information, or even join the discussions happening in their <a href="https://gov.perp.fi/">gov. forum</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve been paid by Perpetual Protocol to inform readers about their platform and perpetual contracts. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MCDEX &#8211; 10x Perpetual Contracts Powered by Order Book/AMM Hybrid</title>
+		<link>./../../../2020/06/28/mcdex/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 28 Jun 2020 15:29:36 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[leverage]]></category>
+		<category><![CDATA[mcdex]]></category>
+		<category><![CDATA[perpetual]]></category>
+		<category><![CDATA[perpetuals]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8310</guid>
+
+					<description><![CDATA[DeFi has been on fire lately. Following the space has been absolutely riveting. We&#8217;ve got another sneak peek of an...]]></description>
+										<content:encoded><![CDATA[
+<p>DeFi has been on fire lately. Following the space has been absolutely riveting. We&#8217;ve got another sneak peek of an interesting DeFi protocol for you today. The folks over at MCDEX have taken decentralized perpetual contracts and combined them with a hybrid on-chain AMM/off-chain order book in their recent upgrade MCDEX V2. </p>
+
+
+
+<p><strong>MCDEX&#8217;s first decentralized perpetual contract ETH-PERP launching Monday June 29th, 2020</strong> makes full use of this hybrid model to enable users to <a href="https://mcdex.io/trade?invite_code=052t01">trade ETH/USD perpetual contracts with up to 10x leverage</a> and no expiration. Additionally, MCDEX has recently proposed a new AMM price formula which enables lower slippage, better capital efficiency, and near 0 impermanent loss for liquidity providers.</p>
+
+
+
+<h2>What is MCDEX?</h2>
+
+
+
+<p>Before we dive into the tech, I think it is useful to understand what inspired MCDEX. The team that built MCDEX is a team from China formerly involved in PoW mining. They saw the potential in DeFi and decided to build products that make investing in DeFi easier to continue contributing to the ecosystem as the industry transitions to ETH2.0. Personally, I think the team&#8217;s foresight is readily apparent in many of their designs. So without further ado, let&#8217;s dive into it.</p>
+
+
+
+<p><a href="https://mcdex.io/trade?invite_code=052t01">MCDEX</a> is a decentralized derivatives exchange for traders to long/short efficiently and securely. MCDEX is built on the Mai Protocol V2. Fun fact: the name Mai is actually a pun made with the pinyin for two Chinese characters măi &#8220;买&#8221; meaning buy and mài &#8220;卖&#8221; meaning sell.&nbsp;Funny enough, that&#8217;s exactly what the Mai Protocol does: reduce the complexity of trading decentralized perpetual contracts down to just buy or sell. Historically, decentralized derivatives required many steps; MCDEX eliminates the extra step, streamlining the process and making it more approachable to new users. Additionally, security audits for MCDEX’s Mai Protocol V2 and perpetual contracts have been completed by OpenZeppelin and ConSensys Diligence.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="728" height="376" src="./../../../wp-content/uploads/2020/06/mai2-arch.png" alt="" class="wp-image-8313" srcset="./../../../wp-content/uploads/2020/06/mai2-arch.png 728w, ./../../../wp-content/uploads/2020/06/mai2-arch-300x155.png 300w" sizes="(max-width: 728px) 100vw, 728px" /><figcaption>hybrid architecture of Mai Protocol V2</figcaption></figure>
+
+
+
+<p>As previously mentioned, what makes MCDEX unique is its combination of perpetual contracts with an off-chain order book / on-chain AMM hybrid. This hybrid model gives traders the best of both worlds. The off-chain order book provides traders with the look and feel of a centralized exchange while the AMM provides reliable on-chain liquidity. </p>
+
+
+
+<p>There&#8217;s a sort of symbiosis between the two; the order book offers efficient liquidity but tends to be a bit more centralized whereas the AMM&#8217;s liquidity is always available to both traders and other smart contracts on-chain. This opens up a world of possibilities for these perpetual contracts to be used in the wider DeFi ecosystem.</p>
+
+
+
+<p>Introducing the AMM to MCDEX not only provided reliable on-chain liquidity, it also enabled a key feature of perpetual contracts: funding rate. In a nutshell, the funding rate&#8217;s purpose is to balance out long or short orders in times of high demand to maintain an accurate index price. So naturally, the funding rate is dynamically adjusted by the protocol in response market demand.  For example, when the funding rate is positive it means long position holders pay to fund short positions (short position holders). This incentivizes users to take up the short side of the trade effectively balancing demand for both sides.</p>
+
+
+
+<p>This is where the AMM and off-chain order book work so nicely together. The funding rate needs to be derived on-chain to be sufficiently decentralized but on-chain trading isn&#8217;t always ideal for traders. Liquidity and trading activity will naturally gravitate towards the efficiency of the off-chain order book, but arbitrage opportunities between the order book and AMM improve the AMM&#8217;s liquidity and earn more fees for liquidity providers. Not to mention, many of you will be happy to hear ETH-PERP takes advantage of Chainlink&#8217;s ETH/USD Price Reference Contract live on the Ethereum mainnet as its index price feed.</p>
+
+
+
+<h2>Trade ETH-PERP with up to 10x leverage</h2>
+
+
+
+<p>MCDEX is set to launch ETH-PERP trading on Monday June 29, 2020. Get a <a href="https://mcdex.io/trade?invite_code=052t01">sneak peek</a> at the interface today.</p>
+
+
+
+<p>MCDEX&#8217;s trading interface was designed to be intuitive with a familiar look and feel for experienced traders yet simple enough for new users. I liked how all the info I needed was laid out in the interface; I found the Etherscan links for contract and asset addresses particularly helpful.</p>
+
+
+
+<p>Traders will appreciate the performance of MCDEX&#8217;s order book interface. With its speed, efficiency, and support for features like limit orders you might find yourself surprised you aren&#8217;t trading on a centralized exchange.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://mcdex.io/trade?invite_code=052t01"><img loading="lazy" width="1024" height="613" src="./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-1024x613.jpg" alt="" class="wp-image-8337" srcset="./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-1024x613.jpg 1024w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-300x180.jpg 300w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-768x460.jpg 768w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39.jpg 1270w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Order book trading interface</figcaption></figure></div>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/06/1_l9B7vSmVvIYYPa6ZgwCNqQ-1024x500.png" alt="" class="wp-image-8317"/><figcaption>AMM interface</figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p>If you&#8217;re familiar with other popular perpetual contract exchanges like BitMEX, it&#8217;ll take no time at all to get settled in. Head over to <a href="https://mcdex.io/trade?invite_code=052t01">MCDEX</a> and explore it for yourself. </p>
+
+
+
+<h2>Looking towards the future</h2>
+
+
+
+<p>Many aspects of MCDEX&#8217;s design illustrate the team&#8217;s willingness to learn from battle-tested concepts in DeFi and desire to contribute the ecosystem&#8217;s long-term success. Take for example, 1% out of the 2.5% liquidation penalty automatically goes to an insurance fund. You can find more info about MCDEX&#8217;s roadmap in<a href="https://mcdex.io/references/#/en/white-paper"> the whitepaper</a>.</p>
+
+
+
+<h3>Structured funds enable new strategies for even inexperienced DeFi users</h3>
+
+
+
+<p>Trading perpetual contracts isn&#8217;t everyone&#8217;s cup of tea but that doesn&#8217;t mean they won&#8217;t be able to get in on the action. While perpetual contracts are MCDEX&#8217;s first product, the team plans to release structured trading funds for various risk preferences. This creates the opportunity for even inexperienced traders to take part in perpetual contract trading.</p>
+
+
+
+<p>Structured funds on MCDEX will allow anyone to deposit assets and automatically trade perpetual contracts with a robotic or human-managed fund strategy. This creates the opportunity for MCDEX users to expose themselves to many different strategies and potentially maximize their profits. Not to mention, fundholders will be eligible for liquidity mining incentives&#8230;</p>
+
+
+
+<h3>MCB token and Liquidity Mining</h3>
+
+
+
+<p>MCDEX plans to launch a native token (tentatively in Q3 2020) called MCB token to align its stakeholders, a portion of which will be distributed through liquidity mining to incentivize users to invest in funds. Once launched, MCB tokens will be distributed to the funds based on their net asset value at a fixed amount per day. This should effectively incentivize users to invest in the funds that perform the best whether they be a social or automated funds. Put simply, the better a fund performs, the faster its net asset value grows, the more MCB tokens fundholders are rewarded. Social fund managers will even receive a cut of the MCB they earn for fundholders.</p>
+
+
+
+<p><strong>Initial distribution of MCB tokens</strong></p>
+
+
+
+<ol><li>25% to founding team and early investors</li><li>25% to MCDEX Foundation for token sale to cover expenses such as development, audits, market makers, marketing, etc. </li><li>50% to user incentives with a limit up to 5% per year.</li></ol>
+
+
+
+<p>That limit of 5% a year stuck out to me as something interested because it means that user incentives are planned for a minimum of 10 years. This fits well into MCDEX&#8217;s roadmap to add more user incentives and eventually enable on-chain governance run by MCB token holders. </p>
+
+
+
+<p><strong>Trading competition</strong></p>
+
+
+
+<p>To celebrate the launch of their ETH-PERP smart contract, MCDEX is holding a trading competition with prizes up to $2500 + 2500MCB. The competition will begin on June 29th, 2020 from 12:00 pm UTC, and will close on July 13, 2020, at 12:00 pm UTC. More details can be found <a href="https://mcdex.io/competition">here</a>.</p>
+
+
+
+<h3>Concluding thoughts</h3>
+
+
+
+<p>Ultimately, I find it very encouraging how MCDEX seems to understand the necessity of balancing ease of use, efficiency, decentralization and sustainability when designing smart contract systems. On a personal note, I enjoyed poking through Mai Protocol V2 to write this article because it reminds me again how we&#8217;re truly on the cutting edge here in DeFi.</p>
+
+
+
+<p><strong>We highly recommend you check out MCDEX and see for yourself how the order book enables a smooth and efficient trading experience. Stay tuned for more details regarding MCB liquidity mining.</strong> In the mean time, click here to <a href="https://mcdex.io/trade?invite_code=052t01">head over to MCDEX and get started trading perpetual contracts</a> today.</p>
+
+
+
+<p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve partnered with MCDEX to inform the community about their protocol. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express as part of a DeFi Pulse Drop are our own. </em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

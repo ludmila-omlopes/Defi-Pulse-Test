@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>layer 2 &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 24 Apr 2020 13:21:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>DeFi Dive: Loopring &#8211; Ethereum’s zkRollup Exchange Protocol</title>
+		<link>./../../../2020/04/24/defi-dive-loopring/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 24 Apr 2020 13:21:06 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Exchange]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[decentralized exchanges]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[layer 2]]></category>
+		<category><![CDATA[loopring]]></category>
+		<category><![CDATA[lrc]]></category>
+		<category><![CDATA[zk-snarks]]></category>
+		<category><![CDATA[zkrollup]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8191</guid>
+
+					<description><![CDATA[In this edition of DeFi Dive, Daniel Wang, founder and CEO of Loopring, discusses how zkRollups can scale high-throughput DeFi...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="512" src="./../../../wp-content/uploads/2020/04/loopring-1.png" alt="" data-id="8198" data-full-url="./../../../wp-content/uploads/2020/04/loopring-1.png" data-link="https://defipulse.com/blog/?attachment_id=8198" class="wp-image-8198" srcset="./../../../wp-content/uploads/2020/04/loopring-1.png 1024w, ./../../../wp-content/uploads/2020/04/loopring-1-300x150.png 300w, ./../../../wp-content/uploads/2020/04/loopring-1-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+
+
+
+<p><em style=""><b>In this edition of DeFi Dive, Daniel Wang, founder and CEO of Loopring, discusses how zkRollups can scale high-throughput DeFi applications like Loopring.io while </b></em><strong><em>maintaining layer 1 security.</em></strong></p>
+
+
+
+<h3>How did you get your start in crypto and what inspired you to build your project, product, or service?</h3>
+
+
+
+<p>I learned Bitcoin back in 2013 when I was working for JD.com as a senior engineering director. Later I quit JD.com and built a centralized exchange in China, which listed BTC, Ripple, and some other cryptocurrencies. The multiple hacks of exchanges during 2014 &#8211; 2017 made me think about what technicalities can be used to create a better kind of crypto exchanges that can offer much higher security for user assets. </p>
+
+
+
+<p>When Ethereum came out, we formed a team to verify a straightforward idea: using smart-contract to build an exchange to trade tokens. We believe a well audited smart-contract exchange should offer the same level of security as the assets. That&#8217;s the beginning of Loopring, but the project ends up with a very different technical solution that we have never imagined.</p>
+
+
+
+<h3>What are you building and what sets it apart?</h3>
+
+
+
+<p>Loopring, in its latest version (3.0), is the first zkRollup-based exchange protocol that can settle more than 2K trades per second without sacrificing the layer1 security and incurs less than 200USD per million settlements. We have just started to operate an exchange built on top of this protocol &#8211; the Loopring Exchange, aka Loopring.io. </p>
+
+
+
+<p>However, this is not the end of the protocol or the exchange. We are working on versions that will offer better support for onchain composability and easier customization. With the new version, multiple exchanges built on top of the same protocol may have very different DeFi properties and business models. We believe zkRollup is the right solution for scalability, not just for exchanges, but many dApps that are designed to target millions of active users.</p>
+
+
+
+<h3>Who do you view as the ideal user or customer for your product or service?</h3>
+
+
+
+<p>We target people who use centralized exchanges. As of now, DeFi&#8217;s active user base is still very small, and DeFi onboarding is quite challenging for users without a technical background. With our new smart wallet app (launching later this year), we hope to offer a mobile platform for a massive user base with a language they speak and a set of features they can quickly understand. Eventually, security will be part of the minimum requirement a crypto platform shall offer, not a feature that we now talk about so often.</p>
+
+
+
+<h3>What future event or feature on your roadmap are you most excited for?</h3>
+
+
+
+<p>Loopring 3.5 is something we look forward to, and it will be code-complete very soon. We also expect Loopring Wallet to make a difference in terms of user acquisition.</p>
+
+
+
+<h3>Where do you see your project, product, or service fitting into the future of DeFi?</h3>
+
+
+
+<p>Orderbook-based exchanges are essential infrastructures for cryptocurrencies, and they fulfill user needs and will remain the dominant form of trading for the massive, even in the future. We believe Loopring is on the right track, and with continuous optimizations and improvements, we will remain competitive and gradually eliminate the centralized exchange technical stack.</p>
+
+
+
+<h3>What’s something in DeFi that you think more people should be paying attention to?</h3>
+
+
+
+<p>Serious investors should be concerned with DeFi&#8217;s ever-growing complexity and composability. Our crypto-assets on these products are only as secure as the weakest link in the stack. I do not participate in DeFi aggressively as the return doesn&#8217;t justify the risk for the asset I put in. I&#8217;m not saying we should not participate in DeFi at all, but a wise thing to do is only to invest want we can afford to lose.</p>
+
+
+
+<h3>How can readers learn more about your product/service?</h3>
+
+
+
+<p>The best source of information regarding Loopring is our <a href="https://loopring.org/">website</a>. For engineers and hackers, our <a href="https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md">design doc</a> is where they can find the most technical details. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>3 DeFi DApps Starting 2020 Off Strong</title>
+		<link>./../../../2020/01/09/3-defi-dapps-starting-2020-off-strong/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2020 19:10:07 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[chainlink]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[dsr]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[istanbul]]></category>
+		<category><![CDATA[layer 2]]></category>
+		<category><![CDATA[link]]></category>
+		<category><![CDATA[loopring]]></category>
+		<category><![CDATA[lrc]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<category><![CDATA[MKR]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7862</guid>
+
+					<description><![CDATA[2020 is set to be an exciting year for DeFi. Lending markets are more competitive than ever. Countless layer 2...]]></description>
+										<content:encoded><![CDATA[<p>2020 is set to be an exciting year for DeFi. Lending markets are more competitive than ever. Countless layer 2 solutions are being built with new ZK technology. And to top it off, this year we&#8217;re likely to see interoperability make great strides. Let&#8217;s dive into a few DApps who have hit the ground running this year.</p>
+<h3>Maker</h3>
+<p>Fresh off the successful launch of Multi-Collateral Dai, <a href="https://makerdao.com/">Maker</a> has been solidifying its #1 position on the <a href="https://defipulse.com/">DeFi Pulse</a> rankings headed into 2020. As of writing this, there&#8217;s <a href="https://defipulse.com/maker">over 36M DAI locked</a> in MakerDAO, primarily in the Dai Savings Rate. And now, MakerDAO voted to increase the <a href="https://defipulse.com/blog/dsr-dai-savings-rate/">Dai Savings Rate</a> (<a href="https://defipulse.com/blog/dsr-dai-savings-rate/">DSR</a>) to 6%. It&#8217;s no wonder the total DAI locked in DeFi is setting a new all-time high.</p>
+<h3><img loading="lazy" class="alignnone size-full wp-image-7878" src="./../../../wp-content/uploads/2020/01/Selection_898.png" alt="" width="895" height="311" srcset="./../../../wp-content/uploads/2020/01/Selection_898.png 895w, ./../../../wp-content/uploads/2020/01/Selection_898-300x104.png 300w, ./../../../wp-content/uploads/2020/01/Selection_898-768x267.png 768w" sizes="(max-width: 895px) 100vw, 895px" /></h3>
+<p>To add fuel to the fire, <a href="https://defipulse.com/blog/what-is-chai/">CHAI</a> is a smart contract that wraps DAI in the DSR so DeFi users can have their cake and eat it too. Chai can also be used in smart contracts. For example, Fulcrum&#8217;s iDAI now supports CHAI so any idle DAI earns the DSR.</p>
+<h3>Chainlink</h3>
+<p><a href="https://chain.link/">Chainlink</a>&#8216;s following extends beyond the LINK Army you&#8217;ve likely come across on social media to partnerships big and small, including Intel and Google Cloud services.</p>
+<p><img loading="lazy" class="alignnone wp-image-7870" src="./../../../wp-content/uploads/2020/01/ENr_U9sU0AYf_rX.jpeg" alt="chainlink" width="525" height="452" srcset="./../../../wp-content/uploads/2020/01/ENr_U9sU0AYf_rX.jpeg 958w, ./../../../wp-content/uploads/2020/01/ENr_U9sU0AYf_rX-300x258.jpeg 300w, ./../../../wp-content/uploads/2020/01/ENr_U9sU0AYf_rX-768x661.jpeg 768w" sizes="(max-width: 525px) 100vw, 525px" /></p>
+<p>Just take a look at this smorgasbord of Chainlink partnerships and the network effects of the project seem undeniable. Synthetix&#8217;s <a href="https://blog.synthetix.io/chainlink-decentralizes-first-wave-of-synthetix-price-feeds/">recent integration of Chainlink oracles</a> to its FX/commodities markets is a primary example of a fruitful partnership to keep an eye in 2020. Another example would be <a href="https://medium.com/loopring-protocol/chainlink-and-loopring-collaborate-on-oracles-for-zkrollup-dex-protocol-c1c8094afc27">Loopring&#8217;s work with Chainlink</a> to ensure its economic security. We&#8217;ll discuss this more in a bit.</p>
+<p>Not to mention, Aave Protocol just launched its lending protocol with all 16 of its supported assets powered by Chainlink oracles.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">1/<a href="https://twitter.com/AaveAave?ref_src=twsrc%5Etfw">@AaveAave</a> ( <a href="https://twitter.com/search?q=%24LEND&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$LEND</a>) launched its lending protocol today with a bang!<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f4a5.png" alt="💥" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Here&#39;s a TLDR:</p>
+<p>&quot;flash loans enable a .. smart contract to borrow assets from our reserve pools within one transaction on the condition that the liquidity is returned to the pool before the transaction ends&quot; <a href="https://t.co/YiVYLnBX3X">https://t.co/YiVYLnBX3X</a></p>
+<p>&mdash; DEX.AG Token Wire (@DEXAG_TokenWire) <a href="https://twitter.com/DEXAG_TokenWire/status/1215020025276272640?ref_src=twsrc%5Etfw">January 8, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h3>Loopring</h3>
+<p>Following Ethereum&#8217;s Istanbul upgrade, <a href="https://loopring.org/#/">Loopring</a>&#8216;s ZK tech has been given a <a href="https://defipulse.com/blog/how-ethereums-istanbul-network-upgrade-affects-defi/">performance boost by EIP-2028</a>. WeDEX launched their beta in December as the first ZK Rollup DEX built with Loopring v3. Test results <a href="https://medium.com/loopring-protocol/loopring-testing-phase-1-data-recap-ed0c67396870">released this week</a> revealed that the &#8220;average settlement cost per trade [on WeDEX was] about 5,000 gas, or 0.0000177 ETH.&#8221;</p>
+<p><a href="https://twitter.com/loopringorg/status/1214278030308335616"><img loading="lazy" class="alignnone size-large wp-image-7885" src="./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-1024x420.jpeg" alt="" width="640" height="263" srcset="./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-1024x420.jpeg 1024w, ./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-300x123.jpeg 300w, ./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-768x315.jpeg 768w, ./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-1536x630.jpeg 1536w, ./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-2048x840.jpeg 2048w, ./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-1568x643.jpeg 1568w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<p>Additionally, Loopring&#8217;s recent decision to integrate Chainlink seems like a promising sign for the platform&#8217;s future. Long story short, the Loopring Protocol requires users to stake LRC tokens for a number of reasons. Particularly, zkRollup DEX owners stake LRC in order to process layer 2 trades and submit them to Ethereum. Chainlink will help Loopring scale off-chain functions and ensure the protocol&#8217;s economic security by providing a reliable decentralized price oracle for LRC/ETH. <a href="https://medium.com/loopring-protocol/chainlink-and-loopring-collaborate-on-oracles-for-zkrollup-dex-protocol-c1c8094afc27">Read more</a> about Loopring&#8217;s Chainlink integration.</p>
+<p><span style="font-weight: 400;">F</span>ollow us on <a href="https://twitter.com/defipulse">Twitter</a> or join us in <span style="font-weight: 400;">our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a> to keep up with the DeFi ecosystem</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>4 New DeFi Trends to Watch Out for in 2020</title>
+		<link>./../../../2019/12/12/4-new-defi-trends-to-watch-out-for-in-2020/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2019 20:26:59 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[bzx]]></category>
+		<category><![CDATA[decentralized exchanges]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[layer 2]]></category>
+		<category><![CDATA[tornado-cash]]></category>
+		<category><![CDATA[zk-snarks]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7824</guid>
+
+					<description><![CDATA[It&#8217;s been an amazing year for Decentralized Finance. As of writing this, DeFi has grown from $293M to $665M since...]]></description>
+										<content:encoded><![CDATA[<p>It&#8217;s been an amazing year for Decentralized Finance. As of writing this, DeFi has grown from $293M to $665M since the start of 2019. Not only should the community celebrate the tremendous growth this year, but also the many brighter days ahead. Let&#8217;s look to what the future holds for DeFi with four trends you should keep your eyes out for in 2020.</p>
+<h3>Privacy Solutions and Mixers</h3>
+<p>Research into zero knowledge proof technology was extremely fruitful in 2019. For starters, the gas cost of ZK-SNARKs has greatly been <a href="https://defipulse.com/blog/how-ethereums-istanbul-network-upgrade-affects-defi/">reduced through new EIPs</a>. Not to mention, new ZK proving systems like PLONK, Sonic, etc. are faster than ever. Additionally, EY has continued its work on zero knowledge transaction batching, achieving a 400-fold improvement in gas efficiency.</p>
+<p>Aside from the admirable research completed in 2019, many prominent privacy solutions, especially those utilizing ZK-SNARKs, launched new contracts and upgrades onto the mainnet. As with most new technology, testing and audits were necessary for these projects to gain public confidence. For example, Tornado Cash, an ETH mixer using ZK-SNARKs, just <a href="https://twitter.com/TornadoCash/status/1204745639759884289">passed a security audit</a>. Not to mention, <a href="https://defipulse.com/blog/how-ethereums-istanbul-network-upgrade-affects-defi/">Istanbul</a> enabled DeFi smart contracts that are interoperable with Zcash. With the steps taken in 2019,&nbsp;expect mixers and other privacy solutions to continue to gain traction in 2020.</p>
+<h3>Layer 2 Economics</h3>
+<p>Many layer 2 solutions require users to stake or put down a bond for the opportunity to earn protocol fees from layer 2 transactions. Let&#8217;s take a look at <a href="https://ethgasstation.info/blog/what-is-optimistic-rollup-ethereums-latest-layer-2-scaling-solution/">Optimistic rollup</a>&nbsp;as an example which requires bonded aggregators to bundle user-submitted transactions into rollup blocks submitted on their layer 2 sidechains. Users pay aggregators fees to submit their transactions and the new sidechain state root (AKA the optimistic rollup block) to the mainnet.</p>
+<p>Anyone can become an aggregator by putting down a bond. Also, anyone can collect rewards for slashing aggregators who submit or build on invalid rollup blocks. We&#8217;re likely to see more solutions like rollups to be deployed in 2020 due to their scaling advantages. It&#8217;ll be interesting to see how the economics behind staking and bonded aggregator mechanics shake out in the year ahead.</p>
+<h3>DEXes and DeFi Grow Together Challenging Centralized Exchanges</h3>
+<p>In 2020, DEXes will grow as more people are drawn to the unique opportunities available in DeFi. Increasingly efficient non-custodial financial tools will continue to attract more traders away from centralized exchanges. However, it&#8217;s worth noting that most activity in decentralized finance requires liquidity to function.&nbsp;More users, more liquidity necessary to operate. For example, margin trading on <a href="https://defipulse.com/bzx">Fulcrum</a> involves swapping between multiple tokens.</p>
+<p>Therefore, incentivizing external and native liquidity is key for DeFi platforms. DEX aggregators like DEX.AG offer users an efficient way to access both, promoting decentralization. A prime example of this is the recent integration of Synthetix&#8217;s native exchange into DEX aggregator&nbsp;<a href="https://dex.ag/susd">DEX.AG</a>. Users of both platforms benefit from the additional liquidity and SNX holders collect more native exchange fees. So keep your eyes on how the relationship between DEXes and DApps evolves in 2020.</p>
+<h3>Discovery Period for Staking</h3>
+<p>Ethereum 2.0&#8217;s set to launch in early 2020. And so, ETH holders will be able to stake 32 ETH and earn fees for validating blocks. We&#8217;ll have to wait and see how many DeFi users will stake. And based on that, what will the returns be like? How will staking influence the greater DeFi community?</p>
+<p>What will be the most popular way to stake ETH and cryptocurrency in general? Exchanges and custody services are already offering Tezos staking and will likely offer custodial ETH staking.</p>
+<p>What kind of DeFi products and services will launch to suit the needs of ETH 2.0? For example, <a href="https://www.rocketpool.net/">Rocket Pool</a>&nbsp;is arguably the most popular decentralized staking pool in development. Learn more about the changes coming soon with Ethereum 2.0 <a href="https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/#phase-0-beacon-chain">here</a>.</p>
+<p><span style="font-weight: 400;">F</span>ollow us on&nbsp;<a href="https://twitter.com/defipulse">Twitter</a>&nbsp;or join us in&nbsp;<span style="font-weight: 400;">our&nbsp;<a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a>&nbsp;to keep up with the DeFi ecosystem</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

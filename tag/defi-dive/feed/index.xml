@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>defi dive &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 13 Feb 2020 14:10:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>DeFi Dive: Aave Protocol &#8211; an open source non-custodial lending protocol</title>
+		<link>./../../../2020/02/13/defi-dive-aave-protocol/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2020 14:10:34 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[aave]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[defi dive]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[interview]]></category>
+		<category><![CDATA[lend]]></category>
+		<category><![CDATA[lending]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7980</guid>
+
+					<description><![CDATA[Off the heels of Aave Protocol storming DeFi Pulse&#8217;s rankings, Stani Kulechov founder and CEO of Aave joins us today....]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/02/DeFi-Dive-Social-Media-Aave-thumbnail-example-1.png" alt="" class="wp-image-7982" width="1024" height="512"/></figure>
+
+
+
+<p><strong><em>Off the heels of Aave Protocol storming DeFi Pulse&#8217;s rankings, Stani Kulechov founder and CEO of Aave joins us today</em></strong>.</p>
+
+
+
+<h3>How did you get your start in crypto and what inspired you to build your project, product, or service?</h3>
+
+
+
+<p>I first got into crypto because of the Ethereum community back when I was in college. I was studying Law, but I my true passion has always been finance. When you look at the traditional financial system, there are many inefficiencies. I wanted to build an ecosystem where people have control over their money, and finance is transparent and open.</p>
+
+
+
+<h3>What are you building and what sets it apart?</h3>
+
+
+
+<p>We released Aave Protocol nearly a month ago, and already we have over 5 million USD liquidity locked in our protocol. Aave provides a money lending market similar to Compound, but instead of just focusing on the total locked amount of assets, Aave re-uses locked assets within the Ethereum ecosystem. We wanted to come up with innovative tools that utilize the assets in different ways, and that’s how we came up with flash loans. Flash loans are a tool for developers to borrow liquidity from the protocol without needing to put up any collateral, provided that the liquidity is returned to the protocol within one transaction (a single block). You can use flash loans to do some fancy arbitraging, refinancing, and much more. The use-cases people come up with are super cool, because you can really apply them in creative ways. The end goal for flash loans is to help developers build financial products without needing capital, enabling more people to build and lowering the barrier to entry.</p>
+
+
+
+<p>Another exciting feature is our Aave interest-bearing tokens called “aTokens”. When someone deposits an asset in Aave Protocol, a smart contract mints an equivalent amount of aTokens, which are pegged 1:1 to the underlying asset and are sent to the lender. For example, if you deposit 200 Dai, you will get 200 aDai in your wallet. The underlying asset, in this case the 200 Dai, is loaned out to borrowers while the aDai accrue interest in real time directly in your wallet. You can redirect this interest at any time to any Ethereum address, putting you in control over your earnings.</p>
+
+
+
+<p>Aave Protocol also lets users switch between stable and variable rates when borrowing, so that the interest-rate is always on your side. Stable rates give the user more certainty than variable rates, which can fluctuate a lot. You can always switch—if you have a variable rate and the rate starts going up, you can switch to the stable rate, for example.</p>
+
+
+
+<p>We knew we needed to offer new features with Aave Protocol. You can’t just do the same thing as everyone else—in order to get people into DeFi you need to come up with new tools that can really benefit users.</p>
+
+
+
+<h3>Who do you view as the ideal user or customer for your product or service?</h3>
+
+
+
+<p>Everyone! We want to bring DeFi into the mainstream, but we understand that there are some hurdles to this, such as education, since people can find anything “blockchain” intimidating and people do not understand the value of DeFi yet. Right now, our main users are devs, especially since some tools like flashloans are designed specifically for people with some technical knowledge. However, anyone can use Aave protocol to earn interest on their crypto or borrow assets.</p>
+
+
+
+<h3>What future event or feature on your roadmap are you most excited for?</h3>
+
+
+
+<p>We are very excited to hand over the governance to the community of LEND holders. Currently, Aave is keeping the governance in case there are any issues with the protocol, but it has been built and will be released to the public very soon. LEND holders will have voting power and be able to make important decisions regarding the governance of the protocol.</p>
+
+
+
+<h3>Where do you see your project, product, or service fitting into the future of DeFi?</h3>
+
+
+
+<p>We want to bring DeFi into the mainstream conscience by building tools that people can really use, and want to use, to control their money. Money should never just sleep in a traditional bank account when you can put it in DeFi and earn some interest, borrow, etc. People want to have control over their finances and see their money working for them 24/7. They also value transparency and openness, which you don’t necessarily get in the old-school financial system.</p>
+
+
+
+<h3>What’s something in DeFi that you think more people should be paying attention to?</h3>
+
+
+
+<p>I think people should be looking at uncollateralized loan options, like Aave protocol’s flash loans. DeFi usually relies on overcollateralized loans, but this requires borrowers to put up tons of collateral, which not everybody has. Uncollateralized loans make it easier for people to borrow and doesn’t require lots of capital, making it more accessible.</p>
+
+
+
+<h3>How can readers learn more about your product/service?</h3>
+
+
+
+<p>Check out our website to learn more and try out Aave Protocol: <a href="https://aave.com/">https://aave.com/ </a><br>Twitter for all the updates (and some memes): <a href="https://twitter.com/AaveAave">https://twitter.com/AaveAave</a> <br>Medium to read about the protocol, how to use it, security, and more: <a href="https://medium.com/aave">https://medium.com/aave</a> <br>Or join in our convo on Discord: <a href="https://discordapp.com/aave">https://discordapp.com/aave</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dai savings rate &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 16 Dec 2019 17:02:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>What is Chai? An Instant DAI Savings Account Powered by Maker</title>
+		<link>./../../../2019/12/16/what-is-chai/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2019 17:02:33 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[cDai]]></category>
+		<category><![CDATA[chai]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[dai savings rate]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[dsr]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7830</guid>
+
+					<description><![CDATA[No, we&#8217;re not talking about the beverage. We&#8217;re talking about this new token creating buzz in the Ethereum community lately...]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone wp-image-7832 size-large" src="./../../../wp-content/uploads/2019/12/14271895046_2100131b06_b-1024x622.jpg" alt="chai" width="640" height="389" /></p>
+<p>No, we&#8217;re not talking about the beverage. We&#8217;re talking about this new token creating buzz in the Ethereum community lately called Chai. CHAI is an ERC20 token that&#8217;s like DAI which earns interest from Maker&#8217;s <a href="https://defipulse.com/blog/dsr-dai-savings-rate/">Dai Savings Rate</a> (DSR), currently 4% as of writing this. It&#8217;s a lot like how <a href="https://defipulse.com/blog/what-is-cdai/">cDAI</a> represents DAI supplied to Compound plus interest. Chai.sol, the token&#8217;s smart contact, deposits your DAI into the DSR and issues you CHAI tokens which can be stored, transferred, traded, and later redeemed for the underlying DAI plus any interest earned. As an added bonus, it&#8217;s also supports gas-less token transfers.</p>
+<p>The <a href="https://github.com/dapphub/chai">project</a>, smart contract, and interface was created by Martin Lundfall, Lucas Vogelsang, and Lev Livnev. Also, Abbey Titcomb made the lovely mug pixel art. Deployed on December 1st, 2019, you can now pay friends, grow your savings, trade, etc. while still earning interest on your DAI.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Introducing `chai.sol`, a simple ERC20 wrapper over the Dai Savings Rate:</p>
+<p><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2705.png" alt="✅" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Interest accruing Dai<br /><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2705.png" alt="✅" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Gas-less token transfers<br /><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2705.png" alt="✅" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 184 LOC from the makers of MCD</p>
+<p>We&#39;re soliciting feedback from the community before launching on December 1st</p>
+<p><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f375.png" alt="🍵" class="wp-smiley" style="height: 1em; max-height: 1em;" /> -&gt; <a href="https://t.co/MGSEQ6BQWm">https://t.co/MGSEQ6BQWm</a></p>
+<p>&mdash; Martin Lundfall (@MartinLundfall) <a href="https://twitter.com/MartinLundfall/status/1197627208136658944?ref_src=twsrc%5Etfw">November 21, 2019</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h3>How do I get Chai tokens?</h3>
+<p>It&#8217;s super easy to start earning interest, playfully named &#8220;brewing your DAI!&#8221; Just perform the following steps:</p>
+<ol>
+<li>Navigate to this handy Chai <a href="https://chai.money/">interface</a></li>
+<li>Connect your wallet</li>
+<li>Enter amount of DAI you&#8217;d like to convert</li>
+<li>Click the Convert button and the prompts to confirm transaction</li>
+</ol>
+<p>And when you&#8217;re ready to stop &#8220;brewing&#8221; and cash out, flip over to the CHAI -&gt; DAI tab and redeem tokens for your DAI plus interest.</p>
+<h2>Money Legos in action</h2>
+<p>The awesome part thing about DeFi is that smart contracts like Legos can be pieced together in many different ways to create new utility. Similar to cDAI, Chai takes DAI that would normally be locked away and turns them into useful liquid assets. And, it isn&#8217;t the only one to take advantage of Maker&#8217;s Dai Savings Rate contract and it won&#8217;t be the last. For example, there&#8217;s also <a href="https://medium.com/@keydonix/dai-hrd-token-hold-rated-dai-dfd3fe491d83?">DAI-HRD</a> which similarly wraps DAI into the DSR. Another prime example of a project adding utility to DAI is <a href="https://rdai.money/">rDAI</a> which let&#8217;s you redirect the interest generated from your DAI on multiple DeFi platforms. Nothing stops someone from making an interest bearing meta-stablecoin by combining cDAI, Chai, and/or cUSD, etc. The only limit is the imagination of developers in the DeFi community.</p>
+<p><span style="font-weight: 400;">F</span>ollow us on <a href="https://twitter.com/defipulse">Twitter</a> or join us in <span style="font-weight: 400;">our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a> to keep up with the DeFi ecosystem</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>What is SAI? Where is my DAI? Migrating to Multi-Collateral Dai</title>
+		<link>./../../../2019/11/18/what-is-sai-where-is-my-dai-migrating-to-multi-collateral-dai/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 18 Nov 2019 16:04:37 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[CDP]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[dai savings rate]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<category><![CDATA[sai]]></category>
+		<category><![CDATA[vault]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7772</guid>
+
+					<description><![CDATA[Don&#8217;t panic. Everything is ok. The Maker system has been upgraded to Multi-Collateral Dai. You should see SAI in your...]]></description>
+										<content:encoded><![CDATA[<p>Don&#8217;t panic. Everything is ok. The Maker system has been upgraded to Multi-Collateral Dai. You should see SAI in your wallet instead of DAI. This just means it&#8217;s time to migrate your &#8220;DAI&#8221;, now referred to as SAI, to Maker&#8217;s new architecture.</p>
+<p>With the launch of Multi-Collateral Dai on November 18th, 2019, the name and ticker symbol of Single Collateral Dai is changing to Sai (SAI). DAI now refers to DAI minted in the new Multi-Collateral Dai system. The term Collateralized Debt Position (CDP) is also being replaced with the term &#8220;Vault&#8221; under MCDai.</p>
+<h3><img loading="lazy" class="alignnone size-large wp-image-7776" src="./../../../wp-content/uploads/2019/11/new-DAI-terminology-1024x496.jpg" alt="" width="640" height="310" srcset="./../../../wp-content/uploads/2019/11/new-DAI-terminology-1024x496.jpg 1024w, ./../../../wp-content/uploads/2019/11/new-DAI-terminology-300x145.jpg 300w, ./../../../wp-content/uploads/2019/11/new-DAI-terminology-768x372.jpg 768w, ./../../../wp-content/uploads/2019/11/new-DAI-terminology-1536x744.jpg 1536w, ./../../../wp-content/uploads/2019/11/new-DAI-terminology-1568x760.jpg 1568w, ./../../../wp-content/uploads/2019/11/new-DAI-terminology.jpg 1600w" sizes="(max-width: 640px) 100vw, 640px" /></h3>
+<p>These changes were made to reduce confusion during the transition period where both the Single Collateral and Multi-Collateral Maker systems will run in parallel. During this time, DAI and SAI will exist in the market together.</p>
+<p>Each smart contract, platform, or service that previously used DAI is expected to change ticker symbols and upgrade accordingly. And while many services and exchanges plan to transition ASAP, the process isn&#8217;t going to be instant. Be careful not to confuse the two tokens and double-check before sending tokens anywhere. Mistakes may result in the loss of your funds.</p>
+<h3>What changes are coming with Multi-Collateral Dai?</h3>
+<p>As the name implies, Dai will now be backed by multiple assets instead of just Ethereum (ETH). At launch, the MCD system will support ETH and BAT tokens.</p>
+<p>Additionally, the MakerDAO community will continue to assess and integrate new collateral types moving forward as part of the governance process. The following tokens are also being considered: Augur (REP), DigixDAO (DGD), Golem (GNT), OmiseGo (OMG), 0x (ZRX).</p>
+<p>The new <a href="https://defipulse.com/blog/dsr-dai-savings-rate/">Dai Savings Rate</a> (DSR) feature will give users the option to lock their DAI into Maker’s DAI Savings Rate contract and earn a variable interest rate in DAI.</p>
+<p>One last small change is that the stability fee for borrowing DAI or &#8220;opening a Vault position&#8221; will now be owed in DAI instead of Maker (MKR).</p>
+<h3>How do I migrate my SAI to DAI?</h3>
+<p><strong>Be sure to only attempt to migrate Sai from a wallet where you control the private keys.</strong> If you do not control the keys to the wallet where your SAI is stored (like a centralized exchange or locked in a DApp), either withdraw your SAI to your own wallet or follow their instructions for how to migrate to DAI.</p>
+<h4>To migrate your SAI to DAI:</h4>
+<ol>
+<li style="list-style-type: none;">
+<ol>
+<li>Navigate to <a href="https://migrate.makerdao.com/">migrate.makerdao.com</a></li>
+<li>Login with your wallet</li>
+<li>Click &#8220;Continue&#8221; on the &#8220;Single Collateral Dai redeemer&#8221; tab</li>
+<li>Enter the amount of SAI to upgrade</li>
+<li>Submit your transaction</li>
+</ol>
+</li>
+</ol>
+<p>DONE! You should receive your Dai in your wallet momentarily.</p>
+<h3>What should I do if&#8230;</h3>
+<h4>I have a CDP open</h4>
+<p>You have two options: migrate using Maker&#8217;s <a href="https://migrate.makerdao.com/">Migration App</a> or manually close your CDP. Using the Migration App requires you to pay back any stability fees owed in MKR at the time before migrating to a MCDai Vault.</p>
+<h4>I use Compound Finance or hold cDAI</h4>
+<p>Compound <a href="https://medium.com/compound-finance/support-for-multi-collateral-dai-c8691d0ef794">has stated</a> that existing SAI markets will continue to function as normal with no changes. &#8220;You are individually responsible for choosing when, and how, to migrate to Multi-Collateral DAI.&#8221;</p>
+<p>Once ready, new DAI will be added to Compound and both markets will be accessible for the foreseeable future. Interest rates for both assets may be volatile during this time. cDAI users can withdraw their SAI and manually migrate to DAI at anytime.</p>
+<p>Compound borrowers have the option to pay back their SAI debts and open new positions when DAI is ready. Alternatively, you can read on to learn how to migrate your Compound positions via InstaDApp</p>
+<h4>I use InstaDApp</h4>
+<p>InstaDApp is launching the <a href="https://medium.com/instadapp/mcd-migration-70782c9e6730">InstaDApp Migration Bridge</a> which allows Compound users to convert their SAI debt to DAI debt in one transaction. Although most users&#8217; debt positions are small enough, migration is subject to how SAI liquidity is available at the time.</p>
+<h4>I use dYdX</h4>
+<p>At launch, dYdX&#8217;s SAI markets will remain unchanged. dYdX <a href="https://medium.com/dydxderivatives/multi-collateral-dai-migration-on-dydx-e130575c4454">announced</a> that 2–3 weeks after DAI launches any remaining SAI balances, positions, and open orders will be converted to DAI automatically. Although, you can always close your positions, withdraw your SAI, and migrate manually at any time.</p>
+<h4>I use Nuo Network</h4>
+<p>Nuo <a href="https://medium.com/nuo-news/nuo-action-plan-for-multi-collateral-dai-a1aaa75142af">said that</a> it will rename DAI to SAI and all SAI loans, trades, and reserves will continue to exist. Nuo plans to provide a gas-free way to convert all positions by November 25th. Users may choose to either continue with existing SAI positions or convert them into DAI seamlessly on Nuo.</p>
+<h4>I use Fulcrum or Torque Loans</h4>
+<p>bZx Network&#8217;s <a href="https://medium.com/bzxnetwork/mcd-transition-plan-f2abd3176b09">transition plan</a> has you covered. Lenders on Fulcrum do not have to do anything immediately but can migrate via Fulcrum in a press of a button. SAI markets will continue to function normally and a new DAI lending pool will be launched. Torque borrowers will to continue to pay their SAI loans in SAI.</p>
+<p>Fulcrum traders&#8217; SAI positions &#8220;will continue operating for as long as there is lending and exchange liquidity. If we see that the volume of the positions is coming close to exceeding what exchange liquidity for SAI can support, the positions will cease being perpetual and expire on their next rollover date.&#8221;</p>
+<h3>How are exchanges handling the transition?</h3>
+<p>Each exchange will handle the transition differently. We recommend you do your own research or simply withdraw your SAI and migrate it yourself. Here&#8217;s <a href="https://blog.makerdao.com/single-collateral-dai-to-multi-collateral-dai-upgrade-timeline-and-actions/">a timeline</a> created by Maker documenting the upgrade and confirmed exchanges.</p>
+<p>MCDai will be available to trade on Oasis Trade immediately upon its launch November 18th. Uniswap, Bamboo Relay, and Kyber Network will support both SAI and DAI trading as soon as possible.</p>
+<p><a href="https://dex.ag/">DEX.AG</a> renamed DAI to &#8220;SAI old DAI (DAI)&#8221; in its menus. On Monday Nov. 18th, MCD DAI will be listed as DAI and ready to trade, sourcing liquidity from all available DEXes.</p>
+<p><a href="https://blog.coinbase.com/coinbase-and-coinbase-pro-plan-to-support-multi-collateral-dai-514407679b86">Coinbase and Coinbase Pro</a> plan to automatically convert any SAI you hold on Coinbase to multi-collateral DAI on December 2nd at 9 AM PST (you can get a <a href="https://www.coinbase.com/join/daley_e6">Coinbase account here</a> if you don&#8217;t have one).</p>
+<p><span style="font-weight: 400;">Still have questions left unanswered? We can help you find answers in our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord.</a> Also, f</span>ollow us on <a href="https://twitter.com/defipulse">Twitter</a> for latest updates on the community&#8217;s transition from DAI.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DSR: Dai Savings Rate &#8211; Earn Interest with Your DAI</title>
+		<link>./../../../2019/10/09/dsr-dai-savings-rate/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Wed, 09 Oct 2019 17:18:02 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Portfolio]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[dai savings rate]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[dsr]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<category><![CDATA[MKR]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7670</guid>
+
+					<description><![CDATA[The Maker Foundation announced at Devcon5 that Multi-Collateral Dai is coming November 18th, 2019. This means that you will soon...]]></description>
+										<content:encoded><![CDATA[<p>The Maker Foundation <a href="https://blog.makerdao.com/breaking-launch-date-of-multi-collateral-dai-announced-at-devcon-5/">announced at Devcon5</a> that Multi-Collateral Dai is coming November 18th, 2019. This means that you will soon have the opportunity to earn interest with your DAI. It&#8217;s all thanks to a new feature coming with Multi-Collateral Dai called the Dai Savings Rate, or DSR for short.</p>
+<figure id="attachment_7672" aria-describedby="caption-attachment-7672" style="width: 375px" class="wp-caption alignnone"><img loading="lazy" class="wp-image-7672" src="./../../../wp-content/uploads/2019/10/new-dai-layered-1024x1024.png" alt="Dai Savings Rate (DSR)" width="375" height="375" srcset="./../../../wp-content/uploads/2019/10/new-dai-layered-1024x1024.png 1024w, ./../../../wp-content/uploads/2019/10/new-dai-layered-300x300.png 300w, ./../../../wp-content/uploads/2019/10/new-dai-layered-150x150.png 150w, ./../../../wp-content/uploads/2019/10/new-dai-layered-768x768.png 768w, ./../../../wp-content/uploads/2019/10/new-dai-layered-1536x1536.png 1536w, ./../../../wp-content/uploads/2019/10/new-dai-layered-1568x1568.png 1568w, ./../../../wp-content/uploads/2019/10/new-dai-layered.png 1600w" sizes="(max-width: 375px) 100vw, 375px" /><figcaption id="caption-attachment-7672" class="wp-caption-text">DAI&#8217;s new symbol</figcaption></figure>
+<h3>What is the Dai Savings Rate (DSR)?</h3>
+<p>The Dai Savings Rate is a mechanism for the MakerDAO to control the demand side of the supply and demand equation by offering an interest rate for locking in some of the total DAI supply. Up until this point, MakerDAO only had the ability to directly affect the supply of DAI through the stability fee it charges <a href="https://defipulse.com/blog/what-is-a-cdp/">CDP</a> holders.</p>
+<h4>How does it work?</h4>
+<p>Once live, DAI token holders will have the option to lock their DAI into Maker&#8217;s DAI Savings Rate contract and earn a variable interest rate in DAI. The DAI necessary to pay the DSR contract is taken from the stability fee pool. If the pool ever runs dry, the Maker contract prints new MKR to cover the debt. Ultimately, it&#8217;s up to MKR holders to properly govern the rate and ensure the system runs smoothly.</p>
+<p>A<a href="https://blog.makerdao.com/an-update-on-the-dai-savings-rate-in-multi-collateral-dai/"> recent DSR update</a> discussed some of the challenges in governing this new component of the MakerDAO system.</p>
+<h4>How much will I make for locking in my DAI?</h4>
+<p>The rate is not set in stone like the stability fee its controlled by MakerDAO token holders. However, we can assume that the DSR can never be greater than the stability fee. And, the <a href="https://mkr.tools/governance/stabilityfee">current stability fee</a> is 10.5% (subject to change with MCDai). We can also look towards existing secondary lending markets which currently <a href="https://defipulse.com/income">offer around 8% APY</a> to get an idea of what would be competitive.</p>
+<p><strong>MKR Holders, don&#8217;t forget to <a href="https://vote.makerdao.com/polling">vote for MCDai on November 15th</a>.</strong> Stay tuned for more details about Multi-Collateral Dai and how to start earning with the DSR!</p>
+<p><span style="font-weight: 400;"><em>How will Maker introducing the DSR affect secondary lending markets like Compound and bZX?</em> Stay up-to-date on the world of DeFi by following us on <a href="https://twitter.com/defipulse">Twitter</a> or come chat us in our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord.</a></span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

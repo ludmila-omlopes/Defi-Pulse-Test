@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>roll &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 23 Jan 2020 22:36:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Social Money &#8211; Tokenizing Your Time and Talents is Trending</title>
+		<link>./../../../2020/01/23/social-money/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2020 22:36:27 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[roll]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[social coin]]></category>
+		<category><![CDATA[social money]]></category>
+		<category><![CDATA[token]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7868</guid>
+
+					<description><![CDATA[Lately there&#8217;s been some buzz around the concept of social money in the crypto space. If you&#8217;re not familiar with...]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone wp-image-7922 size-full" src="./../../../wp-content/uploads/2020/01/DFP-socialmoney-twitter-thumbnail01.png" alt="" width="1024" height="512" srcset="./../../../wp-content/uploads/2020/01/DFP-socialmoney-twitter-thumbnail01.png 1024w, ./../../../wp-content/uploads/2020/01/DFP-socialmoney-twitter-thumbnail01-300x150.png 300w, ./../../../wp-content/uploads/2020/01/DFP-socialmoney-twitter-thumbnail01-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p>Lately there&#8217;s been some buzz around the concept of social money in the crypto space. If you&#8217;re not familiar with the term, you&#8217;re probably asking yourself: &#8220;What is social money?&#8221; And to be honest, the term&#8217;s so loosely defined to the point it&#8217;s probably easier to see a few examples. So, here&#8217;s a <a href="https://exchange.tryroll.com/swap">Uniswap interface</a> and <a href="http://blockchain.buymagic.xyz/">curated list of examples</a> of social moneys in the wild for you to explore.</p>
+<p>However, the basic concept goes as follows: someone mints tokens or coins redeemable for personal favors, rewards, and/or professional services. Most commonly, the minter then lists these personal tokens on Uniswap. Once purchased, the buyer can redeem their token for one hour of work such as consulting, developing, etc. Think of it as a way to sell your personal brand across platforms.</p>
+<h4>Not all social moneys are equal</h4>
+<p>As with most things in DeFi, social moneys come in many different shapes and sizes. Some critics have even compared them to personal ICOs, a novel way to bootstrap an idea that may not always pan out. For example, some social moneys mint upwards of 10M tokens. For those of you doing the mental math, 10M tokens worth 1 hour each adds up to over 1140 years worth of work. Some critics have been quick to point out that existing services like <a href="https://brave.com/brave-rewards/">Brave Rewards</a> or <a href="https://unlock-protocol.com/">Unlock Protocol</a> better suit the needs of some communities without the need for a separate token. All that being said, not all social moneys exist as work vouchers and there is merit in experimentation.</p>
+<p><a href="https://tryroll.com/">Roll</a>, a social money platform, pitches social money as a way to cultivate a community. Issuers on Roll determine how their tokens can be earned and spent by community members. The utility and value of each social money is solely determined by how its issuer allows you to redeem it leaving a lot of room for interpretation. Maybe you want more interactions with your followers so you giveaway some tokens as a promotion. Or rather, maybe you want to offer exposure to your personal career. Ultimately, it&#8217;s up to the market to establish the true value of any social money and at what price it&#8217;s worth redeeming.</p>
+<h4>Alternatives to social money</h4>
+<p>Some might consider Spencer Dinwiddie&#8217;s <a href="https://www.theblockcrypto.com/linked/52682/nbas-spencer-dinwiddie-set-to-roll-out-tokenized-investment-platform-next-monday">recent tokenization of his NBA contract</a> to be a form of social money or at least the start of something that could evolve into social money. Granted, the major difference at this time is the fact that Dinwiddie&#8217;s contract and subsequent tokenization is backed by legal contracts. The terms of the contract are fixed and establish the value proposition of these tokens. This affords investors certain rights and legal protections which can be enforced in a court of law. The same can&#8217;t necessarily be said for many other social coins. So while the future of social money is unclear, the vision behind Mr. Dinwiddie&#8217;s tokenized contract might be a sign of what&#8217;s to come.</p>
+<p>What do you think? Does social money have a place in DeFi&#8217;s future? Or, is it an experiment that will fade with time? Come discuss it with us in our <a href="http://t.me/defipulse">Telegram</a> or <a href="https://discord.gg/Gx4TCTk">Discord</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

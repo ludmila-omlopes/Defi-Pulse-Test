@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>set &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 03 Feb 2020 15:44:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>DeFi Dive: Set Protocol &#8211; automated asset management strategies</title>
+		<link>./../../../2020/02/03/defi-dive-set-protocol/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 03 Feb 2020 15:44:49 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[set]]></category>
+		<category><![CDATA[Set Protocol]]></category>
+		<category><![CDATA[sets]]></category>
+		<category><![CDATA[tokensets]]></category>
+		<category><![CDATA[USDC]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7951</guid>
+
+					<description><![CDATA[Felix Feng, Co-Founder and CEO of Set Protocol, sat down with us today to discuss the future of asset management....]]></description>
+										<content:encoded><![CDATA[<p><em><strong><img loading="lazy" class="alignnone wp-image-7952 size-full" src="./../../../wp-content/uploads/2020/01/DFP-defi-dive-SET-twitter-thumbnail.png" alt="" width="1024" height="512" srcset="./../../../wp-content/uploads/2020/01/DFP-defi-dive-SET-twitter-thumbnail.png 1024w, ./../../../wp-content/uploads/2020/01/DFP-defi-dive-SET-twitter-thumbnail-300x150.png 300w, ./../../../wp-content/uploads/2020/01/DFP-defi-dive-SET-twitter-thumbnail-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></strong></em></p>
+<p><em><strong>Felix Feng, Co-Founder and CEO of Set Protocol, sat down with us today to discuss the future of asset management.</strong></em></p>
+<h3>How did you get your start in crypto and what inspired you to build Set Protocol?</h3>
+<p>I first heard about crypto during the bull market in 2013 when Bitcoin went from $100 to $1300. When I studied abroad in Milan, I had the chance to attend Bitcoin 2014, the annual Bitcoin conference. I listened to many of the technical presentations, met early companies like Coinbase and figures like Charlie Lee. I left that event convinced crypto was going to change the financial/legal industries to same way that the internet changed media and communications industries.</p>
+<p>Since then, I&#8217;ve gone down the rabbit hole, working at 21.co, starting an angel syndicate called Turing Capital, and since then Set.</p>
+<h3>What are you building and what sets it apart?</h3>
+<p>Set is a protocol that makes fund strategies easy and accessible. We built TokenSets, which is the first interface where you can acquire a Set with a few clicks of a button. Today, you can get simple strategies like an Index and more complicated technical analysis strategies like a Moving Average Crossover.&nbsp;Recently, we launched Set Social Trading on TokenSets which allows traders to effectively tokenize their strategies. Users can buy into traders Sets and gain automated exposure to their strategy.</p>
+<h3>Who do you view as the ideal user or customer for your product or service?</h3>
+<p>The amateur investor or trader would find our products useful &#8211; those who understand the power of implementing a strategy, but don&#8217;t necessarily have the knowledge, effort, or skills to do it.</p>
+<h3>What future event or feature on your road map are you most excited for?</h3>
+<div class="answer__Wrapper-sc-1k75oj5-1 jpwJZg">
+<div class="Split-sc-3xe4fi-0 answer__BlockSplit-sc-1k75oj5-4 jdjoQR">
+<div class="SplitItem-sc-3xe4fi-1 cReNwR">We&#8217;re most excited about onboarding more Social Traders and continuing to release more robo Sets onto the TokenSets platform.</div>
+</div>
+</div>
+<h3>Where do you see your project, product, or service fitting into the future of DeFi?</h3>
+<div class="answer__Wrapper-sc-1k75oj5-1 jpwJZg">
+<div class="Split-sc-3xe4fi-0 answer__BlockSplit-sc-1k75oj5-4 jdjoQR">
+<div class="SplitItem-sc-3xe4fi-1 cReNwR"><span class="Text-wqps8m-0 text-value__ValueText-di8e7l-0 gDygKs fs-block" data-qa="response-answer">We hope our product serves as a fundamental primitive for automated trading and asset management.</span></div>
+</div>
+</div>
+<h3><span class="Text-wqps8m-0 answer__QuestionText-sc-1k75oj5-0 jWxpxy" data-qa="response-question">What’s something in DeFi that you think more people should be paying attention to?</span></h3>
+<div class="Spacer-cjod5i-0 frBWpl">
+<div class="answer__Wrapper-sc-1k75oj5-1 jpwJZg">
+<div class="Split-sc-3xe4fi-0 answer__BlockSplit-sc-1k75oj5-4 jdjoQR">
+<div class="SplitItem-sc-3xe4fi-1 cReNwR"><span class="Text-wqps8m-0 text-value__ValueText-di8e7l-0 gDygKs fs-block" data-qa="response-answer">Asset Management Primitives!</span></div>
+</div>
+</div>
+</div>
+<h3>How can readers learn more about your product/service?</h3>
+<div>Find us on twitter at <a href="https://twitter.com/SetProtocol">@SetProtocol</a> or join our <a href="https://t.me/joinchat/Fx8D6wyprLUlM1jMVnaRdg">Telegram</a>&nbsp;and <a href="https://discord.gg/x3PGVfP">Discord</a>. Also:&nbsp;<a href="https://www.tokensets.com/">https://www.tokensets.com/</a></div>
+<div></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tax &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 18 Feb 2020 16:29:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>DeFi Dive: TokenTax &#8211; DeFi crypto tax calculator and cryptocurrency accounting firm</title>
+		<link>./../../../2020/02/18/defi-dive-tokentax/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Tue, 18 Feb 2020 16:29:58 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Humans]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[ERC20]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[tax]]></category>
+		<category><![CDATA[taxes]]></category>
+		<category><![CDATA[tokens]]></category>
+		<category><![CDATA[tokentax]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7972</guid>
+
+					<description><![CDATA[Alex Miles, co-founder of TokenTax, discusses his quest to ease the crypto community&#8217;s DeFi tax woes. How did you get...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb.png" alt="" class="wp-image-7974" width="1024" height="512" srcset="./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb.png 1024w, ./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb-300x150.png 300w, ./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong><em>Alex Miles, co-founder of TokenTax, discusses his quest to ease the crypto community&#8217;s DeFi tax woes.</em></strong></p>
+
+
+
+<h3>How did you get your start in crypto and what inspired you to build your project, product, or service?</h3>
+
+
+
+<p>I first heard about bitcoin while i was in university around 2010, but didn’t mine or purchase any (fml). I bought my first half bitcoin in 2013. Fast forward to 2017, I started trading and casually buying/selling alt coins, I realized that calculating taxes on my activity would be very complicated. </p>
+
+
+
+<p>Over the course of a month in 2017, I built a simple demo application that linked your coinbase account and calculated your cost basis data. The application then generated a filled out 8949. I showed it to a few friends and they were really happy with the experience. I submitted what I built to the 2017 Product Hunt Global Hackathon and ended up winning the grand prize! </p>
+
+
+
+<p>After that, I partnered with my co-founder Zac McClure who has a background in finance, accounting, and impact investing. Together we formed a plan to take TokenTax to the next level. A lot of our initial plan is now built and we plan to continue to grow the business.</p>
+
+
+
+<h3>What are you building and what sets it apart?</h3>
+
+
+
+<p>We are building the easiest way for cryptocurrency users to calculate and file their crypto taxes. At TokenTax we are intensely focused on building the best tax experience for DeFi. We believe DeFi has the potential to bring mainstream adoption to cryptocurrency and we want to do everything in our power to help make this a reality.</p>
+
+
+
+<h3>Who do you view as the ideal user or customer for your product or service?</h3>
+
+
+
+<p>Any cryptocurrency or DeFi user! We are an international crypto tax calculator so we support any country, not just the US.</p>
+
+
+
+<h3>What future event or feature on your roadmap are you most excited for?</h3>
+
+
+
+<p>I’m excited to continue to build out our DeFi tax tools. These are open to the public and can be used to download your transaction history for popular DeFi apps like Uniswap or compound. Every popular DeFi app in in the works like dYdX, Chai, and Maker to name a few <br>&#8211; <a href="https://tokentax.co/compound-finance">https://tokentax.co/compound-finance</a> <br>&#8211; <a href="https://tokentax.co/uniswap">https://tokentax.co/uniswap </a></p>
+
+
+
+<p>We also have built a wonderful knowledge base of guides and help articles. We are working full time to build our more helpful resources:<br>&#8211; <a href="https://tokentax.co/guides/defi-crypto-tax/">https://tokentax.co/guides/defi-crypto-tax/</a></p>
+
+
+
+<h3>Where do you see your project, product, or service fitting into the future of DeFi?</h3>
+
+
+
+<p>We plan on being the tax and reporting backbone behind DeFi. We want to help legitimize DeFi in the eyes of our government authorities around the world by providing users with excellent documentation.</p>
+
+
+
+<h3>What’s something in DeFi that you think more people should be paying attention to?</h3>
+
+
+
+<p>Honestly, I think one of the best things the DeFi community has, is the people within the community. There’s so much creativity and passion being shared online and I think this helps fuel a ton of innovation. I think we often forget we’re all on the same team. We should try to fight less about small topics that don’t matter. We need to remember who we are fighting against.</p>
+
+
+
+<h3>How can readers learn more about your product/service?</h3>
+
+
+
+<p>Go to our website and contact our very helpful support team with any crypto tax questions you may have <a href="https://tokentax.co/">https://tokentax.co/ </a></p>
+
+
+
+<p>Follow us and send us a nice message on Twitter <a href="https://twitter.com/tokentax">https://twitter.com/tokentax </a></p>
+
+
+
+<p>Also follow me on Twitter! <a href="https://twitter.com/milesalex">https://twitter.com/milesalex</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

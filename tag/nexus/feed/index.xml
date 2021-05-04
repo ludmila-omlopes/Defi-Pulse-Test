@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nexus &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 27 Jan 2020 15:59:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>DeFi Dive: Nexus Mutual &#8211; a people-powered alternative to insurance</title>
+		<link>./../../../2020/01/27/defi-dive-nexus-mutual/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 27 Jan 2020 15:59:13 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[insurance]]></category>
+		<category><![CDATA[nexus]]></category>
+		<category><![CDATA[nexus mutual]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7936</guid>
+
+					<description><![CDATA[Hugh Karp, founder of Nexus Mutual, walks us through what led to the creation of their smart contract insurance platform...]]></description>
+										<content:encoded><![CDATA[<p><em><strong><img loading="lazy" class="aligncenter wp-image-7940 size-full" src="./../../../wp-content/uploads/2020/01/DFP-defi-dive-NEXUS-twitter-thumbnail.png" alt="nexus mutual" width="1024" height="512" srcset="./../../../wp-content/uploads/2020/01/DFP-defi-dive-NEXUS-twitter-thumbnail.png 1024w, ./../../../wp-content/uploads/2020/01/DFP-defi-dive-NEXUS-twitter-thumbnail-300x150.png 300w, ./../../../wp-content/uploads/2020/01/DFP-defi-dive-NEXUS-twitter-thumbnail-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></strong></em></p>
+<p><em><strong>Hugh Karp, founder of Nexus Mutual, walks us through what led to the creation of their smart contract insurance platform and what the future has in store for community driven insurance in DeFi&#8230;</strong></em></p>
+<h3>How did you get your start in crypto and what inspired you to build Nexus Mutual?</h3>
+<p>I stumbled across bitcoin some time ago and was fascinated but didn&#8217;t really know what to do with it. I loved the way the technology could empower individuals so just kept tabs on it. When Ethereum came along it all clicked for me. Ethereum&#8217;s flexibility meant I could use my knowledge from years in the insurance industry to rebuild the mutual insurance model.</p>
+<h3>What are you building and what sets it apart?</h3>
+<p>We&#8217;ve built a community driven alternative to insurance that allows anyone to join together and share risk directly with each other. No insurance company, just people.</p>
+<p>Our first product is Smart Contract Cover, to cover against hacks or bugs in Ethereum smart contracts, which is the only product of it&#8217;s kind.</p>
+<p>We are also one of the only DAOs to have a link to a legal entity. Right now, we&#8217;re basically the only &#8220;decentralised&#8221; insurance product that&#8217;s built for the Ethereum community.</p>
+<h3>Who do you view as the ideal user or customer for Nexus Mutual?</h3>
+<p>Anyone who is interacting with smart contracts with material amounts could benefit from our product. The key customers right now are people who are locking funds in DeFi and also new projects who are looking to buy cover on their own contracts to give early users some comfort.</p>
+<h3>What future event or feature on your roadmap are you most excited for?</h3>
+<p>There are quite a few things coming up in the coming months, such as a revised staking approach which is designed to enhance reward levels and simplify things from a user perspective. It&#8217;s more of an enabler but is a key building block that will allow to expand the product range in the future, things like slashing risk on staking networks and even centralised exchange hacks are some popular ones we&#8217;re looking into.</p>
+<p>We&#8217;re also looking to enable investment returns on our pool of assets, which all of our members will benefit from, we just have to be careful where we put the funds, as we provide cover against DeFi protocols.</p>
+<p>And, we also have some interesting developments on the integrations side which will make things much better from an end&nbsp;customer perspective.</p>
+<figure id="attachment_7947" aria-describedby="caption-attachment-7947" style="width: 600px" class="wp-caption alignnone"><a href="https://defipulse.com/nexus-mutual"><img loading="lazy" class="wp-image-7947" src="./../../../wp-content/uploads/2020/01/27-01-2020_112547-chart.png" alt="" width="600" height="323" srcset="./../../../wp-content/uploads/2020/01/27-01-2020_112547-chart.png 885w, ./../../../wp-content/uploads/2020/01/27-01-2020_112547-chart-300x162.png 300w, ./../../../wp-content/uploads/2020/01/27-01-2020_112547-chart-768x414.png 768w" sizes="(max-width: 600px) 100vw, 600px" /></a><figcaption id="caption-attachment-7947" class="wp-caption-text">source: <a href="https://defipulse.com/nexus-mutual">https://defipulse.com/nexus-mutual</a></figcaption></figure>
+<h3>Where do you see Nexus Mutual fitting into the future of DeFi?</h3>
+<p>Insurance is fundamental financial infrastructure that all economies need. We believe Ethereum is building a parallel financial economy and we intend to provide the basic financial infrastructure it needs to thrive.</p>
+<h3><span class="Text-wqps8m-0 answer__QuestionText-sc-1k75oj5-0 jWxpxy" data-qa="response-question">What’s something in DeFi that you think more people should be paying attention to?</span></h3>
+<div class="Spacer-cjod5i-0 frBWpl">Understanding the risks. Composibility is a super power, but it makes it very hard to understand what could go wrong and the interrelated risks (technical smart contract risk is just one risk).</div>
+<h3>How can readers learn more about Nexus Mutual?</h3>
+<div>Head to our website: <a href="https://nexusmutual.io/">https://nexusmutual.io/ </a></div>
+<div>Join our Discord: <a href="https://discord.gg/v77j7vu">https://discord.gg/v77j7vu</a></div>
+<div></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

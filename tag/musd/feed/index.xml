@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>musd &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 10 Jul 2020 13:30:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Introducing mStable &#8211; meta-assets with native yield and zero slippage swaps</title>
+		<link>./../../../2020/07/10/introducing-mstable/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 10 Jul 2020 13:30:00 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[aave]]></category>
+		<category><![CDATA[Compound]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[mstable]]></category>
+		<category><![CDATA[musd]]></category>
+		<category><![CDATA[stablecoins]]></category>
+		<category><![CDATA[USDC]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8351</guid>
+
+					<description><![CDATA[The fragmentation of the stablecoin market in DeFi has led to a lackluster experience for many crypto users. Gone are...]]></description>
+										<content:encoded><![CDATA[
+<p>The fragmentation of the stablecoin market in DeFi has led to a lackluster experience for many crypto users. Gone are the days when DeFi was DAI-centric; nowadays, most DeFi users find themselves having to shuffle between a handful of stablecoins in order to take advantage of the opportunities available in DeFi. </p>
+
+
+
+<p>And if you aren&#8217;t trying to hack your yield, you&#8217;re missing out by today&#8217;s standards. The whole process can be a lot to take in for even experienced users; imagine being a new user trying to determine the best stablecoin to own <em>and </em>earn the best yield. On its face, it&#8217;s not a simple problem to solve and sometimes users are forced to make compromises. At least until now&#8230; One of the best qualities of DeFi is that there&#8217;s always someone tackling new problems as they arise. That&#8217;s where mStable comes in with meta-assets like mUSD.</p>
+
+
+
+<h2>mStable&#8217;s mUSD is tokenized USD made simpler, safer, and more efficient</h2>
+
+
+
+<p>mStable&#8217;s mUSD addresses both the fragmentation of USD-pegged stablecoins and the lack of native yield by uniting stablecoin swapping and lending. And, it does so while also offering protection against complete capital loss (more on that in a bit). mUSD is a USD-pegged token backed by a basket of popular stablecoins with built-in yield generated from mStable SWAP fees and lending collateral on Compound and Aave. To be more precise, mStable assets like mUSD are actually a LP share in a dynamic pool of assets that generates yield, offers 0 slippage swaps between its underlying assets, and serves as a first class asset. I know that&#8217;s a bit of a mouthful. So let&#8217;s take a look at mUSD, which is <a href="https://medium.com/mstable/mstable-now-live-on-mainnet-c9f55f748ac7">live on the mainnet</a>, as an example.</p>
+
+
+
+<p>When you first open <a href="https://app.mstable.org/">the app</a>, you&#8217;re greeted with mStable&#8217;s sleek interface containing a few quick slides that break down mUSD&#8217;s three main functions: <strong>MINT</strong>, <strong>SAVE</strong>, and <strong>SWAP</strong>.</p>
+
+
+
+<h3>MINT</h3>
+
+
+
+<p>Anyone can <a href="https://app.mstable.org/mint">mint new mUSD</a> by depositing a 1:1 ratio of USDT, USDC, TUSD or DAI into mStable. For example, if you send 1000 USDT, you&#8217;ll receive 1000 mUSD. You can also conveniently &#8220;multi-mint&#8221; mUSD sending multiple stablecoins at the same time. On the flip side, you can redeem mUSD 1:1 for any of the underlying assets under normal conditions.</p>
+
+
+
+<p>An important aspect of mStable&#8217;s design is the maximum weights set for assets in each basket. This limit prevents a basket from becoming unbalanced with too much of one asset. When an asset reaches its max weight, it changes how users can mint, swap, or redeem mStable assets like mUSD.</p>
+
+
+
+<p>Say mUSD is overweighted towards USDT, users are unable to mint mUSD with USDT, only TUSD, DAI, and USDC. Whereas if you&#8217;re looking to redeem mUSD, you would only be able to multi-redeem into an equivalent combination of assets according to the basket&#8217;s current weight or straight 1:1 for USDT. These limits keep mUSD on peg and act as a safety measure to keep mUSD collateralized in the unfortunate event one of the underlying assets&#8217; value falls below its peg. You can find current mUSD basket analytics <a href="https://app.mstable.org/analytics">here</a>.</p>
+
+
+
+<p>mStable&#8217;s <a href="https://docs.mstable.org/mstable-assets/functions/governance">governance system</a> and Meta (MTA) token are designed to reduce the risks for mUSD holders. If an underlying asset completely loses its value causing mUSD to fall off its peg, mStable&#8217;s Meta Governors as they are called can vote to purge the asset and recover the lost value using by selling staked MTA token for the outstanding mUSD. This mUSD is then burned until the system is re-collateralized. MTA token holders stake their MTA essentially acting as insurance against loss to receive a portion of all revenue that mStable generates.</p>
+
+
+
+<p>mUSD&#8217;s design affords DeFi users convenient access to its underlying stablecoins while offering a hedge against their individual risks and enhance their functionality with features such as native yield. Another handy aspect of mUSD is that the yield it generates through SAVE actually mints new mUSD meaning it&#8217;s always priced 1:1 to the USD by design.</p>
+
+
+
+<h3>SAVE</h3>
+
+
+
+<p>Once you&#8217;ve minted some mUSD, you can <a href="https://app.mstable.org/save">deposit your mUSD into SAVE and start earning</a>. All mStable asset holders can earn a native yield generated from mStable SWAP fees combined with interest accrued from lending out the underlying assets to decentralized lending markets like Compound and AAVE. A portion of this yield is allocated to Meta (MTA) holders as reward for governing and insuring mStable. At the time of writing, the average daily APY over the past 7 days on mUSD&#8217;s SAVE contract is over 23%. Obviously, this rate is subject to change as lending market rates and trading volumes vary.</p>
+
+
+
+<p>mStable&#8217;s SAVE contract takes chasing interest rates between stablecoins and lending markets which is practically a full-time job at this point and makes it simple for users just looking to hold and earn value as tokenized USD. SAVE currently supports lending on Compound and AAVE but Meta Governors will have the ability to add or remove lending platforms through mStable governance. When you combine this with the fees generated from mStable zero-slippage SWAP fees and single asset mUSD redemptions, mUSD&#8217;s advantages over holding any individual stablecoin start to add up.</p>
+
+
+
+<h3>SWAP</h3>
+
+
+
+<p>Anyone can use <a href="https://app.mstable.org/swap">mStable SWAP</a> to swap TUSD, DAI, USDC, and USDT with zero-slippage and a fixed BPS fee. Zero-slippage swaps are made possible by a combination of mStable&#8217;s straight line <a href="https://medium.com/mstable/introducing-constant-sum-bonding-curves-for-tokenised-assets-6e18879cdc5b">constant sum bonding curves</a> and the insurance MTA tokens provide to the system. This also enables SWAP to scale from day 1 because prices are not dependent on the amount of liquidity in the pool.</p>
+
+
+
+<p>As with minting, swaps that would push an asset over its max weight are paused, altering swap rules for only this asset until the basket is rebalanced. And as previously mentioned, users with mUSD in SAVE earn the fees generated from SWAP. Although, a portion of these fees are rewarded to those staking MTA.</p>
+
+
+
+<h2>Meta (MTA) token and mStable governance</h2>
+
+
+
+<p>mStable&#8217;s core team controls the mStable protocol at launch; However, the plan is to distribute Meta (MTA) tokens and gradually turn mStable governance systems over to the community of Meta Governors. MTA reward programs will be used to bootstrap the mStable ecosystem rewarding early adopters. Although MTA doesn&#8217;t exist yet, you can actually take part in ecosystem rewards and earn MTA early right now (more details in the section below).</p>
+
+
+
+<p>To participate in governance and earn their allotted share of mStable revenue, users must stake their MTA tokens. Staking rewards act as an incentive for Meta Governors to properly maintain the growth and stability of mStable. Meta Governors may propose and vote on protocol changes such as:</p>
+
+
+
+<ul><li>Add or remove mStable assets</li><li>Add or remove basket assets</li><li>Adjust the max weights of basket assets</li><li>Change SWAP fees</li><li>Change MTA staking rewards / revenue take</li></ul>
+
+
+
+<h4>Meta (MTA) Distribution</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="963" height="591" src="./../../../wp-content/uploads/2020/07/mta-dist.png" alt="" class="wp-image-8358" srcset="./../../../wp-content/uploads/2020/07/mta-dist.png 963w, ./../../../wp-content/uploads/2020/07/mta-dist-300x184.png 300w, ./../../../wp-content/uploads/2020/07/mta-dist-768x471.png 768w" sizes="(max-width: 963px) 100vw, 963px" /></figure>
+
+
+
+<ul><li><strong>Current Investors:&nbsp;</strong>6.5%</li><li><strong>Reserved for future sales &amp; growth:</strong>&nbsp;26.0%</li><li><strong>Reserved for Public Rewards:&nbsp;</strong>20.0%</li><li><strong>Reserved for Institutional Rewards:&nbsp;</strong>5.0%</li><li><strong>Rewards yet to be allocated:&nbsp;</strong>20.0%</li><li><strong>Team, Advisors &amp; Future Team:&nbsp;</strong>22.5%</li></ul>
+
+
+
+<h3>Ecosystem rewards</h3>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/07/mta-rewards-1024x479.png" alt="" class="wp-image-8362"/></figure>
+
+
+
+<p>20,000,000 MTA in total, or rather 20% of MTA’s total supply, will be emitted via ecosystem rewards over the next 5 years to bootstrap mStable and promote a fairer, wider distribution of Meta tokens. Rewards encourage users to mint mStable assets and to create liquidity and utility with those assets.</p>
+
+
+
+<p>Ecosystem Rewards began June 26th, 2020 with the launch of mStable&#8217;s first reward pool on Balancer creating liquidity for mUSD&lt;&gt;USDC. Ecosystem rewards will continue in monthly tranches, increasing over the first 15 months, and then slowly decline until the allocated MTA is exhausted.</p>
+
+
+
+<h4>Earn MTA via Balancer pools</h4>
+
+
+
+<p>mStable&#8217;s<a href="https://pools.balancer.exchange/#/pool/0x72Cd8f4504941Bf8c5a21d1Fd83A96499FD71d2C"> first MTA reward pool</a> is a Balancer pool weighted 50% mUSD / 50% USDC with a 5 bps trading fee. Anyone can mint mUSD and deposit equal parts mUSD and USDC into the pool and start earning MTA on top of the usual BAL token rewards and potential Balancer pool profits. The <a href="https://medium.com/mstable/mstables-second-mta-reward-pool-is-now-live-af22ad151b47">second MTA reward pool</a> is another Balancer pool with similar weights and fees; however this pool is mUSD/WETH.</p>
+
+
+
+<p>350,000 MTA will be awarded to pool liquidity providers over the first month. Each week, a snapshot will be taken at a random time and 50,000 MTA will be allocated to the participating addresses in proportion to their contribution to their respective pools.</p>
+
+
+
+<h3>MTA token launch</h3>
+
+
+
+<p>mStable is set to launch Meta (MTA) on Balancer at approximately 14:00 UTC on Wednesday, July 15th 2020. At that time, 2,666,666 MTA tokens and ~$400,000 mUSD will be deposited into a new Balancer liquidity pool. The initial liquidity pool price will effectively be set to $0.15 mUSD/MTA. <a href="https://medium.com/mstable/introducing-meta-mta-mstables-protocol-token-6e1032291ccf">Read more</a>. <em>** Since publication, <a href="https://twitter.com/mstable_/status/1283264646405746688">the launch has been delayed</a>.</em></p>
+
+
+
+<h2>Concluding thoughts</h2>
+
+
+
+<p>As someone who has been around for a while, I&#8217;ve seen a lot and I can say that mStable&#8217;s mUSD is an elegant solution to the current issues stablecoin holders face. The purpose of stablecoins is to act as a useful and stable store of value; mUSD takes this to the next level by extending the functionality of existing stablecoins while also mitigating risk for holders. </p>
+
+
+
+<p>I&#8217;m excited to see the future of mStable protocol with assets like mBTC, mGBP, mEUR, and mGLD. Not to mention, there are so many opportunities for Meta Governors to expand the utility of mAssets by integrating new lending protocols and DeFi services.</p>
+
+
+
+<p><a href="https://app.mstable.org/">Mint your first mUSD today</a> or learn more about mStable by heading to their <a href="https://mstable.org/">website</a>. Thanks for reading! I hope you enjoyed learning about this awesome project.</p>
+
+
+
+<p><em>Disclosure: This post is part a promotional series; We&#8217;ve partnered with mStable to inform the community about their cool meta-assets system. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+
+
+
+<p><br><br><br></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

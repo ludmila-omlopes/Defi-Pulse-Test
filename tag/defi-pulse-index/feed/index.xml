@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>defi pulse index &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 27 Nov 2020 20:16:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>DPI November Rebalance and DeFi Pulse Index Construction, Version 0.2</title>
+		<link>./../../../2020/11/27/dpi-november-rebalance-and-defi-pulse-index-construction-version-0-2/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 27 Nov 2020 20:16:55 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[defi pulse index]]></category>
+		<category><![CDATA[dpi]]></category>
+		<category><![CDATA[index]]></category>
+		<category><![CDATA[index-coop]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8712</guid>
+
+					<description><![CDATA[The DeFi Pulse Index is a digital asset index designed to track tokens’ performance within the Decentralized Finance industry. The...]]></description>
+										<content:encoded><![CDATA[
+<p>The DeFi Pulse Index is a digital asset index designed to track tokens’ performance within the Decentralized Finance industry. The index is weighted based on the value of each token’s circulating supply. <strong>As part of our </strong><strong>commitment to the ongoing maintenance and development of the DeFi Pulse Index, we are transitioning from v0.1 of our methodology to </strong><a href="https://pulse.inc/"><strong>DeFi Pulse Index Construction, Version 0.2</strong></a><strong>. </strong>Version 0.2 introduces a change to the inclusion criteria that tokens must have a circulating supply minimum that is 7.5% or higher to ensure tokens have sufficient liquidity.</p>
+
+
+
+<p>As outlined in v0.2 of its methodology, the DeFi Pulse Index is maintained in two phases: the Determination Phase and the Reconstitution Phase. The Determination Phase takes place during the third week of the month. During this phase, the circulating supply of each token currently included in DPI is determined. Any tokens eligible for addition or removal from DPI are also determined during this phase. Finally, new index weights, additions and deletions are incorporated into the index during the monthly Reconstitution Phase on the first business day of the month.&nbsp;</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh4.googleusercontent.com/07lr3Mkjtia8YKBoRCK7EuNm-z7c1LeZGef7gYtaGwHPVUu08o8uVwLrzN18lpvzIQWp96t-vQXeD3qjAU-05oo4M17GzpHOdR6Ja6dMtmGZurhwFiUXP9hhIHFLhjsp4q7H__0c" alt=""/></figure>
+
+
+
+<p>DeFi tokens require adequate liquidity to be included in DPI. During our assessment, we found REP to have inconsistent liquidity. Liquidity is fractured across REP V1 and V2. As part of this month’s maintenance of DPI, REP will be removed from the DeFi Pulse Index as it does not meet the liquidity requirements for inclusion at this time. For information regarding inclusion criteria, see <a href="https://pulse.inc/">the DeFi Pulse Index Construction, Version 0.2.</a></p>
+
+
+
+<p>In addition to the removal of REP, DPI has decreased its weighted allocations in MKR, YFI, KNC, REN, and LRC. DPI has increased its weighted allocation of COMP, SNX, AAVE, and BAL. <strong>DPI will be rebalanced as part of the Reconstitution Phase on December 1, 2020.</strong> You can also view more information about DPI and its underlying tokens on <a href="https://www.indexcoop.com/dpi">here</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>aave &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 16 Oct 2020 18:18:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Introducing the DeFi Pulse Economic Safety Grade</title>
+		<link>./../../../2020/10/16/introducing-the-defi-pulse-economic-safety-grade/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2020 18:18:00 +0000</pubDate>
+				<category><![CDATA[New Features]]></category>
+		<category><![CDATA[aave]]></category>
+		<category><![CDATA[Compound]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[defi pulse]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8585</guid>
+
+					<description><![CDATA[This past year has been an incredible time of maturation and expansion for decentralized finance. Familiar protocols have seen increased...]]></description>
+										<content:encoded><![CDATA[
+<p>This past year has been an incredible time of maturation and expansion for decentralized finance. Familiar protocols have seen increased adoption, cementing the foundation on which the whirlwind of new projects have been built. Our community has multiplied in numbers. Countless newcomers are venturing down the DeFi rabbit hole where it is easy to get lost in the numerous technological and economic terms and concepts you must learn. The whole experience can be ultimately overwhelming because not only is DeFi expanding wider, it is also getting deeper.<br><br>As DeFi grows larger with more complex and moving parts, it’s important that we have the tools necessary to safely sustain said growth. Each new user, token, feature, project, or protocol adds a variable that users need to take into account when weighing the risks of the protocols that they use. It’s difficult to say the least for users, new and old, to properly assess and compare economic risk across protocols. DeFi Pulse has long been an advocate for user safety and educating users about risk because informed users make informed decisions which results in a healthier ecosystem. And so, we’ve partnered with financial simulation experts at Gauntlet to provide a simpler way to inform users of risk: DeFi Pulse Economic Safety Grade.</p>
+
+
+
+<h2><strong>DeFi Pulse Economic Safety Grade&nbsp;</strong></h2>
+
+
+
+<p>The DeFi Pulse Economic Safety Grade, as the name implies, is a 1 to 100 grade that allows users to more easily quantify and compare the economic risks of using on-chain protocols. Grades are created by running simulations utilizing data from centralized and decentralized exchanges combined with on-chain user data to estimate market risks. For a more in-depth explanation of the simulation model, we recommend you read this <a href="https://medium.com/gauntlet-networks/understanding-risk-in-defi-f64574593979">blog post from Gauntlet</a>.</p>
+
+
+
+<p>At launch, safety grades are primarily focused on the risk of insolvency for decentralized protocols or, in other words, the risk to the depositor.  Lending protocols are a perfect starting point because they are one of the most popular DeFi applications and have many compounding variables. Gauntlet’s simulations assess four key factors: user behavior, collateral volatility, relative collateral liquidity, protocol parameters. All of these risk factors combined are practically impossible for the average user to evaluate. Our position in the community allows us to take Gauntlet’s sophisticated models and communicate them in a digestible format for a wide audience. The net result of which we hope is a safer DeFi ecosystem full of users mindful of risk.</p>
+
+
+
+<p><strong>Safety grades are now available for </strong><a href="https://defipulse.com/aave"><strong>Aave</strong></a><strong> and </strong><a href="https://defipulse.com/compound"><strong>Compound</strong></a><strong> on DeFi Pulse.</strong> In this initial alpha, these grades are formed by analyzing the historical liquidity and volatility data to find the &#8216;riskiest collateral&#8217;. Then, the risk of the system for users borrowing stablecoins against this collateral is estimated and normalized to create the 1 to 100 grade you see on DeFi Pulse. The higher the grade, the higher the economic safety the protocol.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="580" src="./../../../wp-content/uploads/2020/10/Selection_430-1024x580.jpg" alt="" class="wp-image-8587" srcset="./../../../wp-content/uploads/2020/10/Selection_430-1024x580.jpg 1024w, ./../../../wp-content/uploads/2020/10/Selection_430-300x170.jpg 300w, ./../../../wp-content/uploads/2020/10/Selection_430-768x435.jpg 768w, ./../../../wp-content/uploads/2020/10/Selection_430-1536x870.jpg 1536w, ./../../../wp-content/uploads/2020/10/Selection_430-1568x889.jpg 1568w, ./../../../wp-content/uploads/2020/10/Selection_430.jpg 1904w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Our team couldn&#8217;t be more excited to finally release these grades and to see their impact on the conversation around economic safety of DeFi protocols. Thanks for reading. If you have any questions, please come chat with us in our <a href="https://discord.gg/Gx4TCTk">Discord</a> or on <a href="https://twitter.com/defipulse">Twitter</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Introducing mStable &#8211; meta-assets with native yield and zero slippage swaps</title>
+		<link>./../../../2020/07/10/introducing-mstable/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 10 Jul 2020 13:30:00 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[aave]]></category>
+		<category><![CDATA[Compound]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[mstable]]></category>
+		<category><![CDATA[musd]]></category>
+		<category><![CDATA[stablecoins]]></category>
+		<category><![CDATA[USDC]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8351</guid>
+
+					<description><![CDATA[The fragmentation of the stablecoin market in DeFi has led to a lackluster experience for many crypto users. Gone are...]]></description>
+										<content:encoded><![CDATA[
+<p>The fragmentation of the stablecoin market in DeFi has led to a lackluster experience for many crypto users. Gone are the days when DeFi was DAI-centric; nowadays, most DeFi users find themselves having to shuffle between a handful of stablecoins in order to take advantage of the opportunities available in DeFi. </p>
+
+
+
+<p>And if you aren&#8217;t trying to hack your yield, you&#8217;re missing out by today&#8217;s standards. The whole process can be a lot to take in for even experienced users; imagine being a new user trying to determine the best stablecoin to own <em>and </em>earn the best yield. On its face, it&#8217;s not a simple problem to solve and sometimes users are forced to make compromises. At least until now&#8230; One of the best qualities of DeFi is that there&#8217;s always someone tackling new problems as they arise. That&#8217;s where mStable comes in with meta-assets like mUSD.</p>
+
+
+
+<h2>mStable&#8217;s mUSD is tokenized USD made simpler, safer, and more efficient</h2>
+
+
+
+<p>mStable&#8217;s mUSD addresses both the fragmentation of USD-pegged stablecoins and the lack of native yield by uniting stablecoin swapping and lending. And, it does so while also offering protection against complete capital loss (more on that in a bit). mUSD is a USD-pegged token backed by a basket of popular stablecoins with built-in yield generated from mStable SWAP fees and lending collateral on Compound and Aave. To be more precise, mStable assets like mUSD are actually a LP share in a dynamic pool of assets that generates yield, offers 0 slippage swaps between its underlying assets, and serves as a first class asset. I know that&#8217;s a bit of a mouthful. So let&#8217;s take a look at mUSD, which is <a href="https://medium.com/mstable/mstable-now-live-on-mainnet-c9f55f748ac7">live on the mainnet</a>, as an example.</p>
+
+
+
+<p>When you first open <a href="https://app.mstable.org/">the app</a>, you&#8217;re greeted with mStable&#8217;s sleek interface containing a few quick slides that break down mUSD&#8217;s three main functions: <strong>MINT</strong>, <strong>SAVE</strong>, and <strong>SWAP</strong>.</p>
+
+
+
+<h3>MINT</h3>
+
+
+
+<p>Anyone can <a href="https://app.mstable.org/mint">mint new mUSD</a> by depositing a 1:1 ratio of USDT, USDC, TUSD or DAI into mStable. For example, if you send 1000 USDT, you&#8217;ll receive 1000 mUSD. You can also conveniently &#8220;multi-mint&#8221; mUSD sending multiple stablecoins at the same time. On the flip side, you can redeem mUSD 1:1 for any of the underlying assets under normal conditions.</p>
+
+
+
+<p>An important aspect of mStable&#8217;s design is the maximum weights set for assets in each basket. This limit prevents a basket from becoming unbalanced with too much of one asset. When an asset reaches its max weight, it changes how users can mint, swap, or redeem mStable assets like mUSD.</p>
+
+
+
+<p>Say mUSD is overweighted towards USDT, users are unable to mint mUSD with USDT, only TUSD, DAI, and USDC. Whereas if you&#8217;re looking to redeem mUSD, you would only be able to multi-redeem into an equivalent combination of assets according to the basket&#8217;s current weight or straight 1:1 for USDT. These limits keep mUSD on peg and act as a safety measure to keep mUSD collateralized in the unfortunate event one of the underlying assets&#8217; value falls below its peg. You can find current mUSD basket analytics <a href="https://app.mstable.org/analytics">here</a>.</p>
+
+
+
+<p>mStable&#8217;s <a href="https://docs.mstable.org/mstable-assets/functions/governance">governance system</a> and Meta (MTA) token are designed to reduce the risks for mUSD holders. If an underlying asset completely loses its value causing mUSD to fall off its peg, mStable&#8217;s Meta Governors as they are called can vote to purge the asset and recover the lost value using by selling staked MTA token for the outstanding mUSD. This mUSD is then burned until the system is re-collateralized. MTA token holders stake their MTA essentially acting as insurance against loss to receive a portion of all revenue that mStable generates.</p>
+
+
+
+<p>mUSD&#8217;s design affords DeFi users convenient access to its underlying stablecoins while offering a hedge against their individual risks and enhance their functionality with features such as native yield. Another handy aspect of mUSD is that the yield it generates through SAVE actually mints new mUSD meaning it&#8217;s always priced 1:1 to the USD by design.</p>
+
+
+
+<h3>SAVE</h3>
+
+
+
+<p>Once you&#8217;ve minted some mUSD, you can <a href="https://app.mstable.org/save">deposit your mUSD into SAVE and start earning</a>. All mStable asset holders can earn a native yield generated from mStable SWAP fees combined with interest accrued from lending out the underlying assets to decentralized lending markets like Compound and AAVE. A portion of this yield is allocated to Meta (MTA) holders as reward for governing and insuring mStable. At the time of writing, the average daily APY over the past 7 days on mUSD&#8217;s SAVE contract is over 23%. Obviously, this rate is subject to change as lending market rates and trading volumes vary.</p>
+
+
+
+<p>mStable&#8217;s SAVE contract takes chasing interest rates between stablecoins and lending markets which is practically a full-time job at this point and makes it simple for users just looking to hold and earn value as tokenized USD. SAVE currently supports lending on Compound and AAVE but Meta Governors will have the ability to add or remove lending platforms through mStable governance. When you combine this with the fees generated from mStable zero-slippage SWAP fees and single asset mUSD redemptions, mUSD&#8217;s advantages over holding any individual stablecoin start to add up.</p>
+
+
+
+<h3>SWAP</h3>
+
+
+
+<p>Anyone can use <a href="https://app.mstable.org/swap">mStable SWAP</a> to swap TUSD, DAI, USDC, and USDT with zero-slippage and a fixed BPS fee. Zero-slippage swaps are made possible by a combination of mStable&#8217;s straight line <a href="https://medium.com/mstable/introducing-constant-sum-bonding-curves-for-tokenised-assets-6e18879cdc5b">constant sum bonding curves</a> and the insurance MTA tokens provide to the system. This also enables SWAP to scale from day 1 because prices are not dependent on the amount of liquidity in the pool.</p>
+
+
+
+<p>As with minting, swaps that would push an asset over its max weight are paused, altering swap rules for only this asset until the basket is rebalanced. And as previously mentioned, users with mUSD in SAVE earn the fees generated from SWAP. Although, a portion of these fees are rewarded to those staking MTA.</p>
+
+
+
+<h2>Meta (MTA) token and mStable governance</h2>
+
+
+
+<p>mStable&#8217;s core team controls the mStable protocol at launch; However, the plan is to distribute Meta (MTA) tokens and gradually turn mStable governance systems over to the community of Meta Governors. MTA reward programs will be used to bootstrap the mStable ecosystem rewarding early adopters. Although MTA doesn&#8217;t exist yet, you can actually take part in ecosystem rewards and earn MTA early right now (more details in the section below).</p>
+
+
+
+<p>To participate in governance and earn their allotted share of mStable revenue, users must stake their MTA tokens. Staking rewards act as an incentive for Meta Governors to properly maintain the growth and stability of mStable. Meta Governors may propose and vote on protocol changes such as:</p>
+
+
+
+<ul><li>Add or remove mStable assets</li><li>Add or remove basket assets</li><li>Adjust the max weights of basket assets</li><li>Change SWAP fees</li><li>Change MTA staking rewards / revenue take</li></ul>
+
+
+
+<h4>Meta (MTA) Distribution</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="963" height="591" src="./../../../wp-content/uploads/2020/07/mta-dist.png" alt="" class="wp-image-8358" srcset="./../../../wp-content/uploads/2020/07/mta-dist.png 963w, ./../../../wp-content/uploads/2020/07/mta-dist-300x184.png 300w, ./../../../wp-content/uploads/2020/07/mta-dist-768x471.png 768w" sizes="(max-width: 963px) 100vw, 963px" /></figure>
+
+
+
+<ul><li><strong>Current Investors:&nbsp;</strong>6.5%</li><li><strong>Reserved for future sales &amp; growth:</strong>&nbsp;26.0%</li><li><strong>Reserved for Public Rewards:&nbsp;</strong>20.0%</li><li><strong>Reserved for Institutional Rewards:&nbsp;</strong>5.0%</li><li><strong>Rewards yet to be allocated:&nbsp;</strong>20.0%</li><li><strong>Team, Advisors &amp; Future Team:&nbsp;</strong>22.5%</li></ul>
+
+
+
+<h3>Ecosystem rewards</h3>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/07/mta-rewards-1024x479.png" alt="" class="wp-image-8362"/></figure>
+
+
+
+<p>20,000,000 MTA in total, or rather 20% of MTA’s total supply, will be emitted via ecosystem rewards over the next 5 years to bootstrap mStable and promote a fairer, wider distribution of Meta tokens. Rewards encourage users to mint mStable assets and to create liquidity and utility with those assets.</p>
+
+
+
+<p>Ecosystem Rewards began June 26th, 2020 with the launch of mStable&#8217;s first reward pool on Balancer creating liquidity for mUSD&lt;&gt;USDC. Ecosystem rewards will continue in monthly tranches, increasing over the first 15 months, and then slowly decline until the allocated MTA is exhausted.</p>
+
+
+
+<h4>Earn MTA via Balancer pools</h4>
+
+
+
+<p>mStable&#8217;s<a href="https://pools.balancer.exchange/#/pool/0x72Cd8f4504941Bf8c5a21d1Fd83A96499FD71d2C"> first MTA reward pool</a> is a Balancer pool weighted 50% mUSD / 50% USDC with a 5 bps trading fee. Anyone can mint mUSD and deposit equal parts mUSD and USDC into the pool and start earning MTA on top of the usual BAL token rewards and potential Balancer pool profits. The <a href="https://medium.com/mstable/mstables-second-mta-reward-pool-is-now-live-af22ad151b47">second MTA reward pool</a> is another Balancer pool with similar weights and fees; however this pool is mUSD/WETH.</p>
+
+
+
+<p>350,000 MTA will be awarded to pool liquidity providers over the first month. Each week, a snapshot will be taken at a random time and 50,000 MTA will be allocated to the participating addresses in proportion to their contribution to their respective pools.</p>
+
+
+
+<h3>MTA token launch</h3>
+
+
+
+<p>mStable is set to launch Meta (MTA) on Balancer at approximately 14:00 UTC on Wednesday, July 15th 2020. At that time, 2,666,666 MTA tokens and ~$400,000 mUSD will be deposited into a new Balancer liquidity pool. The initial liquidity pool price will effectively be set to $0.15 mUSD/MTA. <a href="https://medium.com/mstable/introducing-meta-mta-mstables-protocol-token-6e1032291ccf">Read more</a>. <em>** Since publication, <a href="https://twitter.com/mstable_/status/1283264646405746688">the launch has been delayed</a>.</em></p>
+
+
+
+<h2>Concluding thoughts</h2>
+
+
+
+<p>As someone who has been around for a while, I&#8217;ve seen a lot and I can say that mStable&#8217;s mUSD is an elegant solution to the current issues stablecoin holders face. The purpose of stablecoins is to act as a useful and stable store of value; mUSD takes this to the next level by extending the functionality of existing stablecoins while also mitigating risk for holders. </p>
+
+
+
+<p>I&#8217;m excited to see the future of mStable protocol with assets like mBTC, mGBP, mEUR, and mGLD. Not to mention, there are so many opportunities for Meta Governors to expand the utility of mAssets by integrating new lending protocols and DeFi services.</p>
+
+
+
+<p><a href="https://app.mstable.org/">Mint your first mUSD today</a> or learn more about mStable by heading to their <a href="https://mstable.org/">website</a>. Thanks for reading! I hope you enjoyed learning about this awesome project.</p>
+
+
+
+<p><em>Disclosure: This post is part a promotional series; We&#8217;ve partnered with mStable to inform the community about their cool meta-assets system. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+
+
+
+<p><br><br><br></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DeFi Dive: Aave Protocol &#8211; an open source non-custodial lending protocol</title>
+		<link>./../../../2020/02/13/defi-dive-aave-protocol/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2020 14:10:34 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[aave]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[defi dive]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[interview]]></category>
+		<category><![CDATA[lend]]></category>
+		<category><![CDATA[lending]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7980</guid>
+
+					<description><![CDATA[Off the heels of Aave Protocol storming DeFi Pulse&#8217;s rankings, Stani Kulechov founder and CEO of Aave joins us today....]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/02/DeFi-Dive-Social-Media-Aave-thumbnail-example-1.png" alt="" class="wp-image-7982" width="1024" height="512"/></figure>
+
+
+
+<p><strong><em>Off the heels of Aave Protocol storming DeFi Pulse&#8217;s rankings, Stani Kulechov founder and CEO of Aave joins us today</em></strong>.</p>
+
+
+
+<h3>How did you get your start in crypto and what inspired you to build your project, product, or service?</h3>
+
+
+
+<p>I first got into crypto because of the Ethereum community back when I was in college. I was studying Law, but I my true passion has always been finance. When you look at the traditional financial system, there are many inefficiencies. I wanted to build an ecosystem where people have control over their money, and finance is transparent and open.</p>
+
+
+
+<h3>What are you building and what sets it apart?</h3>
+
+
+
+<p>We released Aave Protocol nearly a month ago, and already we have over 5 million USD liquidity locked in our protocol. Aave provides a money lending market similar to Compound, but instead of just focusing on the total locked amount of assets, Aave re-uses locked assets within the Ethereum ecosystem. We wanted to come up with innovative tools that utilize the assets in different ways, and that’s how we came up with flash loans. Flash loans are a tool for developers to borrow liquidity from the protocol without needing to put up any collateral, provided that the liquidity is returned to the protocol within one transaction (a single block). You can use flash loans to do some fancy arbitraging, refinancing, and much more. The use-cases people come up with are super cool, because you can really apply them in creative ways. The end goal for flash loans is to help developers build financial products without needing capital, enabling more people to build and lowering the barrier to entry.</p>
+
+
+
+<p>Another exciting feature is our Aave interest-bearing tokens called “aTokens”. When someone deposits an asset in Aave Protocol, a smart contract mints an equivalent amount of aTokens, which are pegged 1:1 to the underlying asset and are sent to the lender. For example, if you deposit 200 Dai, you will get 200 aDai in your wallet. The underlying asset, in this case the 200 Dai, is loaned out to borrowers while the aDai accrue interest in real time directly in your wallet. You can redirect this interest at any time to any Ethereum address, putting you in control over your earnings.</p>
+
+
+
+<p>Aave Protocol also lets users switch between stable and variable rates when borrowing, so that the interest-rate is always on your side. Stable rates give the user more certainty than variable rates, which can fluctuate a lot. You can always switch—if you have a variable rate and the rate starts going up, you can switch to the stable rate, for example.</p>
+
+
+
+<p>We knew we needed to offer new features with Aave Protocol. You can’t just do the same thing as everyone else—in order to get people into DeFi you need to come up with new tools that can really benefit users.</p>
+
+
+
+<h3>Who do you view as the ideal user or customer for your product or service?</h3>
+
+
+
+<p>Everyone! We want to bring DeFi into the mainstream, but we understand that there are some hurdles to this, such as education, since people can find anything “blockchain” intimidating and people do not understand the value of DeFi yet. Right now, our main users are devs, especially since some tools like flashloans are designed specifically for people with some technical knowledge. However, anyone can use Aave protocol to earn interest on their crypto or borrow assets.</p>
+
+
+
+<h3>What future event or feature on your roadmap are you most excited for?</h3>
+
+
+
+<p>We are very excited to hand over the governance to the community of LEND holders. Currently, Aave is keeping the governance in case there are any issues with the protocol, but it has been built and will be released to the public very soon. LEND holders will have voting power and be able to make important decisions regarding the governance of the protocol.</p>
+
+
+
+<h3>Where do you see your project, product, or service fitting into the future of DeFi?</h3>
+
+
+
+<p>We want to bring DeFi into the mainstream conscience by building tools that people can really use, and want to use, to control their money. Money should never just sleep in a traditional bank account when you can put it in DeFi and earn some interest, borrow, etc. People want to have control over their finances and see their money working for them 24/7. They also value transparency and openness, which you don’t necessarily get in the old-school financial system.</p>
+
+
+
+<h3>What’s something in DeFi that you think more people should be paying attention to?</h3>
+
+
+
+<p>I think people should be looking at uncollateralized loan options, like Aave protocol’s flash loans. DeFi usually relies on overcollateralized loans, but this requires borrowers to put up tons of collateral, which not everybody has. Uncollateralized loans make it easier for people to borrow and doesn’t require lots of capital, making it more accessible.</p>
+
+
+
+<h3>How can readers learn more about your product/service?</h3>
+
+
+
+<p>Check out our website to learn more and try out Aave Protocol: <a href="https://aave.com/">https://aave.com/ </a><br>Twitter for all the updates (and some memes): <a href="https://twitter.com/AaveAave">https://twitter.com/AaveAave</a> <br>Medium to read about the protocol, how to use it, security, and more: <a href="https://medium.com/aave">https://medium.com/aave</a> <br>Or join in our convo on Discord: <a href="https://discordapp.com/aave">https://discordapp.com/aave</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

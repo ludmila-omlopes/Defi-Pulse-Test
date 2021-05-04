@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dai &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 23 Feb 2021 19:00:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Introducing Cryptodollars</title>
+		<link>./../../../2021/02/23/cryptodollars-stablecoins/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Tue, 23 Feb 2021 19:00:00 +0000</pubDate>
+				<category><![CDATA[New Features]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[stablecoin]]></category>
+		<category><![CDATA[stablecoins]]></category>
+		<category><![CDATA[susd]]></category>
+		<category><![CDATA[synthetix]]></category>
+		<category><![CDATA[USDC]]></category>
+		<category><![CDATA[usdt]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8898</guid>
+
+					<description><![CDATA[From their inception, the coins or tokens pegged to the US Dollar, commonly referred to as stablecoins, provided a way...]]></description>
+										<content:encoded><![CDATA[
+<p>From their inception, the coins or tokens pegged to the US Dollar, commonly referred to as stablecoins, provided a way for many users to exit positions without exiting crypto. One could make the case that the popularity of tokenized dollars in crypto was a necessary precursor to the DeFi ecosystem we know today. Their liquidity and relative stability enabled new possibilities for smart contracts which ultimately led to the rapid maturity in decentralized financial instruments built on-chain.</p>
+
+
+
+<p>And so we’re happy to unveil our new <a href="http://defipulse.com/usd">Cryptodollars</a> page dedicated to measuring the amount of tokenized dollars in DeFi. At the time of writing, the total value locked in cryptodollars exceeds $34.5B. This new addition to DeFi Pulse helps to capture the full picture of the extraordinary growth of DeFi with years of historical data.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="defipulse.com/usd"><img loading="lazy" width="574" height="289" src="./../../../wp-content/uploads/2021/02/cryptodollars.png" alt="" class="wp-image-8924" srcset="./../../../wp-content/uploads/2021/02/cryptodollars.png 574w, ./../../../wp-content/uploads/2021/02/cryptodollars-300x151.png 300w" sizes="(max-width: 574px) 100vw, 574px" /></a></figure>
+
+
+
+<p><strong><em>At launch, the following cryptodollars will be included: USDT, USDC, DAI, BUSD, PAX, HUSD, TUSD, sUSD, GUSD, MUSD, and DUSD</em></strong>.</p>
+
+
+
+<p><strong>How do we define each type of cryptodollar?</strong></p>
+
+
+
+<ul><li>Custodial &#8211; a USD token backed by USD held in custody by a third party</li><li>Collateralized &#8211; a token pegged to USD backed by another asset or basket of assets</li></ul>
+
+
+
+<p>We’d also like to take a moment to acknowledge algorithmic stablecoin communities and the innovations happening in that sector. We will continue to monitor the evolution of the different &#8220;Algorithmic dollars&#8221; and we&#8217;ll be happy to add this category in the future should they start maintaining the peg (or reasonably close enough) with the US dollar.</p>
+
+
+
+<p>Special thanks to all the teams for working with us! Be sure to check out the new <a href="http://defipulse.com/usd">Cryptodollars</a> page. And if you’re interested in joining the DeFi Pulse Leaderboard, please check out this <a href="https://defipulse.com/blog/how-to-join-the-defi-pulse-leaderboard/">step-by-step guide.</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Reflexer &#8211; Crypto-Native Stability Built for DeFi</title>
+		<link>./../../../2021/02/21/reflexer/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 21 Feb 2021 19:55:00 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<category><![CDATA[RAI]]></category>
+		<category><![CDATA[reflex index]]></category>
+		<category><![CDATA[reflexer]]></category>
+		<category><![CDATA[sai]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8906</guid>
+
+					<description><![CDATA[The average person would describe cryptocurrency as highly volatile. And while this is true for many, there are coins designed...]]></description>
+										<content:encoded><![CDATA[
+<p>The average person would describe cryptocurrency as highly volatile. And while this is true for many, there are coins designed to reduce volatility or stability commonly referred to as stablecoins. Stablecoins, particularly those pegged to the US Dollar, have dramatically risen in popularity thanks to the utility they provide to users and smart contracts alike. Users tend to gravitate to the narrative of USD pegged stablecoins as a familiar unit of account. However, history has shown that stablecoins pegged to the value of a specific asset or basket of assets don’t always hold their peg. And when they do go off peg, it can quickly diminish the reputation of a stablecoin built on the premise of always being $1.&nbsp;</p>
+
+
+
+<p>Limiting a stablecoin to always equaling $1 also limits the mechanisms available to a community to bring the stablecoin back on peg. This can lead to added complexity like introducing new collateral types and subsequently undesired risk in lieu of what many would argue is the simpler mechanism: negative interest rates. In the end, many stablecoins resort to centralized custodians to hold USD in a bank somewhere or governance systems that require lots of participation to maintain relative stability.&nbsp;</p>
+
+
+
+<p>Reflexer’s RAI returns crypto to its roots drawing inspiration from the early days of stablecoins to offer crypto-native stability. RAI is an ETH backed, non pegged stable asset known as a reflex index whose monetary policy is managed by an on-chain, autonomous controller. <a href="http://pubads.g.doubleclick.net/gampad/clk?id=5626157429&amp;iu=/22134506417">Reflexer</a> launched on mainnet on Feb 17, 2021.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=5626157429&amp;iu=/22134506417"><img src="./../../../wp-content/uploads/2021/02/reflexer_banner_youtube2__1_-1.png" alt="" class="wp-image-8909"/></a></figure>
+
+
+
+<h3>RAI allows you to trustlessly leverage your ETH</h3>
+
+
+
+<p>For reasons we’ll cover in the next section, the function of RAI may be familiar to those with an understanding of MakerDAO’s DAI. DeFi users can borrow RAI via Reflexer by depositing ETH as collateral into what’s called a Safe. Borrowed RAI is subject to an interest rate referred to as the borrow rate. Safes must maintain a minimum collateral ratio of 145%. If a Safe position fails to maintain this collateral ratio, the Safe will incur a liquidation penalty and the protocol will sell collateral to keepers at a discounted rate to cover the debt. Note: there’s also a minimum amount of RAI that must be generated by a Safe. This ensures that in the event of liquidation the Safe has enough collateral to cover its debt and the necessary gas costs and incentives for keepers necessary to liquidate the position.&nbsp;</p>
+
+
+
+<p>RAI boils down to this: a volatility-reduced representation of ETH. It’s designed to float similar to other currencies and not be pegged to anything. Reflexer relies on a set of protocol parameters including borrowing power and market price to determine the price RAI can be redeemed for (more on this in a bit). RAI was launched with a starting redemption price of $3.14. From this point on, RAI will continue to float while it is managed by the protocol’s on-chain controller. Actually, there’s a chance it never returns to its original redemption price at all. Market forces and Reflexer protocol user incentives influence where the redemption price of RAI floats to. At the time of writing, there are 766 active safes and 24,755,216 RAI in total. You can view the current market price, redemption price, and borrow rate along with other RAI stats <a href="https://stats.reflexer.finance/">here</a>.</p>
+
+
+
+<h2>Inspired by the original Dai Purple Paper</h2>
+
+
+
+<p>Some of you may recall that the original concept of the DAI stablecoin system outlined in the “Dai Purple Paper” back in February 2018 included negative interest rates. In fact, DAI wasn’t always meant to equal $1 at all. DAI was meant to have a redemption price that would float, producing low volatility but driven by the market.</p>
+
+
+
+<p>Reflexer’s RAI aims to fill this void by borrowing many of the concepts from the Dai Purple Paper. Reflex indexes like RAI are designed to reduce volatility, shielding users against major and sudden moves in the market like the<a href="https://defipulse.com/blog/defi-status-report-black-thursday/"> events witnessed on Black Thursday</a>. On a technical level, <a href="https://docs.reflexer.finance/">the system behind RAI</a> is a modified fork of multi-collateral DAI with a few distinct changes. Some of these changes include autonomous feedback mechanisms that control user incentives, simplified variable names, more flexible collateral auctions, long term bounded&nbsp; governance, optional Safe insurance and more. While DAI may have strayed from its early vision leaving its hypothesis untested, Reflexer’s mainnet demo Proto RAI illustrated how an asset can create stability without a peg, relying solely on market forces and redemption price float.&nbsp;</p>
+
+
+
+<p>The Proto RAI (PRAI) demo ran for nearly 3 months before being shut down on January 25, 2021. More than $612K worth of ETH was deposited into the demo to mint almost 52K PRAI; PRAI’s redemption price started at $2.015 and then floated between $1.937 and $2.06. During this same time period, ETH increased by 350% going from about $400 to $1400. Doing the math, this means PRAI’s redemption price fluctuated less than 4%, demonstrating how Reflexer’s reflex indexes can be a more stable representation of its collateral.</p>
+
+
+
+<h2>How exactly do reflex indexes create stability without pegs?</h2>
+
+
+
+<p>The money god wills it so. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f5ff.png" alt="🗿" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Or at least that’s the meme the Reflexer community has adopted to refer to the set of on-chain, autonomous controllers that control RAI’s monetary policy. At this point, I think it helps to reiterate that RAI is not a pegged stablecoin, because its redemption price floats. But to fully understand what this means we need to define a few terms key pertaining to reflex indexes:</p>
+
+
+
+<p><strong>Redemption price</strong><br>Redemption price is the price that the protocol wants RAI to have on the secondary market (e.g on Uniswap or Sushiswap). The redemption price is used by Safe users to mint RAI against ETH and it is also used during Global Settlement in order to allow both Safe and RAI users to redeem collateral from the system. The redemption price almost always floats and it does not target any specific peg. <em>[insert Pennywise meme of your choice here]</em></p>
+
+
+
+<p><strong>Market price</strong><br>This one&#8217;s a little self-explanatory. This is the price that RAI is traded at on the secondary market.</p>
+
+
+
+<p><strong>Redemption rate</strong><br>This is the rate at which RAI is being devalued or revalued. The process of devaluing/revaluing RAI consists in the redemption rate changing the redemption price.</p>
+
+
+
+<p><strong>Global settlement</strong><br>Settlement refers to the process of shutting down a reflex index and allowing both Safe and RAI users to redeem collateral from the system. Settlement uses the redemption price (not the market price) to calculate how much collateral can be redeemed by each user.</p>
+
+
+
+<p><strong>Borrowing power</strong><br>Borrowing power is how many reflex indexes like RAI can be borrowed against one unit of collateral. Each time the system receives a price feed update for its accepted collateral types, the feed data is divided by the redemption price and then divided again by the liquidation ratio in order to calculate the borrowing power. So for example, if ETH’s price is 100 USD, the liquidation ratio is 145%, and the current index redemption price is 1 USD, the borrowing power for ETH is approximately equal to 100 / 1 / 1.45 = 68.96 USD.</p>
+
+
+
+<h3>Let’s dive into a few examples to see what RAI looks like in practice:</h3>
+
+
+
+<p>When the market price of RAI is greater than the redemption price for a sustained period of time, the redemption rate becomes negative. A negative redemption rate lowers the redemption price. This results in users’ borrowing power being increased as RAI becomes cheaper inside the protocol. The redemption price continues to lower until the market price reaches it. In other words, this process creates a strong incentive for users to sell their RAI or even leverage their collateral to generate more sooner rather than later.</p>
+
+
+
+<p>Now, imagine this process in reverse. When the market price of RAI falls below the redemption price for a long enough period of time, the redemption rate becomes positive. This in turn lowers users’ borrowing power which then causes more users to buy RAI to pay down debt or buy it with the expectation that the market price will follow the redemption price. Likewise, this process continues until the difference between the market and redemption price is reduced to 0.</p>
+
+
+
+<p>There are a few interesting caveats to Reflexer worth noting including the fact that the system’s desired steady state may not reduce the redemption rate to 0%. There may be a non-zero redemption rate where the redemption price and market price remain relatively close to one another. Additionally, the system can collect stability fees even when the redemption rate is negative. When a reflex index is being repriced because of the redemption rate, the amount of stability fees collected (denominated in the reflex index) doesn’t change.</p>
+
+
+
+<h2>Reflexer’s Ungovernance</h2>
+
+
+
+<p>If you haven’t picked up on it yet, Reflexer protocol highly prioritizes trustlessness and in pursuit of that end: governance minimization. Reflexer has laid out a multi-stage process at the end of which governance will not control or be able to upgrade most core contracts and many Reflexer protocol parameters will be set autonomously by other external contracts. Before this process could begin, the following conditions would need to be met first:</p>
+
+
+
+<ul><li>Governance must not add or plan to add any more collateral types</li><li>All infrastructure for governance minimization must have been audited and tested in production</li><li>Finally, the system must accrue enough surplus in its main treasury so that it can afford to pay for oracle, PID, state management etc costs for at least 6 months.</li></ul>
+
+
+
+<p>The list of components to which can be minimized and automated to varying degrees is far too long for us to cover here, but please refer to <a href="https://docs.reflexer.finance/ungovernance/governance-minimization-guide">Reflexer’s Governance Minimization Guide</a> to learn more. A key takeaway is that the first of 3 Governance Minimization Levels is expected to be reached within 14 months after launch (approx. April 2022).</p>
+
+
+
+<p><strong>What does this mean for the average user?</strong> The behavior of RAI and other reflex indexes will be more predictable with defined parameters. Furthermore, developers looking to incorporate reflex indexes into their protocol or smart contract will be able to trust that its behavior won’t change undesirably.</p>
+
+
+
+<h2>Interesting possibilities enabled by reflex indexes</h2>
+
+
+
+<p>Reflexer’s redemption rate mechanism when put in the hands of DeFi developers could be utilized in all sorts of ways. A prime example being a unique money market design that takes advantage of RAI’s changing redemption rate to offer users better interest rates or speculate on the expected market price of RAI in the future. When viewed as an intrinsic interest rate for RAI, you can start to see how the redemption rate can be incorporated into a whole range of products and services from options to portfolio management strategies. Yield aggregators in particular would benefit from unfiltered access to borrowing power allowing them to remove deposit caps or simply be more capital efficient. RAI’s low volatility also lends itself well to being used as collateral for synthetic asset tokens.</p>
+
+
+
+<h2>Closing thoughts</h2>
+
+
+
+<p>Reflexer offers crypto-native stability while taking an approach previously left unexplored by the DeFi ecosystem. RAI answers the call for an ETH-backed asset with low volatility which many DeFi users have been calling for since the transition away from single-collateral DAI. Beyond individual users, Reflexer’s goal towards “ungoverned,” unfiltered access to borrowing power could prove to be a useful resource to future DeFi protocols. You could say these are uncharted waters in what might be a blue ocean.</p>
+
+
+
+<p><a href="https://discord.com/channels/@me/667142017171849216/813065575466795008">Reflexer</a> went live on mainnet on February 17, 2021. Got a question or just itching to discuss the future of RAI? Join the discussion happening in the Reflexer community <a href="https://discord.gg/83t3xKT">Discord</a> or follow <a href="https://twitter.com/reflexerfinance">Reflexer on Twitter</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Reflexer to help educate and inform the community about reflex indexes. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>3F Mutual &#8211; Collective Insurance Against MakerDAO Risks</title>
+		<link>./../../../2020/10/25/3f-mutual/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 25 Oct 2020 20:13:35 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[hakka]]></category>
+		<category><![CDATA[insurance]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8632</guid>
+
+					<description><![CDATA[As you likely already know, MakerDAO’s DAI is a decentralized stablecoin pegged to $1 and backed by many different collateral...]]></description>
+										<content:encoded><![CDATA[
+<p>As you likely already know, MakerDAO’s DAI is a decentralized stablecoin pegged to $1 and backed by many different collateral types. Historically, there has been high demand for DAI causing it to rise above it’s $1 peg at times. To encourage the necessary inflation to bring DAI back down to $1, MakerDAO can add more collateral types and raise the total amount of DAI that can be minted from existing collateral types. While these changes do tend to bring DAI back on peg, they also add new risk parameters and complexity to the system. Some community members have raised concerns that these risks could compound over time, increasing the odds that DAI could become undercollateralized in a crisis and MakerDAO may be forced to trigger an emergency shutdown. If MakerDAO were to ever collapse, it would send ripples through the DeFi ecosystem due to the widespread use of DAI. <a href="https://hakka.finance/">Hakka Finance</a> built <a href="https://3fmutual.com/">3F Mutual</a> for this very reason so users could hedge against this economic risk with lower premiums and better market-making mechanisms.</p>
+
+
+
+<p>Hakka Finance is an engineering team from Taiwan who have been building in the DeFi space since mid-2019. Currently, their two major products are 3F Mutual and <a href="http://blackholeswap.com/">BlackHoleSwap</a> (more on them in a bit), but the team has a history of building cool DeFi projects. The Hakka Finance team were finalists of the Kyber DeFi Virtual Hackathon in September 2019 with their <a href="https://devpost.com/software/crypto-structured-fund">Crypto Structure Fund</a> and also previously built <a href="https://github.com/Robin-and-friends/tCDP">a fungible version of CDPs</a> as well as <a href="https://hakka.finance/">other interesting projects</a>. Their stated goal is to build products that “allow users to pursue financial sovereignty.” The team plans to keep building until they’ve established a mature ecosystem of exceptional DeFi products controlled and governed by the community of HAKKA token holders. But before we dive too far into HAKKA, let’s explore their flagship product 3F Mutual to understand more about the Hakka Finance ecosystem.</p>
+
+
+
+<h2>How does 3F Mutual work?</h2>
+
+
+
+<p>Third Floor Mutual or <a href="https://3fmutual.com/">3F Mutual</a> is a rainy day fund designed to act as collective insurance against the risk of MakerDAO collapsing. You can purchase insurance from 3F Mutual to hedge against the economic risk of MakerDAO which can be claimed if the MakerDAO Emergency Shutdown Module is activated while your insurance is still active.</p>
+
+
+
+<figure class="wp-block-image is-resized"><img loading="lazy" src="https://lh4.googleusercontent.com/D8VdEmKGHRdMvmH1PHp_ubO_KDnh1sd5Y688yISWn6P0IdBDwFIUcmowxdS2Y3taKCsrv25e3MqDptbNttByMd3W5Zc2Dk3TULp_lshAD_VKTP-7CArx2t2YNg5sSNGbPyvP_Chn" alt="" width="555" height="239"/></figure>
+
+
+
+<p>3F Mutual uses an automated market maker (AMM) design which allows users to purchase insurance underwritten by 3F Mutual’s fund pool at any time. In a nutshell, there are three roles involved in 3F’s design: underwriters, insurance buyers, and insurance agents. Underwriters provide capital to 3F Mutual and earn dividends proportional to their share of the pool. As the name implies, insurance buyers pay insurance fees to receive coverage for a limited time. Insurance agents, as you may have guessed, refer new users to 3F and collect a referral bonus for doing so.<br></p>
+
+
+
+<p>One key aspect of 3F’s design is that the insurance fees paid by insurance buyers becomes the pool used to compensate insurance buyers in the event MakerDAO’s emergency shutdown is activated. Additionally, underwriters receive dividends in the form of 15% of all insurance fees paid to the pool. When you buy insurance, you receive both insured units and shares of the pool. Shares, unlike units, never expire and entitle the holder to receive underwriter dividends. In this way, you’re acting as both an insurance buyer and an underwriter for the pool. You can even choose to buy 0-day insurance at the base price effectively purchasing shares with no insurance included.</p>
+
+
+
+<figure class="wp-block-image is-resized"><img loading="lazy" src="https://lh6.googleusercontent.com/z08QP8psDlG5YMzrNtqtwqo_ab6c-PgOmZjUMDVcTkpHHcsQoU8FvJsRRIhiQyTlDYsaif24q0q7pxd7E_n9T1TidSMt0XH7T23YYZS79UCNj1leVbwUROhoa9hHKv-Kfo8NCnmt" alt="" width="437" height="118"/></figure>
+
+
+
+<p>Every time you buy insurance from 3F you pay insurance fees based on the number of insurance units and how many days of coverage you want. The fee you pay when buying insurance is multiplied by a rate set to 100% per insured day with a 1% depreciation. In other words, you can get a discount if you buy longer insurance coverage. You can only buy a maximum of 100 days of coverage.</p>
+
+
+
+<h3>Insurance Agents</h3>
+
+
+
+<p>3F Mutual features insurance agents which allows users to earn referral fees. Anyone can spend 0.01 ETH to register a unique name in 3F Mutual to become the insurance agent. Agents can build a personal profile with a profile picture and opening statement powered by 3BOX and IPFS. Agents receive a bonus for every insurance purchase made with their referral link. Bonuses increase with more referrals in a tiered system. Learn more about <a href="https://3fmutual.hostedwiki.co/pages/In-depth%20tutorials">3F’s insurance agent system</a>.</p>
+
+
+
+<h2>3F Mutual incentivizes early participation</h2>
+
+
+
+<p>If MakerDAO’s emergency shutdown is activated, the total amount you’re eligible to claim is based on your number of active insurance units versus the total number of active units. When your units / coverage expires, you still keep your shares of the pool as an underwriter. With each new unit of insurance purchased, the base price per insurance unit rises and more fees are paid to the pool. As the pool continues to grow, 3F is able to provide larger amounts of insurance capacity which in turn further increases revenue. This positive cycle rewards early participants due to the fact that shares never expire.&nbsp;</p>
+
+
+
+<p>Imagine you’re an early insurance buyer, you’d pay a smaller base price per unit/share than a future buyer and even after your insurance expires you’d continue to earn dividends as an underwriter. And since you receive the same number of shares as you do units purchased (even if you choose 0 days of coverage), the optimal strategy is to purchase short-term insurance in the early stages of 3F Mutual to maximize your dividends and then purchase more coverage right before MakerDAO would trigger an emergency shutdown. Of course, no one can predict if or when MakerDAO might trigger it with 100% accuracy. That’s why 3F can be thought of like a rainy day fund which produces dividends during sunny days.</p>
+
+
+
+<p>Since its launch in mid-September 2020, 3F Mutual has already gotten a fair bit of traction. At the time of writing, there are currently ~1879 ETH in the pool, 5738929 total shares, 4519 active insurances, and 780 agents.</p>
+
+
+
+<h2>How are 3F Mutual insurance fees distributed?</h2>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Destination</strong></td><td><strong>Percentage</strong></td><td><strong>Side note</strong></td></tr><tr><td>Dividends</td><td>15%</td><td>Equally distribute to all shareholders</td></tr><tr><td>IIP</td><td>10%</td><td>Reserve for Insurance Improvement Proposals</td></tr><tr><td>External</td><td>20%</td><td>Allocate to insurance agent (0~16%) and vault</td></tr><tr><td>Pool</td><td>55%</td><td>Compensations for MakerDAO Emergency Shutdown</td></tr></tbody></table></figure>
+
+
+
+<p><br>We already covered dividends, agent bonuses, and the pool of funds set aside for compensation, but that 10% for Insurance Improvement Proposals (IIP) is where 3F Mutual fits into the wider HAKKA ecosystem. This IIP reserve is held with 3F Mutual’s vault and is governed by HAKKA token holders. HAKKA holders vote on IIPs to determine how best to develop, maintain, or upgrade 3F Mutual’s protocol through Hakka Finance’s governance system.</p>
+
+
+
+<h1>Hakka Ecosystem</h1>
+
+
+
+<p>Hakka Finance aims to be a decentralized autonomous organization (DAO), distributing HAKKA tokens to its community members in order to decentralize governance. HAKKA tokens were originally sold to cover the team’s development costs when the market turned bearish in 2019. At present, 60% of all HAKKA tokens are being distributed to the community via liquidity mining and other incentive programs.<br><img loading="lazy" alt="Image for post" src="https://lh4.googleusercontent.com/5jQMvll3P79uGBSIMdCtxMrM7JBL4TJd1RvAdsXxeCeIJEpW8Tf9Riztbcr0Gb_-RtNdnIAm2kybrG4RF1EiV8uV6YTZ5mZuAICdzBz2I_McbpQbqijM85zrhqurCnwc78dZLDPI" width="624" height="307"><br>The Hakka Finance team is committed to transparency providing the community with a <a href="https://medium.com/hakkafinance/hakka-finance-transparency-report-e75f025507dc">Transparency Report</a> and <a href="https://hakka-finance.gitbook.io/hakka-wiki/governance/governance-roadmap">Hakka’s governance roadmap</a>. In an <a href="https://medium.com/hakkafinance/financial-statements-of-hakka-finance-646674369a3d">updated financial statement from Sept. 2020</a>, Hakka Finance mentions that a significant portion of the total supply was burned and locking / vesting schedules were extended.</p>
+
+
+
+<p>HAKKA token holders <a href="https://beta-gov.hakka.finance/#/">govern various parameters in Hakka Finance</a> products, like the IIP reserves mentioned. HAKKA governance also determines when to add <a href="https://medium.com/hakkafinance/hakka-reward-pools-v8-af51937ac068">new liquidity mining incentives</a>. Users can <a href="https://rewards.hakka.finance/pools">earn HAKKA tokens</a> by providing liquidity for purchasing insurance on 3F Mutual in addition to providing liquidity for HAKKA and BlackHoleSwap, Hakka Finance’s stablecoin DEX.&nbsp;</p>
+
+
+
+<h1>BlackHoleSwap</h1>
+
+
+
+<p>Created in July 2020, <a href="http://blackholeswap.com/">BlackHoleSwap</a> is a decentralized stablecoin exchange that can process transactions far exceeding its existing liquidity by tapping into lending protocols. BlackHoleSwap’s name is inspired by its goal to have the deepest liquidity in the universe. BlackHoleSwap leverages excess supply to borrow the necessary stablecoin when reserves are inadequate to perform a swap, lowering slippage and maximizing capital utilization. This adds what the Hakka team refers to as “virtual liquidity” to popular AMM models like Uniswap. Given the same amount of “real reserves,” BlackHoleSwap produces less slippage than many other DEXes and can even have “real reserves” as little as 0.<br><img loading="lazy" src="https://lh5.googleusercontent.com/ZXhfK-ufRY_SwGojTSU8VDd2FkG2_PK2cLAihGZ-Hma5QTDuOOb1qcbAvLJ-HMwHBIRcg1XlaBenbzBbdnG8LXRLGdOYroRQpn3k0Vn8EzZ9VamOGY1KSklDXL58qnpRgFyk1TO_" width="624" height="391"></p>
+
+
+
+<p>And because it is integrated with Compound, BlackHoleSwap can even mine COMP for the pool producing extra profit for liquidity providers. To learn more about the technical details behind BlackHoleSwap, I recommend you read the wiki found <a href="https://hakka-finance.gitbook.io/hakka-wiki/hakka-products/black-hole-swap-bhs">here</a>.</p>
+
+
+
+<h1>Closing Thoughts</h1>
+
+
+
+<p>Between <a href="https://3fmutual.com/">3F Mutual</a> and <a href="https://blackholeswap.com/swap">BlackHoleSwap</a>, the Hakka team has built interesting products with innovative features uniquely catered to the DeFi space. I’d argue they live up to their catch phrase of “Warped Spacetime with Crypto Native Primitives” because some of their features are a bit mind-bending. Given their track record, I’ll be eagerly awaiting whatever comes next from Hakka Finance. To stay on top of all the different products Hakka Finance is cooking up, check out <a href="https://hakka.finance/">their website</a> and follow them on <a href="https://twitter.com/hakkafinance">Twitter</a>.&nbsp;</p>
+
+
+
+<p><strong><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Hakka Finance to help educate and inform the community about 3F Mutual and the Hakka Ecosystem. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Introducing mStable &#8211; meta-assets with native yield and zero slippage swaps</title>
+		<link>./../../../2020/07/10/introducing-mstable/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 10 Jul 2020 13:30:00 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[aave]]></category>
+		<category><![CDATA[Compound]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[mstable]]></category>
+		<category><![CDATA[musd]]></category>
+		<category><![CDATA[stablecoins]]></category>
+		<category><![CDATA[USDC]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8351</guid>
+
+					<description><![CDATA[The fragmentation of the stablecoin market in DeFi has led to a lackluster experience for many crypto users. Gone are...]]></description>
+										<content:encoded><![CDATA[
+<p>The fragmentation of the stablecoin market in DeFi has led to a lackluster experience for many crypto users. Gone are the days when DeFi was DAI-centric; nowadays, most DeFi users find themselves having to shuffle between a handful of stablecoins in order to take advantage of the opportunities available in DeFi. </p>
+
+
+
+<p>And if you aren&#8217;t trying to hack your yield, you&#8217;re missing out by today&#8217;s standards. The whole process can be a lot to take in for even experienced users; imagine being a new user trying to determine the best stablecoin to own <em>and </em>earn the best yield. On its face, it&#8217;s not a simple problem to solve and sometimes users are forced to make compromises. At least until now&#8230; One of the best qualities of DeFi is that there&#8217;s always someone tackling new problems as they arise. That&#8217;s where mStable comes in with meta-assets like mUSD.</p>
+
+
+
+<h2>mStable&#8217;s mUSD is tokenized USD made simpler, safer, and more efficient</h2>
+
+
+
+<p>mStable&#8217;s mUSD addresses both the fragmentation of USD-pegged stablecoins and the lack of native yield by uniting stablecoin swapping and lending. And, it does so while also offering protection against complete capital loss (more on that in a bit). mUSD is a USD-pegged token backed by a basket of popular stablecoins with built-in yield generated from mStable SWAP fees and lending collateral on Compound and Aave. To be more precise, mStable assets like mUSD are actually a LP share in a dynamic pool of assets that generates yield, offers 0 slippage swaps between its underlying assets, and serves as a first class asset. I know that&#8217;s a bit of a mouthful. So let&#8217;s take a look at mUSD, which is <a href="https://medium.com/mstable/mstable-now-live-on-mainnet-c9f55f748ac7">live on the mainnet</a>, as an example.</p>
+
+
+
+<p>When you first open <a href="https://app.mstable.org/">the app</a>, you&#8217;re greeted with mStable&#8217;s sleek interface containing a few quick slides that break down mUSD&#8217;s three main functions: <strong>MINT</strong>, <strong>SAVE</strong>, and <strong>SWAP</strong>.</p>
+
+
+
+<h3>MINT</h3>
+
+
+
+<p>Anyone can <a href="https://app.mstable.org/mint">mint new mUSD</a> by depositing a 1:1 ratio of USDT, USDC, TUSD or DAI into mStable. For example, if you send 1000 USDT, you&#8217;ll receive 1000 mUSD. You can also conveniently &#8220;multi-mint&#8221; mUSD sending multiple stablecoins at the same time. On the flip side, you can redeem mUSD 1:1 for any of the underlying assets under normal conditions.</p>
+
+
+
+<p>An important aspect of mStable&#8217;s design is the maximum weights set for assets in each basket. This limit prevents a basket from becoming unbalanced with too much of one asset. When an asset reaches its max weight, it changes how users can mint, swap, or redeem mStable assets like mUSD.</p>
+
+
+
+<p>Say mUSD is overweighted towards USDT, users are unable to mint mUSD with USDT, only TUSD, DAI, and USDC. Whereas if you&#8217;re looking to redeem mUSD, you would only be able to multi-redeem into an equivalent combination of assets according to the basket&#8217;s current weight or straight 1:1 for USDT. These limits keep mUSD on peg and act as a safety measure to keep mUSD collateralized in the unfortunate event one of the underlying assets&#8217; value falls below its peg. You can find current mUSD basket analytics <a href="https://app.mstable.org/analytics">here</a>.</p>
+
+
+
+<p>mStable&#8217;s <a href="https://docs.mstable.org/mstable-assets/functions/governance">governance system</a> and Meta (MTA) token are designed to reduce the risks for mUSD holders. If an underlying asset completely loses its value causing mUSD to fall off its peg, mStable&#8217;s Meta Governors as they are called can vote to purge the asset and recover the lost value using by selling staked MTA token for the outstanding mUSD. This mUSD is then burned until the system is re-collateralized. MTA token holders stake their MTA essentially acting as insurance against loss to receive a portion of all revenue that mStable generates.</p>
+
+
+
+<p>mUSD&#8217;s design affords DeFi users convenient access to its underlying stablecoins while offering a hedge against their individual risks and enhance their functionality with features such as native yield. Another handy aspect of mUSD is that the yield it generates through SAVE actually mints new mUSD meaning it&#8217;s always priced 1:1 to the USD by design.</p>
+
+
+
+<h3>SAVE</h3>
+
+
+
+<p>Once you&#8217;ve minted some mUSD, you can <a href="https://app.mstable.org/save">deposit your mUSD into SAVE and start earning</a>. All mStable asset holders can earn a native yield generated from mStable SWAP fees combined with interest accrued from lending out the underlying assets to decentralized lending markets like Compound and AAVE. A portion of this yield is allocated to Meta (MTA) holders as reward for governing and insuring mStable. At the time of writing, the average daily APY over the past 7 days on mUSD&#8217;s SAVE contract is over 23%. Obviously, this rate is subject to change as lending market rates and trading volumes vary.</p>
+
+
+
+<p>mStable&#8217;s SAVE contract takes chasing interest rates between stablecoins and lending markets which is practically a full-time job at this point and makes it simple for users just looking to hold and earn value as tokenized USD. SAVE currently supports lending on Compound and AAVE but Meta Governors will have the ability to add or remove lending platforms through mStable governance. When you combine this with the fees generated from mStable zero-slippage SWAP fees and single asset mUSD redemptions, mUSD&#8217;s advantages over holding any individual stablecoin start to add up.</p>
+
+
+
+<h3>SWAP</h3>
+
+
+
+<p>Anyone can use <a href="https://app.mstable.org/swap">mStable SWAP</a> to swap TUSD, DAI, USDC, and USDT with zero-slippage and a fixed BPS fee. Zero-slippage swaps are made possible by a combination of mStable&#8217;s straight line <a href="https://medium.com/mstable/introducing-constant-sum-bonding-curves-for-tokenised-assets-6e18879cdc5b">constant sum bonding curves</a> and the insurance MTA tokens provide to the system. This also enables SWAP to scale from day 1 because prices are not dependent on the amount of liquidity in the pool.</p>
+
+
+
+<p>As with minting, swaps that would push an asset over its max weight are paused, altering swap rules for only this asset until the basket is rebalanced. And as previously mentioned, users with mUSD in SAVE earn the fees generated from SWAP. Although, a portion of these fees are rewarded to those staking MTA.</p>
+
+
+
+<h2>Meta (MTA) token and mStable governance</h2>
+
+
+
+<p>mStable&#8217;s core team controls the mStable protocol at launch; However, the plan is to distribute Meta (MTA) tokens and gradually turn mStable governance systems over to the community of Meta Governors. MTA reward programs will be used to bootstrap the mStable ecosystem rewarding early adopters. Although MTA doesn&#8217;t exist yet, you can actually take part in ecosystem rewards and earn MTA early right now (more details in the section below).</p>
+
+
+
+<p>To participate in governance and earn their allotted share of mStable revenue, users must stake their MTA tokens. Staking rewards act as an incentive for Meta Governors to properly maintain the growth and stability of mStable. Meta Governors may propose and vote on protocol changes such as:</p>
+
+
+
+<ul><li>Add or remove mStable assets</li><li>Add or remove basket assets</li><li>Adjust the max weights of basket assets</li><li>Change SWAP fees</li><li>Change MTA staking rewards / revenue take</li></ul>
+
+
+
+<h4>Meta (MTA) Distribution</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="963" height="591" src="./../../../wp-content/uploads/2020/07/mta-dist.png" alt="" class="wp-image-8358" srcset="./../../../wp-content/uploads/2020/07/mta-dist.png 963w, ./../../../wp-content/uploads/2020/07/mta-dist-300x184.png 300w, ./../../../wp-content/uploads/2020/07/mta-dist-768x471.png 768w" sizes="(max-width: 963px) 100vw, 963px" /></figure>
+
+
+
+<ul><li><strong>Current Investors:&nbsp;</strong>6.5%</li><li><strong>Reserved for future sales &amp; growth:</strong>&nbsp;26.0%</li><li><strong>Reserved for Public Rewards:&nbsp;</strong>20.0%</li><li><strong>Reserved for Institutional Rewards:&nbsp;</strong>5.0%</li><li><strong>Rewards yet to be allocated:&nbsp;</strong>20.0%</li><li><strong>Team, Advisors &amp; Future Team:&nbsp;</strong>22.5%</li></ul>
+
+
+
+<h3>Ecosystem rewards</h3>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/07/mta-rewards-1024x479.png" alt="" class="wp-image-8362"/></figure>
+
+
+
+<p>20,000,000 MTA in total, or rather 20% of MTA’s total supply, will be emitted via ecosystem rewards over the next 5 years to bootstrap mStable and promote a fairer, wider distribution of Meta tokens. Rewards encourage users to mint mStable assets and to create liquidity and utility with those assets.</p>
+
+
+
+<p>Ecosystem Rewards began June 26th, 2020 with the launch of mStable&#8217;s first reward pool on Balancer creating liquidity for mUSD&lt;&gt;USDC. Ecosystem rewards will continue in monthly tranches, increasing over the first 15 months, and then slowly decline until the allocated MTA is exhausted.</p>
+
+
+
+<h4>Earn MTA via Balancer pools</h4>
+
+
+
+<p>mStable&#8217;s<a href="https://pools.balancer.exchange/#/pool/0x72Cd8f4504941Bf8c5a21d1Fd83A96499FD71d2C"> first MTA reward pool</a> is a Balancer pool weighted 50% mUSD / 50% USDC with a 5 bps trading fee. Anyone can mint mUSD and deposit equal parts mUSD and USDC into the pool and start earning MTA on top of the usual BAL token rewards and potential Balancer pool profits. The <a href="https://medium.com/mstable/mstables-second-mta-reward-pool-is-now-live-af22ad151b47">second MTA reward pool</a> is another Balancer pool with similar weights and fees; however this pool is mUSD/WETH.</p>
+
+
+
+<p>350,000 MTA will be awarded to pool liquidity providers over the first month. Each week, a snapshot will be taken at a random time and 50,000 MTA will be allocated to the participating addresses in proportion to their contribution to their respective pools.</p>
+
+
+
+<h3>MTA token launch</h3>
+
+
+
+<p>mStable is set to launch Meta (MTA) on Balancer at approximately 14:00 UTC on Wednesday, July 15th 2020. At that time, 2,666,666 MTA tokens and ~$400,000 mUSD will be deposited into a new Balancer liquidity pool. The initial liquidity pool price will effectively be set to $0.15 mUSD/MTA. <a href="https://medium.com/mstable/introducing-meta-mta-mstables-protocol-token-6e1032291ccf">Read more</a>. <em>** Since publication, <a href="https://twitter.com/mstable_/status/1283264646405746688">the launch has been delayed</a>.</em></p>
+
+
+
+<h2>Concluding thoughts</h2>
+
+
+
+<p>As someone who has been around for a while, I&#8217;ve seen a lot and I can say that mStable&#8217;s mUSD is an elegant solution to the current issues stablecoin holders face. The purpose of stablecoins is to act as a useful and stable store of value; mUSD takes this to the next level by extending the functionality of existing stablecoins while also mitigating risk for holders. </p>
+
+
+
+<p>I&#8217;m excited to see the future of mStable protocol with assets like mBTC, mGBP, mEUR, and mGLD. Not to mention, there are so many opportunities for Meta Governors to expand the utility of mAssets by integrating new lending protocols and DeFi services.</p>
+
+
+
+<p><a href="https://app.mstable.org/">Mint your first mUSD today</a> or learn more about mStable by heading to their <a href="https://mstable.org/">website</a>. Thanks for reading! I hope you enjoyed learning about this awesome project.</p>
+
+
+
+<p><em>Disclosure: This post is part a promotional series; We&#8217;ve partnered with mStable to inform the community about their cool meta-assets system. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+
+
+
+<p><br><br><br></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DeFi Status Report Post-Black Thursday</title>
+		<link>./../../../2020/03/15/defi-status-report-black-thursday/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 15 Mar 2020 07:52:35 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Compound]]></category>
+		<category><![CDATA[crash]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[debt auction]]></category>
+		<category><![CDATA[decentralized exchanges]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<category><![CDATA[MKR]]></category>
+		<category><![CDATA[price]]></category>
+		<category><![CDATA[synthetix]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8026</guid>
+
+					<description><![CDATA[On Thursday March 12, 2020, the price of Ether (ETH) dropped over 30% in about 24 hours. The result sent...]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="./../../../wp-content/uploads/2020/03/the-road-815297_1280-1-1024x682.jpg" alt="" class="wp-image-8061"/></figure></div>
+
+
+
+<p>On Thursday March 12, 2020, the price of Ether (ETH) dropped over 30% in about 24 hours. The result sent chain reaction rippling through DeFi in an event many will likely come to refer to as Black Thursday. DeFi users rushed to make transactions like trading on DEXes, paying off debts, bolstering collateral ratio, etc. The increased activity led to record-setting high gas prices at times exceeding 200 gwei. </p>
+
+
+
+<p>If you&#8217;re unfamiliar with how gas prices work, think of it as an auction for the limited space in each block. Users desperate to get their transaction through start to outbid each other to get their transactions completed in a timely manner. And then, the ensuing &#8220;bidding wars&#8221; drive up gas prices and subsequently cause low-priced transactions to be stuck until things settle down. <strong><em>The bottom line is that the increased volume put a lot of stress on DeFi smart contracts along with the entire Ethereum network.</em> </strong>So we&#8217;ve decided to put together this status update to provide context for those unaware who may panic at the sight of the charts lately.</p>
+
+
+
+<h4>Don&#8217;t panic. All is not lost and DeFi endured the test.</h4>
+
+
+
+<p>I think it&#8217;s worth taking a moment to say: <em>there are safety measures in place for a reason.</em> When you install fire alarms and safety systems you hope you never need to use them, but know that there could always come a day when you have to. And if your home catches on fire, you don&#8217;t abandon the concept of living in homes altogether. You rebuild your home and this time you build it bit safer and better overall. We, as a community, have been tested before and have only grown stronger for these trials. A decentralized financial market is a market worth fighting for and the truth is&#8230; DeFi remains one of the most exciting and innovative spaces on this planet and will only continue to grow and evolve despite the occasional bump in the road.</p>
+
+
+
+<p><em>High levels of network congestion affected the entire Ethereum network so we&#8217;ll only be addressing some of the more notable ways DeFi projects were affected by recent events.</em></p>
+
+
+
+<h2>Maker</h2>
+
+
+
+<p>While the exact issue is still <a href="https://blog.makerdao.com/recent-market-activity-and-next-steps/">under investigation</a>, the dramatic increase in gas prices caused Maker&#8217;s price feed oracle to remain stuck at ~$166 despite the market dipping almost 15% lower at times. High gas prices also affected Keeper bots, preventing many from liquidating undercollateralized loans. Unfortunately, some Keepers were able to bid on and purchase collateral ETH for 0 DAI. And, many Vault owners reported 100% of their collateral being liquidated. </p>
+
+
+
+<p>A Maker community call was held to determine the best plan of action. Maker put out <a href="https://blog.makerdao.com/recent-market-activity-and-next-steps/">a blog post</a> addressing the situation and proposed various parameters which could be adjusted to prevent further issues. MKR holders have since <a href="https://vote.makerdao.com/executive-proposal/adjust-multiple-risk-parameters">approved changes</a> including lowering debt ceilings, lowering stability fees, changing auction parameters to allow keepers additional time and limit the total number of auctions.</p>
+
+
+
+<p>Among the approved parameter changes was delaying the Debt Auction, designed to cover the +$4M in remaining system debt, in an attempt to give the community more time to prepare.</p>
+
+
+
+<h3>MKR Debt Auction</h3>
+
+
+
+<p>Maker is designed with a pool of DAI called the <em>Maker Buffer</em> reserved to cover debts in situations like this<em>.</em> However, the Maker Buffer was unable to cover the deficit caused by the tremendous amount of liquidations. As stated in its <a href="https://makerdao.com/en/whitepaper/">whitepaper</a>, the Maker Protocol will now trigger a Debt Auction where MKR is minted and sold for DAI to re-collateralize the system. </p>
+
+
+
+<p><strong>Here are the details for the auction according to<a href="https://blog.makerdao.com/mkr-debt-auction-announcement-and-details/"> MakerDAO&#8217;s blog</a>: </strong></p>
+
+
+
+<ul><li>Start time: March 19, 6:25 am ET (March 19, 10:25 am UTC)</li><li> MKR will be auctioned off in lots for 50,000 Dai</li><li>According to parameters of the Maker Protocol as determined by governance, the auction works as in the following example:<ul><li>The protocol offers a Keeper (bidder) a lot of 250 MKR for 50,000 Dai, which translates to a price of 200 Dai/MKR. </li><li>A second keeper bids 50,000 Dai but only requires 230 MKR, which translates to a price of 217 Dai/MKR. </li><li>The bid prices increase through the Keepers’ willingness to take slightly less MKR in exchange for 50,000 Dai. </li></ul></li><li>If no one bids on the first lot of 250 MKR, then the auction can be re-initialized after three days, offering 20% more MKR (300 MKR) for 50,000 Dai, which translates to a price of 166.66 Dai/MKR.</li><li>Finally, if there is at least one bid, and no one outbids it within 6 hours, the auction ends.</li></ul>
+
+
+
+<p>Anyone is free to participate in the auction by running an Auction Keeper. Maker provides <a href="https://blog.makerdao.com/how-to-run-your-own-auction-keeper-bot-in-mcd/">documentation on how to run an auction keeper bot</a> but no official front-end UI. However, there are some in the community working on making these systems more accessible for the auction.</p>
+
+
+
+<h3>Dai Backstop Syndicate</h3>
+
+
+
+<div class="wp-block-image"><figure class="alignleft size-large"><a href="https://t.me/backstopsyndicate"><img src="./../../../wp-content/uploads/2020/03/backstopsyndicate-1.jpg" alt="" class="wp-image-8034"/></a></figure></div>
+
+
+
+<p>We&#8217;re working with Dharma and many other community members to organize a community-led effort dubbed the <strong><a href="https://t.me/backstopsyndicate">DAI Backstop Syndicate</a></strong> to form a backstop in support of MKR and act as a buyer of last resort in the upcoming MKR auction.</p>
+
+
+
+<p>The idea is to create pool contract that would give syndicate participants a way to participate in the auction process should MKR fall below a given price like 100 DAI / MKR.  The intention is to be a backstop, not necessarily buy the MKR nor will it provide liquidity for liquidations during Dai Surplus Auctions (flaps).</p>
+
+
+
+<p>The contract will be designed so anyone could trigger an auction using pooled funds at the given price once auctions begin. At which point, all participants would be able to redeem the tokens they minted by supplying Dai for the equiv. Dai / MKR blend held by the pool.</p>
+
+
+
+<p><strong><em>If you&#8217;re interested in participating, <a href="https://t.me/backstopsyndicate">join the telegram</a> to help organize, review<a href="https://docs.google.com/document/d/1miS-snhSYBKwjQHM1MOPnLZZl9i2gj3zTcvuQWecV2M/edit#"> the proposal</a> and <a href="https://github.com/backstop-syndicate/dai-backstop-syndicate">Github repo</a> for full details</em></strong>.</p>
+
+
+
+<h3>Nexus Mutual claims</h3>
+
+
+
+<p>As of writing this, 3 out of the 11 <a href="https://nexustracker.io/claims">submitted claims</a> related to the MakerDAO incident have been denied by Nexus Mutual. Those with Nexus Mutual cover on MakerDAO have been <a href="https://twitter.com/NexusMutual/status/1238496725054230534">instructed to wait</a> for more complete information before submitting new claims.</p>
+
+
+
+<h2>Compound</h2>
+
+
+
+<p>Compound placed in its timelock three precautionary changes to how its protocol handles DAI in the case it becomes unpegged and mass liquidations are required.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Three changes have been queued in the Compound protocol timelock, as a precaution due to recent volatility:<br><br>A new price feed that allows DAI to become unpegged in a MakerDAO emergency shutdown;<br>Liquidation incentive 5% -&gt; 8% -&gt; 15%<br><br>These will only be activated if necessary.</p>&mdash; Compound Labs (@compoundfinance) <a href="https://twitter.com/compoundfinance/status/1238308271963828226?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h2>Synthetix</h2>
+
+
+
+<p>The high network congestion forced Synthetix to go down for short period of time as its rates provided by on-chain Chainlink oracles to go stale. </p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/03/Selection_999064-1.png" alt="" class="wp-image-8028"/></figure>
+
+
+
+<p>After some time, the system was brought back online and the Synthetix team released <a href="https://github.com/Synthetixio/SIPs/blob/master/SCCP/sccp-16.md">SCCP-16</a> which temporarily increased fee reclamation waiting period to an hour to accommodate extreme network congestion. This change was reverted after the congestion subsided.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/03/Selection_999065-1.png" alt="" class="wp-image-8045"/></figure>
+
+
+
+<h2>Aave</h2>
+
+
+
+<p>Aave protocol also took measures to reduce the impact of MKR and DAI instability.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Due to the current instability of the DAI stablecoin system, our risk assessment team has decided to lower the LTV for future borrowers of both MKR and DAI to 1% as a safety measure to prevent possible abuse. This doesn&#39;t affect current borrowers using these assets as collateral.</p>&mdash; Aave (@AaveAave) <a href="https://twitter.com/AaveAave/status/1238174876541898752?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h2>dYdX</h2>
+
+
+
+<p>Combating high gas costs, dYdX progressively increased its minimum trade size throughout the day on March 12. The first step was up to 10 ETH or 2000 DAI, it was ultimately raised as high as 40 ETH or 5000 DAI. By the evening of March 13, the min. trade size was restored back to normal (0.1 ETH or 20 DAI).</p>
+
+
+
+<h2>DDEX</h2>
+
+
+
+<p>DDEX incurred minor losses of $5373 which will be covered by its built-in insurance.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">1/3<br>In the last 24 hours the price of <a href="https://twitter.com/hashtag/ETH?src=hash&amp;ref_src=twsrc%5Etfw">#ETH</a> fluctuated by over 30%, and <a href="https://twitter.com/hashtag/DDEX?src=hash&amp;ref_src=twsrc%5Etfw">#DDEX</a> liquidated ~$500,000 of collateral in minutes. Due to liquidity shortage, $5,373 (~1%) loss was incurred. By design, this amount will be covered by built in insurance. No lenders will lose assets.</p>&mdash; DDEX (@ddexio2018) <a href="https://twitter.com/ddexio2018/status/1238149663238152192?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h2>Green on the board</h2>
+
+
+
+<p>The silver lining of the day was that many smart contracts like Uniswap functioned performed as expected under the massive stress placed on the Ethereum network. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Yesterday during all the insanity Uniswap 24hr volume reached $53M<br><br>I don’t feel like celebrating but I’m glad it was able to handle the massively increased load without issue. <br><br>A major testament to Ethereum imo<br><br>Was this the highest volume day of any DEX ever? <a href="https://t.co/cv4x3m8Zyu">pic.twitter.com/cv4x3m8Zyu</a></p>&mdash; Hayden Adams <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f984.png" alt="🦄" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@haydenzadams) <a href="https://twitter.com/haydenzadams/status/1238457224214786048?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p><strong>Examining our DeFi rankings during these events, it was clear DEXes like Uniswap, DeFi lenders [like dYdX, Nuo, Robo-Advisor for Yield (RAY), and Dharma], and payment networks like xDai and Connext fared the best.</strong> All of which are DeFi smart contracts generally less impacted by price fluctuations and high gas prices with more diverse collateral options and/or lower risk yields.</p>
+
+
+
+<h2>Conclusion</h2>
+
+
+
+<p>Stress tests like these help expose cracks in DeFi smart contracts that can be repaired and improved upon. They also serve as important reminders to do your own research and plan accordingly for potential smart contract risks. DeFi is still a very young market and bumps in the road are to be expected. And when things get rough, remember what brought us here together as a community: the exciting prospect of a decentralized financial system open to all.</p>
+
+
+
+<p>Whether you just want to stay informed or get involved, we&#8217;re always there for community members with questions or looking to dig a little deeper. Reach out to us on <a href="http://twitter.com/defipulse">Twitter</a> or join the discussion in our <a href="http://t.me/defipulse">Telegram</a> or <a href="https://discord.gg/Gx4TCTk">Discord</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Generate DAI with a Maker Vault</title>
+		<link>./../../../2020/02/19/how-to-generate-dai-with-a-maker-vault/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2020 14:24:32 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[ether]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<category><![CDATA[MKR]]></category>
+		<category><![CDATA[smart contract]]></category>
+		<category><![CDATA[vault]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7990</guid>
+
+					<description><![CDATA[DAI is an ERC20 token designed to maintain a peg to the US Dollar, also known as a stablecoin, generated...]]></description>
+										<content:encoded><![CDATA[
+<p>DAI is an ERC20 token designed to maintain a peg to the US Dollar, also known as a stablecoin, generated and maintained by the <a href="https://makerdao.com/">Maker Protocol</a>. Every single DAI in existence has been generated by users <a href="https://defipulse.com/maker">locking collateral into Maker&#8217;s smart contract system</a> and opening what&#8217;s called a Vault.</p>
+
+
+
+<p>When you open a Maker Vault, you lock in collateral such as ether (ETH) or BAT. And then, you’re able to generate or borrow up to 2/3 of the US dollar value of your collateral in DAI. In other words, your Vault&#8217;s ratio of collateral value to total debt in DAI must be above 150%.</p>
+
+
+
+<p>For every 1 DAI, there is at least $1.50 worth of collateral locked into a Maker Vault. And if your collateral value falls, you must lock in more ETH, pay back some of your debt, or risk having the collateral in your Vault liquidated. When a Vault position is liquidated, the held collateral is automatically sold to pay back the debts in addition to a penalty fee for failing to keep your collateral ratio above 150%.</p>
+
+
+
+<h2>Using Maker&#8217;s Oasis portal to borrow your first DAI</h2>
+
+
+
+<p><strong>Navigate to Maker&#8217;s <a href="https://oasis.app/borrow">Oasis Borrow</a>.</strong><br>There are many ways to interface with a Maker Vault; Oasis is <a href="https://github.com/OasisDEX">open-source</a> and was developed by the Maker. </p>
+
+
+
+<p><strong>Connect the wallet of your choice and click &#8216;Get Started&#8217;</strong><br><a href="https://metamask.io/">MetaMask</a> is a browser extension commonly recommended for interacting with many DApps. Ledger and Trezor are hardware wallets. Wallet Connect and Coinbase Wallet allow you to scan a QR code to access Oasis via mobile wallet.</p>
+
+
+
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="./../../../wp-content/uploads/2020/02/Selection_999019-1-1024x508.png" alt="" data-id="7995" data-full-url="./../../../wp-content/uploads/2020/02/Selection_999019-1.png" data-link="https://defipulse.com/blog/?attachment_id=7995" class="wp-image-7995"/></figure></li></ul></figure>
+
+
+
+<p><strong>Select a collateral type and click &#8216;Continue&#8217;</strong><br>ETH and BAT are the only supported collateral types as of writing this. In this example, we selected ETH.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/02/Selection_999017-1-1024x510.png" alt="" class="wp-image-7996"/></figure>
+
+
+
+<p><strong>Setup Vault and Set Allowance</strong><br>Follow the prompts to send a few transactions in preparation for opening your Maker Vault and generating DAI. We recommend referencing <a href="http://ethgasstation.info/">EthGasStation</a> for the latest gas prices.</p>
+
+
+
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="./../../../wp-content/uploads/2020/02/Selection_999016-1-1024x511.png" alt="" data-id="7997" data-full-url="./../../../wp-content/uploads/2020/02/Selection_999016-1.png" data-link="https://defipulse.com/blog/?attachment_id=7997" class="wp-image-7997"/></figure></li></ul></figure>
+
+
+
+<p><strong>Deposit Collateral and Generate Dai</strong><br>Enter the amount of collateral you&#8217;d like to deposit and the amount of DAI you wish to generate. You cannot withdraw the collateral until you pay back any DAI you generate or borrow. Note, opening a Vault requires a minimum of 20 Dai to be generated. Click continue and confirm your transaction.</p>
+
+
+
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="./../../../wp-content/uploads/2020/02/Selection_999018-1024x510.png" alt="" data-id="7998" data-full-url="./../../../wp-content/uploads/2020/02/Selection_999018.png" data-link="https://defipulse.com/blog/?attachment_id=7998" class="wp-image-7998"/></figure></li></ul></figure>
+
+
+
+<p><strong>Wait for your newly generated DAI to arrive in your wallet</strong><br>Once submitted, your transaction may take a moment depending on the gas price you paid. Finally, your transaction will be confirmed and your DAI should be available in your wallet.</p>
+
+
+
+<h3>What can I use DAI for?</h3>
+
+
+
+<p>DAI is one of the most liquid assets in the DeFi ecosystem. You can spend, save, lend, and tons more with your DAI. You can trade DAI for ETH, MKR, and many other ERC20 tokens at the best prices in DeFi using a DEX aggregator like <a href="https://dex.ag/">DEX.AG</a>.</p>
+
+
+
+<p>You can <a href="https://defipulse.com/income">earn interest</a> by lending out your DAI on other DeFi lending protocols. Remember to keep in mind the stability fees you&#8217;ll owe on any DAI you generate or borrow from your Vault. And also, consider the various risks involved in lending some of which we cover in our <a href="https://defipulse.com/blog/zero-to-defi-cdai/">Zero to DeFi</a> guide.</p>
+
+
+
+<p>Another way to earn interest is to deposit DAI into Maker&#8217;s <a href="https://defipulse.com/blog/dsr-dai-savings-rate/">Dai Savings Rate</a> (DSR). The DSR allows users to lock in DAI to earn a variable interest rate. However, don&#8217;t go generating DAI just to deposit it into the DSR because the DSR is designed to be lower than the stability fee. <a href="https://oasis.app/save">Learn more</a> about the Dai Savings Rate.</p>
+
+
+
+<p>You&#8217;d be surprised the many interesting ways you can use your DAI! Explore <a href="https://github.com/makerdao/awesome-makerdao#dai-1">a full list of ecosystem resources</a> composed by the Maker community.</p>
+
+
+
+<p>Learn more about Maker and the world of decentralized finance (DeFi)! Come chat with us and stay informed in our <a href="http://t.me/defipulse">Telegram</a> or <a href="https://discord.gg/Gx4TCTk">Discord</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>3 DeFi DApps Starting 2020 Off Strong</title>
+		<link>./../../../2020/01/09/3-defi-dapps-starting-2020-off-strong/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2020 19:10:07 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[chainlink]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[dsr]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[istanbul]]></category>
+		<category><![CDATA[layer 2]]></category>
+		<category><![CDATA[link]]></category>
+		<category><![CDATA[loopring]]></category>
+		<category><![CDATA[lrc]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<category><![CDATA[MKR]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7862</guid>
+
+					<description><![CDATA[2020 is set to be an exciting year for DeFi. Lending markets are more competitive than ever. Countless layer 2...]]></description>
+										<content:encoded><![CDATA[<p>2020 is set to be an exciting year for DeFi. Lending markets are more competitive than ever. Countless layer 2 solutions are being built with new ZK technology. And to top it off, this year we&#8217;re likely to see interoperability make great strides. Let&#8217;s dive into a few DApps who have hit the ground running this year.</p>
+<h3>Maker</h3>
+<p>Fresh off the successful launch of Multi-Collateral Dai, <a href="https://makerdao.com/">Maker</a> has been solidifying its #1 position on the <a href="https://defipulse.com/">DeFi Pulse</a> rankings headed into 2020. As of writing this, there&#8217;s <a href="https://defipulse.com/maker">over 36M DAI locked</a> in MakerDAO, primarily in the Dai Savings Rate. And now, MakerDAO voted to increase the <a href="https://defipulse.com/blog/dsr-dai-savings-rate/">Dai Savings Rate</a> (<a href="https://defipulse.com/blog/dsr-dai-savings-rate/">DSR</a>) to 6%. It&#8217;s no wonder the total DAI locked in DeFi is setting a new all-time high.</p>
+<h3><img loading="lazy" class="alignnone size-full wp-image-7878" src="./../../../wp-content/uploads/2020/01/Selection_898.png" alt="" width="895" height="311" srcset="./../../../wp-content/uploads/2020/01/Selection_898.png 895w, ./../../../wp-content/uploads/2020/01/Selection_898-300x104.png 300w, ./../../../wp-content/uploads/2020/01/Selection_898-768x267.png 768w" sizes="(max-width: 895px) 100vw, 895px" /></h3>
+<p>To add fuel to the fire, <a href="https://defipulse.com/blog/what-is-chai/">CHAI</a> is a smart contract that wraps DAI in the DSR so DeFi users can have their cake and eat it too. Chai can also be used in smart contracts. For example, Fulcrum&#8217;s iDAI now supports CHAI so any idle DAI earns the DSR.</p>
+<h3>Chainlink</h3>
+<p><a href="https://chain.link/">Chainlink</a>&#8216;s following extends beyond the LINK Army you&#8217;ve likely come across on social media to partnerships big and small, including Intel and Google Cloud services.</p>
+<p><img loading="lazy" class="alignnone wp-image-7870" src="./../../../wp-content/uploads/2020/01/ENr_U9sU0AYf_rX.jpeg" alt="chainlink" width="525" height="452" srcset="./../../../wp-content/uploads/2020/01/ENr_U9sU0AYf_rX.jpeg 958w, ./../../../wp-content/uploads/2020/01/ENr_U9sU0AYf_rX-300x258.jpeg 300w, ./../../../wp-content/uploads/2020/01/ENr_U9sU0AYf_rX-768x661.jpeg 768w" sizes="(max-width: 525px) 100vw, 525px" /></p>
+<p>Just take a look at this smorgasbord of Chainlink partnerships and the network effects of the project seem undeniable. Synthetix&#8217;s <a href="https://blog.synthetix.io/chainlink-decentralizes-first-wave-of-synthetix-price-feeds/">recent integration of Chainlink oracles</a> to its FX/commodities markets is a primary example of a fruitful partnership to keep an eye in 2020. Another example would be <a href="https://medium.com/loopring-protocol/chainlink-and-loopring-collaborate-on-oracles-for-zkrollup-dex-protocol-c1c8094afc27">Loopring&#8217;s work with Chainlink</a> to ensure its economic security. We&#8217;ll discuss this more in a bit.</p>
+<p>Not to mention, Aave Protocol just launched its lending protocol with all 16 of its supported assets powered by Chainlink oracles.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">1/<a href="https://twitter.com/AaveAave?ref_src=twsrc%5Etfw">@AaveAave</a> ( <a href="https://twitter.com/search?q=%24LEND&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$LEND</a>) launched its lending protocol today with a bang!<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f4a5.png" alt="💥" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Here&#39;s a TLDR:</p>
+<p>&quot;flash loans enable a .. smart contract to borrow assets from our reserve pools within one transaction on the condition that the liquidity is returned to the pool before the transaction ends&quot; <a href="https://t.co/YiVYLnBX3X">https://t.co/YiVYLnBX3X</a></p>
+<p>&mdash; DEX.AG Token Wire (@DEXAG_TokenWire) <a href="https://twitter.com/DEXAG_TokenWire/status/1215020025276272640?ref_src=twsrc%5Etfw">January 8, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h3>Loopring</h3>
+<p>Following Ethereum&#8217;s Istanbul upgrade, <a href="https://loopring.org/#/">Loopring</a>&#8216;s ZK tech has been given a <a href="https://defipulse.com/blog/how-ethereums-istanbul-network-upgrade-affects-defi/">performance boost by EIP-2028</a>. WeDEX launched their beta in December as the first ZK Rollup DEX built with Loopring v3. Test results <a href="https://medium.com/loopring-protocol/loopring-testing-phase-1-data-recap-ed0c67396870">released this week</a> revealed that the &#8220;average settlement cost per trade [on WeDEX was] about 5,000 gas, or 0.0000177 ETH.&#8221;</p>
+<p><a href="https://twitter.com/loopringorg/status/1214278030308335616"><img loading="lazy" class="alignnone size-large wp-image-7885" src="./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-1024x420.jpeg" alt="" width="640" height="263" srcset="./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-1024x420.jpeg 1024w, ./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-300x123.jpeg 300w, ./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-768x315.jpeg 768w, ./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-1536x630.jpeg 1536w, ./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-2048x840.jpeg 2048w, ./../../../wp-content/uploads/2020/01/ENn7bTfWoAI6VCm-1568x643.jpeg 1568w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<p>Additionally, Loopring&#8217;s recent decision to integrate Chainlink seems like a promising sign for the platform&#8217;s future. Long story short, the Loopring Protocol requires users to stake LRC tokens for a number of reasons. Particularly, zkRollup DEX owners stake LRC in order to process layer 2 trades and submit them to Ethereum. Chainlink will help Loopring scale off-chain functions and ensure the protocol&#8217;s economic security by providing a reliable decentralized price oracle for LRC/ETH. <a href="https://medium.com/loopring-protocol/chainlink-and-loopring-collaborate-on-oracles-for-zkrollup-dex-protocol-c1c8094afc27">Read more</a> about Loopring&#8217;s Chainlink integration.</p>
+<p><span style="font-weight: 400;">F</span>ollow us on <a href="https://twitter.com/defipulse">Twitter</a> or join us in <span style="font-weight: 400;">our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a> to keep up with the DeFi ecosystem</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>What is Chai? An Instant DAI Savings Account Powered by Maker</title>
+		<link>./../../../2019/12/16/what-is-chai/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2019 17:02:33 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[cDai]]></category>
+		<category><![CDATA[chai]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[dai savings rate]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[dsr]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7830</guid>
+
+					<description><![CDATA[No, we&#8217;re not talking about the beverage. We&#8217;re talking about this new token creating buzz in the Ethereum community lately...]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone wp-image-7832 size-large" src="./../../../wp-content/uploads/2019/12/14271895046_2100131b06_b-1024x622.jpg" alt="chai" width="640" height="389" /></p>
+<p>No, we&#8217;re not talking about the beverage. We&#8217;re talking about this new token creating buzz in the Ethereum community lately called Chai. CHAI is an ERC20 token that&#8217;s like DAI which earns interest from Maker&#8217;s <a href="https://defipulse.com/blog/dsr-dai-savings-rate/">Dai Savings Rate</a> (DSR), currently 4% as of writing this. It&#8217;s a lot like how <a href="https://defipulse.com/blog/what-is-cdai/">cDAI</a> represents DAI supplied to Compound plus interest. Chai.sol, the token&#8217;s smart contact, deposits your DAI into the DSR and issues you CHAI tokens which can be stored, transferred, traded, and later redeemed for the underlying DAI plus any interest earned. As an added bonus, it&#8217;s also supports gas-less token transfers.</p>
+<p>The <a href="https://github.com/dapphub/chai">project</a>, smart contract, and interface was created by Martin Lundfall, Lucas Vogelsang, and Lev Livnev. Also, Abbey Titcomb made the lovely mug pixel art. Deployed on December 1st, 2019, you can now pay friends, grow your savings, trade, etc. while still earning interest on your DAI.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Introducing `chai.sol`, a simple ERC20 wrapper over the Dai Savings Rate:</p>
+<p><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2705.png" alt="✅" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Interest accruing Dai<br /><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2705.png" alt="✅" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Gas-less token transfers<br /><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2705.png" alt="✅" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 184 LOC from the makers of MCD</p>
+<p>We&#39;re soliciting feedback from the community before launching on December 1st</p>
+<p><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f375.png" alt="🍵" class="wp-smiley" style="height: 1em; max-height: 1em;" /> -&gt; <a href="https://t.co/MGSEQ6BQWm">https://t.co/MGSEQ6BQWm</a></p>
+<p>&mdash; Martin Lundfall (@MartinLundfall) <a href="https://twitter.com/MartinLundfall/status/1197627208136658944?ref_src=twsrc%5Etfw">November 21, 2019</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h3>How do I get Chai tokens?</h3>
+<p>It&#8217;s super easy to start earning interest, playfully named &#8220;brewing your DAI!&#8221; Just perform the following steps:</p>
+<ol>
+<li>Navigate to this handy Chai <a href="https://chai.money/">interface</a></li>
+<li>Connect your wallet</li>
+<li>Enter amount of DAI you&#8217;d like to convert</li>
+<li>Click the Convert button and the prompts to confirm transaction</li>
+</ol>
+<p>And when you&#8217;re ready to stop &#8220;brewing&#8221; and cash out, flip over to the CHAI -&gt; DAI tab and redeem tokens for your DAI plus interest.</p>
+<h2>Money Legos in action</h2>
+<p>The awesome part thing about DeFi is that smart contracts like Legos can be pieced together in many different ways to create new utility. Similar to cDAI, Chai takes DAI that would normally be locked away and turns them into useful liquid assets. And, it isn&#8217;t the only one to take advantage of Maker&#8217;s Dai Savings Rate contract and it won&#8217;t be the last. For example, there&#8217;s also <a href="https://medium.com/@keydonix/dai-hrd-token-hold-rated-dai-dfd3fe491d83?">DAI-HRD</a> which similarly wraps DAI into the DSR. Another prime example of a project adding utility to DAI is <a href="https://rdai.money/">rDAI</a> which let&#8217;s you redirect the interest generated from your DAI on multiple DeFi platforms. Nothing stops someone from making an interest bearing meta-stablecoin by combining cDAI, Chai, and/or cUSD, etc. The only limit is the imagination of developers in the DeFi community.</p>
+<p><span style="font-weight: 400;">F</span>ollow us on <a href="https://twitter.com/defipulse">Twitter</a> or join us in <span style="font-weight: 400;">our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a> to keep up with the DeFi ecosystem</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>What is SAI? Where is my DAI? Migrating to Multi-Collateral Dai</title>
+		<link>./../../../2019/11/18/what-is-sai-where-is-my-dai-migrating-to-multi-collateral-dai/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 18 Nov 2019 16:04:37 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[CDP]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[dai savings rate]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<category><![CDATA[sai]]></category>
+		<category><![CDATA[vault]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7772</guid>
+
+					<description><![CDATA[Don&#8217;t panic. Everything is ok. The Maker system has been upgraded to Multi-Collateral Dai. You should see SAI in your...]]></description>
+										<content:encoded><![CDATA[<p>Don&#8217;t panic. Everything is ok. The Maker system has been upgraded to Multi-Collateral Dai. You should see SAI in your wallet instead of DAI. This just means it&#8217;s time to migrate your &#8220;DAI&#8221;, now referred to as SAI, to Maker&#8217;s new architecture.</p>
+<p>With the launch of Multi-Collateral Dai on November 18th, 2019, the name and ticker symbol of Single Collateral Dai is changing to Sai (SAI). DAI now refers to DAI minted in the new Multi-Collateral Dai system. The term Collateralized Debt Position (CDP) is also being replaced with the term &#8220;Vault&#8221; under MCDai.</p>
+<h3><img loading="lazy" class="alignnone size-large wp-image-7776" src="./../../../wp-content/uploads/2019/11/new-DAI-terminology-1024x496.jpg" alt="" width="640" height="310" srcset="./../../../wp-content/uploads/2019/11/new-DAI-terminology-1024x496.jpg 1024w, ./../../../wp-content/uploads/2019/11/new-DAI-terminology-300x145.jpg 300w, ./../../../wp-content/uploads/2019/11/new-DAI-terminology-768x372.jpg 768w, ./../../../wp-content/uploads/2019/11/new-DAI-terminology-1536x744.jpg 1536w, ./../../../wp-content/uploads/2019/11/new-DAI-terminology-1568x760.jpg 1568w, ./../../../wp-content/uploads/2019/11/new-DAI-terminology.jpg 1600w" sizes="(max-width: 640px) 100vw, 640px" /></h3>
+<p>These changes were made to reduce confusion during the transition period where both the Single Collateral and Multi-Collateral Maker systems will run in parallel. During this time, DAI and SAI will exist in the market together.</p>
+<p>Each smart contract, platform, or service that previously used DAI is expected to change ticker symbols and upgrade accordingly. And while many services and exchanges plan to transition ASAP, the process isn&#8217;t going to be instant. Be careful not to confuse the two tokens and double-check before sending tokens anywhere. Mistakes may result in the loss of your funds.</p>
+<h3>What changes are coming with Multi-Collateral Dai?</h3>
+<p>As the name implies, Dai will now be backed by multiple assets instead of just Ethereum (ETH). At launch, the MCD system will support ETH and BAT tokens.</p>
+<p>Additionally, the MakerDAO community will continue to assess and integrate new collateral types moving forward as part of the governance process. The following tokens are also being considered: Augur (REP), DigixDAO (DGD), Golem (GNT), OmiseGo (OMG), 0x (ZRX).</p>
+<p>The new <a href="https://defipulse.com/blog/dsr-dai-savings-rate/">Dai Savings Rate</a> (DSR) feature will give users the option to lock their DAI into Maker’s DAI Savings Rate contract and earn a variable interest rate in DAI.</p>
+<p>One last small change is that the stability fee for borrowing DAI or &#8220;opening a Vault position&#8221; will now be owed in DAI instead of Maker (MKR).</p>
+<h3>How do I migrate my SAI to DAI?</h3>
+<p><strong>Be sure to only attempt to migrate Sai from a wallet where you control the private keys.</strong> If you do not control the keys to the wallet where your SAI is stored (like a centralized exchange or locked in a DApp), either withdraw your SAI to your own wallet or follow their instructions for how to migrate to DAI.</p>
+<h4>To migrate your SAI to DAI:</h4>
+<ol>
+<li style="list-style-type: none;">
+<ol>
+<li>Navigate to <a href="https://migrate.makerdao.com/">migrate.makerdao.com</a></li>
+<li>Login with your wallet</li>
+<li>Click &#8220;Continue&#8221; on the &#8220;Single Collateral Dai redeemer&#8221; tab</li>
+<li>Enter the amount of SAI to upgrade</li>
+<li>Submit your transaction</li>
+</ol>
+</li>
+</ol>
+<p>DONE! You should receive your Dai in your wallet momentarily.</p>
+<h3>What should I do if&#8230;</h3>
+<h4>I have a CDP open</h4>
+<p>You have two options: migrate using Maker&#8217;s <a href="https://migrate.makerdao.com/">Migration App</a> or manually close your CDP. Using the Migration App requires you to pay back any stability fees owed in MKR at the time before migrating to a MCDai Vault.</p>
+<h4>I use Compound Finance or hold cDAI</h4>
+<p>Compound <a href="https://medium.com/compound-finance/support-for-multi-collateral-dai-c8691d0ef794">has stated</a> that existing SAI markets will continue to function as normal with no changes. &#8220;You are individually responsible for choosing when, and how, to migrate to Multi-Collateral DAI.&#8221;</p>
+<p>Once ready, new DAI will be added to Compound and both markets will be accessible for the foreseeable future. Interest rates for both assets may be volatile during this time. cDAI users can withdraw their SAI and manually migrate to DAI at anytime.</p>
+<p>Compound borrowers have the option to pay back their SAI debts and open new positions when DAI is ready. Alternatively, you can read on to learn how to migrate your Compound positions via InstaDApp</p>
+<h4>I use InstaDApp</h4>
+<p>InstaDApp is launching the <a href="https://medium.com/instadapp/mcd-migration-70782c9e6730">InstaDApp Migration Bridge</a> which allows Compound users to convert their SAI debt to DAI debt in one transaction. Although most users&#8217; debt positions are small enough, migration is subject to how SAI liquidity is available at the time.</p>
+<h4>I use dYdX</h4>
+<p>At launch, dYdX&#8217;s SAI markets will remain unchanged. dYdX <a href="https://medium.com/dydxderivatives/multi-collateral-dai-migration-on-dydx-e130575c4454">announced</a> that 2–3 weeks after DAI launches any remaining SAI balances, positions, and open orders will be converted to DAI automatically. Although, you can always close your positions, withdraw your SAI, and migrate manually at any time.</p>
+<h4>I use Nuo Network</h4>
+<p>Nuo <a href="https://medium.com/nuo-news/nuo-action-plan-for-multi-collateral-dai-a1aaa75142af">said that</a> it will rename DAI to SAI and all SAI loans, trades, and reserves will continue to exist. Nuo plans to provide a gas-free way to convert all positions by November 25th. Users may choose to either continue with existing SAI positions or convert them into DAI seamlessly on Nuo.</p>
+<h4>I use Fulcrum or Torque Loans</h4>
+<p>bZx Network&#8217;s <a href="https://medium.com/bzxnetwork/mcd-transition-plan-f2abd3176b09">transition plan</a> has you covered. Lenders on Fulcrum do not have to do anything immediately but can migrate via Fulcrum in a press of a button. SAI markets will continue to function normally and a new DAI lending pool will be launched. Torque borrowers will to continue to pay their SAI loans in SAI.</p>
+<p>Fulcrum traders&#8217; SAI positions &#8220;will continue operating for as long as there is lending and exchange liquidity. If we see that the volume of the positions is coming close to exceeding what exchange liquidity for SAI can support, the positions will cease being perpetual and expire on their next rollover date.&#8221;</p>
+<h3>How are exchanges handling the transition?</h3>
+<p>Each exchange will handle the transition differently. We recommend you do your own research or simply withdraw your SAI and migrate it yourself. Here&#8217;s <a href="https://blog.makerdao.com/single-collateral-dai-to-multi-collateral-dai-upgrade-timeline-and-actions/">a timeline</a> created by Maker documenting the upgrade and confirmed exchanges.</p>
+<p>MCDai will be available to trade on Oasis Trade immediately upon its launch November 18th. Uniswap, Bamboo Relay, and Kyber Network will support both SAI and DAI trading as soon as possible.</p>
+<p><a href="https://dex.ag/">DEX.AG</a> renamed DAI to &#8220;SAI old DAI (DAI)&#8221; in its menus. On Monday Nov. 18th, MCD DAI will be listed as DAI and ready to trade, sourcing liquidity from all available DEXes.</p>
+<p><a href="https://blog.coinbase.com/coinbase-and-coinbase-pro-plan-to-support-multi-collateral-dai-514407679b86">Coinbase and Coinbase Pro</a> plan to automatically convert any SAI you hold on Coinbase to multi-collateral DAI on December 2nd at 9 AM PST (you can get a <a href="https://www.coinbase.com/join/daley_e6">Coinbase account here</a> if you don&#8217;t have one).</p>
+<p><span style="font-weight: 400;">Still have questions left unanswered? We can help you find answers in our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord.</a> Also, f</span>ollow us on <a href="https://twitter.com/defipulse">Twitter</a> for latest updates on the community&#8217;s transition from DAI.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Introducing IPY &#8211; Speedometer for the New Financial System</title>
+		<link>./../../../2019/11/07/introducing-ipy-speedometer-for-new-financial-system/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Thu, 07 Nov 2019 13:46:16 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[New Features]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[bzx]]></category>
+		<category><![CDATA[Compound]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[Dapp]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[dydx]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[maker]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7682</guid>
+
+					<description><![CDATA[Introducing Interest Per Year, or IPY for short, a new metric created by DeFi Pulse used to track the performance...]]></description>
+										<content:encoded><![CDATA[<p>Introducing <a href="https://defipulse.com/defi-lending">Interest Per Year</a>, or IPY for short, a new metric created by DeFi Pulse used to track the performance of DeFi lending markets.&nbsp;<span style="font-weight: 400;">Imagine IPY like the speedometer for DeFi measuring the speed at which interest is accruing in DeFi lending protocols given the borrow rate and outstanding debt at that moment. IPY is useful for measuring the potential performance changes of lending protocols in the short term.</span></p>
+<p><strong>What&#8217;s truly fascinating about a metric like IPY is the fact that it isn&#8217;t possible without DeFi.</strong> In centralized finance, banks, financial institutions, and regulators control the flow of information. These authorities choose what information gets disclosed to the public. It&#8217;s not like you can walk into your bank and say, &#8220;I&#8217;m here to perform an audit.&#8221; But things are different with DeFi.</p>
+<p>With DeFi, all the data is publicly available on-chain for everyone to see. Transparency and real time data are two major&nbsp;advantages DeFi has gained by rebuilding things from scratch. And it&#8217;s up to us as members of the DeFi community to decide how we want to synthesize the data and utilize those advantages.</p>
+<p><a href="https://defipulse.com/defi-lending"><img loading="lazy" class="alignnone wp-image-7742 size-full" src="./../../../wp-content/uploads/2019/11/Selection_323-1.jpg" alt="" width="895" height="645" srcset="./../../../wp-content/uploads/2019/11/Selection_323-1.jpg 895w, ./../../../wp-content/uploads/2019/11/Selection_323-1-300x216.jpg 300w, ./../../../wp-content/uploads/2019/11/Selection_323-1-768x553.jpg 768w" sizes="(max-width: 895px) 100vw, 895px" /></a></p>
+<p>It&#8217;s important to remember that DeFi lending is still maturing. Historically, the most popular form of collateral has been ETH. And, the most popular asset to borrow has been DAI. Lending rates have been highly correlated to the performance of this trading pair ETH/DAI. While rates may go up and down, outstanding debts have consistently risen over time. Additionally, as DeFi lending matures and new assets like securities, property, real estate, etc enter the picture, metrics like IPY will mature as well.</p>
+<p><a href="https://defipulse.com/defi-lending"><img loading="lazy" class="alignnone wp-image-7745 size-full" src="./../../../wp-content/uploads/2019/11/Selection_326.jpg" alt="" width="900" height="815" srcset="./../../../wp-content/uploads/2019/11/Selection_326.jpg 900w, ./../../../wp-content/uploads/2019/11/Selection_326-300x272.jpg 300w, ./../../../wp-content/uploads/2019/11/Selection_326-768x695.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /></a></p>
+<p>Interest Per Year is an example of what&#8217;s possible through DeFi. It&#8217;s a metric that can help market participants better understand the condition of DeFi lending markets.&nbsp;<span style="font-weight: 400;">For example, DAI&#8217;s IPY is generally greater than USDC&#8217;s but USDC has a more stable IPY. This indicates that there is greater demand for DAI loans overall but USDC is carving out a niche for steady consistent lending returns.</span></p>
+<p>Whether you want to analyze historical rates or simply stay ahead of trends in DeFi, the new&nbsp;<a href="https://defipulse.com/defi-lending">DeFi Lending</a>&nbsp;page makes it easier to spot patterns emerging in the market.&nbsp;<span style="font-weight: 400;">Our new page supports a variety of assets including DAI, USDC, ETH, REP, ZRX, WBTC, and BAT with lending data from Compound, Maker, dYdX, and Fulcrum.</span></p>
+<h3>Witness the growth of DeFi lending markets firsthand</h3>
+<p>Decentralized Finance is still in its infancy. It&#8217;s a historic time for the industry and we&#8217;re about to witness events which will shape DeFi forever. In the days ahead, we&#8217;ll see more and more assets be introduced as collateral in DeFi. Not to mention, different lending models will emerge. And on top of it all, more and more people will experience borrowing or lending in DeFi for the first time. We hope <a href="https://defipulse.com/defi-lending">DeFi Lending</a> will give you the tools to capture history in the making.</p>
+<p><span style="font-weight: 400;">Have a question or feedback about the new Lending page? Let us know what you think on <a href="https://twitter.com/defipulse">Twitter</a> or in our&nbsp;<a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord.</a></span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

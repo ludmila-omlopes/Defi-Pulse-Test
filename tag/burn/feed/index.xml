@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>burn &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 22 Jul 2019 15:23:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>What is a coin burn?</title>
+		<link>./../../../2019/07/22/coin-burn/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 22 Jul 2019 15:23:39 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[burn]]></category>
+		<category><![CDATA[coin burn]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[token]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7353</guid>
+
+					<description><![CDATA[A coin burn is when you take cryptocurrency, coins, or tokens and destroy them. Many coins or tokens have built-in mechanisms...]]></description>
+										<content:encoded><![CDATA[<h2></h2>
+<p>A coin burn is when you take cryptocurrency, coins, or tokens and destroy them. Many coins or tokens have built-in mechanisms which periodically burn a portion of their existing supply.</p>
+<p>The idea is pretty simple. When you burn a coin, you lower the total supply of the coins in circulation. And according to the law of supply and demand, lowering the total supply of coins should theoretically increase its value as long as there is sufficient future demand for the coin.</p>
+<h2><img loading="lazy" class="wp-image-7355 size-medium aligncenter" src="/blog/wp-content/uploads/2019/06/coinburn-300x300.png" alt="coin burn" width="300" height="300" srcset="./../../../wp-content/uploads/2019/06/coinburn-300x300.png 300w, ./../../../wp-content/uploads/2019/06/coinburn-150x150.png 150w, ./../../../wp-content/uploads/2019/06/coinburn-768x768.png 768w, ./../../../wp-content/uploads/2019/06/coinburn.png 1000w" sizes="(max-width: 300px) 100vw, 300px" /></h2>
+<h2>A coin burn is similar to a stock buyback in traditional finance</h2>
+<p>In traditional finance, companies will sometimes repurchase shares of their own stock. This is what&#8217;s called a <a href="https://www.investopedia.com/terms/s/sharerepurchase.asp" target="_blank" rel="noopener noreferrer">stock buyback</a>. The company can either buy the shares off the open market or pay shareholders a fixed price per share. Either way, you as a shareholder get to sell your shares at a profit and the company gets to increase its price-to-earnings ratio. Companies have increasingly turned to stock buybacks over issuing dividends for a number of reasons.</p>
+<p>If a company wants to bolster the performance of their stock price, they can buy back their own shares from the open market to drive up the price. Investors see this growth and the company can sell back later when it needs cash flow.</p>
+<h2>Coin burn in action</h2>
+<p>Developers have similar motivations for burning their coins or tokens. However, developers have the advantage of being able to program supply-reducing burning functions right into their smart contract. Let&#8217;s dive into a few examples of smart contracts on the Ethereum network with built-in mechanisms to burn their tokens.</p>
+<h3>Maker (MKR) tokens and the Dai Stablecoin System</h3>
+<p><a href="https://makerdao.com/" target="_blank" rel="noopener noreferrer">Maker</a> (MKR) is an ERC20 token that governs a smart contract credit system. Maker&#8217;s smart contracts allow you to borrow the stablecoin Dai against the value of your ETH. When you open a collateralized debt position (CDP) to borrow DAI, you are minting new DAI tokens.</p>
+<p>To ensure DAI is always pegged at $1, you&#8217;re charged a yearly interest rate or stability fee. The MakerDAO, compromised of MKR holders, is in charge of controlling this fee and the peg of DAI to the US dollar. When the peg slips, MKR token holders vote to adjust the fees to increase or decrease demand for DAI accordingly.</p>
+<p>When you go to repay the debt on your CDP, you&#8217;ll owe the outstanding debt in DAI and any interest fees accrued in MKR tokens. In the repayement process, you&#8217;re actually burning both the DAI and MKR tokens. Much like a stock buyback, burning MKR increases the value of remaining supply of tokens on the market as an incentive to own MKR tokens. As a MKR holders, you&#8217;re incentivized to make sure things are running smoothly much like the shareholders of a company.</p>
+<h3>Kyber Network Crystal (KNC)</h3>
+<p>The <a href="https://kyber.network/" target="_blank" rel="noopener noreferrer">Kyber Network</a> is an on-chain liquidity protocol which allows users to swap tokens through its liquidity providers. Kyber Network Crystal (KNC) is an ERC20 token involved in nearly every aspect of this decentralized liquidity network.</p>
+<p>KNC utilizes a burning mechanism to take a portion of its token supply out of circulation with every swap. Whenever you swap tokens on the Kyber Network, you pay your transaction fees in KNC. some of which is burned. Kyber recently <a href="https://blog.kyber.network/kyber-ecosystem-report-3-b2dc8ba0e44a" target="_blank" rel="noopener noreferrer">reported</a> that in May they had crossed 1,000,000 KNC tokens burned.</p>
+<p>Although that&#8217;s not all its used for, Kyber Network utilizes its token in a variety of ways to align the goals of each participant. From paying fees to open a liquidity reserve to receiving kickbacks for referrals as a vendor, the idea is to create utility and thus demand for KNC.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

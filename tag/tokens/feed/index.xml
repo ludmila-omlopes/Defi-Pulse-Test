@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tokens &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sun, 31 Jan 2021 23:58:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Alpha Homora V2 &#8211; Yield Farm With Up To 9x Leverage</title>
+		<link>./../../../2021/01/31/alpha-homora-v2/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 31 Jan 2021 23:58:58 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[alpha]]></category>
+		<category><![CDATA[alpha homora]]></category>
+		<category><![CDATA[farming]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[tokens]]></category>
+		<category><![CDATA[yield]]></category>
+		<category><![CDATA[yield farming]]></category>
+		<category><![CDATA[yieldfarming]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8837</guid>
+
+					<description><![CDATA[Alpha Homora was a DeFi product born out of practicality. Those familiar with DeFi can tell you that users will...]]></description>
+										<content:encoded><![CDATA[
+<p>Alpha Homora was a DeFi product born out of practicality. Those familiar with DeFi can tell you that users will go to extraordinary lengths when they spot an opportunity. This proved to be especially true as the yield farming craze reached a fever pitch in 2020 when users would combine various lending protocols to leverage yield farming opportunities. It wasn’t long before <a href="https://alphafinance.io/">Alpha Finance Lab</a> spotted this gap in the market and created Alpha Homora to give users a better way to yield farm with leverage more efficiently while also attempting to minimize the risks involved.</p>
+
+
+
+<p>Alpha Homora V2 builds on the popular Alpha Homora V1 yield farming product, supporting more AMM protocols, including Curve, Balancer, SushiSwap, and Uniswap, allowing yield farmers to borrow various assets in addition to ETH, and enabling leverage of up to 9x leverage thanks to new partnerships.<strong> </strong><a href="https://homora-v2.alphafinance.io/"><strong>Alpha Homora V2</strong></a><strong> is set to launch on Feb 1st.&nbsp;</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/01/alpha-social-thumb-1024x549.png" alt="" class="wp-image-8843" width="768" height="412" srcset="./../../../wp-content/uploads/2021/01/alpha-social-thumb-1024x549.png 1024w, ./../../../wp-content/uploads/2021/01/alpha-social-thumb-300x161.png 300w, ./../../../wp-content/uploads/2021/01/alpha-social-thumb-768x411.png 768w, ./../../../wp-content/uploads/2021/01/alpha-social-thumb.png 1400w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
+
+
+
+<h2>How does leveraged yield farming work?</h2>
+
+
+
+<p>Manually yield farming with leverage required you to take out and manage loans across several lending platforms in what amounted to a nerve-wrecking position that could be extremely hard to ‘unwind’. Using <a href="https://homora-v2.alphafinance.io/">Alpha Homora V2</a> is a lot simpler and helps minimize the risks involved (though <a href="https://alphafinancelab.gitbook.io/alpha-homora/risk">nothing is risk-free</a>). First, you select a supported liquidity pool from popular exchanges like SushiSwap, Uniswap, Balancer, and Curve that are on Alpha Homora v2 and then supply either or both of the tokens to your desired pool. For example, if you choose the SushiSwap&#8217;s ETH/USDC pool that is on Alpha Homora V2 you can provide ETH, USDC, or both. Note, you don’t need to have equal value of both tokens in order to yield farm with Alpha Homora V2.&nbsp;</p>
+
+
+
+<p>Next, you’ll decide whether or not you want to use leverage (which goes up to 9x for selected pools). And then, follow the prompts to confirm and submit your transaction and <em>viola </em>Alpha Homora automagically handles the rest. Users can borrow multiple assets, re-leverage, and deleverage their positions easily in just a few clicks. Compared to doing this process by hand, Alpha Homora can <em>feel like magic.</em> It’s easy to see where the name comes from.</p>
+
+
+
+<h1>What’s new in Alpha Homora V2?</h1>
+
+
+
+<p>Strong partnerships have shaped the design of Alpha Homora V2. Many of you may have noticed that V2 allows yield farmers to take advantage of significantly more leverage than its predecessor. Behind the scenes, Alpha Homora V2 utilizes CREAM V2’s liquidity to take on leverage for its users. Sometimes referred to as The Iron Bank, CREAM V2 allows whitelisted partner protocols like Alpha Homora V2 to take out loans with less collateral requirements. This results in more leverage for Alpha Homora’s yield farmers and higher interest rates for CREAM V2 users.<br></p>
+
+
+
+<p>Alpha Finance Labs worked closely with its partners to enable leveraged yield farming of liquidity pools on Curve, Balancer, SushiSwap, and Uniswap. And in an effort to help strengthen its partners’ communities, Alpha Homora V2 will not automatically sell and reinvest the farmed tokens. <strong>At launch, Alpha Homora V2 will feature the following leveraged farming pools:</strong></p>
+
+
+
+<p><strong>New leveraged pools:</strong></p>
+
+
+
+<ul><li>Curve’s 3pool (USDT, USDC, DAI)</li><li>Balancer’s PERP/USDC</li></ul>
+
+
+
+<p><strong>Pools migrated from V1:</strong></p>
+
+
+
+<ul><li>SushiSwap’s ETH/SUSHI</li><li>Uniswap’s ETH/UNI</li></ul>
+
+
+
+<p>In a nutshell, farmers will be able to leverage USDT, USDC, DAI, and ETH to farm CRV, PERP, or SUSHI tokens with up to 9x leverage. On the flipside, lenders will be able to lend ETH, USDT, USDC, and DAI on day one to start earning interest. The plan is to continue to add even more new pools and migrate more pools from V1 over time.&nbsp;</p>
+
+
+
+<p>For those curious, be sure to check out these fantastic posts written by the Alpha Finance team that walks you through Alpha Homora V2 from the perspective of <a href="https://blog.alphafinance.io/alpha-homora-v2-in-yield-farmers-perspectives/">yield farmers</a> and <a href="https://blog.alphafinance.io/alpha-homora-v2-in-lenders-perspectives/">lenders</a>. Alpha Homora is also offering additional yield in the form of ALPHA rewards for both farmers. See <a href="https://alphafinancelab.gitbook.io/alpha-homora/liquidity-mining-part-2a">here</a> for more information.</p>
+
+
+
+<h2>Migrating to V2</h2>
+
+
+
+<p>To ensure a smooth transition, ALPHA rewards will continue for a limited time for those liquidity mining on Alpha Homora V1. Although farmers should be aware that leveraged positions on Alpha Homora v2 will get more rewards compared to those on V1. This creates an incentive to migrate sooner rather than later. Here’s <a href="https://blog.alphafinance.io/72-hour-countdown/">a step-by-step guide</a> for those looking to migrate.</p>
+
+
+
+<h2>What is ibETHv2?</h2>
+
+
+
+<p>When you lend out an asset on Alpha Homora, you receive the corresponding ibToken or interest bearing token. ibETHv2 is an interest-bearing ETH token you receive when lending ETH to Alpha Homora V2. Alpha Homora typically has competitive yields for ETH due to the high demand from its leverage yield farming pools. Alpha Finance Lab also runs a <a href="https://alphafinancelab.gitbook.io/alpha-homora/trading-volume-mining-part-2b">Trading Volume Mining</a> program which rewards users for supplying liquidity to ibETH/ALPHA and ibETHv2/ALPHA pools.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/o7JpNF2vwiZxUlXbPbEtUtMMlbqUwQM-KpKE5OSCqCYH0jEBrzXPKlkjlCp1E7fk5JD8rQx5sGaQqQaShoaL1BF8_FuqNWS_yV7z5qzmfbBNjFw_L6otv5Yzlfeo2yw2RYBZgEsm" alt=""/></figure>
+
+
+
+<p>The ibETHv2/ALPHA pool on SushiSwap <a href="https://blog.alphafinance.io/72-hour-countdown/">goes live on Feb 3rd</a>. Liquidity providers of this pool will receive ALPHA rewards as well as SUSHI tokens from SushiSwap’s Onsen program. Rewards from Alpha Finance’s Trading Volume Mining program will be reflected in the form of trading fees APY when you remove liquidity (not airdropped to your wallet). Those providing liquidity to the ibETH/ALPHA pool on Uniswap will still receive rewards until Feb 3rd, 1pm UTC.</p>
+
+
+
+<h1>Closing Thoughts</h1>
+
+
+
+<p>Alpha Finance Lab’s initial release of Alpha Homora was well-received by the DeFi community given the immediate utility it provided to yield farmers. Alpha Homora V2 built on this popular platform to provide more utility for its users and value for its partner protocols. Key partnerships like the utilization of CREAM V2’s Iron Bank will allow Alpha Homora V2’s users to achieve higher levels of capital efficiency. It’s undeniable we’ve entered a new era in DeFi where partnerships can give you an edge more now than ever. So it will be very interesting to see how such a deep protocol level partnership influences the future growth of both platforms. Regardless of how things pan out, Alpha Homora V2 users will reap the benefits in the meantime.</p>
+
+
+
+<p>Thanks for reading! Be sure to keep your eyes out for <a href="https://homora-v2.alphafinance.io/">Alpha Homora V2</a> set to launch Feb 1, 2020. Follow <a href="https://twitter.com/alphafinancelab">Alpha Finance on Twitter</a> for the latest updates or join their <a href="https://discord.com/invite/Z2vuKDT">Discord</a> or <a href="https://t.me/AlphaFinanceLab">Telegram</a> to discuss the future of Alpha Finance Lab and its products.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Alpha Finance Lab to help educate and inform the community about the launch of Alpha Homora V2. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>SnowSwap &#8211; Low Slippage Swaps for Yield-Bearing Stablecoins, BTC and ETH2</title>
+		<link>./../../../2021/01/25/snowswap/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 25 Jan 2021 21:38:22 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[snow]]></category>
+		<category><![CDATA[snowswap]]></category>
+		<category><![CDATA[tokens]]></category>
+		<category><![CDATA[yield]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8826</guid>
+
+					<description><![CDATA[Many would argue that generating yield with stablecoins is currently one of DeFi’s biggest use cases. So it’s no wonder...]]></description>
+										<content:encoded><![CDATA[
+<p>Many would argue that generating yield with stablecoins is currently one of DeFi’s biggest use cases. So it’s no wonder we’ve seen a flurry of different stablecoins, yield aggregators and vaults entering the market, each with their own tokenized representation of yield-bearing stablecoins. You can almost picture these yield-bearing tokens like snowflakes; each similar at a glance but entirely unique when examined closely. When snowflakes are combined they become an indistinguishable mass that can be shaped to create something more like a snowman or igloo. Whether you prefer to look at protocols and tokens like snowflakes or money legos, there are undeniable benefits to combining and layering different DeFi protocols to create something new. This is precisely the logic behind <a href="https://snowswap.org/">SnowSwap</a> which aims to be the defacto way to swap yield-bearing assets like stablecoins, tokenized BTC, ETH2 staking tokens and other similar assets.</p>
+
+
+
+<h2>What is SnowSwap?</h2>
+
+
+
+<p>Imagine you have USDC deposited into yEarn’s yUSDC vault but you notice you could be earning a higher yield using yDAI. You could pay the gas required for all the transactions to withdraw your USDC, convert it to DAI, and then re-deposit your DAI into Yearn or you could save yourself the hassle and use SnowSwap. <a href="https://medium.com/snowswap/snowswap-bringing-liquidity-to-stablecoin-yield-farming-12e222af0462">SnowSwap</a>, based on Curve’s AMM model, allows users to easily enter and exit yVaults and other yield bearing tokens for only the cost of a swap fee. Increasing liquidity for similar yield-bearing tokens makes it easier for users to speculate on their yield or performance. SnowSwap’s first pools, <a href="https://snowswap.org/iearn/">yVault USD</a> (yDAI, yUSDC, yUSDT, yTUSD) and <a href="https://snowswap.org/busd/">yVault Curve</a> (yUSD, ybCRV), were focused on yield-bearing stablecoin tokens. It didn’t stop at stablecoins though; the <a href="https://snowswap.org/pusd/">btcSNOW pool</a> (YcrvRenWSBTC, FcrvRenWBTC) features yield-bearing tokenized versions of BTC from yEarn and Harvest Finance.</p>
+
+
+
+<p>The next step in SnowSwap’s journey went even further by introducing a new pool called <a href="https://medium.com/snowswap/%EF%B8%8Fbuilding-on-2-0-with-eth2snow-and-sharedstake-partnership-%EF%B8%8F-5ca251f8e1a0">eth2SNOW</a> designed to incentivize Eth2 adoption. SnowSwap’s <a href="https://snowswap.org/ethsnow/">eth2SNOW pool</a> aims to create new markets and utility via the ability to enter, exit, and swap between popular eth2 staking services with low slippage. This pool includes vETH2, aETH by ANKR, CRETH2 by CREAM, WETH. eth2SNOW provides a few key advantages for users:</p>
+
+
+
+<ul><li>Enables users to conveniently enter and exit Eth2 staking services using WETH</li><li>Allows users to optimize for the highest APY % with low slippage swaps</li><li>Alleviates minimum ETH entry required for aETH</li><li>Liquidity providers gain exposure to Eth2 staking and earn a portion of swap fees</li></ul>
+
+
+
+<p>In general, providing liquidity to SnowSwap’s pools provides a simpler and more cost effective way to gain exposure to a basket of yield-bearing assets with the added benefit of receiving a portion of swap fees. When a user provides liquidity to a SnowSwap pool, they receive either ySNOW, ycrvSNOW, btcSNOW, eth2SNOW tokens depending on the pool. Liquidity providers can stake these tokens to earn additional yield in the form of SNOW, SnowSwap’s governance token. 80% of the total SNOW tokens will be distributed to SnowSwap liquidity providers via liquidity mining rewards designed to bootstrap liquidity as well as the SnowSwap community.</p>
+
+
+
+<h2>Progressing towards decentralization with The Snow DAO</h2>
+
+
+
+<p>The SnowSwap team envisions The Snow DAO to play an important role in the future of SnowSwap. In this vision, <a href="https://medium.com/snowswap/f-k-making-it-rain-were-making-it-snow-e60b64ad1292">SNOW</a> would grant users the ability to vote on governance proposals to modify or add to the SnowSwap protocol. For example, a future proposal could be voted in that distributes swap fees to SNOW holders. Nonetheless, the SnowSwap team<a href="https://medium.com/snowswap/snow-whats-next-29639c181732"> also believes </a>that poorly executed token governance can slow down the growth of a protocol. For this reason,&nbsp; they want to explore the possibilities with the community and collaborate to forge a path towards decentralization together. For example, one idea floated by the SnowSwap team was having community-based executives. In the meantime, the SnowSwap team covers the cost of development via the 10% of SNOW given to the Dev Fund on a 3-year vesting schedule. Additionally, 8% of SNOW was issued to the SnowSwap Foundation, a treasury used to fund initiatives and incentivize the growth of the ecosystem such as security audits, partner programs, and grants.</p>
+
+
+
+<h3>Growing the SNOW community with positive-sum feedback loops</h3>
+
+
+
+<p>At its core, SnowSwap is exploring the possibilities of forging symbiotic relationships leveraging the positive-sum nature of DeFi. Its pools provide liquidity between tokens staked in various DeFi protocols, creating a market to swap these tokens which had previously been so fragmented and illiquid. This encourages users to engage with these tokens and in turn creates additional utility for their respective communities. Members of these communities who use SnowSwap, earning them SNOW rewards, then also become members of the SnowSwap community. You can probably see where this leads… the more projects SnowSwap provides utility to, the more the communities grow, and so on to form a positive sum feedback loop.&nbsp;</p>
+
+
+
+<p>In line with this positive-sum mentality, The SnowSwap Foundation will invest in initiatives and teams which add value to the SnowSwap ecosystem. This strategy referred to as ‘Offensive Forkability’ supports community experimentation and encourages innovation. For example, grants could be funded to explore protocol design experiments. The goal of this strategy is to create network value by collaborating with SnowSwap to disincentivize vampire attacks. In other words, the strategy embodies the phrase: “If you can’t beat them, join them.”</p>
+
+
+
+<h2>So what’s in store for SnowSwap?</h2>
+
+
+
+<p>SnowSwap is keeping busy between new partnerships and crossing community milestones. The self-proclaimed army of “White Walkers&#8221; continues to grow with recently launched dedicated communities for its SnowSwap users in Bangladesh, Vietnam, and India. <a href="https://twitter.com/Quantstamp/status/1343744581007933440?s=20">Quantstamp reviewed SnowSwap’s contracts</a> clearing the path to more major partnerships. Meanwhile, the eth2SNOW pool made in partnership with ANKR now has over 1000 ETH tokens. And now, it’s been<a href="https://twitter.com/snow_swap/status/1353059315968479232"> announced</a> that 1inch is integrating SnowSwap’s liquidity pools. SnowSwap pools will likely see increased trading volume from DEX aggregators and earn more trading fees for liquidity providers as a result.&nbsp;</p>
+
+
+
+<p>From the sound of it, there’s even more brewing behind the scenes. SnowSwap told us that they have 5 major partners that they plan to reveal in the near future. So don’t be surprised to see new potential pools, tokenized assets and/or other developments coming soon. To be the first to hear about these new partnerships, we recommend you follow SnowSwap on the platform of your choice: <a href="https://discord.com/invite/CSSJTs4">Discord</a>, <a href="https://t.me/Snow_Swap">Telegram</a>, or <a href="https://twitter.com/snow_swap">Twitter</a>.</p>
+
+
+
+<p>If you haven’t already, we recommend you go <a href="https://snowswap.org/">check out SnowSwap</a> and see how its low slippage AMM design can offer you more convenience and utility.<br><br><br><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with SnowSwap to help educate and inform the community about their protocol. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DeFi Dive: TokenTax &#8211; DeFi crypto tax calculator and cryptocurrency accounting firm</title>
+		<link>./../../../2020/02/18/defi-dive-tokentax/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Tue, 18 Feb 2020 16:29:58 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Humans]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[ERC20]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[tax]]></category>
+		<category><![CDATA[taxes]]></category>
+		<category><![CDATA[tokens]]></category>
+		<category><![CDATA[tokentax]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7972</guid>
+
+					<description><![CDATA[Alex Miles, co-founder of TokenTax, discusses his quest to ease the crypto community&#8217;s DeFi tax woes. How did you get...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb.png" alt="" class="wp-image-7974" width="1024" height="512" srcset="./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb.png 1024w, ./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb-300x150.png 300w, ./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong><em>Alex Miles, co-founder of TokenTax, discusses his quest to ease the crypto community&#8217;s DeFi tax woes.</em></strong></p>
+
+
+
+<h3>How did you get your start in crypto and what inspired you to build your project, product, or service?</h3>
+
+
+
+<p>I first heard about bitcoin while i was in university around 2010, but didn’t mine or purchase any (fml). I bought my first half bitcoin in 2013. Fast forward to 2017, I started trading and casually buying/selling alt coins, I realized that calculating taxes on my activity would be very complicated. </p>
+
+
+
+<p>Over the course of a month in 2017, I built a simple demo application that linked your coinbase account and calculated your cost basis data. The application then generated a filled out 8949. I showed it to a few friends and they were really happy with the experience. I submitted what I built to the 2017 Product Hunt Global Hackathon and ended up winning the grand prize! </p>
+
+
+
+<p>After that, I partnered with my co-founder Zac McClure who has a background in finance, accounting, and impact investing. Together we formed a plan to take TokenTax to the next level. A lot of our initial plan is now built and we plan to continue to grow the business.</p>
+
+
+
+<h3>What are you building and what sets it apart?</h3>
+
+
+
+<p>We are building the easiest way for cryptocurrency users to calculate and file their crypto taxes. At TokenTax we are intensely focused on building the best tax experience for DeFi. We believe DeFi has the potential to bring mainstream adoption to cryptocurrency and we want to do everything in our power to help make this a reality.</p>
+
+
+
+<h3>Who do you view as the ideal user or customer for your product or service?</h3>
+
+
+
+<p>Any cryptocurrency or DeFi user! We are an international crypto tax calculator so we support any country, not just the US.</p>
+
+
+
+<h3>What future event or feature on your roadmap are you most excited for?</h3>
+
+
+
+<p>I’m excited to continue to build out our DeFi tax tools. These are open to the public and can be used to download your transaction history for popular DeFi apps like Uniswap or compound. Every popular DeFi app in in the works like dYdX, Chai, and Maker to name a few <br>&#8211; <a href="https://tokentax.co/compound-finance">https://tokentax.co/compound-finance</a> <br>&#8211; <a href="https://tokentax.co/uniswap">https://tokentax.co/uniswap </a></p>
+
+
+
+<p>We also have built a wonderful knowledge base of guides and help articles. We are working full time to build our more helpful resources:<br>&#8211; <a href="https://tokentax.co/guides/defi-crypto-tax/">https://tokentax.co/guides/defi-crypto-tax/</a></p>
+
+
+
+<h3>Where do you see your project, product, or service fitting into the future of DeFi?</h3>
+
+
+
+<p>We plan on being the tax and reporting backbone behind DeFi. We want to help legitimize DeFi in the eyes of our government authorities around the world by providing users with excellent documentation.</p>
+
+
+
+<h3>What’s something in DeFi that you think more people should be paying attention to?</h3>
+
+
+
+<p>Honestly, I think one of the best things the DeFi community has, is the people within the community. There’s so much creativity and passion being shared online and I think this helps fuel a ton of innovation. I think we often forget we’re all on the same team. We should try to fight less about small topics that don’t matter. We need to remember who we are fighting against.</p>
+
+
+
+<h3>How can readers learn more about your product/service?</h3>
+
+
+
+<p>Go to our website and contact our very helpful support team with any crypto tax questions you may have <a href="https://tokentax.co/">https://tokentax.co/ </a></p>
+
+
+
+<p>Follow us and send us a nice message on Twitter <a href="https://twitter.com/tokentax">https://twitter.com/tokentax </a></p>
+
+
+
+<p>Also follow me on Twitter! <a href="https://twitter.com/milesalex">https://twitter.com/milesalex</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Get the best interest rates in a snap with DeFi Pulse</title>
+		<link>./../../../2019/08/16/earn-income/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 16 Aug 2019 12:29:07 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[New Features]]></category>
+		<category><![CDATA[Portfolio]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[earn]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[income]]></category>
+		<category><![CDATA[lend]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[tokens]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7440</guid>
+
+					<description><![CDATA[Lately, we&#8217;ve been receiving a lot of feedback from those of you in the community about new features and metrics...]]></description>
+										<content:encoded><![CDATA[<p>Lately, we&#8217;ve been receiving a lot of feedback from those of you in the community about new features and metrics you&#8217;d like to see included on DeFi Pulse. We want to let you know that we appreciate this feedback as well as your support of DeFi Pulse.</p>
+<p>And needless to say, we&#8217;re excited to watch DeFi grow too! Which is why we&#8217;re delighted to announce the new <a href="http://defipulse.com/income">Earn Income</a> feature of DeFi Pulse.</p>
+<p>&nbsp;</p>
+<p><a href="https://defipulse.com/income"><img loading="lazy" class="aligncenter wp-image-7510" src="./../../../wp-content/uploads/2019/08/Selection_071-263x300.jpg" alt="earn income" width="656" height="750" srcset="./../../../wp-content/uploads/2019/08/Selection_071-263x300.jpg 263w, ./../../../wp-content/uploads/2019/08/Selection_071-768x878.jpg 768w, ./../../../wp-content/uploads/2019/08/Selection_071.jpg 819w" sizes="(max-width: 656px) 100vw, 656px" /></a></p>
+<p>There&#8217;s no doubt that lending is one of DeFi&#8217;s most popular use cases. As it currently stands, DeFi lending services make up a majority of the top 10 DeFi Pulse leaderboard rankings. It only seems natural that DeFi Pulse provide users with insights into this area of the market.</p>
+<p>So in addition to our leaderboard rankings and <a href="/blog/meet-the-defi-list/">The DeFi List</a>, this section of DeFi Pulse helps users track trends in the market and compare services for the best DeFi interest rates.</p>
+<h3>Compare interest rates in a snap</h3>
+<p>It&#8217;s super easy to use! Simply select the asset you&#8217;d like to lend out from the list of currently supported tokens: WETH, DAI, USDC, ZRX, BAT, REP, WBTC, MKR, KNC, TUSD, or LINK. Next, enter the quantity. And then, our tool searches DeFi to give you the best options between services like Compound, dYdX, Fulcrum, and Nuo Network.</p>
+<p>You&#8217;ll instantly see your potential monthly earnings at a glance. DeFi Pulse&#8217;s <a href="https://defipulse.com/income">Earn Income</a> section makes it easy to compare the finer details of your loan including Interest Rates (APY), Term length, and desired level of Permissioning like KYC.</p>
+<h3>Put your money to work</h3>
+<p>What are you waiting for? Go ahead and <a href="https://defipulse.com/income">give it a try</a> today! You could be earning passive income with those tokens sitting in your wallet. And don&#8217;t forget to l<span style="font-weight: 400;">et us what you think in the Concourse <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a> or <a href="https://twitter.com/defipulse" target="_blank" rel="noopener noreferrer">@DefiPulse</a> on Twitter.</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>decentralized exchange &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 08 Feb 2021 22:12:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Futureswap  &#8211; Decentralized Perpetual Futures with up to 10x Leverage</title>
+		<link>./../../../2021/02/08/futureswap-v2/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 08 Feb 2021 22:12:31 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Futures]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[decentralized exchange]]></category>
+		<category><![CDATA[decentralized exchanges]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[futures]]></category>
+		<category><![CDATA[futureswap]]></category>
+		<category><![CDATA[perpetual]]></category>
+		<category><![CDATA[perpetuals]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8855</guid>
+
+					<description><![CDATA[Recent events have made it all too clear to the average user why decentralization has a key role to play...]]></description>
+										<content:encoded><![CDATA[
+<p>Recent events have made it all too clear to the average user why decentralization has a key role to play in having a fair and efficient market. Futureswap aims to disrupt the multi-billion dollar perpetual futures trading market currently dominated by centralized services. Futureswap takes a different approach with a hybrid between Uniswap and a perpetual futures exchange platform governed by the community. You may remember Futureswap from their <a href="https://medium.com/futureswap/futureswap-lessons-learned-from-a-3-day-alpha-be4e37bc8c52">successful Alpha in April 2020 which ultimately ended early</a> after DeFi users flocked to the platform in overwhelming numbers. In less than 3 days, Futureswap’s Alpha 24hr trading volume grew to $17M and liquidity passed $1M. Erring on the side of caution, the Futureswap team decided to end the Alpha earlier than initially planned.&nbsp;</p>
+
+
+
+<p><strong>Now they’re back with something even better, the Futureswap V2 Beta is </strong><a href="https://futureswap.com/"><strong>already launched on mainnet</strong></a><strong>.</strong> The Futureswap V2 Beta includes upgrades like live pricing and higher capital efficiency which aim to provide a perpetual futures trading experience that outperforms <em>centralized</em> exchanges.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/02/COL_DG-1-1024x494.png" alt="" class="wp-image-8860"/></figure>
+
+
+
+<h2>What makes Futureswap V2 Beta special?</h2>
+
+
+
+<p>Futureswap is a decentralized exchange platform with an automatic market maker (AMM) design that enables traders to enter leveraged perpetual futures with low slippage. Its automatic market maker (AMM) design provides higher capital efficiency offering up to 10x leverage. According to Futureswap: after $50m in liquidity, Futureswap should have better price execution for a $1m trade than any other decentralized exchange and after $300m it has the lowest slippage compared to centralized exchanges based on the current slippage parameters. </p>
+
+
+
+<p>Additionally, Futureswap pools can be very efficient with their use of capital resulting in more stability and potentially high returns for liquidity providers compared to traditional AMM exchanges. Futureswap utilizes what’s called a Dynamic Funding Rate or DFR for short. The DFR is a borrowing fee based on the total trade size designed to maintain the volume balance between open longs and shorts. During times of disproportionate demand, liquidity providers’ pooled assets are used to take up the opposite side of any unmatched trades. So if there were tons of unmatched ETH longs, LPs cover the ETH essentially opening a short.</p>
+
+
+
+<p>Long and short volumes are pooled and then the more popular pool is charged the dynamic funding rate and it’s paid to the pool in low demand.<strong> </strong>This mechanism limits extreme volatility and properly rewards liquidity providers for their exposure to risk. The DFR keeps increasing as the disparity grows to disincentivize trades on the popular side. In other words, the longs pay the shorts or vice versa until the sides become balanced. This also means that liquidity providers have the potential to earn more thanks to the DFR.</p>
+
+
+
+<h3>Oracle Relayer Network (ORN)</h3>
+
+
+
+<p>One of the biggest improvements Futureswap V2 brings is the new Oracle Relayer Network (ORN) which enables instant pricing and real-time trading. ORN has been described as a mesh between a price oracle and a meta-transaction processor node. Futureswap users are able to trade in real-time by signing a message including their order and submitting them to ORN. Then, ORN verifies the signed message and finalizes the trade on-chain at the current price. Transactions will fail if outside accurate price bounds set by ORN to protect users. The Futureswap team is taking further steps to improve the Oracle Relayer Network’s security with audits by <a href="https://www.trailofbits.com/">Trail of Bits</a> and plans to add more nodes to the network.</p>
+
+
+
+<h2><br><strong>How Futureswap works</strong></h2>
+
+
+
+<h3>Traders</h3>
+
+
+
+<p>As we’ve covered, <a href="https://exchange.futureswap.com/">traders on Futureswap can open long or short perpetual future positions with up to 10x leverage</a> in real-time with instant pricing. Perpetual futures on Futureswap have no time limits and can remain open as long as the trader has enough collateral. Traders will either pay or earn the dynamic funding rate when opening longs or shorts depending on whether they are on the popular side of the trade or not. Traders also earn FST token rewards each epoch based on their percentage of close trade volume that distribution period.<br></p>
+
+
+
+<h3>Liquidity providers</h3>
+
+
+
+<p>Liquidity Providers<a href="https://exchange.futureswap.com/pool"> add liquidity to Futureswap pools</a> in equal parts to earn trading fees and FST token rewards. For example, if you wanted to add liquidity to Futureswap’s ETH/USDC pool, you would need $100 worth of ETH and 100 USDC. Once deposited, LP tokens are minted representing your share of the pool. These LP tokens can be redeemed at any time if their liquidity is not in a trade. Liquidity providers earn trading fees for allowing traders to use their liquidity. Liquidity providers also earn FST token rewards as an incentive to further grow Futureswap’s available liquidity.</p>
+
+
+
+<h3>Liquidators</h3>
+
+
+
+<p>Liquidators monitor the platform for positions that are close to violating margin requirements and send liquidation transactions to close at-risk positions for a liquidator fee. It’s vital to the health and stability of the platform for positions to be reliably closed once they reach their liquidation price. It’s worth mentioning that submitting these transactions does not require the liquidator to provide any value or to take over the trade. They simply close the trade on behalf of the protocol and are rewarded for doing so. Currently, the percentage that liquidators receive is 30% of the remaining collateral up to a maximum (currently set to 500 USDC).</p>
+
+
+
+<h2>Futureswap is governed by the community</h2>
+
+
+
+<p>FST is Futureswap’s non-transferable governance token which is<a href="https://exchange.futureswap.com/rewards"> rewarded to traders, liquidity providers, and referrers each day.</a>&nbsp; FST allows the Futureswap community to propose and vote on changes to the protocol, enabling it to evolve and improve over time. We’ve already mentioned FST tokens a few times covering Futureswap’s various incentives designed to incentivize user participation. <a href="https://medium.com/futureswap/futureswap-governance-token-distribution-d2712c855da5">FST is used to reward the Futureswap</a> users contributing to the growth and adoption of the platform. And since Futureswap is governed by the community, this gives the most active users influence over the future of the platform. In other words, users who participate sooner rather than later after the community grows even larger are more likely to have a larger impact with their contributions and receive more FST rewards.</p>
+
+
+
+<h2>Concluding thoughts</h2>
+
+
+
+<p>Potentially disrupting such a big market like perpetual futures presents an opportunity for Futureswap. Futureswap is designed with the expectations of serious trades in mind. Futureswap’s design with its high capital efficiency and low slippage lends itself well to larger trades for whales and industry traders. Its instant pricing and real-time trading ORN system provides a better trading experience with built-in protections against front running attacks. Futureswap may also continue to provide even lower slippage as liquidity grows over time. FST rewards increase the likelihood of this occurring by incentivizing adoption.</p>
+
+
+
+<p>Try <a href="https://www.futureswap.com/">Futureswap</a> today and start earning FST rewards. Also, be sure to check out the Futureswap community on <a href="https://twitter.com/futureswapx">Twitter</a> and <a href="https://discord.gg/ZCcxtu9VxH">Discord</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Futureswap to help educate and inform the community about the launch of Futureswap V2 Beta. </em><em>DeFi Pulse received FST tokens as part of its payment. </em><em>As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DeversiFi &#8211; A high-speed trading platform capable of 9000 TPS</title>
+		<link>./../../../2020/11/29/deversifi-nectar-beehive-v1/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 29 Nov 2020 19:00:03 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[decentralized exchange]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[deversifi]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[NEC]]></category>
+		<category><![CDATA[nectar]]></category>
+		<category><![CDATA[token]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8715</guid>
+
+					<description><![CDATA[Let’s face it&#8230; In the heat of the moment when it matters most you want to be using the fastest,...]]></description>
+										<content:encoded><![CDATA[
+<p>Let’s face it&#8230; In the heat of the moment when it matters most you want to be using the fastest, cheapest way to execute that critical trade. And when you trade on most DEXes, network congestion and the subsequent high gas fees impact your performance. Pay too low of a gas price and you’ll be stuck waiting around, sometimes only to have your transaction revert. So, your other option is to crank up the gas price and pay gas fees which add up over time, eating into your profits.&nbsp;</p>
+
+
+
+<p>These limitations can lead to a less-than-desirable experience for traders, especially those coming from centralized exchanges. Over the past few years, countless hours of research have gone into creating layer 2 technologies that allow DeFi applications like DEXes to scale far beyond what’s possible on layer 1. DeversiFi has made it their mission to provide a professional trading platform for traders as the first exchange on Ethereum to adopt StarkWare’s Validium Rollups Layer 2 scaling technology.&nbsp;</p>
+
+
+
+<h2>DeversiFi in a nutshell</h2>
+
+
+
+<p><a href="https://www.deversifi.com/"><strong>DeversiFi</strong></a><strong> is a self-custodial layer 2 DEX capable of processing up to 9000 transactions per second by utilizing zero-knowledge transaction batching technology. </strong>The next chapter for DeversiFi and the Nectar ecosystem begins soon with the launch of Nectar Beehive V1, a liquidity mining initiative designed to further bootstrap the Nectar community and produce sustainable, long-term liquidity for the NEC ecosystem.</p>
+
+
+
+<h1>The Evolution of DeversiFi</h1>
+
+
+
+<p>When you hear the term ‘liquidity mining’ you probably think of fly-by-night food token farms, however NEC, the token of the DeversiFi ecosystem, is in a category of its own. DeversiFi and the Nectar ecosystem have been pioneers of <a href="https://blog.deversifi.com/introducing-the-nectar-token-58ba40e5419a/">liquidity mining in the DeFi space since 2017</a> and are backed by notable partners such as ParaFi Capital, D1 Ventures, BR Capital, StarkWare, Bitfinex, ConsenSys, and Infura.&nbsp;</p>
+
+
+
+<p>Originally <a href="https://www.bitfinex.com/posts/279">incubated by Bitfinex</a> (now fully independent), DeversiFi began as Ethfinex Trustless, a decentralized exchange with a hybrid infrastructure with deep-liquidity from aggregated order books which access liquidity from exchanges like Bitfinex. <a href="https://blog.deversifi.com/introducing-the-nectar-token-58ba40e5419a/">Nectar (NEC) was introduced in 2017</a> as one of the first liquidity mining tokens as a way to reward Ethfinex users with a stake in the future development, governance and success of the platform. Ethfinex eventually closed its doors in August 2019 leaving behind 17000 ETH which was entrusted to NEC holders via the Nectar DAO, or NecDAO for short.&nbsp;</p>
+
+
+
+<h1>Piecing together DeversiFi, NEC, and NecDAO</h1>
+
+
+
+<p>Nectar’s original purpose was to incentivize liquidity on Ethfinex offering 50% of the centralized exchange’s trading fees. But after Ethfinex closed its doors, the remaining 17,000 ETH was passed onto the Nectar DAO and <a href="https://nectar.community/whitepaper">the role of NEC tokens has since expanded</a> to become the governance and utility token of the Nectar and DeversiFi ecosystem. The primary goal of Nectar is to grow the world’s largest community of decentralized exchange users. NEC tokens can be staked to earn reputation and become a voting member of NecDAO. Learn more about <a href="https://nectar.community/dao">Nectar DAO</a>.</p>
+
+
+
+<p>NEC is deflationary with the supply being reduced over time through a buy-and-burn model. Each week, up to 50% of the revenue from DeversiFi trading fees (based on daily trading volumes) are used to purchase NEC tokens through an open and transparent auction mechanism. These NEC tokens are then burned reducing the total supply.</p>
+
+
+
+<p>DeversiFi offers unique trading fee discounts to NEC token holders. On top of the trading fee discounts DeversiFi users receive based on their 30d trading volume, Nectar holders will soon be entitled to additional discounts of up to 20% depending on the average amount of Nectar tokens that they hold (and have locked inside DeversiFi) for the past 30 days. For example, if a trader expects to do 10 million USD of trading volume every 30 days, buying and holding 100,000 NEC could save them ~$4000 in fees per 30 days.</p>
+
+
+
+<p>You can see how DeversiFi and NecDAO have a symbiotic relationship. The more users trade on DeversiFi, the more NEC tokens are burned, the more valuable NEC becomes, the greater the value of the potential discounts NEC holders can receive. NecDAO and NEC holders benefit from generating proposals which improve DeversiFi and attract more trading volume. DeversiFi, in turn, has a dedicated community of NEC stakeholders that boost trading volumes and generally promote their platform.</p>
+
+
+
+<h1>Introducing Beehive, Nectar’s new liquidity mining initiative<img loading="lazy" src="https://lh5.googleusercontent.com/AEwu1MgeUK5S0tl0uXQodikfIOanlcWYVuse6Q0MkTmU9aiFDKMarX9s6vMtzaK1eXFSeyBU7p17Q0aAKtFmA6dYlSWSIR3tU3XV-KAkfWxi51od7v-bKYvk7AIGsIhGKiMsljo1" width="624" height="324"></h1>
+
+
+
+<p>Nectar Beehive V1 is a new community bootstrapping and liquidity mining initiative for the DeversiFi ecosystem that returns NEC to its roots of rewarding market makers.</p>
+
+
+
+<p>Nectar Beehive will allow liquidity providers to stake their tokens and earn NEC and BAL token rewards, offering multipliers up to 2x for those who also trade on DeversiFi. Of course, APY varies and is subject to many factors such as the price of NEC tokens and total participation in Nectar Beehive. Inspired by other popular liquidity mining initiatives, NEC rewards will be&nbsp; vested for 1 year, limiting sell pressure on the market and producing a sustainable source of liquidity for NEC.&nbsp;</p>
+
+
+
+<p>Nectar Beehive V1 officially launches on Tuesday December 1st, 2020. All the need-to-know details will be communicated in their <a href="https://discord.gg/GMtnTZeHpr">Discord</a> and <a href="https://twitter.com/deversifi">Twitter</a>. UPDATE: <a href="https://blog.deversifi.com/nectar-liquidity-mining/">Learn more about Nectar Beehive V1</a>.</p>
+
+
+
+<h1>DeversiFi offers a fast, smooth trading experience</h1>
+
+
+
+<p>We recommend you <a href="https://www.deversifi.com/">experience it for yourself</a> to see how it compares to what you’ve come to expect from a DEX or even centralized exchanges. DeversiFi have recently added Hermez Network token offering a 10% kickback to the first 100 users who trade HEZ (<a href="https://blog.deversifi.com/hez-token-now-available-on-deversifi/">details here</a>). In the run-up to Nectar Beehive, various new token pairs will be added allowing Beehivers to trade their favourite tokens while earning NEC.</p>
+
+
+
+<h2>High throughput and deep liquidity</h2>
+
+
+
+<p>Why are rollups so cool? I’m glad you asked. I’m not going to get into all the technical details of how zkSTARKs or Validium rollups work. But in a nutshell, they allow DeversiFi to offer a super fast layer 2 experience while still rooting all security in layer 1, in this case the Ethereum blockchain. DeversiFi was the first DEX to utilize StarkWare’s transaction batching technology StarkEx which processes and settles trades at extremely high speeds (approx. 9,000 tps).</p>
+
+
+
+<p>DeversiFi’s hybrid infrastructure features allows traders to tap into deep liquidity from aggregated order books including Bitfinex, resulting in self-custodial access to the best prices.</p>
+
+
+
+<h2>Gas-Free trading</h2>
+
+
+
+<p>No one likes paying high gas fees. They always seem to spike when you need to make an important trade. This typically happens because many traders are competing to “outbid” other traders to be included in the next block. <strong>DeversiFi users enjoy gas-free trading with instant finality</strong> thanks to its Validium rollups. Trades are processed in batches and securely submitted back to the Ethereum blockchain where customers’ funds are held. There is never any danger of trades being rolled back and rooting the transactions on-chain ensures customers would be able to withdraw their funds in the unlikely case where DeversiFi or StarkWare go offline.</p>
+
+
+
+<p>Gas fees are only required to lock and unlock tokens; this is because these interactions take place with DeversiFi’s smart contract on layer 1.</p>
+
+
+
+<h2>Privacy-by-default</h2>
+
+
+
+<p>Don’t leak that sweet sweet alpha. Validium rollups is one of the only layer 2 technologies on the market that enables private transactions. Privacy let’s you make the most of opportunities in the market without exposing your strategy to the public blockchain where it can be monitored and reverse-engineered. And while leaking alpha is bad, your data potentially falling into more nefarious hands is worse.</p>
+
+
+
+<p>Don’t underestimate the value of privacy when it comes to DeFi. Although the community is small now, DeFi is likely to grow into a wider mainstream market where bad actors may increasingly look to take advantage of personal data stored forever on the blockchain. As the saying goes: An ounce of prevention is worth a pound of cure.</p>
+
+
+
+<h1>DeversiFi’s roadmap aims to uniquely position the platform for the future</h1>
+
+
+
+<figure class="wp-block-image"><img src="https://lh3.googleusercontent.com/21xwQM4KCgKndacOHO9kIz_maga7Vzgs9-iIixBnsvt8iOB_yU7gblPBPY6sGC83NiaVwveE3PPmh-F10UeJ83-PPpop0dwIcGnn9LYmSeEGhGxWFR9btYjQRgp4Lr7g7rUpbL_C" alt=""/></figure>
+
+
+
+<p><a href="https://blog.deversifi.com/deversifi-public-roadmap/"></a></p>
+
+
+
+<p>Composability between platforms is the major game changer of DeFi. Within the next few months, DeFi is likely to experience an explosive growth in the number of protocols available on layer 1 in addition to the new and existing services migrating to layer 2. DeversiFi’s hybrid architecture and history of adaptation makes it uniquely situated to capitalize on the potential composability between layer 1 and layer 2 platforms as well as the opportunities that arise from bridging decentralized and centralized services like CEXs/DEXs.</p>
+
+
+
+<p>Let’s discuss some features coming up on DeversiFi’s roadmap. Head <a href="https://blog.deversifi.com/deversifi-public-roadmap/">here</a> for a full public roadmap.</p>
+
+
+
+<h2>Rapid Withdrawals and DeversiFi EARN</h2>
+
+
+
+<p>I haven’t met a person yet who enjoys the agony that is waiting for a withdrawal from an&nbsp; exchange. Previously, DeversiFi users would be required to wait until another batch of transactions is submitted to the blockchain in order to withdraw their funds. This can sometimes take a few hours depending on network congestion. With new rapid withdrawal functionality, DeversiFi users will be able to withdraw instantly, paying a fee and essentially “borrowing” liquidity from the DeversiFi EARN pool. Users can provide liquidity to DeversiFi EARN to earn fees for enabling rapid withdrawals. Both parties benefit from the arrangement: liquidity providers earn passive returns and traders have the option to skip the wait for a convenience fee.&nbsp;</p>
+
+
+
+<h2>Conditional transfers open the door for enhanced composability</h2>
+
+
+
+<p>Beyond fast withdrawals, conditional transfers open the door to many new possibilities and arbitrage opportunities for DeversiFi users. This upgrade would allow users to withdraw to new or different addresses, deposit from one address directly into their DeversiFi trading account, and it can even allow traders to make custom transactions directly interacting with other DeFi protocols on layer 1.&nbsp;</p>
+
+
+
+<p>You can imagine how this lowers the opportunity cost of holding funds in DeversiFi. DeversiFi users benefit from being positioned to effectively seize potential opportunities across centralized and decentralized layer 1 and layer 2 DEXes, improving the overall efficiency of the market.</p>
+
+
+
+<h2>Exploring synergies between DeFi and centralized services</h2>
+
+
+
+<p>DeversiFi has been exploring a number of things that would further enhance DeversiFi’s hybrid architecture including zero-knowledge KYC and several regulatory licenses that would allow them to provide regulated products such as derivatives and leverage to even traders based out of the United States.</p>
+
+
+
+<h1>Closing Thoughts</h1>
+
+
+
+<p>DeversiFi has put a lot of time and effort into building a very uniquely situated trading platform. When you put all the pieces together, it’s easy to see DeversiFi and the Nectar community are dedicated to building a platform that is sustainable with long-term goals. Experience what layer 2 has to offer today by trading on <a href="https://www.deversifi.com/">DeversiFi</a>. And don’t forget to mark your calendar for the launch of <a href="https://beehive.nectar.community/#/beehive">Beehive</a>! Thanks for reading.&nbsp;</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with DeversiFi to help educate and inform the community about the DeversiFi and the Nectar Ecosystem. DeFi Pulse received NEC tokens as part of its payment. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em> </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>What is DeFi?</title>
+		<link>./../../../2019/09/03/what-is-defi/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Tue, 03 Sep 2019 21:54:04 +0000</pubDate>
+				<category><![CDATA[Derivatives]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[decentralized exchange]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[investing]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7552</guid>
+
+					<description><![CDATA[DeFi is an abbreviation of the phrase decentralized finance which generally refers to the digital assets and financial smart contracts,...]]></description>
+										<content:encoded><![CDATA[<p>DeFi is an abbreviation of the phrase <strong>decentralized finance</strong> which generally refers to the digital assets and financial smart contracts, protocols, and decentralized applications (DApps) built on Ethereum. In simpler terms, it&#8217;s financial software built on the blockchain that can be pieced together like Money Legos.</p>
+<p>To get a feel for the products and services that exist in the Ethereum DeFi ecosystem, you can check out our <a href="https://defipulse.com/">DeFi rankings</a> which tracks the current value locked into popular DeFi smart contracts.</p>
+<p>Computers have disrupted nearly every industry over the years. Each innovation builds on the previous one, and digital products and services become more sophisticated. Through technology, we&#8217;ve catered the world to fit our needs. From digital assistants to home automation, programs now affect many aspects of your daily life. So why would money be any different?</p>
+<h2>What is decentralized finance and who is it for?</h2>
+<p>To better understand DeFi, we should first take a look at how traditional finance came about. Although it sometimes feels like money has always been around, that&#8217;s simply not the case.</p>
+<p>Humans originally bartered for the goods and services. But as human societies formed and developed, so did our economies. We invented currency to make exchanging things of value easier. Subsequently, currency helped usher in new innovations and higher levels of economic productivity. However, progress didn&#8217;t come without its cost.</p>
+<p>Historically, central authorities such as governments have issued the currencies that underpin our economies. Central banks and institutions were expected to carefully manage and regulate the supply of currency in circulation. As the size and complexity of our economies grew, these central authorities gained more power as more people placed trust in them.</p>
+<p>You trust your government to not print more money overnight. You trust your bank to safely store your money. And, when it comes to investing, you trust your assets to a financial adviser. By handing control of your money over to others, you hope to earn a profit. But the sad truth about our current financial system is that the power that comes along with this trust isn&#8217;t always rewarded.</p>
+<p>We often have very little say in how corporations handle our investments, or even how our governments manage the economy. And in most cases, investors only receive a fraction of the returns generated from the risks taken by these central authorities.</p>
+<h4>DeFi is trying to build something different</h4>
+<p>Decentralized finance aims to create a financial system that&#8217;s open to everyone and minimizes one&#8217;s need to trust and rely on central authorities. Technologies like the internet, cryptography, and blockchain give us the tools to collectively build and control a financial system without the need for central authorities.</p>
+<p>There&#8217;s a saying in the blockchain space: &#8220;Don&#8217;t trust, verify.&#8221; Because with a blockchain network, you as an individual can verify any and every transaction that occurs on the blockchain.</p>
+<h3>DeFi allows everyone to take charge of their financial well-being</h3>
+<p>Almost all DeFi applications are built on the Ethereum blockchain, the world&#8217;s most popular programmable blockchain. Ethereum is a blockchain network that maintains a shared ledger of digital value. Instead of a central authority, the participants that comprise the network control the issuance of ether (ETH), the network’s native cryptocurrency, in a decentralized manner.</p>
+<p>Developers can program applications on Ethereum that can create, store, and manage digital assets, also called tokens, on the blockchain. These are called <strong>smart contracts </strong>or <strong>decentralized applications (DApps)</strong>. They’re contracts or agreements enforced by the Ethereum blockchain. Or rather, applications or scripts that run only as programmed on the Ethereum network. You can build complex irreversible agreements without the need for a middle man.</p>
+<p>Decentralized finance has the opportunity to bring about a more resilient and transparent financial system. Anyone with an internet connection is able to access and interact with smart contracts built on the Ethereum blockchain. Many smart contracts are built to be open-source and interoperable with existing smart contracts. So, users can verify the smart contracts&#8217; code and choose which services work best for them.</p>
+<h4>What are some examples of popular DeFi applications?</h4>
+<p>There are <a href="https://defipulse.com/blog/defi-on-ethereum/">many different DeFi products and services</a>, some of which you may find familiar to existing financial services but with a decentralized twist.</p>
+<p>Arguably, the most popular and fasting growing sector of DeFi is borrowing and lending platforms. Similar to a bank, users deposit money and earn interest from other users borrowing their assets. However, in this case the assets are digital and smart contracts connect the lenders to borrowers, enforce the terms of the loans, and distribute the interest. And it all happens without the need to trust one another or middleman bank. And, by cutting out the middleman, lenders can <a href="https://www.defipulse.com/income">earn higher returns</a> and more clearly understand the risks thanks to the transparency blockchain provides.</p>
+<p>Tokens called stablecoins are also important to the DeFi ecosystem. You may be under the impression that all cryptocurrency is volatile. However, stablecoins are tokens designed to hold a specific value and are typically pegged to fiat currency like the US dollar. For example, DAI is a stablecoin pegged to USD and backed by ether (ETH). For every DAI, there is $1.50 of ETH locked into the <a href="http://makerdao.com/">MakerDAO</a> smart contract as collateral.</p>
+<p>Another type of popular DeFi application is what&#8217;s called a <a href="https://defipulse.com/blog/what-is-a-decentralized-exchange/">decentralized exchange</a>, or DEX for short. DEXes are cryptocurrency exchanges that use smart contracts to enforce the trading rules, execute trades, and securely handle funds when necessary. When you <a href="https://defipulse.com/blog/how-to-trade-on-a-dex/">trade on a DEX</a>, there is no exchange operator, no sign-ups, no identity verification, or withdrawal fees.</p>
+<h3>DeFi is like smart money Legos</h3>
+<p>With Legos, you start out with a bunch of small bricks. It&#8217;s up to you how you piece together the Lego bricks to build something new. The same is true about smart contracts. With each new project, product, or service launched on Ethereum, you have one more money Lego in your collection. And by piecing together existing components of DeFi, you can combine, modify, or create powerful new finance tools out of these money legos.</p>
+<p><a href="https://defipulse.com/blog/what-is-cdai/">cDAI</a> is a perfect example of money Legos in action. <a href="http://compound.finance/">Compound</a> is a money market or, in other words, a lending service on Ethereum. When you supply DAI to Compound, you receive cDAI tokens which represent both your DAI in Compound and any interest you&#8217;ve earned from lending. Since cDAI is a token, you can send, receive, or even use cDAI in other smart contracts. Money Legos in action: ETH into MakerDAO to mint DAI tokens, DAI being supplied to Compound, cDAI tokens can be used in other DApps.</p>
+<p>For example, you can <a href="https://defipulse.com/blog/best-decentralized-exchanges-dexes/">swap ETH for cDAI on a DEX</a> and instantly start earning interest for just holding cDAI. And because you choose how you interact with smart contracts on the blockchain, you can use a <a href="https://ethgasstation.info/blog/why-dex-ag/">DEX aggregator</a> like <a href="https://dex.ag/">DEX.AG</a> to compare and trade at the best prices across all the popular DEXes, all within seconds.</p>
+<h3>*Decentralization may vary</h3>
+<p>There are varying degrees of decentralization when it comes to DeFi services. Because the truth is, not everything can be or needs to be fully decentralized.</p>
+<p>As previously mentioned, stablecoins are popular in DeFi. But, not all stablecoins are as decentralized as DAI. Many of them are actually tokens representing fiat currency deposits. For example, for every USDC token, there is 1 USD being held in a bank somewhere. You can theoretically &#8220;tokenize&#8221; or create a token to represent any real world asset. This is where things become a little less black and white, because while you can trade, send, and receive these tokens on the blockchain, you cannot completely eliminate the need to physically manage or redeem the real world asset.</p>
+<p>Take for example, purchasing a home on the blockchain. Say someone tokenizes the deed to their home, places it on a decentralized exchange, and you buy it. Without the proper legal setup and the law on your side, you cannot simply force this person from their home regardless if you own the digital version. As it currently stands, you&#8217;d need to fall back on the court system of your home country to settle the dispute.</p>
+<p>In short, there are limitations to the technology and sometimes the lines of DeFi begin to blur. In due time, laws will adapt to the changing financial landscape and DeFi&#8217;s place in the world will become clearer. That being said, one thing is clear: DeFi is here to stay.</p>
+<h2><a href="https://defipulse.com/"><img loading="lazy" class="alignnone wp-image-7558 size-full" src="./../../../wp-content/uploads/2019/09/defipulse-chart01-1.jpg" alt="" width="599" height="316" /></a></h2>
+<h2>DeFi isn&#8217;t stopping anytime soon</h2>
+<p>If you believe the future has digital money, then <a href="https://defipulse.com/defi-list">come explore</a> what DeFi has to offer. At the time of writing this, the entire decentralized finance market is <a href="https://defipulse.com/">worth $494.6M</a>. Ethereum has become the blockchain of choice for <a href="https://entethalliance.org/members/" target="_blank" rel="noopener noreferrer">many companies</a> to build their financial products. And more and more DeFi applications are built every day.</p>
+<p><span style="font-weight: 400;">Want to learn more about DeFi? Follow us on Twitter <a href="https://twitter.com/defipulse" target="_blank" rel="noopener noreferrer">@DefiPulse</a> or come chat with us on <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord.</a></span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

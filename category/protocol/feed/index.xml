@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Protocol &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 01 Mar 2021 21:19:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>SIREN &#8211; Decentralized Options For Sophisticated Traders</title>
+		<link>./../../../2021/03/01/siren/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 01 Mar 2021 21:19:51 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[amm]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[options]]></category>
+		<category><![CDATA[options trading]]></category>
+		<category><![CDATA[siren]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8929</guid>
+
+					<description><![CDATA[Options trading has become more popular than ever now that anyone can trade from anywhere with a few taps. The...]]></description>
+										<content:encoded><![CDATA[
+<p>Options trading has become more popular than ever now that anyone can trade from anywhere with a few taps. The barriers to entry have been lowered improving accessibility for the average joe. In case you don’t know, options are financial primitives that give a trader the choice (or the <em>option</em>) to buy or sell an asset at a predetermined strike price at some point in the future. Traders can utilize options to hedge against potential price changes or to speculate on the future price of an asset. As DeFi matures, on-chain financial primitives like options become the building blocks for even more sophisticated financial instruments.</p>
+
+
+
+<p>If options trading is what floats your boat, say ahoy to SIREN, a decentralized protocol aiming to carve out a unique market niche by catering specifically to sophisticated users interested in holding and actively trading tokenized options contracts. This nautical-themed on-chain options marketplace launched its alpha release in December 2020 and is about to embark on the next chapter of its journey. <strong><a href="http://sirenmarkets.com/">SIREN Markets</a> is set to launch on mainnet March 1.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/03/siren-1000x500-1-1.jpg" alt="" class="wp-image-8932"/></figure>
+
+
+
+<h2>SIREN Markets offer seamless on-chain options trading</h2>
+
+
+
+<p>SIREN is a decentralized protocol which facilitates a marketplace of fully-collateralized, on-chain options. SIREN protocol tokenizes both the long and short sides of an options contract as ERC20 tokens which enables options to be traded via its AMM design requiring no third-party settling mechanism or order matching to complete option settlement on chain. Siren AMM v2 can trade up to 6 SIREN options contracts which all share collateral and payment assets in a single pool. This enables liquidity to be rolled over when a market expires for a seamless UX for liquidity providers.</p>
+
+
+
+<p>It starts with liquidity providers depositing collateral into the SIREN AMM pool. So for the WBTC/USDC calls the collateral asset would be WBTC. When you as a trader go to buy options from the AMM, the collateral held within the pool is used to mint a pair of tokens: bToken and wToken. bToken, which stands for buyToken, is sent to the buyer and gives the holder the right to purchase or sell the underlying asset at a predetermined strike price. While wToken, short for writeToken, stays in the pool. If the option is left unexercised, wTokens allow the holder to withdraw the collateral or withdraw the exercise payment from the contract after expiration.</p>
+
+
+
+<p>Note, that SIREN AMM v2 only trades bTokens, but not wTokens. Although, the Siren team has stated that trading of wTokens may become available in the future. Users pay a premium to the pool in the collateral asset each time they make a trade. This process results in liquidity providers passively becoming covered option writers, automatically underwriting contracts to meet demand from traders. In addition to collecting premiums, liquidity providers benefit from any slippage in AMM trades and earn SI token rewards from the SIREN <a href="https://sirenmarkets.medium.com/expanding-the-siren-lpp-c69969e25d41">Liquidity Provider Program (LPP)</a>. It’s always worth noting <a href="https://docs.sirenmarkets.com/faq/what-is-a-liquidity-provider#risks">the risks associated with providing liquidity</a>.</p>
+
+
+
+<h3>Giving sophisticated options traders the right tools for the job</h3>
+
+
+
+<p>The tools that options traders have come to rely on in traditional finance were refined over decades and decades. So it only makes sense that these early days of DeFi provide ample opportunity to incorporate and innovate on these tools. SIREN’s design allows traders to easily swap options in and out in order to build complex positions as well as the necessary information to assess those positions.</p>
+
+
+
+<h4><strong>SIREN AMM v2 pricing is time-decay-aware</strong></h4>
+
+
+
+<p>There are two factors that determine the price of each trade on SIREN v2: spot price and slippage. The spot price is determined using a Black-Scholes model, which takes into account parameters like the underlying price, time to expiration, option strike and implied volatility, coupled with a Chainlink price oracle. Utilizing this formula allows Siren Markets to be time-decay-aware requiring no arbitrage in order to quote reasonable prices. Similar to other AMMs, trades will be impacted by slippage based on the size of the trade and available assets in the pool. In other words, the larger the trade relative to the size of the pool, the higher the slippage. This slippage ultimately benefits liquidity providers as another source of returns for liquidity providers on top of collecting option premiums.</p>
+
+
+
+<h4><strong>What is ITM, ATM and OTM?</strong></h4>
+
+
+
+<p>These expressions are likely familiar to options traders so we’ll skim through these rather quickly. For more in-depth info, you can refer to <a href="https://www.investopedia.com/terms/i/inthemoney.asp">Investopedia’s definitions</a>. An ITM (short for ‘in the money’) option which has value because it has a favorable strike price compared to the current market price. As you can probably guess, an OTM (short for ‘out of the money’) option still needs to reach its strike price whereas an ATM (short for ‘at the money’) has reached the strike price.&nbsp;</p>
+
+
+
+<p>These terms help determine what kind of options traders buy or sell taking into account how that option might behave in the current market. For example, an ITM call may require a smaller rise in the cryptocurrency price to be profitable, but there is less potential upside compared to an ATM or OTM call. So if you believe the market price is going to rise significantly, you might consider buying an OTM call because you’d have a greater potential upside while limiting exposure to loss if the price fell.</p>
+
+
+
+<p>These are just a couple examples of the ways traders can make use of different option characteristics to influence their trading strategy. Greeks are another way options traders can assess an option.</p>
+
+
+
+<h4><strong>Meet the Greeks</strong></h4>
+
+
+
+<p>As Siren is meant for experienced options traders, we’re only going to give a brief overview of <a href="https://docs.sirenmarkets.com/faq/what-are-the-greeks">how option Greeks apply to Siren Markets</a>. To get caught up to speed, you can learn more about these general concepts <a href="https://www.investopedia.com/trading/getting-to-know-the-greeks/">here</a>.</p>
+
+
+
+<p><strong>Delta</strong></p>
+
+
+
+<p>Delta measures a ratio comparing the difference between the underlying asset price relative to the strike price of the option. The delta of a long call is positive; the delta of a long put is negative. The delta is reversed for short calls and puts. Delta is only a theoretical approximation of your exposure in the underlying asset.&nbsp;</p>
+
+
+
+<p><strong>Gamma</strong></p>
+
+
+
+<p>If you imagine delta as the &#8220;speed&#8221; of your option position, gamma is the &#8220;acceleration.” The gamma of long options, calls or puts, is always positive; of short options, always negative.&nbsp;</p>
+
+
+
+<p>The more gamma your position has, your position delta can change a great deal and probably needs close monitoring. Gamma is highest for the ATM strike, and slopes off toward the ITM and OTM strikes.</p>
+
+
+
+<p>If you think the price of an underlying asset is about to change quickly, you want to buy an option with relatively high gamma. For example, the higher the gamma, the more delta if the underlying asset price moves the way you want it to, and vice versa.</p>
+
+
+
+<p><strong>Theta</strong></p>
+
+
+
+<p>As touched on before, Theta measures the rate of decline in the value of an option due to the passage of time sometimes referred to as time decay. No one can escape time, not even options. Time decay describes how long calls and puts have negative theta, losing money as time goes on. Short calls and puts are the opposite having positive theta and making money as time passes.&nbsp;</p>
+
+
+
+<p>Theta is highest for the ATM strike, and slopes off to the ITM and OTM options, and responds to the passage of time and changes in volatility the same way that gamma does. The theta of options is indirectly proportional to gamma. When gamma is big and positive, theta tends to be big and negative. That&#8217;s the trade-off. A position that has a lot of gamma (good for fast changing underlying assets) also has lots of theta that is continuously eroding its value.</p>
+
+
+
+<p><strong>Vega</strong></p>
+
+
+
+<p>Vega is how much the value of an option changes when the implied volatility of that option changes. Long calls and puts both have positive vega and profit when implied volatility rises. Inversely, short calls and puts both have negative vega and profit when implied volatility falls.&nbsp;</p>
+
+
+
+<p>The more time there is until expiration, the higher the vega is for an option. Vega also depends on where the price of the underlying asset is relative to the strike price of the option. Like gamma and theta, vega is highest for the ATM options, and drops for the OTM and ITM options. So, ATM options with lots of time to expiration are the most sensitive to changes in implied volatility.</p>
+
+
+
+<h2>SIREN Governance</h2>
+
+
+
+<p>The SIREN Market project was created to bring the features and tools options traders are familiar with from traditional finance to a seamless on-chain experience without sacrificing autonomy. The Siren team understands that a platform built to cater to sophisticated users only benefits from their feedback and collaboration. And so, SIREN’s native token SI is designed to reward early users placing the future of the platform in their hands via protocol governance. Liquidity providers, traders, and market makers will receive SI token rewards in exchange for their participation. By design, the most experienced and knowledgeable users will be given the most influence over the platform to help respond to future market demands.</p>
+
+
+
+<p>The SI community will be able to create new option markets and determine the fee rate for writing, closing, and redeeming an option. These fees accrue to SI token holders; although it should be noted that upon launch these fees will be set to 0 to reduce the friction for users looking to explore SIREN Markets.</p>
+
+
+
+<p>The first SIREN Liquidity Provider Program (LPP) began in December 2020 and was <a href="https://sirenmarkets.medium.com/expanding-the-siren-lpp-c69969e25d41">extended through May 2021</a>. Find out more about SIREN’s SI token and liquidity providing program <a href="https://sirenmarkets.medium.com/si-token-distribution-event-cff0be106fc6">here</a>.</p>
+
+
+
+<h2>Roadmap</h2>
+
+
+
+<p>Looking toward the future, <a href="https://sirenmarkets.medium.com/si-token-distribution-event-cff0be106fc6">SIREN’S roadmap</a> details many future upgrades to the platform like expanding the list of available asset pools. SIREN is considering adding SUSHI/USDC, UNI/USDC, YFI/USDC, LINK/USDC pools starting with Sushi. Even further out, SIREN protocol will be modified to allow yield-generating assets to be used as collateral.</p>
+
+
+
+<p>Other improvements which option traders may want to keep their eye out for include future interfaces for constructing option spreads and effecting basket trades natively. SIREN also plans to explore layer 2 solutions to improve efficiency and lower fees for its users.</p>
+
+
+
+<h2>Concluding Thoughts</h2>
+
+
+
+<p>DeFi is disruptive because it gives everyone access to the same tools and data as the experts. Many users who had never had never previously owned a share in a company or a treasury bond are now active participants in a new financial paradigm. With the increasing popularity of options trading in traditional finance, it stands to reason that on-chain options may play a bigger role as DeFi reaches more widespread adoption.&nbsp;</p>
+
+
+
+<p>It boils down to: Do you desire a more sophisticated options trading experience? If so, SIREN would like to invite you to join them in building a platform that suits your needs. This is an opportunity to influence the platform early in its development. <strong><a href="http://sirenmarkets.com/">SIREN Markets</a> is set to go live on mainnet on March 1, 2021. </strong>If you want to know more, we recommend joining SIREN’S <a href="https://t.me/sirenmarkets">Telegram</a> or following them on <a href="https://twitter.com/sirenprotocol">Twitter</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with SIREN to help educate and inform the community about Siren Markets. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Harvest Finance &#8211; Industrial Automated Yield Farming for All</title>
+		<link>./../../../2020/12/13/harvest-finance-drop/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 13 Dec 2020 21:59:09 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[aggregator]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[harvest]]></category>
+		<category><![CDATA[harvest finance]]></category>
+		<category><![CDATA[harvest-finance]]></category>
+		<category><![CDATA[yield]]></category>
+		<category><![CDATA[yield farming]]></category>
+		<category><![CDATA[yieldfarming]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8734</guid>
+
+					<description><![CDATA[Yield farming allows projects to bootstrap their communities through incentives created by distributing their protocol’s token, essentially killing two birds...]]></description>
+										<content:encoded><![CDATA[
+<p>Yield farming allows projects to bootstrap their communities through incentives created by distributing their protocol’s token, essentially killing two birds with one stone. While these farming opportunities are open to all participants, making the most of these opportunities requires a certain amount of capital and expertise. And nowadays, yield farming has practically become a full-time job.</p>
+
+
+
+<p>Harvest Finance set out to make life easier for farmers big and small. It allows users to farm as a collective to achieve the best risk-adjusted rate for a given asset. Launched on September 1st, 2020 in the midst of the yield farming craze with the slogan, “Bread for the People”, <a href="https://harvest.finance/">Harvest Finance</a> has gone on to become one of the largest yield aggregators with a vibrant community from all over the world. With farming having become the new norm, using a yield aggregator like Harvest Finance is like using a tractor instead of a manual plow; it’ll take less effort and ultimately be more efficient.</p>
+
+
+
+<h2>Farming at Scale with Harvest Finance</h2>
+
+
+
+<p>If you’re new to farming, it seems rather simple. Typically, you deposit a token, stablecoin, or liquidity pool token into a farm to earn tokens at a variable APR. You could simply deposit your assets and come back later to harvest your yield, but you’d be missing out. Manually harvesting and compounding your yields to achieve a higher APY means covering all the gas costs involved. For smaller farmers, the gas costs involved in this process can really start to eat into your returns. Not to mention, you’d need to meticulously calculate and track your APY in order to make sure it was even worth your time or the opportunity cost.</p>
+
+
+
+<p>When a user deposits assets into Harvest to farm, they receive fTokens (i.e. fUSDC) which represent a yield-bearing version of the asset. fTokens can be redeemed for the underlying asset at any time. Depositors receive 70% of the profits generated from farming via Harvest as well as FARM token rewards. The remaining 30% is sent to a protocol token buyback and profit sharing program, but more on that later. As the first yield aggregator to adopt a performance-based fee structure, Harvest never charged a withdraw fee as others did. I know what you’re thinking: Why would I give up 30% of my profits when I can farm by myself?</p>
+
+
+
+<p>Farming as a collective comes with its advantages compared to going it alone. It can be helpful to think of it as “farming at scale” to reduce operational costs and improve efficiency. If you opted to farm with Harvest Finance in the scenario above, your deposit would automatically compound for a higher APY when possible. Best of all, Harvest covers the gas costs associated with executing farming strategies and compounding deposits. The advantages of Harvest’s collective farming and FARM token design don’t end there though.</p>
+
+
+
+<h3>FARM token aligns stakeholders of the Harvest Cooperative</h3>
+
+
+
+<p>The goal of the Harvest Cooperative is to become the world’s largest farming cooperative making the latest yield farming techniques accessible to anyone, even those who are currently underbanked. In order to achieve this goal, the farmers of the Harvest Cooperative pool together resources to earn profits and create additional utility and value for its community of Harvest stakeholders.&nbsp;</p>
+
+
+
+<p>At the heart of the Harvest Cooperative is Harvest’s FARM token which incentivizes participation, governs Harvest Finance, and allows users to benefit from the performance of the platform. At launch, FARM started with an initial supply of 0. Harvest Finance bootstrapped its community completely by offering FARM token rewards to depositors and liquidity providers. Only 690,420 FARM will be minted over 4 years with a current emission rate of 4.4% per week. At the time of writing, roughly 50% of FARM tokens have been minted so far. FARM tokens are distributed as follows: 70% of FARM tokens go to depositors and liquidity pool providers, 10% of tokens are vested over 4 years to the Operational Treasury to pay for additional development and promotion, and finally 20% are vested over 4 years to the Development Team.&nbsp;</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh4.googleusercontent.com/H1p0SHH5s-9KmMUH4gDeF9w8yCqiNUNQzmpZGzpi5t8G4JalzDe6hdhUK9jk8CBhafbgqyrasyWkHZ7mQ4_hdYKZfGA-uXMtyZHe2Ewl-oYfZ2JaJ62axGOef2RMRDKOFxfw0hhl" alt=""/></figure>
+
+
+
+<h4>FARM Buybacks and Profit Sharing Pool</h4>
+
+
+
+<p>As previously mentioned, 30% of all the profits generated by Harvest are converted to USDC and used to buy FARM tokens off the market. These FARM tokens are then distributed to Harvest Cooperative members with FARM tokens staked in Harvest’s Profit Sharing Pool. FARM buybacks create natural demand for FARM and are fueled purely by how much profit Harvest is able to generate for its users. The idea is that everyone in the Harvest Cooperative from farmers earning token incentives to the initiatives funded by the Operational Treasury benefit when the value of FARM increases further aligning the different Harvest stakeholders.</p>
+
+
+
+<h3>Harvest Cooperative is able to steer growth and adoption together</h3>
+
+
+
+<p>The Harvest Cooperative is incentivized to make changes that help the platform grow. Unlike an individual farmer, the Harvest Cooperative has a budget of sorts which it can use to collectively pay for things. FARM holders can create and vote on proposals for new strategies, protocol changes, or even initiatives to be funded by the Operational Treasury. This allows the Harvest Cooperative to stay on top of the latest yield farming strategies. Harvest was the first yield aggregator to release a farming strategy for SWRV, UNI, and Idle Finance. The treasury can also be used to incentivize users to participate in more profitable farms for the Cooperative. The Harvest community also makes use of the treasury to fund programs like creativity contests, bounties programs, and prizes for developer challenges which we’ll cover a bit more later on.</p>
+
+
+
+<h3>Farming as a collective offers additional forms of risk mitigation</h3>
+
+
+
+<p>Not only can pooling resources fund the development of new strategies, it also can be used to make farming <a href="https://farm.chainwiki.dev/en/security">more sustainable through test suites</a>, ongoing <a href="https://github.com/harvest-finance/harvest/tree/master/audits">audits</a> and <a href="https://immunefi.com/bounty/harvest/">security bug bounties</a>.</p>
+
+
+
+<h4>GRAIN reparations after USDC/USDT vaults exploited</h4>
+
+
+
+<p>On October 26, 2020, an attacker was able to use a flash loan to <a href="https://medium.com/harvest-finance/harvest-flashloan-economic-attack-post-mortem-3cf900d65217">steal 12.5% of funds from Harvest&#8217;s USDC and USDT vaults via an exploit</a>, resulting in a shared loss of $33.8M. The Harvest Community <a href="https://snapshot.page/#/farm/proposal/QmYF62qGaqyHAXt88Hmxise6CFaSWxnTmi5VedZ3VX8Zy2">voted to provide reparations to those affected by the exploit</a> in the form of an <a href="https://medium.com/harvest-finance/announcing-the-grain-claims-portal-20dd12c4f631">IOU token known as GRAIN</a>. Those affected were able to<a href="https://claim.harvest.finance/"> claim their share</a> of the $2.48M returned by the attacker as well as GRAIN tokens. Each week 0.5% of the total FARM emissions are sent to reparation pools, GRAIN buyback and FARM/GRAIN liquidity pool, up to the amount lost in the attack. Creating an incentivized FARM/GRAIN pool creates the liquidity necessary to support the buyback program and allows GRAIN holders to receive more FARM rewards for staking their liquidity as well. For those curious, <a href="https://duneanalytics.com/0xBoxer/-grain">this dashboard</a> has some interesting stats regarding the amount of GRAIN claimed. Solo farmers are often forced to accept losses due to attacks, but as you can see collective farming with an on-going revenue stream offers potential ways to remedy situations such as this.</p>
+
+
+
+<h2>Harvest Cooperative has a strong sense of identity</h2>
+
+
+
+<p>Even though Harvest community members are from all around the world (with a notable presence in the Chinese DeFi community), Harvest Cooperative has a strong identity and incentive structure that is welcoming of all. Harvest has previously affirmed their belief that financial inclusion is important for everyone, especially the unbanked and the underbanked. An understated benefit of farming together is that Harvest Cooperative is able express their values and give back to the community as a collective.&nbsp;</p>
+
+
+
+<p>From the start, Harvest Finance community has had an appreciation for memes as made evident by their Farmer Chad logo. Anyone who keeps up with DeFi on Twitter has probably seen countless memes of Farmer Chad. This is no coincidence; In the spirit of its #BreadForThePeople slogan, Harvest frequently hosts creativity contests where users are rewarded for their creative contributions to Harvest Cooperative. <a href="https://medium.com/harvest-finance/harvest-finance-farm-arts-creativity-contest-round-4-festive-edition-3ba3e5843da2">The most recent Creativity Competition</a>’s theme is “Celebrating the Festive Season”. The cool part about these competitions is that it allows those without the capital necessary to farm to benefit from Harvest Cooperative’s success.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1024x1024.jpeg" alt="" class="wp-image-8759" width="512" height="512" srcset="./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1024x1024.jpeg 1024w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-300x300.jpeg 300w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-150x150.jpeg 150w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-768x768.jpeg 768w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1536x1536.jpeg 1536w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-2048x2048.jpeg 2048w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1568x1568.jpeg 1568w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption>Artwork from Harvest community member <a href="https://twitter.com/stulmtuno4273/status/1330292559277682693/photo/3">Sumire</a></figcaption></figure></div>
+
+
+
+<p>Developers will also find they are warmly welcomed in the Harvest community. Harvest hosts developer contests and has <a href="https://gitcoin.co/issue/harvest-finance/harvest/15/100024325">bounty programs</a> to reward developers who want to contribute to the Harvest Finance ecosystem. For those interested, head over to the <a href="https://discord.gg/ayKVET52z6">Harvest Discord</a>’s #dev channel and introduce yourself.</p>
+
+
+
+<p>The Harvest Cooperative also expresses their support for the wider community by giving back to programs like Gitcoin Grants which supports future builders. Harvest <a href="https://harvestfinance.medium.com/week-14-updates-building-today-funding-the-builders-of-tomorrow-74c5ea8575f6">announced on December 1, 2020</a> that it would be partnering with Gitcoin to launch a $500k grant matching pool in the latest Gitcoin Grants Round 8.&nbsp;</p>
+
+
+
+<h2>Partnerships with Harvest Cooperative</h2>
+
+
+
+<p>Harvest also likes to drive engagement through community partnerships and collaborations that present unique opportunities for Harvest Cooperative members to earn rewards in the form of tokens, NFTs, and more. For example, Harvest <a href="https://medium.com/harvest-finance/harvest-apy-vision-partnership-be80f577b18?source=collection_home---6------4-----------------------">will be giving away a total of 80 APYCHADPRO NFTs</a> that grants 90 days of access to the PRO edition of liquidity pool tracker APY.vision to Harvest Cooperative members staking in the Uniswap FARM/USDC liquidity pool. Another example being 88mph’s <a href="https://medium.com/88mphapp/88mph-x-harvest-degen-challenge-over-6k-in-prizes-94979f3a5fa9">recently announced</a> 2-week ‘Degen Challenge’ in collaboration with Harvest which encourages participants to build something creative combining 88mph’s fixed-yield pools or floating-rate bonds with Harvest’s vaults. Last but not least, Harvest <a href="https://badgerdao.medium.com/harvest-finance-joins-the-league-of-badger-builders-551031da69a1">collaborated with Bitcoin-focused BadgerDAO</a> to help launch Badger DAO’s Harvest SuperSett vault. Harvest community members <a href="https://twitter.com/BadgerDAO/status/1334921775013109761">were also eligible to receive</a> at least 20 BADGER during the launch of Badger token.</p>
+
+
+
+<h2>Closing thoughts</h2>
+
+
+
+<p>With yield farming practically being a full-time job, Harvest Finance has quickly become one of the leading yield aggregators in DeFi. It’s effective use of incentive structures aims to create a positive feedback loop that benefits all stakeholders of the Harvest Cooperative, ultimately forming a strong sense of community. If this farming experience interests you, <a href="https://harvest.finance/">go explore the opportunities available on Harvest Finance</a>. Or, join the Harvest <a href="https://discord.gg/ayKVET52z6">discord</a> to get to know the Harvest community for yourself. Thanks for reading.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Harvest to help educate and inform the community about the Harvest Cooperative. </em><em>DeFi Pulse received FARM tokens as part of its payment. </em><em>As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hegic Protocol &#8211; On-chain Options Trading Protocol</title>
+		<link>./../../../2020/11/28/hegic-protocol-on-chain-options-trading-protocol/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sat, 28 Nov 2020 17:35:13 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[hegic]]></category>
+		<category><![CDATA[options]]></category>
+		<category><![CDATA[options trading]]></category>
+		<category><![CDATA[protocol]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8721</guid>
+
+					<description><![CDATA[During DeFi’s most innovative and exciting year, a new kind of trading experience has exploded onto the scene. Hegic is...]]></description>
+										<content:encoded><![CDATA[
+<p>During DeFi’s most innovative and exciting year, a new kind of trading experience has exploded onto the scene. <a href="https://www.hegic.co/">Hegic</a> is an on-chain, non-custodial platform for options trading, launched by the enigmatic Molly Wintermute. The platform has grown significantly in recent months, after its <a href="https://decrypt.co/35038/hegics-molly-wintermute-im-paying-a-high-price-for-the-mainnet-first-approach-to-building">inauspicious start </a>in April. The first iteration suffered from buggy code, which required Wintermute to return almost $50,000 in locked funds to users. Since then, Hegic has been running smoothly, and volume has <a href="https://www.hegic.co/analytics">rapidly grown</a>. It is poised to become one of the key players in the crypto trading ecosystem.</p>
+
+
+
+<p>Hegic allows users to buy put and call options on ETH and WBTC. Currently, total options volume for WBTC exceeds that of ETH. For those who are unfamiliar with options trading, calls and puts are essentially bets on the future price of assets. Buying a call means you have the right but not the obligation to purchase an asset at a certain price (the “strike price”) for an agreed-upon length of time. You pay a premium to purchase the option. </p>
+
+
+
+<p>Let’s say you buy a call for ETH at $500. The call option expires one month later. If the price of ETH shoots up to $1,000 during this window of time, you can exercise the option for a profit of $500 less the premium cost. Put options work the opposite way. You reserve the right but are not required to sell $ETH at $500 one month later. If ETH plummets to $250 during this time, you can go buy some ETH at market price then turn around and sell it for $500 as agreed. You profit $250 minus the premium you paid. Premium costs depend on the length of the options contract and the “moneyness” of the option (basically, how far the strike price and the actual price deviate at the time of purchase).</p>
+
+
+
+<p>Why would anyone want to use options? Well, for starters, it allows you to trade with leverage and still manage your risk. The beauty of options trading is that traders can use them when they are extremely confident or extremely uncertain, as options can be used as a hedging measure in combination with other trades. The price of a crypto-asset can go parabolic rather quickly. Options allow you to capture all of the upside (or downside) with only the cost of the premium. You are also protected from the asset going <em>against</em> your thesis to an astronomical amount. At worst, you choose not to exercise the option and the only money you’re out is the sunk premium cost. One key aspect of Hegic that experienced traders will need to consider is that the premium is priced in ETH. As the price of ETH fluctuates, the value of the premium also changes, which will impact your P&amp;L.</p>
+
+
+
+<p>To offer a viable trading experience, Hegic requires a deep well of liquidity from which traders can draw. Without sufficient liquidity, traders will be unable to enjoy the same experience provided by centralized exchanges, and liquidity providers will be exposed to even greater counterparty risk when writing contracts. Hegic aims to accomplish this by incentivizing liquidity providers. LPs are called ‘writers’ in the Hegic ecosystem. Writers share the premiums paid in their pools. Hegic also incentivizes liquidity provision with the native HEGIC token. </p>
+
+
+
+<p>Wintermute envisions HEGIC to become a governance token for the protocol at some point in the future, but currently the token is only a requirement for purchasing a staking lot. 888,000 HEGIC buys a staking lot and with it, the right to the protocol’s settlement fees. There is one additional incentive available to writers. By providing liquidity, you are credited with writeBTC or writeETH tokens. These tokens can be staked to earn rHegic token, which is essentially a vested version of HEGIC that can be sold at a hefty discount before the vesting period ends in late 2021.</p>
+
+
+
+<p>Hegic&nbsp;is one of the more complicated DeFi protocols on the market today. It involves a lot more levers and cranks than discussed here, including a bonding curve that controls the new supply of Hegic. To learn more about Hegic, you can check out <a href="https://hegic.gitbook.io/start/">Hegic&#8217;s documentation</a>. You can also try it out for yourself; All you need is an Ethereum wallet. The protocol does not require KYC or account verification. Hegic is proving to be a worthy rival for Deribit, although they are likely to grow in unison given the unique advantages that each provide. Hopefully, there will be plenty of opportunities for arbitrage between the two platforms headed into the future.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Rari Capital V2: A Yield Maximizing Robo-Advisor for Any Risk Appetite</title>
+		<link>./../../../2020/10/19/rari-capital-v2/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2020 13:59:29 +0000</pubDate>
+				<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[aggregator]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[rari]]></category>
+		<category><![CDATA[yield farming]]></category>
+		<category><![CDATA[yieldfarming]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8580</guid>
+
+					<description><![CDATA[As any yield farmer can tell you, chasing higher yields can be a risky endeavour and in most cases is...]]></description>
+										<content:encoded><![CDATA[
+<p>As any yield farmer can tell you, chasing higher yields can be a risky endeavour and in most cases is not a sustainable strategy for the average user. It’s all too easy to get caught up in hype and be blinded by outrageous yields. If you aren’t careful or are simply unaware of risks such as hidden backdoors in unaudited smart contracts, it becomes increasingly possible that you could get burned. Getting exploited, “rug pulled”, and otherwise losing your investment is devastating. This sort of risk is intolerable for most investors. Although, that doesn’t mean those same investors aren’t out to maximize their yields; They simply want to strike the right balance of risk versus reward. This is exactly what <a href="https://www.rari.capital/">Rari Capital</a> aims to offer users: a way to maximize DeFi returns while minimizing risks. <strong>Rari Capital V2, launching October 20th, 2020, has even more to offer than its predecessor.<br></strong><br>Rari Capital is a robo-advisor for DeFi which optimizes for the highest possible yield. Rari Capital&#8217;s ‘DeRisking as a Service’ approach is largely what sets them apart from the pack. Armed with the experience of having co-founded Ambo (later acquired by MyCrypto), the Rari team has experienced first-hand the value of earning the community’s trust. So when they set out to build a protocol that anyone can use to maximize returns in DeFi, risk management and transparency were top priorities. If you haven’t already, we recommend checking out <a href="https://defipulse.com/blog/rari-capital/">our coverage of Rari Capital V1’s guarded launch</a>.<br><br>The Rari team has been busy since we last checked in with them developing features and integrations, perfecting new strategies, and preparing for the<strong> </strong>launch of Rari Capital V2.</p>
+
+
+
+<h2>Goodbye deposit limits</h2>
+
+
+
+<p>As part of its guarded launch, Rari V1 launched with deposit limits designed to manage risks and grow the platform in a controlled manner. Thorough <a href="https://www.rari.capital/risks.html">risk assessment</a> for integrations and transparency have also been core components of Rari’s guarded launch allowing the team to gradually increase the deposit limits over time. Rari is <a href="https://quantstamp.com/blog/chasing-yield-with-defi-aggregators">working with Quantstamp</a> on several security reviews. <strong>Rari Capital has since removed deposit limits. </strong></p>
+
+
+
+<h2>New integrations enable higher yields</h2>
+
+
+
+<p>Since the launch of Rari Capital V1, <a href="https://medium.com/rari-capital/rari-capital-integrates-aave-fa2574a15a3a">Aave</a> and mStable have been integrated into the protocol. It doesn’t stop there though; Rari Capital V2 goes beyond lending protocols and stablecoin swaps to achieve higher returns for its users. In the past few weeks, Rari’s theoretical APY has spiked as high as 109%, thanks in part to the recent mStable integration.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh4.googleusercontent.com/z6Fuc0bQhXYIz75pRi-w5hIfH5A4NRLHJm-sqAJ6Aa95BydKOwv5zZ0fjnEQu1vyE4_Ik0wwAzpJuRDw8jXTbGLAeofiYSL-G2wo1dKFN7lHI0piviCrcaXq0gLc4WpgN4WIyBOj" alt=""/></figure>
+
+
+
+<p><br>The Rari team continues to explore new integrations to optimize pool strategies including yEarn and <a href="https://medium.com/rari-capital/rari-capital-x-synthetix-48413e50a56e">Synthetix</a>.&nbsp;</p>
+
+
+
+<h2>3 Pools with Unique Strategies</h2>
+
+
+
+<p>Rari is introducing 3 pools with strategies that cater to different risk appetites. The Rari team is also working on even more new strategies that will be able to weather any crypto market conditions generating sustainable yields.</p>
+
+
+
+<p><strong>Rari Stable Pool (RSPT)</strong></p>
+
+
+
+<p>This pool caters to the risk-averse investor seeking to maximize their USD-based returns with caution, making use of exclusively audited smart contracts in its strategy.</p>
+
+
+
+<p><strong>Rari Yield Pool (RYPT)</strong></p>
+
+
+
+<p>Are you willing to risk it for the biscuit as they say? This pool will always have the highest yield utilizing anything from unaudited smart contracts to even leverage in order to maximize your returns at all costs. You can think of this pool as: higher risk, higher reward.</p>
+
+
+
+<p><strong>Rari ETH Pool (REPT)</strong></p>
+
+
+
+<p>If you’re the type of person that measures their net worth in ETH, this pool is for you. The Rari ETH Pool aims to provide consistent returns based in ETH.</p>
+
+
+
+<h2>Rari Governance&nbsp;</h2>
+
+
+
+<p>The upgrade to version 2.0 also introduces decentralized governance to Rari Capital via Rari Governance Tokens (RGT). RGT holders will decide how to govern the protocol and the Rari Treasury, determining new protocols integrations, pool parameters, and risk parameters. RGT can be staked to receive fee discounts from the Rari Protocol, a feature powered by Chainlink. Rari Capital V2 is designed so that 70% of all protocol revenue will be used to buy and burn RGT, reducing the total supply.</p>
+
+
+
+<h3>Passthrough Governance</h3>
+
+
+
+<p>Rari’s governance has a cool feature called ‘Passthrough Governance’ where if a pool begins to accumulate tokens such as COMP or BAL, RGT holders can use these tokens to engage in their respective governance systems. It’s a practical solution that mitigates the current shortcoming found in other protocols where users must sacrifice the ability to engage with token governance in order to utilize an automated strategy. As Rari continues to integrate more and more protocols, this feature may become more important over time. Some protocols issue rewards for participating in governance which means this feature could potentially be used as part of a yield generating strategy at some point in the future.</p>
+
+
+
+<h3>Liquidity Mining</h3>
+
+
+
+<p>87.50% of RGT will be distributed over a 60 day period via a liquidity mining program set to start on October 20th, 2020 with the launch of Rari Capital V2. The remaining RGT is reserved for the Rari team and is subject to a vesting schedule. <strong>For full details, we recommend reading </strong><a href="https://medium.com/rari-capital/announcing-rgt-the-long-term-yield-token-b2593502a7f3"><strong>the RGT announcement post</strong></a><strong>. It’s worth noting that while the distribution will last 60 days nearly half of the tokens will be distributed in the first 15 days. Additionally, “there is a ‘burn’ as a user when you attempt to transfer your $RGT before the 60-day distribution schedule is expired.”</strong></p>
+
+
+
+<h2>Concluding Thoughts</h2>
+
+
+
+<p>Rari Capital V2 further cements its product-market fit by offering more to users of any risk appetite. Whether you’re looking to earn risk-minimized returns on idle ETH or stablecoins or you’d rather chase the highest yields, Rari Capital’s sophisticated robo-advisor can be an effective tool in your arsenal. And it’s safe to expect more pools and integrations on the horizon, especially with the introduction of community governance. It’ll also be curious to see how the community chooses to govern the protocol and in what ways they may evolve each strategy.</p>
+
+
+
+<p><strong>Rari Capital V2 is set to launch on October 20th, 2020</strong>. Be sure to check it out at <a href="https://app.rari.capital/">Rari Capital</a> when the time comes and <a href="https://twitter.com/Raricapital">follow them on Twitter</a> in the meantime to hear the latest regarding the launch of V2.</p>
+
+
+
+<p><strong><em>Disclosure: This post is part a promotional series; We’ve partnered with Rari Capital to help educate and inform the community about the launch of Rari Capital V2. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Introducing mStable &#8211; meta-assets with native yield and zero slippage swaps</title>
+		<link>./../../../2020/07/10/introducing-mstable/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 10 Jul 2020 13:30:00 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[aave]]></category>
+		<category><![CDATA[Compound]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[mstable]]></category>
+		<category><![CDATA[musd]]></category>
+		<category><![CDATA[stablecoins]]></category>
+		<category><![CDATA[USDC]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8351</guid>
+
+					<description><![CDATA[The fragmentation of the stablecoin market in DeFi has led to a lackluster experience for many crypto users. Gone are...]]></description>
+										<content:encoded><![CDATA[
+<p>The fragmentation of the stablecoin market in DeFi has led to a lackluster experience for many crypto users. Gone are the days when DeFi was DAI-centric; nowadays, most DeFi users find themselves having to shuffle between a handful of stablecoins in order to take advantage of the opportunities available in DeFi. </p>
+
+
+
+<p>And if you aren&#8217;t trying to hack your yield, you&#8217;re missing out by today&#8217;s standards. The whole process can be a lot to take in for even experienced users; imagine being a new user trying to determine the best stablecoin to own <em>and </em>earn the best yield. On its face, it&#8217;s not a simple problem to solve and sometimes users are forced to make compromises. At least until now&#8230; One of the best qualities of DeFi is that there&#8217;s always someone tackling new problems as they arise. That&#8217;s where mStable comes in with meta-assets like mUSD.</p>
+
+
+
+<h2>mStable&#8217;s mUSD is tokenized USD made simpler, safer, and more efficient</h2>
+
+
+
+<p>mStable&#8217;s mUSD addresses both the fragmentation of USD-pegged stablecoins and the lack of native yield by uniting stablecoin swapping and lending. And, it does so while also offering protection against complete capital loss (more on that in a bit). mUSD is a USD-pegged token backed by a basket of popular stablecoins with built-in yield generated from mStable SWAP fees and lending collateral on Compound and Aave. To be more precise, mStable assets like mUSD are actually a LP share in a dynamic pool of assets that generates yield, offers 0 slippage swaps between its underlying assets, and serves as a first class asset. I know that&#8217;s a bit of a mouthful. So let&#8217;s take a look at mUSD, which is <a href="https://medium.com/mstable/mstable-now-live-on-mainnet-c9f55f748ac7">live on the mainnet</a>, as an example.</p>
+
+
+
+<p>When you first open <a href="https://app.mstable.org/">the app</a>, you&#8217;re greeted with mStable&#8217;s sleek interface containing a few quick slides that break down mUSD&#8217;s three main functions: <strong>MINT</strong>, <strong>SAVE</strong>, and <strong>SWAP</strong>.</p>
+
+
+
+<h3>MINT</h3>
+
+
+
+<p>Anyone can <a href="https://app.mstable.org/mint">mint new mUSD</a> by depositing a 1:1 ratio of USDT, USDC, TUSD or DAI into mStable. For example, if you send 1000 USDT, you&#8217;ll receive 1000 mUSD. You can also conveniently &#8220;multi-mint&#8221; mUSD sending multiple stablecoins at the same time. On the flip side, you can redeem mUSD 1:1 for any of the underlying assets under normal conditions.</p>
+
+
+
+<p>An important aspect of mStable&#8217;s design is the maximum weights set for assets in each basket. This limit prevents a basket from becoming unbalanced with too much of one asset. When an asset reaches its max weight, it changes how users can mint, swap, or redeem mStable assets like mUSD.</p>
+
+
+
+<p>Say mUSD is overweighted towards USDT, users are unable to mint mUSD with USDT, only TUSD, DAI, and USDC. Whereas if you&#8217;re looking to redeem mUSD, you would only be able to multi-redeem into an equivalent combination of assets according to the basket&#8217;s current weight or straight 1:1 for USDT. These limits keep mUSD on peg and act as a safety measure to keep mUSD collateralized in the unfortunate event one of the underlying assets&#8217; value falls below its peg. You can find current mUSD basket analytics <a href="https://app.mstable.org/analytics">here</a>.</p>
+
+
+
+<p>mStable&#8217;s <a href="https://docs.mstable.org/mstable-assets/functions/governance">governance system</a> and Meta (MTA) token are designed to reduce the risks for mUSD holders. If an underlying asset completely loses its value causing mUSD to fall off its peg, mStable&#8217;s Meta Governors as they are called can vote to purge the asset and recover the lost value using by selling staked MTA token for the outstanding mUSD. This mUSD is then burned until the system is re-collateralized. MTA token holders stake their MTA essentially acting as insurance against loss to receive a portion of all revenue that mStable generates.</p>
+
+
+
+<p>mUSD&#8217;s design affords DeFi users convenient access to its underlying stablecoins while offering a hedge against their individual risks and enhance their functionality with features such as native yield. Another handy aspect of mUSD is that the yield it generates through SAVE actually mints new mUSD meaning it&#8217;s always priced 1:1 to the USD by design.</p>
+
+
+
+<h3>SAVE</h3>
+
+
+
+<p>Once you&#8217;ve minted some mUSD, you can <a href="https://app.mstable.org/save">deposit your mUSD into SAVE and start earning</a>. All mStable asset holders can earn a native yield generated from mStable SWAP fees combined with interest accrued from lending out the underlying assets to decentralized lending markets like Compound and AAVE. A portion of this yield is allocated to Meta (MTA) holders as reward for governing and insuring mStable. At the time of writing, the average daily APY over the past 7 days on mUSD&#8217;s SAVE contract is over 23%. Obviously, this rate is subject to change as lending market rates and trading volumes vary.</p>
+
+
+
+<p>mStable&#8217;s SAVE contract takes chasing interest rates between stablecoins and lending markets which is practically a full-time job at this point and makes it simple for users just looking to hold and earn value as tokenized USD. SAVE currently supports lending on Compound and AAVE but Meta Governors will have the ability to add or remove lending platforms through mStable governance. When you combine this with the fees generated from mStable zero-slippage SWAP fees and single asset mUSD redemptions, mUSD&#8217;s advantages over holding any individual stablecoin start to add up.</p>
+
+
+
+<h3>SWAP</h3>
+
+
+
+<p>Anyone can use <a href="https://app.mstable.org/swap">mStable SWAP</a> to swap TUSD, DAI, USDC, and USDT with zero-slippage and a fixed BPS fee. Zero-slippage swaps are made possible by a combination of mStable&#8217;s straight line <a href="https://medium.com/mstable/introducing-constant-sum-bonding-curves-for-tokenised-assets-6e18879cdc5b">constant sum bonding curves</a> and the insurance MTA tokens provide to the system. This also enables SWAP to scale from day 1 because prices are not dependent on the amount of liquidity in the pool.</p>
+
+
+
+<p>As with minting, swaps that would push an asset over its max weight are paused, altering swap rules for only this asset until the basket is rebalanced. And as previously mentioned, users with mUSD in SAVE earn the fees generated from SWAP. Although, a portion of these fees are rewarded to those staking MTA.</p>
+
+
+
+<h2>Meta (MTA) token and mStable governance</h2>
+
+
+
+<p>mStable&#8217;s core team controls the mStable protocol at launch; However, the plan is to distribute Meta (MTA) tokens and gradually turn mStable governance systems over to the community of Meta Governors. MTA reward programs will be used to bootstrap the mStable ecosystem rewarding early adopters. Although MTA doesn&#8217;t exist yet, you can actually take part in ecosystem rewards and earn MTA early right now (more details in the section below).</p>
+
+
+
+<p>To participate in governance and earn their allotted share of mStable revenue, users must stake their MTA tokens. Staking rewards act as an incentive for Meta Governors to properly maintain the growth and stability of mStable. Meta Governors may propose and vote on protocol changes such as:</p>
+
+
+
+<ul><li>Add or remove mStable assets</li><li>Add or remove basket assets</li><li>Adjust the max weights of basket assets</li><li>Change SWAP fees</li><li>Change MTA staking rewards / revenue take</li></ul>
+
+
+
+<h4>Meta (MTA) Distribution</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="963" height="591" src="./../../../wp-content/uploads/2020/07/mta-dist.png" alt="" class="wp-image-8358" srcset="./../../../wp-content/uploads/2020/07/mta-dist.png 963w, ./../../../wp-content/uploads/2020/07/mta-dist-300x184.png 300w, ./../../../wp-content/uploads/2020/07/mta-dist-768x471.png 768w" sizes="(max-width: 963px) 100vw, 963px" /></figure>
+
+
+
+<ul><li><strong>Current Investors:&nbsp;</strong>6.5%</li><li><strong>Reserved for future sales &amp; growth:</strong>&nbsp;26.0%</li><li><strong>Reserved for Public Rewards:&nbsp;</strong>20.0%</li><li><strong>Reserved for Institutional Rewards:&nbsp;</strong>5.0%</li><li><strong>Rewards yet to be allocated:&nbsp;</strong>20.0%</li><li><strong>Team, Advisors &amp; Future Team:&nbsp;</strong>22.5%</li></ul>
+
+
+
+<h3>Ecosystem rewards</h3>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/07/mta-rewards-1024x479.png" alt="" class="wp-image-8362"/></figure>
+
+
+
+<p>20,000,000 MTA in total, or rather 20% of MTA’s total supply, will be emitted via ecosystem rewards over the next 5 years to bootstrap mStable and promote a fairer, wider distribution of Meta tokens. Rewards encourage users to mint mStable assets and to create liquidity and utility with those assets.</p>
+
+
+
+<p>Ecosystem Rewards began June 26th, 2020 with the launch of mStable&#8217;s first reward pool on Balancer creating liquidity for mUSD&lt;&gt;USDC. Ecosystem rewards will continue in monthly tranches, increasing over the first 15 months, and then slowly decline until the allocated MTA is exhausted.</p>
+
+
+
+<h4>Earn MTA via Balancer pools</h4>
+
+
+
+<p>mStable&#8217;s<a href="https://pools.balancer.exchange/#/pool/0x72Cd8f4504941Bf8c5a21d1Fd83A96499FD71d2C"> first MTA reward pool</a> is a Balancer pool weighted 50% mUSD / 50% USDC with a 5 bps trading fee. Anyone can mint mUSD and deposit equal parts mUSD and USDC into the pool and start earning MTA on top of the usual BAL token rewards and potential Balancer pool profits. The <a href="https://medium.com/mstable/mstables-second-mta-reward-pool-is-now-live-af22ad151b47">second MTA reward pool</a> is another Balancer pool with similar weights and fees; however this pool is mUSD/WETH.</p>
+
+
+
+<p>350,000 MTA will be awarded to pool liquidity providers over the first month. Each week, a snapshot will be taken at a random time and 50,000 MTA will be allocated to the participating addresses in proportion to their contribution to their respective pools.</p>
+
+
+
+<h3>MTA token launch</h3>
+
+
+
+<p>mStable is set to launch Meta (MTA) on Balancer at approximately 14:00 UTC on Wednesday, July 15th 2020. At that time, 2,666,666 MTA tokens and ~$400,000 mUSD will be deposited into a new Balancer liquidity pool. The initial liquidity pool price will effectively be set to $0.15 mUSD/MTA. <a href="https://medium.com/mstable/introducing-meta-mta-mstables-protocol-token-6e1032291ccf">Read more</a>. <em>** Since publication, <a href="https://twitter.com/mstable_/status/1283264646405746688">the launch has been delayed</a>.</em></p>
+
+
+
+<h2>Concluding thoughts</h2>
+
+
+
+<p>As someone who has been around for a while, I&#8217;ve seen a lot and I can say that mStable&#8217;s mUSD is an elegant solution to the current issues stablecoin holders face. The purpose of stablecoins is to act as a useful and stable store of value; mUSD takes this to the next level by extending the functionality of existing stablecoins while also mitigating risk for holders. </p>
+
+
+
+<p>I&#8217;m excited to see the future of mStable protocol with assets like mBTC, mGBP, mEUR, and mGLD. Not to mention, there are so many opportunities for Meta Governors to expand the utility of mAssets by integrating new lending protocols and DeFi services.</p>
+
+
+
+<p><a href="https://app.mstable.org/">Mint your first mUSD today</a> or learn more about mStable by heading to their <a href="https://mstable.org/">website</a>. Thanks for reading! I hope you enjoyed learning about this awesome project.</p>
+
+
+
+<p><em>Disclosure: This post is part a promotional series; We&#8217;ve partnered with mStable to inform the community about their cool meta-assets system. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+
+
+
+<p><br><br><br></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DeFi Status Report Post-Black Thursday</title>
+		<link>./../../../2020/03/15/defi-status-report-black-thursday/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 15 Mar 2020 07:52:35 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Compound]]></category>
+		<category><![CDATA[crash]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[debt auction]]></category>
+		<category><![CDATA[decentralized exchanges]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<category><![CDATA[MKR]]></category>
+		<category><![CDATA[price]]></category>
+		<category><![CDATA[synthetix]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8026</guid>
+
+					<description><![CDATA[On Thursday March 12, 2020, the price of Ether (ETH) dropped over 30% in about 24 hours. The result sent...]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="./../../../wp-content/uploads/2020/03/the-road-815297_1280-1-1024x682.jpg" alt="" class="wp-image-8061"/></figure></div>
+
+
+
+<p>On Thursday March 12, 2020, the price of Ether (ETH) dropped over 30% in about 24 hours. The result sent chain reaction rippling through DeFi in an event many will likely come to refer to as Black Thursday. DeFi users rushed to make transactions like trading on DEXes, paying off debts, bolstering collateral ratio, etc. The increased activity led to record-setting high gas prices at times exceeding 200 gwei. </p>
+
+
+
+<p>If you&#8217;re unfamiliar with how gas prices work, think of it as an auction for the limited space in each block. Users desperate to get their transaction through start to outbid each other to get their transactions completed in a timely manner. And then, the ensuing &#8220;bidding wars&#8221; drive up gas prices and subsequently cause low-priced transactions to be stuck until things settle down. <strong><em>The bottom line is that the increased volume put a lot of stress on DeFi smart contracts along with the entire Ethereum network.</em> </strong>So we&#8217;ve decided to put together this status update to provide context for those unaware who may panic at the sight of the charts lately.</p>
+
+
+
+<h4>Don&#8217;t panic. All is not lost and DeFi endured the test.</h4>
+
+
+
+<p>I think it&#8217;s worth taking a moment to say: <em>there are safety measures in place for a reason.</em> When you install fire alarms and safety systems you hope you never need to use them, but know that there could always come a day when you have to. And if your home catches on fire, you don&#8217;t abandon the concept of living in homes altogether. You rebuild your home and this time you build it bit safer and better overall. We, as a community, have been tested before and have only grown stronger for these trials. A decentralized financial market is a market worth fighting for and the truth is&#8230; DeFi remains one of the most exciting and innovative spaces on this planet and will only continue to grow and evolve despite the occasional bump in the road.</p>
+
+
+
+<p><em>High levels of network congestion affected the entire Ethereum network so we&#8217;ll only be addressing some of the more notable ways DeFi projects were affected by recent events.</em></p>
+
+
+
+<h2>Maker</h2>
+
+
+
+<p>While the exact issue is still <a href="https://blog.makerdao.com/recent-market-activity-and-next-steps/">under investigation</a>, the dramatic increase in gas prices caused Maker&#8217;s price feed oracle to remain stuck at ~$166 despite the market dipping almost 15% lower at times. High gas prices also affected Keeper bots, preventing many from liquidating undercollateralized loans. Unfortunately, some Keepers were able to bid on and purchase collateral ETH for 0 DAI. And, many Vault owners reported 100% of their collateral being liquidated. </p>
+
+
+
+<p>A Maker community call was held to determine the best plan of action. Maker put out <a href="https://blog.makerdao.com/recent-market-activity-and-next-steps/">a blog post</a> addressing the situation and proposed various parameters which could be adjusted to prevent further issues. MKR holders have since <a href="https://vote.makerdao.com/executive-proposal/adjust-multiple-risk-parameters">approved changes</a> including lowering debt ceilings, lowering stability fees, changing auction parameters to allow keepers additional time and limit the total number of auctions.</p>
+
+
+
+<p>Among the approved parameter changes was delaying the Debt Auction, designed to cover the +$4M in remaining system debt, in an attempt to give the community more time to prepare.</p>
+
+
+
+<h3>MKR Debt Auction</h3>
+
+
+
+<p>Maker is designed with a pool of DAI called the <em>Maker Buffer</em> reserved to cover debts in situations like this<em>.</em> However, the Maker Buffer was unable to cover the deficit caused by the tremendous amount of liquidations. As stated in its <a href="https://makerdao.com/en/whitepaper/">whitepaper</a>, the Maker Protocol will now trigger a Debt Auction where MKR is minted and sold for DAI to re-collateralize the system. </p>
+
+
+
+<p><strong>Here are the details for the auction according to<a href="https://blog.makerdao.com/mkr-debt-auction-announcement-and-details/"> MakerDAO&#8217;s blog</a>: </strong></p>
+
+
+
+<ul><li>Start time: March 19, 6:25 am ET (March 19, 10:25 am UTC)</li><li> MKR will be auctioned off in lots for 50,000 Dai</li><li>According to parameters of the Maker Protocol as determined by governance, the auction works as in the following example:<ul><li>The protocol offers a Keeper (bidder) a lot of 250 MKR for 50,000 Dai, which translates to a price of 200 Dai/MKR. </li><li>A second keeper bids 50,000 Dai but only requires 230 MKR, which translates to a price of 217 Dai/MKR. </li><li>The bid prices increase through the Keepers’ willingness to take slightly less MKR in exchange for 50,000 Dai. </li></ul></li><li>If no one bids on the first lot of 250 MKR, then the auction can be re-initialized after three days, offering 20% more MKR (300 MKR) for 50,000 Dai, which translates to a price of 166.66 Dai/MKR.</li><li>Finally, if there is at least one bid, and no one outbids it within 6 hours, the auction ends.</li></ul>
+
+
+
+<p>Anyone is free to participate in the auction by running an Auction Keeper. Maker provides <a href="https://blog.makerdao.com/how-to-run-your-own-auction-keeper-bot-in-mcd/">documentation on how to run an auction keeper bot</a> but no official front-end UI. However, there are some in the community working on making these systems more accessible for the auction.</p>
+
+
+
+<h3>Dai Backstop Syndicate</h3>
+
+
+
+<div class="wp-block-image"><figure class="alignleft size-large"><a href="https://t.me/backstopsyndicate"><img src="./../../../wp-content/uploads/2020/03/backstopsyndicate-1.jpg" alt="" class="wp-image-8034"/></a></figure></div>
+
+
+
+<p>We&#8217;re working with Dharma and many other community members to organize a community-led effort dubbed the <strong><a href="https://t.me/backstopsyndicate">DAI Backstop Syndicate</a></strong> to form a backstop in support of MKR and act as a buyer of last resort in the upcoming MKR auction.</p>
+
+
+
+<p>The idea is to create pool contract that would give syndicate participants a way to participate in the auction process should MKR fall below a given price like 100 DAI / MKR.  The intention is to be a backstop, not necessarily buy the MKR nor will it provide liquidity for liquidations during Dai Surplus Auctions (flaps).</p>
+
+
+
+<p>The contract will be designed so anyone could trigger an auction using pooled funds at the given price once auctions begin. At which point, all participants would be able to redeem the tokens they minted by supplying Dai for the equiv. Dai / MKR blend held by the pool.</p>
+
+
+
+<p><strong><em>If you&#8217;re interested in participating, <a href="https://t.me/backstopsyndicate">join the telegram</a> to help organize, review<a href="https://docs.google.com/document/d/1miS-snhSYBKwjQHM1MOPnLZZl9i2gj3zTcvuQWecV2M/edit#"> the proposal</a> and <a href="https://github.com/backstop-syndicate/dai-backstop-syndicate">Github repo</a> for full details</em></strong>.</p>
+
+
+
+<h3>Nexus Mutual claims</h3>
+
+
+
+<p>As of writing this, 3 out of the 11 <a href="https://nexustracker.io/claims">submitted claims</a> related to the MakerDAO incident have been denied by Nexus Mutual. Those with Nexus Mutual cover on MakerDAO have been <a href="https://twitter.com/NexusMutual/status/1238496725054230534">instructed to wait</a> for more complete information before submitting new claims.</p>
+
+
+
+<h2>Compound</h2>
+
+
+
+<p>Compound placed in its timelock three precautionary changes to how its protocol handles DAI in the case it becomes unpegged and mass liquidations are required.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Three changes have been queued in the Compound protocol timelock, as a precaution due to recent volatility:<br><br>A new price feed that allows DAI to become unpegged in a MakerDAO emergency shutdown;<br>Liquidation incentive 5% -&gt; 8% -&gt; 15%<br><br>These will only be activated if necessary.</p>&mdash; Compound Labs (@compoundfinance) <a href="https://twitter.com/compoundfinance/status/1238308271963828226?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h2>Synthetix</h2>
+
+
+
+<p>The high network congestion forced Synthetix to go down for short period of time as its rates provided by on-chain Chainlink oracles to go stale. </p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/03/Selection_999064-1.png" alt="" class="wp-image-8028"/></figure>
+
+
+
+<p>After some time, the system was brought back online and the Synthetix team released <a href="https://github.com/Synthetixio/SIPs/blob/master/SCCP/sccp-16.md">SCCP-16</a> which temporarily increased fee reclamation waiting period to an hour to accommodate extreme network congestion. This change was reverted after the congestion subsided.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/03/Selection_999065-1.png" alt="" class="wp-image-8045"/></figure>
+
+
+
+<h2>Aave</h2>
+
+
+
+<p>Aave protocol also took measures to reduce the impact of MKR and DAI instability.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Due to the current instability of the DAI stablecoin system, our risk assessment team has decided to lower the LTV for future borrowers of both MKR and DAI to 1% as a safety measure to prevent possible abuse. This doesn&#39;t affect current borrowers using these assets as collateral.</p>&mdash; Aave (@AaveAave) <a href="https://twitter.com/AaveAave/status/1238174876541898752?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h2>dYdX</h2>
+
+
+
+<p>Combating high gas costs, dYdX progressively increased its minimum trade size throughout the day on March 12. The first step was up to 10 ETH or 2000 DAI, it was ultimately raised as high as 40 ETH or 5000 DAI. By the evening of March 13, the min. trade size was restored back to normal (0.1 ETH or 20 DAI).</p>
+
+
+
+<h2>DDEX</h2>
+
+
+
+<p>DDEX incurred minor losses of $5373 which will be covered by its built-in insurance.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">1/3<br>In the last 24 hours the price of <a href="https://twitter.com/hashtag/ETH?src=hash&amp;ref_src=twsrc%5Etfw">#ETH</a> fluctuated by over 30%, and <a href="https://twitter.com/hashtag/DDEX?src=hash&amp;ref_src=twsrc%5Etfw">#DDEX</a> liquidated ~$500,000 of collateral in minutes. Due to liquidity shortage, $5,373 (~1%) loss was incurred. By design, this amount will be covered by built in insurance. No lenders will lose assets.</p>&mdash; DDEX (@ddexio2018) <a href="https://twitter.com/ddexio2018/status/1238149663238152192?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h2>Green on the board</h2>
+
+
+
+<p>The silver lining of the day was that many smart contracts like Uniswap functioned performed as expected under the massive stress placed on the Ethereum network. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Yesterday during all the insanity Uniswap 24hr volume reached $53M<br><br>I don’t feel like celebrating but I’m glad it was able to handle the massively increased load without issue. <br><br>A major testament to Ethereum imo<br><br>Was this the highest volume day of any DEX ever? <a href="https://t.co/cv4x3m8Zyu">pic.twitter.com/cv4x3m8Zyu</a></p>&mdash; Hayden Adams <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f984.png" alt="🦄" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@haydenzadams) <a href="https://twitter.com/haydenzadams/status/1238457224214786048?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p><strong>Examining our DeFi rankings during these events, it was clear DEXes like Uniswap, DeFi lenders [like dYdX, Nuo, Robo-Advisor for Yield (RAY), and Dharma], and payment networks like xDai and Connext fared the best.</strong> All of which are DeFi smart contracts generally less impacted by price fluctuations and high gas prices with more diverse collateral options and/or lower risk yields.</p>
+
+
+
+<h2>Conclusion</h2>
+
+
+
+<p>Stress tests like these help expose cracks in DeFi smart contracts that can be repaired and improved upon. They also serve as important reminders to do your own research and plan accordingly for potential smart contract risks. DeFi is still a very young market and bumps in the road are to be expected. And when things get rough, remember what brought us here together as a community: the exciting prospect of a decentralized financial system open to all.</p>
+
+
+
+<p>Whether you just want to stay informed or get involved, we&#8217;re always there for community members with questions or looking to dig a little deeper. Reach out to us on <a href="http://twitter.com/defipulse">Twitter</a> or join the discussion in our <a href="http://t.me/defipulse">Telegram</a> or <a href="https://discord.gg/Gx4TCTk">Discord</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How Ethereum&#8217;s Istanbul Network Upgrade Affects DeFi</title>
+		<link>./../../../2019/12/11/how-ethereums-istanbul-network-upgrade-affects-defi/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2019 21:16:20 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[istanbul]]></category>
+		<category><![CDATA[upgrade]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7807</guid>
+
+					<description><![CDATA[At 12:25 AM (UTC) on December 8th, 2019, the Ethereum network mined block 9,069,000 activating the Istanbul network upgrade. Let&#8217;s...]]></description>
+										<content:encoded><![CDATA[<p>At 12:25 AM (UTC) on December 8th, 2019, the Ethereum network mined block 9,069,000 activating the Istanbul network upgrade. Let&#8217;s take a look at how the upgrade might affect existing and future DeFi applications.</p>
+<h3>So what&#8217;s changed with the Istanbul Upgrade?</h3>
+<p>Istanbul included 6 Ethereum Improvement Proposals (EIPs).</p>
+<h4>EIP-152: Add Blake2 compression function `F` precompile</h4>
+<p><a href="https://github.com/ethereum/EIPs/issues/152">EIP-152</a> introduces a new precompiled contract which implements the compression function F used in the BLAKE2b cryptographic hashing algorithm. Put simply, this EIP creates new interoperability and privacy capabilities for Ethereum smart contracts. BLAKE2b allows for efficient verification of the Equihash PoW used in Zcash which means that Ethereum smart contracts could act like SPV clients.</p>
+<p>In a nutshell, it&#8217;s now possible for DeFi protocols to perform trustless atomic swaps between Ethereum and Zcash, tapping into its inherent privacy features.</p>
+<h4>EIP-1108: Reduce alt_bn128 precompile gas costs</h4>
+<p>Changes in 2018 to the underlying library used by the official Go reference implementation led to significant performance gains for precompiled contracts on the alt_bn128 elliptic curve. Logically, performance gains means faster operations on Ethereum clients. And so, <a href="https://eips.ethereum.org/EIPS/eip-1108">EIP-1108</a> aims to reduce the gas cost for elliptic curve arithmetic precompiles to account for these performance gains.</p>
+<p>All in all, DeFi privacy and scaling solutions built on Ethereum which utilize these precompiles cost less gas now. This is a big win for DeFi users because it makes zk-SNARKs cheaper.</p>
+<h4>EIP-1344: ChainID opcode</h4>
+<p>Originally introduced in <a href="https://eips.ethereum.org/EIPS/eip-155">EIP-155</a> to prevent replay attacks during the ETC hardfork, Chain ID is another way to indicate which blockchain your node or DApp follows. <a href="https://eips.ethereum.org/EIPS/eip-1344">EIP-1344</a> adds an opcode to Ethereum which returns the current chain&#8217;s ID.</p>
+<p>Currently, developers must manually hardcode specific chain IDs into their clients, smart contracts, etc. You can probably see how that might lead to human error among other unintended consequences. This EIP now allows EVM-based DeFi applications to verify chain IDs, handle potential network upgrades, and/or mitigate failures, which is particularly useful for layer 2 solutions.</p>
+<h4>EIP-1884: Repricing for trie-size-dependent opcodes</h4>
+<p>As the Ethereum network grew, so did the resources required for some opcodes. <a href="https://eips.ethereum.org/EIPS/eip-1884">EIP-1884</a> raises the gas costs for these opcodes in an attempt to find a balance between operation cost and resources consumed.</p>
+<p>This EIP may break smart contracts which were designed around these opcodes and static gas costs. However, the tradeoff is that changing the gas cost prevents contracts from abusing underpriced but highly intensive opcodes and clogging the network.</p>
+<h4>EIP-2028: Transaction data gas cost reduction</h4>
+<p><a href="https://eips.ethereum.org/EIPS/eip-2028">EIP-2028</a> reduced the gas cost of Calldata from 68 gas per byte to 16 gas per byte. In other words, less gas per byte means more bytes per block resulting scaling benefits from higher calldata bandwidth.</p>
+<p>Most of all, DeFi applications and layer 2 solutions using zk-SNARKs and zk-STARKs are now cheaper because of the cost reduction for calling data within transactions. Additonally, layer 2 solutions benefit from a potential throughput increase.</p>
+<h4>EIP-2200: Net gas metering for SSTORE operations</h4>
+<p>EIP-2200 implements a structured definition of net gas metering changes for SSTORE opcode. Simply put, it changes the cost calculation of storage in the EVM and will enable contracts to introduce new functions such as re-entry locks and same-contract multi-send.</p>
+<h4>In general, network upgrades can cause disruptions to node operators</h4>
+<p>Network upgrades require a lot of coordination to pull off. There&#8217;s plenty of room for human error when it comes to making sure each node is upgraded and ready. If a DeFi application relies on a node and then that node becomes desynchronized from the rest of the network, it may prevent you from using certain features or the DApp entirely until the team puts out a fix.</p>
+<h3>Now that Istanbul&#8217;s live, what&#8217;s next for the Ethereum network?</h3>
+<p>Muir Glacier Upgrade&#8217;s slated for activation on Block #9,200,000 or rather January 6th, 2020. This upgrade includes <a href="https://eips.ethereum.org/EIPS/eip-2384">one EIP</a> titled, &#8220;EIP 2384: Muir Glacier Difficulty Bomb Delay.&#8221; As of October 5th, 2019, the difficulty bombed kicked in again slowing Ethereum blocktimes to over 13 seconds on average. As you might have guessed, slower Ethereum blocktimes impacts the performance of DeFi protocols and DApps. And so, EIP-2384 proposes to delay the difficulty bomb for another 4,000,000 blocks (~611 days).</p>
+<p><span style="font-weight: 400;">F</span>ollow us on <a href="https://twitter.com/defipulse">Twitter</a> or join us in <span style="font-weight: 400;">our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a> to keep up with the DeFi ecosystem</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Zero to DeFi &#8211; A beginner&#8217;s guide to earning passive income via Compound Finance</title>
+		<link>./../../../2019/09/18/zero-to-defi-cdai/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Wed, 18 Sep 2019 14:27:36 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[cDai]]></category>
+		<category><![CDATA[Compound]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[income]]></category>
+		<category><![CDATA[lend]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[passive income]]></category>
+		<category><![CDATA[smart contract]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7464</guid>
+
+					<description><![CDATA[So you keep hearing about Ethereum and DeFi from a co-worker, family member, or friend and want to learn more....]]></description>
+										<content:encoded><![CDATA[<p>So you keep hearing about Ethereum and DeFi from a co-worker, family member, or friend and want to learn more. It&#8217;s no wonder everyone is talking about DeFi, or rather decentralized finance, when it&#8217;s the fastest growing sector of finance. DeFi applications built on the Ethereum blockchain currently in control of $500 million worth of digital assets. And on top of that, users have historically earned 5-20% interest in DeFi lending platforms. But we&#8217;re getting ahead of ourselves&#8230;</p>
+<p>With so much information out there, it can be hard to make heads or tails of where to begin. So we&#8217;ve put together this guide to help you along as you take your first steps into the exciting new world of Ethereum and decentralized finance, aka DeFi. And by the end of this guide, you&#8217;ll be able to see your money grow every few seconds with a yearly interest higher than any bank will ever offer you. So let&#8217;s get started putting your money to work for you.</p>
+<h1>Getting started</h1>
+<h4>What is cryptocurrency?</h4>
+<p>Cryptocurrency is a new form of digital asset created, maintained, and secured by a decentralized network of participants. A type of distributed ledger called a  blockchain is most commonly used to securely store and distribute cryptocurrencies.</p>
+<p>A blockchain is a system for maintaining a shared ledger among a network of computers around the world called nodes. The ledger stores the entire history of a cryptocurrency and every transaction that has occurred in its history. Each node keeps a copy of the ledger to verify account balances and transactions for themselves.</p>
+<p>Transactions on the blockchain are processed by miners. Miners take pending transactions submitted to the network and organize them into a small blocks of data. These blocks of transactions form a chain as new ones are added thus the name blockchain.</p>
+<p>Miners compete for which block should be appended to the chain by solving a math puzzles in a process called mining. The miner who solves a block first gets to collect all the transaction fees paid within that block and is given issued newly minted cryptocurrency as a reward. This reward is called a block reward.</p>
+<p>Mining distributes new cryptocurrency as well as secures the network. Mining requires a lot of energy and resources. <span style="font-weight: 400;">This creates an incentive for miners to continue producing blocks in an honest manner. Due to the fact each block is created based on the previous one, it becomes more and more difficult for someone to try and trick the rest of the network. </span>This concept of using computational power and incentives to secure the network is called Proof of Work.</p>
+<p><span style="font-weight: 400;">If an attacker wanted to change the history stored in the blockchain, they would need to have a majority of the total mining power or hashrate of a cryptocurrency network. In other words, a network remains secure as long as no one miner controls 51% of the mining power, also known as a 51% attack. </span></p>
+<p><span style="font-weight: 400;">And even if they did, maintaining this type of attack quickly becomes infeasible due to its costs. The idea is that the reward for mining valid blocks outweighs what a bad actor stands to gain by performing a 51% attack. </span></p>
+<h4>What is a wallet?</h4>
+<p>A wallet is a software application used to send and store cryptocurrency as well as interact with any applications built on that blockchain.</p>
+<p>A wallet can be roughly compared to your bank account; it stores your assets and it has an &#8220;account number&#8221; or address. Some wallets allow you to generate multiple public addresses. Only your assets are store securely on the blockchain instead of in the custody of your bank.</p>
+<p>Wallets have no registration or sign-up process. There are two parts to generating and accessing your wallet. Wallets are generated with a 12 or 24 word phrase called your seed words. Other common names are seed phrase, recovery phrase, and mnemonic phrase. With this phrase, you can recover or restore your wallet from anywhere.</p>
+<p>When you generate your wallet, you&#8217;ll be asked to set a password or pin which is required to login in or access your wallet. Do not forget this password otherwise you will be locked out of your wallet. And, the only way to &#8220;reset&#8221; the password is to recover the wallet again with your seed phrase.</p>
+<h4>Why is my seed phrase so important?</h4>
+<p>As previously mentioned, your seed phrase is what you use to restore your wallet. In the case where your wallet is inaccessible, lost, or destroyed, you&#8217;ll need this phrase to recover your wallet and the cryptocurrency it holds.</p>
+<p>If you lose your seed phrase and no longer can access your wallet, your funds could potentially be lost forever. This is why backing up your seed phrase is so important.</p>
+<p>It&#8217;s also important to keep in mind that <em>anyone</em> with your seed phrase can recover your wallets and take the funds inside. So be very careful where you store them and who may have access to them. Many people store their seed phrase in their safe or a safety deposit box. Don&#8217;t store them in a Google Doc where almost anyone can stumble on them.</p>
+<h4>How do I keep my cryptocurrency safe from hack or theft?</h4>
+<p>Generally, to keep yourself safe from hackers or thieves online you&#8217;ll need to follow best practices when it comes to cybersecurity and privacy. Things like keeping your PC clear of viruses or malware, using secure passwords (maybe even a password manager), securing your network properly, enable app-based 2FA like Authy or Google Authenticator wherever possible, etc.</p>
+<p>Unfortunately, we cannot cover all of cybersecurity in this guide because it is far too vast of a topic. However, here&#8217;s some resources that can help you learn the best practices for keeping yourself safe online and offline.</p>
+<ul>
+<li><a href="https://ssd.eff.org/en/taxonomy/term/362/">EFF&#8217;s Security Basics</a></li>
+<li><a href="https://sec.eff.org/topics">EFF complete Security Lessons</a></li>
+<li>Mozilla&#8217;s <a href="https://datadetoxkit.org/en/detox">Data Detox</a></li>
+<li><a href="https://github.com/cryptoseb/CryptoPaper">CryptoPaper</a> &#8211;  A comprehensive guide to security and privacy (more technical)</li>
+<li><a href="https://www.privacytools.io/">PrivacyTools.io</a></li>
+</ul>
+<p>We&#8217;ll also be thinking to relevant resources throughout this guide.</p>
+<h4><img loading="lazy" class="wp-image-7591 alignleft" src="./../../../wp-content/uploads/2019/09/1200px-Ethereum_logo_2014.svg_-1-150x150.png" alt="" width="200" height="200" /></h4>
+<h4>What is Ethereum? What is ether (ETH)?</h4>
+<p>Ethereum is the world’s leading programmable blockchain. Ether (ETH) is the Ethereum network&#8217;s native cryptocurrency. All transactions on the Ethereum network require transaction fees paid in ETH called gas.</p>
+<h4>What is a smart contract? What are tokens?</h4>
+<p>Smart contracts are what make ETH programmable money. Smart contracts are  applications or scripts programmed to run on the Ethereum network capable of creating and managing digital assets. You can build complex irreversible agreements without the need for a middle man.</p>
+<p>These applications are called DApps, or decentralized applications. Smart contracts have many use cases including financial products (borrowing, lending, trading, payments), games, collectibles, and much much more.</p>
+<p>Smart contracts allow you to create digital assets called tokens. Tokens represent many types of digital assets such as currencies, tokenized physical assets like gold, a share of ownership in a DApp, etc.</p>
+<h4>What is DeFi?</h4>
+<p>Decentralized finance, or DeFi for short, is what the Ethereum community calls financial smart contracts, decentralized applications (DApps), and protocols built on Ethereum. Popular DeFi products include decentralized exchanges, lending and borrowing markets, tokenized physical assets such as gold, derivatives, prediction / betting markets, payment networks, insurance, etc.</p>
+<h4><b>What is a decentralized exchange?</b></h4>
+<p>A decentralized exchange, or DEX for short, is like a stock exchange run by a smart contract on the Ethereum blockchain. Although both allow you to trade assets, a decentralized exchange trades cryptocurrency only and so does not require a centralized authority to operate.</p>
+<p>DEXes are perfect for trading ETH or tokens on the blockchain without having to rely on a centralized authority like a traditional cryptocurrency exchange. Trading on a DEX reduces some risk because you keep your ETH and tokens in your wallet instead of placing them in someone else&#8217;s control. Trades are made by transacting with the DEX&#8217;s underlying smart contract and the only time your funds leave your account is to execute a trade.</p>
+<h4><b><img loading="lazy" class="size-large wp-image-7587 alignnone" src="./../../../wp-content/uploads/2019/09/maker-logo-1024x288.jpeg" alt="" width="640" height="180" /></b></h4>
+<h4><b>What is DAI and MakerDAO?</b></h4>
+<p>MakerDAO is a smart contract that let&#8217;s users open Collateralized Debt Positions, or CDPs for short. Users deposit ETH as collateral and are able to mint/borrow a token called DAI. DAI is a stablecoin pegged to the US dollar.</p>
+<p>Borrowers pay an annual interest rate called the stability fee for the opportunity to mint new DAI. And when the debt is repaid, the DAI is burned along with the stability fee owed in Maker&#8217;s token MKR. The stability fee deters users from over-inflating the total supply of DAI.</p>
+<p>CDP holders are required to have a minimum of 150% collateral to outstanding debt. For every 1 DAI, there is at least $1.50 worth of Ether (ETH) locked into a Maker CDP as collateral. And if their collateral value falls, the CDP holder must lock in more ETH, pay back some of their debt, or risk having their position liquidated. When a CDP is liquidated, the ETH held as collateral is automatically sold to pay back the debts in addition to penalty fee for falling before a ratio of 150%.</p>
+<p>As previously mentioned, Maker has its own token called MKR which is used to pay for the stability fee on outstanding debts. Maker (MKR)&#8217;s primary function is to act as a voting share in the MakerDAO system. MKR holders vote on changes and issues that affect how Maker&#8217;s underlying smart contract operates. As MKR burns with each debt repaid, the idea is that MKR&#8217;s value will increase if it is governed well.</p>
+<p>MakerDAO is sort of like a central bank in the sense it issues DAI in charge of keeping DAI stable at ~$1. If the DAI supply increases too much and DAI&#8217;s value falls below $1, the stability fee is increased to encourage CDP holders to pay back their debts.</p>
+<p>Here is where it is important for us to mention that you don&#8217;t have to open a CDP to own DAI. You can simply purchase DAI off of the open market from someone else who opened a CDP. Whoever you bought the DAI from still owes the debt and their collateral remains locked in MakerDAO until the debt is paid. It&#8217;s a lot like how the US dollar used to be back by gold.</p>
+<p>DAI is like a smart version of the US Dollar. While the price of ETH may fluctuate, you can count on DAI to hover around $1. So there&#8217;s a natural demand for DAI because its programability combined with its stability makes it perfect for payments, commerce, games, loans, and many many more use cases and DApps.</p>
+<p><b><img loading="lazy" class="wp-image-7586 alignnone" src="./../../../wp-content/uploads/2019/09/compound-logo-1-1024x248.png" alt="" width="500" height="121" /></b></p>
+<p><b>What is Compound? What is cDAI? Why am I earning interest?</b></p>
+<p>Compound is a smart contract that allows users to borrow and lend tokens. Similar to your bank, Compound lends out your money to borrowers and earn interest over time. But unlike your bank, your interest begins compounding the minute you deposit into Compound&#8217;s smart contract. And since it&#8217;s a smart contract, the rate you earn is higher than traditional banks because there&#8217;s no middleman.</p>
+<p>Similar to MakerDAO, loans are secured through over-collateralization. Borrowers deposit tokens into Compound to increase their &#8220;borrowing power.&#8221; If the borrower&#8217;s borrowing power falls below 0, their collateral is sold to cover the debt. The interest rates on loans is different for each asset and vary based on the demand for that asset.</p>
+<p>On the flip side, lenders earn variable passive interest for supplying tokens to Compound&#8217;s money market. Stablecoins like DAI are arguably the most popular asset to borrow and earn fairly high return rates (historically 5 &#8211; 20% APR) for lenders. When you deposit DAI, you&#8217;re given cDAI tokens in return to represent your deposit and the interest it accrues. This is true for any token or asset deposited into Compound and these tokens are called cTokens.</p>
+<p>The exchange rate originally began at 50 cDAI for every one 1 DAI, and as interest accrues in the market, each cDAI will be worth more DAI. The idea is that as your interest accrues, you’ll need less cTokens to redeem your original DAI. In other words, the exchange rate between Dai and cDai grows proportionally with the interest rate.</p>
+<p>So by simply owning and holding onto cDAI tokens, you&#8217;re earning passive income in decentralized finance.</p>
+<h4>What are the risks involved?</h4>
+<p>See the Risks and Considerations section below.</p>
+<h1>Earn passive income by lending on Compound</h1>
+<h2>1. <b>Create Coinbase account</b></h2>
+<p>Navigate to <a href="https://www.coinbase.com/join/daley_e6">Coinbase</a>. Follow the account creation process and be sure to use your real name as it appears on your passport or government ID. Also, make sure you use a <a href="https://ssd.eff.org/en/module/creating-strong-passwords">secure password</a> and email (account recovery is like a backdoor to your account, be sure that door is locked).</p>
+<p>Once your information is submitted, you&#8217;ll be required to verify your email. If you don&#8217;t receive the verification email, check your spam folder just in case before resending it. Click the &#8216;Verify Email Address&#8217; button found in your verification email from Coinbase.</p>
+<h3>Setup your account</h3>
+<p>Now we can setup your Coinbase account by verifying your identity, adding a payment method for later, and securing your account with app-based 2FA.</p>
+<h4>Verifying your identity</h4>
+<p>First, it&#8217;s going to have you confirm your phone number by sending you a code via SMS. Enter this code to verify your phone number.</p>
+<p>Next, you&#8217;ll be prompted to verify your identity with either your passport, driver&#8217;s license, or some other form of photo ID. This is required for Coinbase to comply with regulators. It also benefits you with higher purchasing limits and in the case you get locked out of your account and they can verify it&#8217;s actually you.</p>
+<p>Select the form of ID and follow the prompts to activate your webcam or phone camera. It&#8217;ll have you take a picture of both the front and the back. If the image looks clear, click the &#8216;Finish &amp; start verification&#8217; button.</p>
+<p>Coinbase will then review your documents. This process may take a few days.</p>
+<h4>Link your bank account to your Coinbase account</h4>
+<p>Head to <a href="https://www.coinbase.com/settings/linked-accounts">Linked Accounts</a> under your Coinbase account settings, click &#8216;Link a New Account&#8217; and select &#8216;Bank Account&#8217;. Follow the Plaid prompts to access your banking information. If Plaid is unsuccessful, you may need to manually enter your banking information.</p>
+<p>Coinbase may use a charge verification to verify your banking details. A charge verification is when Coinbase places two random charges like $1.37 and $1.61 to your account. They ask you to enter the precise amounts they charged by checking your bank statement. Once confirmed, the charges are removed.</p>
+<h4>Enabling 2FA</h4>
+<p>You&#8217;re likely familiar with <a href="https://ssd.eff.org/en/module/how-enable-two-factor-authentication">2 form authentication (2FA)</a> or 2-step verification. You&#8217;ve likely come across a time where you need 6 digit code from sent to you via SMS to log into an account. And while this is technically 2FA, it&#8217;s not great and can actually leave you vulnerable if anyone were to get a hold of your phone. This type of attack referred to as a <a href="https://www.wired.com/story/sim-swap-attack-defend-phone/">SIM swapping</a>, SIM porting, or SIMjacking is common in cryptocurrency.</p>
+<p>We&#8217;ll show you how to use authenticator apps like Google Authenticator (<a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&amp;hl=en_US">Android</a> / <a href="https://apps.apple.com/us/app/google-authenticator/id388497605">iPhone</a> or <a href="https://authy.com/download/">Authy</a> to secure your Coinbase account instead. Go ahead and install one of these apps onto your phone. Then under your Coinbase account <a href="https://www.coinbase.com/settings/security_settings">security settings</a> &gt; 2-step verification section, select Authenticator. A QR code will be shown on screen. You&#8217;ll take your authenticator app, click the &#8216;+&#8217; button, and scan the QR code.</p>
+<p>This QR code is the secret that your app will use to generate new 6 digit one-time codes every 30 seconds or so. The secret is stored locally on your device meaning if you lose your phone you won&#8217;t be able to access these one-time codes. The idea is that without that device an attacker couldn&#8217;t access your account with your login information alone. But, this means that if you lose access to it, neither will you.</p>
+<p>On Coinbase, you need to enter these one-time codes to login and perform many of the functions of the service. 2FA can be reset in an absolute emergency but it can take days if not weeks of working with customer service to verify your identity.</p>
+<p>We recommend you securely back up this secret somehow BEFORE entering the one-time code to enable 2FA on your Coinbase account, in case of an emergency. Some people print it out and store it in a safe location. Or, you can use another device you own to scan the QR code as well so you have it in two places. You can even allow a trusted family member, friend, or spouse to scan it and store a copy of the secret for you.</p>
+<p>If you didn&#8217;t back up your 2FA secret but still have access to your authenticator, you can disable and re-enable 2FA to generate a new secret which can be backed up.</p>
+<p>Learn more ways to protect your Coinbase account <a href="https://blog.coinbase.com/a-guide-to-coinbase-account-security-9347ddfabd65">here</a>.</p>
+<h2>2. <b>Install MetaMask and setup your Ethereum wallet</b></h2>
+<p>MetaMask is a web extension that allows you to interact with the Ethereum blockchain and manages the private keys to your Ethereum wallet in-browser.</p>
+<p><a href="https://metamask.io/"><img loading="lazy" class="alignnone wp-image-7584" src="./../../../wp-content/uploads/2019/09/Selection_144-1-300x170.jpg" alt="" width="600" height="341" /></a></p>
+<p>Visit <a href="https://metamask.io/">MetaMask.io</a> and click the orange &#8216;Get Extension&#8217; button This will take you the extension for your browser.  Click the &#8216;Add to Browser&#8217; and &#8216;add&#8217; if a popup appears to install the MetaMask extension to your browser.</p>
+<h4>Setting up your MetaMask account / Ethereum wallet</h4>
+<p>Once installed, you should see a little orange fox icon to the right of your browser&#8217;s address bar. Click this fox icon and then the &#8216;Continue&#8217; button to begin setting up your account.</p>
+<p>Next, you&#8217;ll be prompted for a password for your MetaMask account. Make sure this is a secure password and<strong> do not forget it</strong>. This password is used to encrypt the private keys to your Ethereum wallet file stored locally on your computer. MetaMask will prompt you for this password each time you access the extension. It&#8217;s never a bad idea to write down this password and store in a safe place.</p>
+<p>Click &#8216;create&#8217; once you&#8217;ve entered your password. Read and accept the privacy policy and terms of use.</p>
+<p>Finally, click the shaded area to reveal your seed phrase. As you may recall, this seed phrase is extremely important because it&#8217;s what allows you to access or recover your wallet if you weren&#8217;t able to remember your password or your MetaMask were to become inaccessible. BACK IT UP and store it in a secure location. If you forget your seed phrase, there is no way to recover any funds stored in the wallets generated by that seed phrase.</p>
+<p>Click next after you&#8217;ve created a back up or multiple back ups of your seed phrase. MetaMask then tests if you actually backed it up by making you click each word of your seed phrase in order. Press the &#8216;confirm&#8217; button once you are finished.</p>
+<p>Congratulations, you&#8217;ve created your first Ethereum wallet.</p>
+<h2>3. <b>Deposit USD/EUR into Coinbase Account</b></h2>
+<p>Login to <a href="https://www.coinbase.com/join/daley_e6">Coinbase</a>, if you weren&#8217;t already, and navigate to &#8216;<a href="https://www.coinbase.com/accounts/">Accounts</a>&#8216;. Here you should see the currency wallets available to your account. Under the currency of your choice (USD or EUR Wallet), click the deposit button.</p>
+<h4>Bank deposit</h4>
+<p>You can choose to either deposit from your bank account and wait a few days. Just enter the amount to deposit and hit confirm. Your funds are &#8216;on hold&#8217; while the bank transfer is cleared with your bank. This can take up to 3 &#8211; 7 days depending on your bank.</p>
+<h4>Wire transfer</h4>
+<p>Or, you can choose to send your money with a Wire Transfer but it&#8217;ll cost you a $10 wire fee. Bank wire transfers may be credited to your Coinbase account on the same day if submitted by 1:00 PM PT. Otherwise, funds will be available after one business day.</p>
+<h2><b>4. Transfer to Coinbase Pro</b></h2>
+<p>Navigate to <a href="https://pro.coinbase.com/">Coinbase Pro</a>, a cryptocurrency exchange run by Coinbase, and login in using your Coinbase login information. These accounts are linked by default and so share the same login.</p>
+<p>Once logged in, click the &#8216;My Wallets&#8217; button in the upper right-hand corner of the page. Then, click &#8216;Deposit&#8217; which will popup a menu where you&#8217;ll select your US Dollar or Euros.</p>
+<p><img loading="lazy" class="alignnone wp-image-7618 size-full" src="./../../../wp-content/uploads/2019/09/Selection_164.jpg" alt="" width="703" height="599" srcset="./../../../wp-content/uploads/2019/09/Selection_164.jpg 703w, ./../../../wp-content/uploads/2019/09/Selection_164-300x256.jpg 300w" sizes="(max-width: 703px) 100vw, 703px" /></p>
+<p>Select the &#8216;Coinbase Account&#8217; option on the right side. Enter the amount you&#8217;d like to deposit or simply hit &#8216;Max&#8217; and then click the &#8216;Deposit&#8217; button at the bottom of the window. Your funds should transfer instantly unless they are still on hold.</p>
+<h2>5. <b>Convert USD/EUR to DAI</b></h2>
+<h4>Purchasing ETH</h4>
+<p>Follow the link for your currency (<a href="https://pro.coinbase.com/trade/ETH-USD">USD</a> or <a href="https://pro.coinbase.com/trade/ETH-EUR">EUR</a>). On the left side of the page you should see your Wallet Balance and below that Order Form.</p>
+<p>It&#8217;s worth noting here that cryptocurrencies like ETH are relatively new and their value can be quite volatile. <strong>Never invest more than you are willing to lose!</strong></p>
+<p>Select &#8216;Buy&#8217;, &#8216;Market&#8217;, and enter the amount of money you&#8217;d like to spend or &#8216;Max&#8217;. Verify the details of your trade and click &#8216;Place Buy Order.&#8217; You&#8217;re now the proud owner of Ether (ETH).</p>
+<h4>Withdrawing your ETH to MetaMask</h4>
+<p>Let&#8217;s withdraw your ETH to your MetaMask wallet. Under &#8216;Wallet Balance&#8217; on the left side, click the &#8216;Withdraw&#8217; button. Select &#8216;Ether&#8217; in the popup window. Now, click the MetaMask icon at the top of your browser window to open up MetaMask&#8217;s menu. Above your wallet balance and the Ether symbol, you should see your &#8216;Account #&#8217; and part of your wallet address.</p>
+<p>If you hover over this and click it, it will copy your wallet address to your clipboard. Paste this into &#8216;Destination&#8217; field in the Coinbase Pro Withdraw ETH popup window. Be sure to double check the address because Ethereum transactions are irreversible and you cannot retrieve funds sent to an address you don&#8217;t own.</p>
+<p>Once you&#8217;ve verified the address, enter the amount of ETH to withdraw and click &#8216;Withdraw ETH&#8217; button. You&#8217;ll be prompted to enter the 6 digits from your 2FA app. After you&#8217;re finished, your funds will be sent from Coinbase to your MetaMask wallet momentarily.</p>
+<h4>Swap ETH for DAI</h4>
+<p>Open <a href="https://dex.ag/">DEX.AG</a>, a DEX aggregator or website which searches across the top DEXes to find you the best price for your trade.</p>
+<p><a href="https://dex.ag/"><img loading="lazy" class="alignnone wp-image-7614" src="./../../../wp-content/uploads/2019/09/Selection_162-1-282x300.jpg" alt="" width="700" height="744" /></a></p>
+<p>By default, DEX.AG is set to BUY Dai with ETH. For the purposes of this guide, let&#8217;s switch to SELL ETH for DAI. Next, enter the amount of ETH you&#8217;d like to swap for DAI. You can check your total ETH balance under MetaMask.</p>
+<p><strong>DO NOT</strong> enter your total balance to swap &#8211; You need to keep some ETH to pay for network transaction fees called gas. Your typical transaction will cost you between $0.10 to as high as a few dollars depending on what type of transaction you&#8217;re sending and the network fees at that moment; so keep at least few dollars worth of ETH for this swap and future transactions from your wallet. For reference, at the time of writing this ETH&#8217;s price is currently ~$213 so keeping anywhere between 0.05 and 0.1 ETH in your wallet would more than cover any transaction fees for a while.</p>
+<p>Once you&#8217;ve entered the amount (minus the ETH set aside for gas), click the &#8216;Find Trades&#8217; button. You should see a list of DEXes appear on your screen. Then, click the &#8216;Sell Now&#8217; button on the DEX closest to the top. This will initiate a trade with the DEX you&#8217;ve selected with the details you&#8217;ve previously entered. A MetaMask prompt will appear.</p>
+<p>Since this is the first time your account is interacting with this DEX smart contract, you&#8217;ll have to send two transactions: an approval transaction and then the transaction with your trade. The first time you interact with a smart contract you must submit an Approve transaction which enables that smart contract to transfer your tokens like DAI when necessary.</p>
+<p>You have the option to manually adjust your transaction or gas fee before sending. This could potentially save you time (preventing a transaction that might get stuck with too low of fees) and money. Click &#8216;EDIT&#8217; under the &#8216;Gas Fee&#8217; row of this window &gt; Advanced tab at the top of the window. You can always check <a href="http://ethgasstation.info/">ETH Gas Station</a> for the recommended fast gas price. Enter your desired amount into the &#8216;Gas Price&#8217; box. Click &#8216;Save&#8217; and then &#8216;Confirm&#8217; to send your transaction.</p>
+<p>Wait a few moments for the transaction to be confirmed. To follow the confirmation status of your transaction, open the MetaMask menu, click the pending transaction and click the diagonal arrow on the right which reads &#8216;View on Etherscan&#8217; on hovered over. Etherscan is a block explorer where you can follow transactions on the Ethereum blockchain.</p>
+<p>Once confirmed, click the &#8216;Sell Now&#8217; button for that same DEX again. This will initiate your trade. Repeat the step above to confirm and send your transaction. The DAI should arrive in your wallet once its confirmed.</p>
+<h2>6. Turn DAI into cDAI via Compound Finance</h2>
+<h4>Compare lending rates</h4>
+<p>Normally, I&#8217;d recommend you <a href="https://defipulse.com/income">compare interest rates</a> before choosing a lending service. But for the simplicity&#8217;s sake, we&#8217;ll be teaching you to use the arguably most popular DeFi lending service Compound Finance.</p>
+<h4><a href="https://app.compound.finance/asset/cDAI"><img loading="lazy" class="alignnone wp-image-7617" src="./../../../wp-content/uploads/2019/09/Selection_163-300x273.jpg" alt="" width="725" height="660" srcset="./../../../wp-content/uploads/2019/09/Selection_163-300x273.jpg 300w, ./../../../wp-content/uploads/2019/09/Selection_163-768x699.jpg 768w, ./../../../wp-content/uploads/2019/09/Selection_163.jpg 934w" sizes="(max-width: 725px) 100vw, 725px" /></a></h4>
+<h4>Enable DAI on Compound</h4>
+<p>Navigate to the <a href="https://app.compound.finance/">Compound app</a>. If not prompted, connect your MetaMask wallet by selecting the button in the upper right-hand corner of the page. Select MetaMask and unlock your wallet. Next, select <a href="https://app.compound.finance/asset/cDAI">Dai</a> from the menu and click the green &#8216;Enable DAI&#8217; button. This will pop up an Approve transaction which you&#8217;ll confirm using the same steps as before. To follow the confirmation status of your transaction, open the MetaMask menu, click the pending transaction and click the diagonal arrow on the right.</p>
+<h4>Supply DAI to Compound and begin earning interest</h4>
+<p>Once your approve transaction is confirmed, you should see two buttons: a green &#8216;Supply&#8217; button and a purple &#8216;Borrow&#8217; button under the Dai section of Compound. Click &#8216;Supply&#8217; and enter the amount of DAI you&#8217;d like to supply/lend (or select MAX). After entering in the amount, click the &#8216;Supply&#8217; button at the bottom of the pop-up menu which will open up a MetaMask transaction. Confirm the details of this transaction like before, click &#8216;Confirm&#8217;, and then wait for the transaction to be confirmed.</p>
+<p>Congratulations! With your cDAI now in your MetaMask wallet, you&#8217;re gaining passive interest every 12 seconds. You can view the current interest rate at <a href="https://defipulse.com/income">DeFi Pulse</a> or <a href="https://compound.finance/markets">Compound</a> under Dai Supply APR. Welcome to the future of finance.</p>
+<h1>Risks and Considerations</h1>
+<h4>You can forget your seed phrase or not properly back them up</h4>
+<p>If you lose access to your wallet and do not have your seed phrase, there&#8217;s no way to recover the funds locked inside that wallet. That&#8217;s why it&#8217;s so important for you to write down the seed phrase and store it somewhere safe.</p>
+<p>Also, it&#8217;s never a bad idea to consider what might happen in an emergency. What if your house burned down? Having an extra copy of your seed phrase secured off-site (i.e. in a safety deposit box) is never a bad idea.</p>
+<h4>Your seed phrase could be stolen whether physically or digitally <b></b></h4>
+<p>As previously mentioned, if someone gets access to your seed phrase, they can take allow of your assets stored within that wallet. NEVER enter your seed phrase into a website. Phishing emails and websites are common ways for thieves to deceive users into divulging their private key or seed phrase.</p>
+<h4><b>There can be flaws, bugs or vulnerabilities in Maker affecting DAI</b></h4>
+<p>Maker takes risk seriously with systems in place to manage risk within its smart contract credit system as well as in that system&#8217;s programming. Several <a href="https://github.com/makerdao/audits">third party audits</a> have been conducted on Maker&#8217;s code to sweep for bugs.</p>
+<p>These precautions are very important to minimizing the risk in the system. However, there are still possible risks. The Maker team has put together a comprehensive <a href="https://makerdao.com/en/whitepaper/#risks-and-their-mitigation">Risks and their Mitigations section</a> in their whitepaper. And here&#8217;s a 3 part <a href="https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101">blog series</a> outlining their Governance Risk Framework. In this framework, dedicated risk teams construct risk management models for the entire collateral portfolio. Careful management of risk in their asset portfolio helps ensure the system remains stable even in times of high market volatility.</p>
+<p>Here&#8217;s an example of a risk that is known but its not possible to eliminate at this time. Maker uses a set of off-chain price feeds to determine the price of ETH on-chain. MakerDAO&#8217;s medianizer smart contract finds the median price between all the feeds which is then used for nearly every function of a CDP. These price feeds could be manipulated by an attacker or the medianizer itself could subject to a bug or undiscovered vulnerability. To date, no such attack or bug has occurred.</p>
+<h4><b>There can be flaws, bugs or vulnerabilities in Compound affecting cDAI</b></h4>
+<p>Compound&#8217;s code has been audited several times. The most <a href="https://blog.openzeppelin.com/compound-audit/">recent audit</a> performed in August 2019 by OpenZepplin found no bugs of Critical Severity. However, a few risks were found in the design of their incentive structure. Previously, Trail of Bits performed <a href="https://github.com/trailofbits/publications/blob/master/reviews/compound-2.pdf">audited</a> Compound&#8217;s v2 upgrade in May 2019. Compound has also been formally verified in partnership with <a class="di ca lm ln lo lp" href="https://www.certora.com/?source=post_page---------------------------">Certora</a>.</p>
+<p>Compound Labs, Inc., the developer of the protocol, currently controls the admin address for Compound. The admin address has the right to support additional assets, upgrade the price feed oracle, upgrade the interest rate models, and upgrade the risk model of the protocol. While they plan on fully decentralizing this and handing control to the community, in the meantime the admin address introduces possible vulnerabilities (as expressed by community member Ameen Soleimani to the integrity of Compound&#8217;s function. It should be noted that such vulnerabilities or attacks have not occurred to date.</p>
+<h4><b>You could die rendering your cryptocurrency inaccessible to friends or family</b></h4>
+<p>Life is unpredictable, but that doesn&#8217;t mean you can&#8217;t plan for the worst. Consider how your friends or loved ones would go about accessing your wallet if something were to happen to you. There&#8217;s no perfect solution to this problem. So, you&#8217;ll have to come up with a plan that works best for you.</p>
+<h4><b>Know the legal and tax obligations</b></h4>
+<p>We aren&#8217;t going to give you legal or tax advice. Nor are we qualified to. However, you should be aware that owning cryptocurrency, like any financial asset, comes with tax repercussions. And, you&#8217;ll almost definitely owe taxes for earning interest in DeFi. Consult a tax professional in your area for more information.</p>
+<h1>Conclusion</h1>
+<p>Don&#8217;t let this final section of risks and considerations scare you though. Any and every investment in the world comes with varying degrees of risk. It&#8217;s up to you to exercise proper to take precautions and mitigate those risks. DeFi is no different. By taking precautions like never investing more than you are willing to lose tomorrow, you can take advantage of the opportunities that exist in DeFi without being irresponsible.</p>
+<p>Most of all, <strong>CONGRATULATIONS</strong> on joining the digital economy of of the future. Decentralized finance is still growing financial sector full of opportunities. In the world of DeFi, innovations happen at a breakneck pace with new products and services being launched everyday. And now, you&#8217;re part of this special moment of history in the making.</p>
+<h2>What can I explore next?</h2>
+<h4>Additional resources to explore:</h4>
+<ul>
+<li><a href="https://defipulse.com/defi-list">The DeFi List</a> &#8211; A list of popular DeFi projects, products, services, and media</li>
+<li><a href="http://defipulse.com/income">DeFi Pulse Income</a> &#8211; Get the best lending rates in DeFi with this rate comparison tool</li>
+<li><a href="https://www.coinbase.com/earn">Coinbase Earn</a> &#8211; Learn about and earn other tokens built on Ethereum</li>
+<li><a href="https://docs.ethhub.io/">EthHub</a> &#8211; a community-sourced information hub for learning about Ethereum</li>
+</ul>
+<p><span style="font-weight: 400;">Do you still have questions or just want to stay up-to-date with the world of DeFi? Follow us on Twitter <a href="https://twitter.com/defipulse" target="_blank" rel="noopener noreferrer">@DefiPulse</a> or come chat us on <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord.</a></span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>What is a coin burn?</title>
+		<link>./../../../2019/07/22/coin-burn/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 22 Jul 2019 15:23:39 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[burn]]></category>
+		<category><![CDATA[coin burn]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[token]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7353</guid>
+
+					<description><![CDATA[A coin burn is when you take cryptocurrency, coins, or tokens and destroy them. Many coins or tokens have built-in mechanisms...]]></description>
+										<content:encoded><![CDATA[<h2></h2>
+<p>A coin burn is when you take cryptocurrency, coins, or tokens and destroy them. Many coins or tokens have built-in mechanisms which periodically burn a portion of their existing supply.</p>
+<p>The idea is pretty simple. When you burn a coin, you lower the total supply of the coins in circulation. And according to the law of supply and demand, lowering the total supply of coins should theoretically increase its value as long as there is sufficient future demand for the coin.</p>
+<h2><img loading="lazy" class="wp-image-7355 size-medium aligncenter" src="/blog/wp-content/uploads/2019/06/coinburn-300x300.png" alt="coin burn" width="300" height="300" srcset="./../../../wp-content/uploads/2019/06/coinburn-300x300.png 300w, ./../../../wp-content/uploads/2019/06/coinburn-150x150.png 150w, ./../../../wp-content/uploads/2019/06/coinburn-768x768.png 768w, ./../../../wp-content/uploads/2019/06/coinburn.png 1000w" sizes="(max-width: 300px) 100vw, 300px" /></h2>
+<h2>A coin burn is similar to a stock buyback in traditional finance</h2>
+<p>In traditional finance, companies will sometimes repurchase shares of their own stock. This is what&#8217;s called a <a href="https://www.investopedia.com/terms/s/sharerepurchase.asp" target="_blank" rel="noopener noreferrer">stock buyback</a>. The company can either buy the shares off the open market or pay shareholders a fixed price per share. Either way, you as a shareholder get to sell your shares at a profit and the company gets to increase its price-to-earnings ratio. Companies have increasingly turned to stock buybacks over issuing dividends for a number of reasons.</p>
+<p>If a company wants to bolster the performance of their stock price, they can buy back their own shares from the open market to drive up the price. Investors see this growth and the company can sell back later when it needs cash flow.</p>
+<h2>Coin burn in action</h2>
+<p>Developers have similar motivations for burning their coins or tokens. However, developers have the advantage of being able to program supply-reducing burning functions right into their smart contract. Let&#8217;s dive into a few examples of smart contracts on the Ethereum network with built-in mechanisms to burn their tokens.</p>
+<h3>Maker (MKR) tokens and the Dai Stablecoin System</h3>
+<p><a href="https://makerdao.com/" target="_blank" rel="noopener noreferrer">Maker</a> (MKR) is an ERC20 token that governs a smart contract credit system. Maker&#8217;s smart contracts allow you to borrow the stablecoin Dai against the value of your ETH. When you open a collateralized debt position (CDP) to borrow DAI, you are minting new DAI tokens.</p>
+<p>To ensure DAI is always pegged at $1, you&#8217;re charged a yearly interest rate or stability fee. The MakerDAO, compromised of MKR holders, is in charge of controlling this fee and the peg of DAI to the US dollar. When the peg slips, MKR token holders vote to adjust the fees to increase or decrease demand for DAI accordingly.</p>
+<p>When you go to repay the debt on your CDP, you&#8217;ll owe the outstanding debt in DAI and any interest fees accrued in MKR tokens. In the repayement process, you&#8217;re actually burning both the DAI and MKR tokens. Much like a stock buyback, burning MKR increases the value of remaining supply of tokens on the market as an incentive to own MKR tokens. As a MKR holders, you&#8217;re incentivized to make sure things are running smoothly much like the shareholders of a company.</p>
+<h3>Kyber Network Crystal (KNC)</h3>
+<p>The <a href="https://kyber.network/" target="_blank" rel="noopener noreferrer">Kyber Network</a> is an on-chain liquidity protocol which allows users to swap tokens through its liquidity providers. Kyber Network Crystal (KNC) is an ERC20 token involved in nearly every aspect of this decentralized liquidity network.</p>
+<p>KNC utilizes a burning mechanism to take a portion of its token supply out of circulation with every swap. Whenever you swap tokens on the Kyber Network, you pay your transaction fees in KNC. some of which is burned. Kyber recently <a href="https://blog.kyber.network/kyber-ecosystem-report-3-b2dc8ba0e44a" target="_blank" rel="noopener noreferrer">reported</a> that in May they had crossed 1,000,000 KNC tokens burned.</p>
+<p>Although that&#8217;s not all its used for, Kyber Network utilizes its token in a variety of ways to align the goals of each participant. From paying fees to open a liquidity reserve to receiving kickbacks for referrals as a vendor, the idea is to create utility and thus demand for KNC.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

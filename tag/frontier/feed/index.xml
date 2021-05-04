@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>frontier &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 26 Feb 2020 13:57:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>DeFi Dive: Frontier &#8211; DeFi Simple, Safe and Mobile</title>
+		<link>./../../../2020/02/26/defi-dive-frontier/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2020 13:57:13 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Dapp]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[ERC20]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[frontier]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[wallet]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8009</guid>
+
+					<description><![CDATA[We spoke with Frontier Co-Founder &#38; Head of Marketing Palash Jain who longs to bring DeFi to the masses with...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="512" src="./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-1024x512.png" alt="" class="wp-image-8010" srcset="./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-1024x512.png 1024w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-300x150.png 300w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-768x384.png 768w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-1536x768.png 1536w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-1568x784.png 1568w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong><em>We spoke with Frontier Co-Founder &amp; Head of Marketing Palash Jain who longs to bring DeFi to the masses with slick features like</em></strong> <strong>TxLink.<em><br></em></strong></p>
+
+
+
+<h3>How did you get your start in crypto and what inspired you to build your project, product, or service?</h3>
+
+
+
+<p>I first heard about Ethereum back in 2017, and that&#8217;s where my crypto journey started. Entered into this space out of curiosity and ended up finding the fit in this space. Since then, I have worked with promising start-ups in the space, helping them on the Marketing and the growth end. Now Leading Marketing and Growth at Frontier to bring DeFi to masses.<br></p>
+
+
+
+<h3>What are you building and what sets it apart?</h3>
+
+
+
+<p>What are you building and what sets it apart? To briefly introduce, Frontier is a mobile-first, user-facing application. Frontier natively integrates multiple DeFi Protocols and wallets, making it super easy for users to Track, View and Manage positions across various DeFi protocols in real-time without having to give away private keys. </p>
+
+
+
+<p>Frontier&#8217;s focus is bringing DeFi to Mobile, and that&#8217;s what sets us apart. We offer Native UI/UX for dApps and protocols and native wallet integration on Mobile. To bring wallet composability on mobile we came up with TxLink a middleware which enables Frontier to connect with multiple wallets such that user can choose the preferred wallet to sign transactions, thereby the user never gives away the private key nor has to import wallet. </p>
+
+
+
+<p>If we look at the current way of interacting with dApps on Mobile, the experience is slow and sluggish on dApp browsers, and if there&#8217;s a product which offers native integration of dApps, perhaps the user has to create or import wallet onto that App. The user keeps hopping from one app to another app in search of perfect DeFi experience on Mobile. With Frontier, we remove this pain point by giving the user the options to choose existing wallets to transact with and better UI/UX experience.</p>
+
+
+
+<h3>Who do you view as the ideal user or customer for your product or service?</h3>
+
+
+
+<p>Our current users are sophisticated Defi users that are aiming for maximising their returns from their investments in this space. However, what brings Defi users to Frontier is the app simplicity and its user-friendliness, hence everyone&#8217;s invited to make the most of this space. </p>
+
+
+
+<p>DeFi is for everyone and so is Frontier.</p>
+
+
+
+<h3>What future event or feature on your roadmap are you most excited for?</h3>
+
+
+
+<p>There’s a lot of exciting stuff which we are working on, our focus for the coming months is to integrate leading DeFi protocols such as MakerDao(Native Vaults module and DSR), Synthetix(Native Mintr), Compound, KAVA. Extend support to more wallets such as Gnosis Safe, Coinbase wallet. Gasless transactions for all DeFi operations via Frontier, and introduce Native staking for PoS and dPos based chains such as Matic Network.<br></p>
+
+
+
+<h3>Where do you see your project, product, or service fitting into the future of DeFi?</h3>
+
+
+
+<p>Frontier being a user-facing product, aims to bring DeFi to masses! Making it easy for users to access multiple financial protocols giving them the options to choose products based on their risk appetite. DeFi Bank which is open 24/7</p>
+
+
+
+<h3>What’s something in DeFi that you think more people should be paying attention to?</h3>
+
+
+
+<p>There&#8217;s a lot of awesome stuff people are building in this space! Every single day is exciting in DeFi. Folks should look into Ren protocol &#8211; inter-blockchain liquidity for all dApps bringing BTC to Ethereum ecosystem and of course Frontier, every DeFi user must have this App <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<h3>How can readers learn more about your product/service?</h3>
+
+
+
+<p>You can find us <a href="https://twitter.com/Frontierwallet">Twitter</a>, and you are most welcome to join our <a href="https://t.me/frontierwallet">telegram community</a>. </p>
+
+
+
+<p>Frontier App is also available on <a href="https://apple.co/2ORqvbh">App Store</a> and <a href="https://bit.ly/2ORqKTJ">Play Store</a>, or you can download the App from our website<a href="http://Frontierwallet.com/"> Frontierwallet.com</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>saddle-finance &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 23 Apr 2021 13:02:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Founder Fireside Chat with Sunil Srivatsa of Saddle</title>
+		<link>./../../../2021/04/23/founder-fireside-chat-with-sunil-srivatsa-of-saddle/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 23 Apr 2021 13:02:32 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Founder Fireside Chats]]></category>
+		<category><![CDATA[amm]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[saddle]]></category>
+		<category><![CDATA[saddle-finance]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9169</guid>
+
+					<description><![CDATA[The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/04/saddl_blog_header.png" alt="" class="wp-image-9170" width="1024" height="512"/></figure>
+
+
+
+<p class="has-medium-font-size"><em>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity to better understand their perspective and what drives them to build their vision.</em></p>
+
+
+
+<p class="has-medium-font-size">We&#8217;re back with another thought-provoking chat. This time we had the chance to talk with Sunil Srivatsa, Founder of <a href="http://saddle.finance/">Saddle</a>, about the lessons he&#8217;s learned about importance of community and the power of memes while building their AMM.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q1-1.png" alt="" class="wp-image-9026" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size">We’re building Saddle, an automated market maker for pegged value crypto assets, like tokenized bitcoin, stablecoins, or ETH derivatives.&nbsp; The team is currently wrapping up work on V1 Virtual Swaps (powered by Synthetix), which will enable large, low slippage trades between any type of asset supported by Saddle.&nbsp; These types of swaps suffer from a common flaw on L1 though, which is that they break existing aggregator integrations (e.g. 1inch, Matcha) since they are multi-step trades.</p>
+
+
+
+<p class="has-medium-font-size">Saddle solves this by being co-located with Synthetix on Optimism’s L2 scalability stack &#8211; we just recently performed our first test trades on Optimism!&nbsp; By porting our Virtual Swap contracts to Optimism, we’ll be able to offer these same swaps with instant settlement and lower transaction fees, which also makes smaller trades viable.</p>
+
+
+
+<p class="has-medium-font-size">Another key differentiator that sets us apart from similar offerings is that all of our code has been open sourced under a permissive license.&nbsp; We’ve since seen several other well known projects build upon our work, including Sushiswap V3, Nerve on Binance Smart Chain, and Snowball on Avalanche!</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">Different use cases will have different priorities when it comes to tradeoffs between security, scalability, and decentralization.&nbsp; <strong>In decentralized finance, applications are handling large amounts of capital and user funds, and security is generally the most important consideration.</strong></p>
+
+
+
+<p class="has-medium-font-size">Security lapses, especially ones that involve the loss of funds, are some of the worst events for a protocol’s reputation.&nbsp; The security of user funds is our top priority, which is why we conducted three back-to-back smart contract audits with Certik, Quantstamp, and Open Zeppelin before launching Saddle.</p>
+
+
+
+<p class="has-medium-font-size"><strong>A common place where you can see this tradeoff in action is how many protocols have a smaller multisig with admin key capabilities for emergency situations</strong> (e.g. temporarily pausing trades if a vulnerability is found).&nbsp; In these cases, protocols are trading decentralization for security.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/04/Q6.png" alt="" class="wp-image-9134" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/04/Q6.png 1200w, ./../../../wp-content/uploads/2021/04/Q6-300x55.png 300w, ./../../../wp-content/uploads/2021/04/Q6-1024x188.png 1024w, ./../../../wp-content/uploads/2021/04/Q6-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size"><strong>It’s vital that community members feel ownership and a sense of belonging.&nbsp; </strong>Compound’s launch of the COMP governance token in June of last year revolutionized community ownership by introducing the concept of giving away network equity to users.&nbsp; This approach was iterated on by Andre Cronje, who popularized the “fair launch” when releasing Yearn.</p>
+
+
+
+<p class="has-medium-font-size">Contrast this with traditional businesses, where ownership is usually only available to tenured employees or a privileged few.&nbsp;<strong> This new ownership and equity paradigm makes it significantly easier to grow tight knit communities with aligned incentives.</strong>&nbsp; Some examples of awesome communities are the Chainlink Marines and Synthetix Spartans.&nbsp; We’re in the early days here at Saddle, and I’m incredibly excited for what the future holds for all of us!</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q3-1.png" alt="" class="wp-image-9031" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size">Decentralized autonomous organizations, or DAOs.&nbsp; I fell down the DAO and governance rabbit hole in June 2020 when I co-founded Urza DAO, a for-profit DAO focused on staking and liquidity mining opportunities.&nbsp; The DAO has since grown to 24 members and ~$3.5MM in crypto assets under management and I’ve learned a bunch along the way.</p>
+
+
+
+<p class="has-medium-font-size">DAOs are an exciting new coordination mechanism and we’re just starting to explore what’s possible with them.&nbsp; <br><strong>Here are a few DAO-related projects I’d keep an eye on:</strong><br><a href="https://coordinape.com/">Coordinape</a>, by tracheopteryx et al at Yearn<br><a href="https://daohaus.club/">Daohaus</a><br><a href="https://withtally.com/">Tally</a><br><a href="http://boardroom.to/">Boardroom</a><br><a href="https://deepdao.io/">DeepDAO</a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q4-1.png" alt="" class="wp-image-9032" width="1200" height="220"/></figure>
+
+
+
+<p class="has-medium-font-size"><strong>Never underestimate the power of memes.</strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/04/andre-bikestick.png" alt="" class="wp-image-9173" width="350" height="501"/></figure>
+
+
+
+<p class="has-medium-font-size">Definitely the Andre Cronje bicycle meme</p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-very-light-gray-background-color has-very-light-gray-color is-style-wide"/>
+
+
+
+<p class="has-medium-font-size">Thanks for your time and the insights for Sunil. You can find Sunil on Twitter at <a href="https://twitter.com/devops199fan">@devops199fan</a>. Keep up to date with <a href="http://saddle.finance/">Saddle</a> by following them on <a href="https://twitter.com/saddlefinance">Twitter</a>, reading their <a href="https://medium.com/saddle">blog</a>, and joining their <a href="https://discord.gg/hX8RZFBW9R">Discord</a> or <a href="https://t.me/saddle_finance">Telegram</a>.</p>
+
+
+
+<p class="has-medium-font-size"><strong>Thanks for reading! </strong>Please be sure to share with us which founders you think should be highlighted next.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

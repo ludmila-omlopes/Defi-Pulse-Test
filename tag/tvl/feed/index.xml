@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tvl &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Feb 2020 16:04:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>DeFi breaks $1 Billion Total Value Locked (TVL)</title>
+		<link>./../../../2020/02/07/1-billion-tvl-in-defi/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 07 Feb 2020 16:04:45 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[defipulse]]></category>
+		<category><![CDATA[tvl]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7957</guid>
+
+					<description><![CDATA[It&#8217;s official! Decentralized Finance (DeFi) has reached a new milestone surpassing $1,000,000,000 Total Value Locked (TVL). Thank you to the...]]></description>
+										<content:encoded><![CDATA[<p>It&#8217;s official! Decentralized Finance (DeFi) has reached a new milestone surpassing $1,000,000,000 Total Value Locked (TVL).</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-7960" src="./../../../wp-content/uploads/2020/02/Selection_981.png" alt="" width="895" height="314" srcset="./../../../wp-content/uploads/2020/02/Selection_981.png 895w, ./../../../wp-content/uploads/2020/02/Selection_981-300x105.png 300w, ./../../../wp-content/uploads/2020/02/Selection_981-768x269.png 768w" sizes="(max-width: 895px) 100vw, 895px" /></p>
+<p>Thank you to the community for every like, share, retweet, mention, citation, and refresh! $1 Billion marks an important milestone for DeFi to be celebrated. It illustrates the progress we&#8217;ve made towards our community&#8217;s vision of decentralized finance and the future of the world at large.</p>
+<p>Additionally, $1B feels like an early birthday present for DeFi Pulse which was launched in February 2019. Come celebrate with us in our <a href="http://t.me/defipulse">Telegram</a> or <a href="https://discord.gg/Gx4TCTk">Discord</a>!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

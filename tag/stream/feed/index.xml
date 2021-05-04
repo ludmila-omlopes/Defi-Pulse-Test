@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>stream &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 20 Jan 2020 16:12:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>DeFi Dive: Sablier &#8211; the protocol for real-time finance on Ethereum</title>
+		<link>./../../../2020/01/20/defi-dive-sablier-protocol/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 20 Jan 2020 16:12:19 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[defipulse]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Payments]]></category>
+		<category><![CDATA[sablier]]></category>
+		<category><![CDATA[stream]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7902</guid>
+
+					<description><![CDATA[Today we interview Paul Razvan Berg, previously a part of Aztec Protocol, self-proclaimed &#8220;Streamer of Money&#8221; and the man behind...]]></description>
+										<content:encoded><![CDATA[<p><strong><em><img loading="lazy" class="alignnone wp-image-7909 size-full" src="./../../../wp-content/uploads/2020/01/DFP-defi-dive-sablier-twitter-thumbnail.png" alt="" width="1024" height="512" srcset="./../../../wp-content/uploads/2020/01/DFP-defi-dive-sablier-twitter-thumbnail.png 1024w, ./../../../wp-content/uploads/2020/01/DFP-defi-dive-sablier-twitter-thumbnail-300x150.png 300w, ./../../../wp-content/uploads/2020/01/DFP-defi-dive-sablier-twitter-thumbnail-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></em></strong></p>
+<p><strong><em>Today we interview Paul Razvan Berg, previously a part of Aztec Protocol, self-proclaimed &#8220;Streamer of Money&#8221; and the man behind new <a href="https://www.sablier.finance/">Sablier</a>.</em></strong></p>
+<h3>How did you get your start in crypto and what inspired you to build Sablier?</h3>
+<p>The bull market of 2017 took me by surprise and I said to myself that there must be some kind of fundamentals behind all the hype. It turned out there was and I&#8217;ve been involved with Ethereum and smart contracts ever since.</p>
+<p>I started working on Sablier after getting my paycheck delayed by a few days. Mind you, I was working at a crypto startup, so I asked myself why do we have to use these legacy payment systems when smart contracts can be as fast as &#8230; real-time?</p>
+<h3>What are you building and what sets it apart?</h3>
+<p>Building Sablier, the protocol for real-time finance. Just like you can stream music on Spotify, so you can stream money on Sablier.</p>
+<p>As far as I know, we are the first Ethereum project to have implemented a money streaming protocol that is production-ready and is accompanied by a nice user interface.</p>
+<h3>Who do you view as the ideal user or customer for your product or service?</h3>
+<div class="answer__Wrapper-sc-1k75oj5-1 cdoaIi">
+<div class="Split-sc-3xe4fi-0 answer__BlockSplit-sc-1k75oj5-4 dSektV">
+<div class="SplitItem-sc-3xe4fi-1 hqqccI">
+<p><span class="Text-wqps8m-0 text-value__ValueText-di8e7l-0 jZTfRo fs-block" data-qa="response-answer">DeFi people, particularly freelancers and gig workers, but we have bigger plans for the long term. Check out this Twitter thread.&nbsp;</span></p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">1/</p>
+<p>Today, we&#8217;re publishing &#8220;Building with Sablier&#8221;: a broad collection of ideas and use cases for real-time finance<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/23f3.png" alt="⏳" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>This is invite for you to steal any of the tweets below and make it your own project <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>We provide you with the picks &amp; shovels for the money streaming part <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f4b8.png" alt="💸" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/WWPCtItsHs">pic.twitter.com/WWPCtItsHs</a></p>
+<p>— Sablier (@SablierHQ) <a href="https://twitter.com/SablierHQ/status/1214239545220386819?ref_src=twsrc%5Etfw">January 6, 2020</a></p></blockquote>
+<p><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+</div>
+</div>
+</div>
+<h3>What future event or feature on your roadmap are you most excited for?</h3>
+<p>Sablier v1 is cool, but we can do much better. I look forward to not require our users to deposit in advance, so they can start a stream for e.g. 1 year without having the money upfront.</p>
+<h3>Where do you see your Sablier fitting into the future of DeFi?</h3>
+<p>Sablier provides insurance and optionality by making the passage of time itself the trust-binding mechanism.</p>
+<p>I know nothing about the future, but we came up with a new financial contract. I&#8217;m excited to see what people will use it for!</p>
+<h3><span class="Text-wqps8m-0 answer__QuestionText-sc-1k75oj5-0 jWxpxy" data-qa="response-question">What’s something in DeFi that you think more people should be paying attention to?</span></h3>
+<div class="Spacer-cjod5i-0 frBWpl">+ Zero-knowledge proof technology (ZKSync, STARKs, AZTEC)</div>
+<div class="Spacer-cjod5i-0 frBWpl">+ Automated investment vehicles (TokenSets, DeFiZap)</div>
+<div class="Spacer-cjod5i-0 frBWpl">+ Smart contract wallets</div>
+<div class="Spacer-cjod5i-0 frBWpl">+ Permissionless employment (Gitcoin, CLR matching)</div>
+<h3>How can readers learn more about Sablier?</h3>
+<div>Our FAQ page is a good place to start: <a href="https://faq.sablier.finance/">https://faq.sablier.finance/ </a></div>
+<div>For any questions, ideas, or issues, please join <a href="https://shr.link/paazu">Sablier&#8217;s Discord community</a>.</div>
+<div></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>alpha &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sun, 31 Jan 2021 23:58:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Alpha Homora V2 &#8211; Yield Farm With Up To 9x Leverage</title>
+		<link>./../../../2021/01/31/alpha-homora-v2/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 31 Jan 2021 23:58:58 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[alpha]]></category>
+		<category><![CDATA[alpha homora]]></category>
+		<category><![CDATA[farming]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[tokens]]></category>
+		<category><![CDATA[yield]]></category>
+		<category><![CDATA[yield farming]]></category>
+		<category><![CDATA[yieldfarming]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8837</guid>
+
+					<description><![CDATA[Alpha Homora was a DeFi product born out of practicality. Those familiar with DeFi can tell you that users will...]]></description>
+										<content:encoded><![CDATA[
+<p>Alpha Homora was a DeFi product born out of practicality. Those familiar with DeFi can tell you that users will go to extraordinary lengths when they spot an opportunity. This proved to be especially true as the yield farming craze reached a fever pitch in 2020 when users would combine various lending protocols to leverage yield farming opportunities. It wasn’t long before <a href="https://alphafinance.io/">Alpha Finance Lab</a> spotted this gap in the market and created Alpha Homora to give users a better way to yield farm with leverage more efficiently while also attempting to minimize the risks involved.</p>
+
+
+
+<p>Alpha Homora V2 builds on the popular Alpha Homora V1 yield farming product, supporting more AMM protocols, including Curve, Balancer, SushiSwap, and Uniswap, allowing yield farmers to borrow various assets in addition to ETH, and enabling leverage of up to 9x leverage thanks to new partnerships.<strong> </strong><a href="https://homora-v2.alphafinance.io/"><strong>Alpha Homora V2</strong></a><strong> is set to launch on Feb 1st.&nbsp;</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/01/alpha-social-thumb-1024x549.png" alt="" class="wp-image-8843" width="768" height="412" srcset="./../../../wp-content/uploads/2021/01/alpha-social-thumb-1024x549.png 1024w, ./../../../wp-content/uploads/2021/01/alpha-social-thumb-300x161.png 300w, ./../../../wp-content/uploads/2021/01/alpha-social-thumb-768x411.png 768w, ./../../../wp-content/uploads/2021/01/alpha-social-thumb.png 1400w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
+
+
+
+<h2>How does leveraged yield farming work?</h2>
+
+
+
+<p>Manually yield farming with leverage required you to take out and manage loans across several lending platforms in what amounted to a nerve-wrecking position that could be extremely hard to ‘unwind’. Using <a href="https://homora-v2.alphafinance.io/">Alpha Homora V2</a> is a lot simpler and helps minimize the risks involved (though <a href="https://alphafinancelab.gitbook.io/alpha-homora/risk">nothing is risk-free</a>). First, you select a supported liquidity pool from popular exchanges like SushiSwap, Uniswap, Balancer, and Curve that are on Alpha Homora v2 and then supply either or both of the tokens to your desired pool. For example, if you choose the SushiSwap&#8217;s ETH/USDC pool that is on Alpha Homora V2 you can provide ETH, USDC, or both. Note, you don’t need to have equal value of both tokens in order to yield farm with Alpha Homora V2.&nbsp;</p>
+
+
+
+<p>Next, you’ll decide whether or not you want to use leverage (which goes up to 9x for selected pools). And then, follow the prompts to confirm and submit your transaction and <em>viola </em>Alpha Homora automagically handles the rest. Users can borrow multiple assets, re-leverage, and deleverage their positions easily in just a few clicks. Compared to doing this process by hand, Alpha Homora can <em>feel like magic.</em> It’s easy to see where the name comes from.</p>
+
+
+
+<h1>What’s new in Alpha Homora V2?</h1>
+
+
+
+<p>Strong partnerships have shaped the design of Alpha Homora V2. Many of you may have noticed that V2 allows yield farmers to take advantage of significantly more leverage than its predecessor. Behind the scenes, Alpha Homora V2 utilizes CREAM V2’s liquidity to take on leverage for its users. Sometimes referred to as The Iron Bank, CREAM V2 allows whitelisted partner protocols like Alpha Homora V2 to take out loans with less collateral requirements. This results in more leverage for Alpha Homora’s yield farmers and higher interest rates for CREAM V2 users.<br></p>
+
+
+
+<p>Alpha Finance Labs worked closely with its partners to enable leveraged yield farming of liquidity pools on Curve, Balancer, SushiSwap, and Uniswap. And in an effort to help strengthen its partners’ communities, Alpha Homora V2 will not automatically sell and reinvest the farmed tokens. <strong>At launch, Alpha Homora V2 will feature the following leveraged farming pools:</strong></p>
+
+
+
+<p><strong>New leveraged pools:</strong></p>
+
+
+
+<ul><li>Curve’s 3pool (USDT, USDC, DAI)</li><li>Balancer’s PERP/USDC</li></ul>
+
+
+
+<p><strong>Pools migrated from V1:</strong></p>
+
+
+
+<ul><li>SushiSwap’s ETH/SUSHI</li><li>Uniswap’s ETH/UNI</li></ul>
+
+
+
+<p>In a nutshell, farmers will be able to leverage USDT, USDC, DAI, and ETH to farm CRV, PERP, or SUSHI tokens with up to 9x leverage. On the flipside, lenders will be able to lend ETH, USDT, USDC, and DAI on day one to start earning interest. The plan is to continue to add even more new pools and migrate more pools from V1 over time.&nbsp;</p>
+
+
+
+<p>For those curious, be sure to check out these fantastic posts written by the Alpha Finance team that walks you through Alpha Homora V2 from the perspective of <a href="https://blog.alphafinance.io/alpha-homora-v2-in-yield-farmers-perspectives/">yield farmers</a> and <a href="https://blog.alphafinance.io/alpha-homora-v2-in-lenders-perspectives/">lenders</a>. Alpha Homora is also offering additional yield in the form of ALPHA rewards for both farmers. See <a href="https://alphafinancelab.gitbook.io/alpha-homora/liquidity-mining-part-2a">here</a> for more information.</p>
+
+
+
+<h2>Migrating to V2</h2>
+
+
+
+<p>To ensure a smooth transition, ALPHA rewards will continue for a limited time for those liquidity mining on Alpha Homora V1. Although farmers should be aware that leveraged positions on Alpha Homora v2 will get more rewards compared to those on V1. This creates an incentive to migrate sooner rather than later. Here’s <a href="https://blog.alphafinance.io/72-hour-countdown/">a step-by-step guide</a> for those looking to migrate.</p>
+
+
+
+<h2>What is ibETHv2?</h2>
+
+
+
+<p>When you lend out an asset on Alpha Homora, you receive the corresponding ibToken or interest bearing token. ibETHv2 is an interest-bearing ETH token you receive when lending ETH to Alpha Homora V2. Alpha Homora typically has competitive yields for ETH due to the high demand from its leverage yield farming pools. Alpha Finance Lab also runs a <a href="https://alphafinancelab.gitbook.io/alpha-homora/trading-volume-mining-part-2b">Trading Volume Mining</a> program which rewards users for supplying liquidity to ibETH/ALPHA and ibETHv2/ALPHA pools.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/o7JpNF2vwiZxUlXbPbEtUtMMlbqUwQM-KpKE5OSCqCYH0jEBrzXPKlkjlCp1E7fk5JD8rQx5sGaQqQaShoaL1BF8_FuqNWS_yV7z5qzmfbBNjFw_L6otv5Yzlfeo2yw2RYBZgEsm" alt=""/></figure>
+
+
+
+<p>The ibETHv2/ALPHA pool on SushiSwap <a href="https://blog.alphafinance.io/72-hour-countdown/">goes live on Feb 3rd</a>. Liquidity providers of this pool will receive ALPHA rewards as well as SUSHI tokens from SushiSwap’s Onsen program. Rewards from Alpha Finance’s Trading Volume Mining program will be reflected in the form of trading fees APY when you remove liquidity (not airdropped to your wallet). Those providing liquidity to the ibETH/ALPHA pool on Uniswap will still receive rewards until Feb 3rd, 1pm UTC.</p>
+
+
+
+<h1>Closing Thoughts</h1>
+
+
+
+<p>Alpha Finance Lab’s initial release of Alpha Homora was well-received by the DeFi community given the immediate utility it provided to yield farmers. Alpha Homora V2 built on this popular platform to provide more utility for its users and value for its partner protocols. Key partnerships like the utilization of CREAM V2’s Iron Bank will allow Alpha Homora V2’s users to achieve higher levels of capital efficiency. It’s undeniable we’ve entered a new era in DeFi where partnerships can give you an edge more now than ever. So it will be very interesting to see how such a deep protocol level partnership influences the future growth of both platforms. Regardless of how things pan out, Alpha Homora V2 users will reap the benefits in the meantime.</p>
+
+
+
+<p>Thanks for reading! Be sure to keep your eyes out for <a href="https://homora-v2.alphafinance.io/">Alpha Homora V2</a> set to launch Feb 1, 2020. Follow <a href="https://twitter.com/alphafinancelab">Alpha Finance on Twitter</a> for the latest updates or join their <a href="https://discord.com/invite/Z2vuKDT">Discord</a> or <a href="https://t.me/AlphaFinanceLab">Telegram</a> to discuss the future of Alpha Finance Lab and its products.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Alpha Finance Lab to help educate and inform the community about the launch of Alpha Homora V2. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

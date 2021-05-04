@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rari &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 19 Oct 2020 13:59:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Rari Capital V2: A Yield Maximizing Robo-Advisor for Any Risk Appetite</title>
+		<link>./../../../2020/10/19/rari-capital-v2/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2020 13:59:29 +0000</pubDate>
+				<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[aggregator]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[rari]]></category>
+		<category><![CDATA[yield farming]]></category>
+		<category><![CDATA[yieldfarming]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8580</guid>
+
+					<description><![CDATA[As any yield farmer can tell you, chasing higher yields can be a risky endeavour and in most cases is...]]></description>
+										<content:encoded><![CDATA[
+<p>As any yield farmer can tell you, chasing higher yields can be a risky endeavour and in most cases is not a sustainable strategy for the average user. It’s all too easy to get caught up in hype and be blinded by outrageous yields. If you aren’t careful or are simply unaware of risks such as hidden backdoors in unaudited smart contracts, it becomes increasingly possible that you could get burned. Getting exploited, “rug pulled”, and otherwise losing your investment is devastating. This sort of risk is intolerable for most investors. Although, that doesn’t mean those same investors aren’t out to maximize their yields; They simply want to strike the right balance of risk versus reward. This is exactly what <a href="https://www.rari.capital/">Rari Capital</a> aims to offer users: a way to maximize DeFi returns while minimizing risks. <strong>Rari Capital V2, launching October 20th, 2020, has even more to offer than its predecessor.<br></strong><br>Rari Capital is a robo-advisor for DeFi which optimizes for the highest possible yield. Rari Capital&#8217;s ‘DeRisking as a Service’ approach is largely what sets them apart from the pack. Armed with the experience of having co-founded Ambo (later acquired by MyCrypto), the Rari team has experienced first-hand the value of earning the community’s trust. So when they set out to build a protocol that anyone can use to maximize returns in DeFi, risk management and transparency were top priorities. If you haven’t already, we recommend checking out <a href="https://defipulse.com/blog/rari-capital/">our coverage of Rari Capital V1’s guarded launch</a>.<br><br>The Rari team has been busy since we last checked in with them developing features and integrations, perfecting new strategies, and preparing for the<strong> </strong>launch of Rari Capital V2.</p>
+
+
+
+<h2>Goodbye deposit limits</h2>
+
+
+
+<p>As part of its guarded launch, Rari V1 launched with deposit limits designed to manage risks and grow the platform in a controlled manner. Thorough <a href="https://www.rari.capital/risks.html">risk assessment</a> for integrations and transparency have also been core components of Rari’s guarded launch allowing the team to gradually increase the deposit limits over time. Rari is <a href="https://quantstamp.com/blog/chasing-yield-with-defi-aggregators">working with Quantstamp</a> on several security reviews. <strong>Rari Capital has since removed deposit limits. </strong></p>
+
+
+
+<h2>New integrations enable higher yields</h2>
+
+
+
+<p>Since the launch of Rari Capital V1, <a href="https://medium.com/rari-capital/rari-capital-integrates-aave-fa2574a15a3a">Aave</a> and mStable have been integrated into the protocol. It doesn’t stop there though; Rari Capital V2 goes beyond lending protocols and stablecoin swaps to achieve higher returns for its users. In the past few weeks, Rari’s theoretical APY has spiked as high as 109%, thanks in part to the recent mStable integration.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh4.googleusercontent.com/z6Fuc0bQhXYIz75pRi-w5hIfH5A4NRLHJm-sqAJ6Aa95BydKOwv5zZ0fjnEQu1vyE4_Ik0wwAzpJuRDw8jXTbGLAeofiYSL-G2wo1dKFN7lHI0piviCrcaXq0gLc4WpgN4WIyBOj" alt=""/></figure>
+
+
+
+<p><br>The Rari team continues to explore new integrations to optimize pool strategies including yEarn and <a href="https://medium.com/rari-capital/rari-capital-x-synthetix-48413e50a56e">Synthetix</a>.&nbsp;</p>
+
+
+
+<h2>3 Pools with Unique Strategies</h2>
+
+
+
+<p>Rari is introducing 3 pools with strategies that cater to different risk appetites. The Rari team is also working on even more new strategies that will be able to weather any crypto market conditions generating sustainable yields.</p>
+
+
+
+<p><strong>Rari Stable Pool (RSPT)</strong></p>
+
+
+
+<p>This pool caters to the risk-averse investor seeking to maximize their USD-based returns with caution, making use of exclusively audited smart contracts in its strategy.</p>
+
+
+
+<p><strong>Rari Yield Pool (RYPT)</strong></p>
+
+
+
+<p>Are you willing to risk it for the biscuit as they say? This pool will always have the highest yield utilizing anything from unaudited smart contracts to even leverage in order to maximize your returns at all costs. You can think of this pool as: higher risk, higher reward.</p>
+
+
+
+<p><strong>Rari ETH Pool (REPT)</strong></p>
+
+
+
+<p>If you’re the type of person that measures their net worth in ETH, this pool is for you. The Rari ETH Pool aims to provide consistent returns based in ETH.</p>
+
+
+
+<h2>Rari Governance&nbsp;</h2>
+
+
+
+<p>The upgrade to version 2.0 also introduces decentralized governance to Rari Capital via Rari Governance Tokens (RGT). RGT holders will decide how to govern the protocol and the Rari Treasury, determining new protocols integrations, pool parameters, and risk parameters. RGT can be staked to receive fee discounts from the Rari Protocol, a feature powered by Chainlink. Rari Capital V2 is designed so that 70% of all protocol revenue will be used to buy and burn RGT, reducing the total supply.</p>
+
+
+
+<h3>Passthrough Governance</h3>
+
+
+
+<p>Rari’s governance has a cool feature called ‘Passthrough Governance’ where if a pool begins to accumulate tokens such as COMP or BAL, RGT holders can use these tokens to engage in their respective governance systems. It’s a practical solution that mitigates the current shortcoming found in other protocols where users must sacrifice the ability to engage with token governance in order to utilize an automated strategy. As Rari continues to integrate more and more protocols, this feature may become more important over time. Some protocols issue rewards for participating in governance which means this feature could potentially be used as part of a yield generating strategy at some point in the future.</p>
+
+
+
+<h3>Liquidity Mining</h3>
+
+
+
+<p>87.50% of RGT will be distributed over a 60 day period via a liquidity mining program set to start on October 20th, 2020 with the launch of Rari Capital V2. The remaining RGT is reserved for the Rari team and is subject to a vesting schedule. <strong>For full details, we recommend reading </strong><a href="https://medium.com/rari-capital/announcing-rgt-the-long-term-yield-token-b2593502a7f3"><strong>the RGT announcement post</strong></a><strong>. It’s worth noting that while the distribution will last 60 days nearly half of the tokens will be distributed in the first 15 days. Additionally, “there is a ‘burn’ as a user when you attempt to transfer your $RGT before the 60-day distribution schedule is expired.”</strong></p>
+
+
+
+<h2>Concluding Thoughts</h2>
+
+
+
+<p>Rari Capital V2 further cements its product-market fit by offering more to users of any risk appetite. Whether you’re looking to earn risk-minimized returns on idle ETH or stablecoins or you’d rather chase the highest yields, Rari Capital’s sophisticated robo-advisor can be an effective tool in your arsenal. And it’s safe to expect more pools and integrations on the horizon, especially with the introduction of community governance. It’ll also be curious to see how the community chooses to govern the protocol and in what ways they may evolve each strategy.</p>
+
+
+
+<p><strong>Rari Capital V2 is set to launch on October 20th, 2020</strong>. Be sure to check it out at <a href="https://app.rari.capital/">Rari Capital</a> when the time comes and <a href="https://twitter.com/Raricapital">follow them on Twitter</a> in the meantime to hear the latest regarding the launch of V2.</p>
+
+
+
+<p><strong><em>Disclosure: This post is part a promotional series; We’ve partnered with Rari Capital to help educate and inform the community about the launch of Rari Capital V2. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Rari Capital &#8211; A Yield-Maximizing Robo-Advisor that Takes Risk Management Seriously</title>
+		<link>./../../../2020/07/27/rari-capital/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2020 17:18:55 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[rari]]></category>
+		<category><![CDATA[rari capital]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8419</guid>
+
+					<description><![CDATA[With many in DeFi wildly chasing yield nowadays, Rari Capital has uniquely positioned themselves by approaching things from a different...]]></description>
+										<content:encoded><![CDATA[
+<p>With many in DeFi wildly chasing yield nowadays, Rari Capital has uniquely positioned themselves by approaching things from a different angle. Rari Capital&#8217;s goal is to build the smartest stable robo-advisor in the industry with one simple purpose: optimize for the highest return in a way that attempts to minimize user risks. While they may not be the first robo-advisor in the market, it&#8217;s the Rari Capital team&#8217;s focus on growing the platform and deploying new strategies in a way that manages risks that sets them apart.</p>
+
+
+
+<p>Having been working in stealth mode for a few months, Rari Capital 1.0 launched on July 14th, 2020. Anyone can <a href="https://app.rari.capital/">deposit assets into Rari Fund and generate yield</a> through a combination of lending DAI and USDC to dYdX as well as DAI, USDC, and USDT to Compound. On top of that, the fund earns additional returns by strategically swapping between stablecoins and through protocol rewards like COMP, which are liquidated and distributed to Rari Fund Token (RFT) holders every 3 days. Rari&#8217;s current strategy is generating +18% APY for Rari users at the moment. That said, Rari plans to iterate with new strategies every month. The team boasts intense review processes for each strategy taking into account potential risks, maintenance, and profits of course. As of now, Rari Capital has received a short-form audit from Quantstamp. In general, the Rari Capital team seems particularly attentive to the needs of their users even recently offering to cover gas fees for first time user deposits of at least $250.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://www.rari.capital/index.html"><img loading="lazy" width="1024" height="512" src="./../../../wp-content/uploads/2020/07/rari-twitter-thumb.jpg" alt="" class="wp-image-8436" srcset="./../../../wp-content/uploads/2020/07/rari-twitter-thumb.jpg 1024w, ./../../../wp-content/uploads/2020/07/rari-twitter-thumb-300x150.jpg 300w, ./../../../wp-content/uploads/2020/07/rari-twitter-thumb-768x384.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h2>Rari Capital&#8217;s robo-advisor optimizes returns with a focus on risk-management</h2>
+
+
+
+<p>The Rari Capital team comes from a variety of backgrounds including working for MyCrypto, an industry-leading wallet which prides itself on improving user safety. And as such, they&#8217;ve witnessed countless people putting themselves and their funds in risky situations to earn a higher return. You can see how this naturally led Rari team members to want to build a better way for users like yourself to earn returns in DeFi.</p>
+
+
+
+<h3>How it works in a nutshell</h3>
+
+
+
+<p>When you deposit assets into Rari Fund, you mint Rari Fund Tokens (RFT) equivalent to your deposit and <a href="https://app.rari.capital/">begin earning interest</a> (currently around 18% APY at the time of writing this). As described before, Rari Fund generates yield through a combination of lending protocols, strategic stablecoin rebalancing, and protocol rewards such as COMP. The value of RFT is equivalent to the stablecoins held by Rari Fund plus any yield generated. These RFT tokens are then burned when you go to withdraw your holdings.</p>
+
+
+
+<p>Rari Capital charges a 20% performance fee on the interest generated by Rari Fund. As stated on their homepage: &#8220;The more money you make, the more money we make. We want you to win and our algorithms make sure that you do.&#8221; This model seems to fit Rari well because it creates a direct incentive for the Rari Capital team to manage the fund in a safe and productive manner.</p>
+
+
+
+<h3>&#8220;DeRisking as a Service&#8221;</h3>
+
+
+
+<p>Rari Capital is transparent with its users about <a href="https://www.rari.capital/current.html">how the platform works</a> and <a href="https://www.rari.capital/risks.html">the risks involved</a>.</p>
+
+
+
+<p>Rari Capital&#8217;s approach might be described as a guarded launch attempting to establish a product-market fit of &#8220;DeRisking as a Service&#8221; as <a href="https://medium.com/electric-capital/derisking-defi-guarded-launches-2600ce730e0a">outlined by Ken Deeter of Electric Capital</a>. The concept of a guarded launch is based on the canary deployment process used by big tech companies to deploy new code to a small portion of their userbase, gradually expanding to everyone. Start small, lowering the stakes and then increase risks in a controlled manner.</p>
+
+
+
+<p>The key to &#8220;DeRisking as a Service&#8221; is to build a foundation of trust to scale into the future. You allow users to interact with your product in a limited capacity. As things go well, users and devs gain confidence in the product and so risk controls can slowly be relaxed to allow the platform to grow. It boils down to if you as a user trust that a service is safe, you&#8217;re more likely to recommend it to a friend or even entrust it with more of your hard-earned money. I&#8217;m sure you can see how this approach likely appeals to DeFi users with a low appetite for risk.</p>
+
+
+
+<p>As part of its guarded launch, Rari Capital currently limits user deposits to $350. Additionally, Rari&#8217;s initial strategy attempts to reduce risks by also limiting asset types to only DAI, USDC, and USDT as well as reducing code complexity by interacting with only trusted protocols. Rari&#8217;s smart contracts are also controlled by a multi-signature wallet which requires the signatures from 3 out of 5 keys to upgrade. While some aspects of Rari&#8217;s design such as its rebalancer remain centralized, the team is sure to inform users of this and has a clear focus on risk-management and security.</p>
+
+
+
+<h2>Concluding thoughts</h2>
+
+
+
+<p>I fully expect Rari Capital to find a product-market fit among risk-averse users who still want exposure to sophisticated lending and yield farming strategies in DeFi. Rari Capital offers a convenient and measured approach to earning returns on idle funds and its evolving strategy will enable passive yield farming strategies from trusted protocols for many users. I look forward to seeing what protocols will be integrated in the future; a recent Twitter poll indicated the community was interested in integrating Aave next.</p>
+
+
+
+<p><strong>Give <a href="https://app.rari.capital/">Rari Capital</a> a try today! Rari is currently covering gas fees for first-time user deposits of at least $250.</strong> All deposits made this week will directly support our work here at DeFi Pulse. Thanks for reading and for your continued support.</p>
+
+
+
+<p><em>Disclosure: This post is part a promotional series; We&#8217;ve partnered with Rari Capital to spread the word about their risk-minimizing robo-advisor. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

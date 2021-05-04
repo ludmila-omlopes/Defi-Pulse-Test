@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>vesper finance &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sun, 14 Feb 2021 16:57:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Vesper &#8211; Toward a Sustainable Ecosystem of DeFi Products</title>
+		<link>./../../../2021/02/14/vesper/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 14 Feb 2021 16:57:01 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[New Features]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[passive income]]></category>
+		<category><![CDATA[vesper]]></category>
+		<category><![CDATA[vesper finance]]></category>
+		<category><![CDATA[yield farming]]></category>
+		<category><![CDATA[yield-bearing]]></category>
+		<category><![CDATA[yieldfarming]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8870</guid>
+
+					<description><![CDATA[DeFi is a fast moving and highly competitive space. While DeFi may level the playing field by allowing anyone to...]]></description>
+										<content:encoded><![CDATA[
+<p>DeFi is a fast moving and highly competitive space. While DeFi may level the playing field by allowing anyone to participate, it still comes with risks and has a steep learning curve. When these factors are combined, it’s easy to see how the average user may feel left behind at times. Built by the team at Bloq, <a href="http://pubads.g.doubleclick.net/gampad/clk?id=5620418823&amp;iu=/22134506417">Vesper Finance</a> attempts to lower the barrier to entry for users by striking a balance between professionalism and DeFi’s dynamism in its products. Vesper’s first product — Vesper Grow, originally introduced as “Holding Pools” — offers users an easier way to passively earn a yield with their tokens, though with several innovations including a <a href="https://medium.com/vesperfinance/inside-vesper-modularity-48e64c810760">modular</a>, <a href="https://medium.com/vesperfinance/inside-vesper-multi-pool-3ea7f7325d39">multi-pool</a> design enabling pools to adapt and transition strategies behind the scenes.&nbsp;</p>
+
+
+
+<p>Vesper’s ultimate goal is to create DeFi products with a set-and-forget type experience that adhere to Vesper’s stated <a href="https://medium.com/vesperfinance/vespers-core-principles-491c169778e1">Core Principles</a>: longevity, quality, trust, and community. Vesper’s roadmap is guided by these principles, featuring an economic model crafted to align Vesper stakeholders via VSP token incentives and community-created pools (More below.) <strong>Vesper emerges from beta on </strong><a href="https://medium.com/vesperfinance/vesper-launch-date-february-17-2021-c08245cd3f18"><strong>February 17, 2021</strong></a><strong>.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=5620418823&amp;iu=/22134506417"><img loading="lazy" width="604" height="179" src="./../../../wp-content/uploads/2021/02/ONoLln5Q.png" alt="" class="wp-image-8888" srcset="./../../../wp-content/uploads/2021/02/ONoLln5Q.png 604w, ./../../../wp-content/uploads/2021/02/ONoLln5Q-300x89.png 300w" sizes="(max-width: 604px) 100vw, 604px" /></a></figure>
+
+
+
+<h2>Vesper Grow &#8211; adaptable pools with more than meets the eye</h2>
+
+
+
+<p>In a nutshell, you deposit a token into a Vesper Grow pool, the pool then automatically puts your tokens to work in other DeFi protocols earning a passive return in the deposited token based on your chosen asset and risk tolerance. Vesper pools are scored and placed into two risk categories: <a href="https://medium.com/vesperfinance/the-vesper-view-defining-conservative-vs-aggressive-ac5d44950384">Conservative and Aggressive Pools</a>. Risk scoring assesses the complexity of a pool’s underlying strategy, security of the protocols it interacts with, and the collateral ratios among other technical factors.</p>
+
+
+
+<p>At first glance, Vesper may appear similar to other vault-like products, but upon further examination there is more than meets the eye. From a user’s perspective, a Vesper Grow pool represents a “front pool” that all tokens are deposited into. However, pool strategies can deploy tokens to any number of “back pool” strategies. We’ll cover more on how this multi-pool design makes Vesper’s products more adaptable in a bit.</p>
+
+
+
+<p>Farmers will be happy to hear Vesper definitely learned a thing or two from last year’s yield farming craze. Vesper Grow cuts down the number of steps involved in traditional yield farming and has also been built with special features catering to farmers. For example, Vesper implemented <a href="https://eips.ethereum.org/EIPS/eip-2612">EIP-2612</a> across all platform tokens which allows approvals to be made via off-chain signature. This is cheaper and faster, as it doesn’t require a separate transaction solely to approve interactions with these tokens. Another prime example is the sweeperc20 function which allows pools to swap ERC20s accumulated by front or back pools for more of the deposit asset so you won’t miss out on protocol rewards or future airdrops.&nbsp;</p>
+
+
+
+<h2>What makes Vesper’s approach different?</h2>
+
+
+
+<p>When you dive into Vesper, you’ll find there is hidden complexity behind the simple user experience.</p>
+
+
+
+<h3>Highly modular, multi-pool design makes Vesper’s products versatile</h3>
+
+
+
+<p>Vesper takes the concept of <a href="https://medium.com/vesperfinance/rethinking-money-legos-for-sustainable-yield-strategies-8852d126750d">money legos</a> to heart. As previously mentioned, all Vesper pools have a single “front pool” that is actually made up of modular “back pool” strategies behind the scenes. Each strategy is like a money lego brick which can be swapped in and out without users needing to switch “front” pools. This allows Vesper’s products to be highly adaptable. In other words, Vesper users will never have to deal with pools being abandoned due to outdated strategies or what the Vesper refers to as “strategy fade,” establishing a set-and-forget user experience. Not to mention, this makes it easier for developers to utilize Vesper pools by seamlessly transitioning strategies without requiring smart contract upgrades and constant maintenance for integrations.</p>
+
+
+
+<p>Vesper’s multi-pool design also enables earning strategies to be gradually upgraded over time. For example, a pool can start at 100% of an older strategy and keep slowly increasing its exposure to a newer strategy 5% at a time. This upgrade mechanism can be used to limit exposure to riskier strategies eliminating the need to cap deposits or ignore a strategy. Or, it can even allow the community to test out future “beta” pools proposed by community developers. It also enables a “market basket” of strategies, as there is no limit to concurrent strategies via this multi-pool design.</p>
+
+
+
+<h3>Structured approach to code audits, testing and deployment</h3>
+
+
+
+<p>“Aping” into smart contracts on a whim isn’t for everyone for a reason. Writing a complex smart contract system is hard. Getting it right on the first try is even harder. Users, especially inexperienced users, can all too often get burned by a mistake or bug found in complex smart contracts that “test in prod.”</p>
+
+
+
+<p>Vesper takes a structured approach to testing and deploying new code. Vesper Finance has high standards for technical review. New code is audited several times, and potentially re-audited, throughout the formal software development process. Each new strategy or protocol integration Vesper deploys goes through a series of tests and safety checks. New code is run through off-mainnet tests, private mainnet tests, and then a public beta before ever reaching production.&nbsp;</p>
+
+
+
+<p>Vesper users have the freedom to set their own pace. <a href="https://app.vesperdev.net/">DeFi power users can opt-in to experimental pools via app.vesperdev.net if they wish to try out new strategies early.</a> Meanwhile, the average user can be confident that any new pool or strategy available in production (<a href="http://pubads.g.doubleclick.net/gampad/clk?id=5620418823&amp;iu=/22134506417">app.vesper.finance</a>) has been through formal testing and auditing, whether it was developed by the Vesper team or a community member. (More on that below.) This process is not only about safety but it’s also about building trust with Vesper users and the wider DeFi community.&nbsp;</p>
+
+
+
+<h2>Vesper strives to foster community and drive long-term adoption</h2>
+
+
+
+<p>Having a strong community is vital for any DeFi project to thrive. Community is fostered through trust and forming sustainable relationships. Vesper’s stated <a href="https://medium.com/vesperfinance/vespers-core-principles-491c169778e1">core principles</a><strong> </strong>are longevity, quality, trust, and community. By design, Vesper inherently vets for quality in its testing and deployment processes. Thorough testing combined with the set-and-forget user experience is likely to garner the trust of many DeFi users. This foundation of trust will be vital when moving forward on Vesper’s timeline towards community-created pools.</p>
+
+
+
+<h3>Community-created Pools with Vesper Labs</h3>
+
+
+
+<p>Vesper eventually plans to release Vesper Labs, allowing anyone to propose new strategies and pools. Developers whose strategies are adopted by the Vesper community are entitled to 5% of the fees generated for life — the same 5% that the Vesper team would get for pools <em>they</em> create. This generates a strong incentive for community developers to craft more and more innovative strategies. Vesper Labs improves accessibility by opening the door for anyone with talent and a clever strategy to contribute. And when paired with Vesper’s modular design, users enjoy a seamless experience while still benefiting from improved strategies.</p>
+
+
+
+<h3>Vesper token incentives designed for sustainability and offer a clear path to decentralization</h3>
+
+
+
+<p>The Vesper system has been designed from the start to create a sustainable economic model that ties the products in the Vesper Finance ecosystem together. VSP incentives aim to bootstrap the Vesper community by converting participants into protocol stakeholders. The system also encourages volunteer developers, cutting them in on revenue in a way that puts them on equal footing relative to the Vesper founders. This is key to <a href="https://docs.vesper.finance/community-participation-and-governance/governance">Vesper’s plan towards becoming fully decentralized</a>.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-1024x576.png" alt="" class="wp-image-8875" width="768" height="432" srcset="./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-1024x576.png 1024w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-300x169.png 300w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-768x432.png 768w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-1536x864.png 1536w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-2048x1152.png 2048w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-1568x882.png 1568w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
+
+
+
+<p>As you can see, 95% of the fees generated by Vesper products are sent to the Treasury Box and swapped for VSP, creating natural demand for VSP based on the returns Vesper pools are able to generate for its users. These VSP tokens purchased by the Treasury Box are then distributed to those with VSP staked in the vVSP governance pool. The other 5% of fees goes to the developer who authored the strategy — either a member of the Vesper team or a member of the Vesper community. This revenue model keeps participants engaged and helps ensure the ecosystem’s longevity, funding such activities as engineering, marketing, and so on.&nbsp;</p>
+
+
+
+<p>At launch, users can earn VSP tokens one of three ways: participating in Vesper’s pools, staking in the vVSP governance pool, and providing liquidity for particular VSP trading pairs. (See more about the <a href="https://medium.com/vesperfinance/vespers-tokenomics-an-overview-f342ae5b613f">tokenomics, distribution, and emission schedules</a>.)</p>
+
+
+
+<h2>Coming soon: Vesper Earn’s “Directed Pools”</h2>
+
+
+
+<p>I couldn’t tell you all about Vesper without mentioning this future feature. While Vesper Grow allows users to deposit “Token A” and get more of “Token A,” Vesper Earn pools (previously discussed as “Directed Pools” at the <a href="https://www.youtube.com/watch?v=paTBo4atcAo">BitGive De-Phi conference</a>) will allow users to deposit “Token A” and earn “Token B.”&nbsp; If you’ve been in DeFi long enough, you’ve probably fantasized about taking part of your stack, setting a strategy and turning on the auto-pilot. Vesper aspires to fulfill this dream for DeFi users. <a href="https://medium.com/vesperfinance/inside-vesper-vesper-earn-and-programmable-yield-afb2db24974a">Vesper Earn</a> pools take the yield they generate from user deposits and delivers what they call “programmable yield.”&nbsp;</p>
+
+
+
+<p>For example, you could set up a directed pool where your yield is used to purchase other tokens, passively diversifying your portfolio. You could even conceivably make a directed pool that splits your yield into other Vesper pools. There are so many different ways you could utilize directed pools. Imagine a pool that <a href="https://www.youtube.com/watch?v=RKPm9PH4gXI#t=17m53s">donates its yield to charity</a>. All sorts of initiatives could use directed pools to bootstrap their funding. Or perhaps you like to treat yourself, you could create an income pool that sends you some stablecoin spending money each day. It will be really exciting to see these pools in action.</p>
+
+
+
+<h2>Closing Thoughts</h2>
+
+
+
+<p>It’s easy to take for granted the progress DeFi has made over the past year alone. However, Vesper has clearly been taking notes. From the methodical testing procedure to the attention paid to mitigating “strategy fade” via its <a href="https://medium.com/vesperfinance/inside-vesper-modularity-48e64c810760">modular</a>, <a href="https://medium.com/vesperfinance/inside-vesper-multi-pool-3ea7f7325d39">multi-pool</a> design, Vesper has demonstrated their dedication to crafting a product model that addresses the concerns of its users and forming a sustainable community built on trust. Vesper seeks to foster a global community including support for eight different languages: English, Spanish, French, Japanese, Korean, Chinese, Russian, and Turkish. It will certainly be exciting to follow Vesper as it proceeds along its roadmap towards Community-created and Earn Pools.</p>
+
+
+
+<p>To learn more about Vesper and explore the pools currently available, head on over to <a href="http://pubads.g.doubleclick.net/gampad/clk?id=5620418823&amp;iu=/22134506417">Vesper.Finance</a>. Follow <a href="https://twitter.com/VesperFi">@VesperFi</a> or join the Vesper community on <a href="https://discord.com/invite/Pm8UDaazsK">Discord</a> or <a href="https://t.me/vesperfinance/">Telegram</a> to stay up-to-date with Vesper’s future releases.<br></p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Vesper to help educate and inform the community about Vesper pools. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

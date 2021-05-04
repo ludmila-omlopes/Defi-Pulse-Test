@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>renbtc &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 22 Dec 2020 19:50:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Introducing Bitcoin at Work</title>
+		<link>./../../../2020/12/22/introducing-bitcoin-at-work/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Tue, 22 Dec 2020 19:50:15 +0000</pubDate>
+				<category><![CDATA[New Features]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[acbtc]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[bch]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[btc++]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[hbtc]]></category>
+		<category><![CDATA[imbtc]]></category>
+		<category><![CDATA[pbtc]]></category>
+		<category><![CDATA[renbtc]]></category>
+		<category><![CDATA[sbtc]]></category>
+		<category><![CDATA[tBTC]]></category>
+		<category><![CDATA[token]]></category>
+		<category><![CDATA[WBTC]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8726</guid>
+
+					<description><![CDATA[Over the course of 2020, more than 140,000 BTC entered the DeFi ecosystem. With so many different alternatives for Bitcoin...]]></description>
+										<content:encoded><![CDATA[
+<p>Over the course of 2020, more than 140,000 BTC entered the DeFi ecosystem. With so many different alternatives for Bitcoin tokens, it only makes sense to break it out into its own page to provide more detailed metrics. We&#8217;re excited to introduce a new page highlighting the use of Bitcoin in the DeFi ecosystem. <a href="http://defipulse.com/btc">Bitcoin at Work</a> measures the total amount of BTC being utilized within decentralized finance (DeFi).</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="http://defipulse.com/btc"><img loading="lazy" src="./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-1024x1024.png" alt="" class="wp-image-8793" width="512" height="512" srcset="./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-1024x1024.png 1024w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-300x300.png 300w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-150x150.png 150w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-768x768.png 768w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1.png 1080w" sizes="(max-width: 512px) 100vw, 512px" /></a></figure></div>
+
+
+
+<p>We worked with 10 different teams from all across our industry to bring you a wide variety of BTC token metrics. <strong>The following BTC tokens will be included at launch:&nbsp;WBTC, RENBTC, HBTC, sBTC, tBTC, imBTC, oBTC, acBTC, pBTC, and BTC++.</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/12/btc-logo-board03-1024x512.png" alt="" class="wp-image-8785" width="768" height="384" srcset="./../../../wp-content/uploads/2020/12/btc-logo-board03-1024x512.png 1024w, ./../../../wp-content/uploads/2020/12/btc-logo-board03-300x150.png 300w, ./../../../wp-content/uploads/2020/12/btc-logo-board03-768x384.png 768w, ./../../../wp-content/uploads/2020/12/btc-logo-board03.png 1500w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
+
+
+
+<p>As you might have noticed, WBTC has been moved to this new page and its TVL is no longer included in the TVL metrics found on our homepage. WBTC was originally added to the leaderboard at a time when it was practically the only tokenized BTC utilized in DeFi, but given the current landscape we now think it is a better fit for the Bitcoin at Work leaderboard.</p>
+
+
+
+<p>We know that not every BTC token is quite the same. Each one has its own method of minting and redeeming and varying degrees of centralization ranging from custodial to fully decentralized.<strong> </strong><br><strong>We broke down each BTC token into four types to better distinguish their different qualities:<br></strong><br><strong>Decentralized</strong> &#8211; a BTC token backed by BTC held within a fully decentralized protocol<br><br><strong>Custodial</strong> &#8211; a BTC token backed by BTC held in custody by a third party<br><br><strong>Synthetic</strong> &#8211; a token which follows the price of Bitcoin but is not directly backed by BTC<br><br><strong>Hybrid</strong> &#8211; a BTC token backed by BTC held within an open protocol transitioning towards decentralization</p>
+
+
+
+<p>Aside from recognizing the hard work and growth of this sector, we hope the metrics and information included in this new page will help DeFi users discover new possibilities and make more informed decisions.&nbsp;</p>
+
+
+
+<p>Special thanks to all the teams for working with us! Be sure to check out the new page and explore the <a href="http://defipulse.com/btc">Bitcoin at Work</a> metrics for yourself. And if you’re interested in joining the DeFi Pulse Leaderboard, please check out this <a href="https://defipulse.com/blog/how-to-join-the-defi-pulse-leaderboard/">step-by-step guide.</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

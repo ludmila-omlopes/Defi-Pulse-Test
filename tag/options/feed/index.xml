@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>options &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 01 Mar 2021 21:19:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>SIREN &#8211; Decentralized Options For Sophisticated Traders</title>
+		<link>./../../../2021/03/01/siren/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 01 Mar 2021 21:19:51 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[amm]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[options]]></category>
+		<category><![CDATA[options trading]]></category>
+		<category><![CDATA[siren]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8929</guid>
+
+					<description><![CDATA[Options trading has become more popular than ever now that anyone can trade from anywhere with a few taps. The...]]></description>
+										<content:encoded><![CDATA[
+<p>Options trading has become more popular than ever now that anyone can trade from anywhere with a few taps. The barriers to entry have been lowered improving accessibility for the average joe. In case you don’t know, options are financial primitives that give a trader the choice (or the <em>option</em>) to buy or sell an asset at a predetermined strike price at some point in the future. Traders can utilize options to hedge against potential price changes or to speculate on the future price of an asset. As DeFi matures, on-chain financial primitives like options become the building blocks for even more sophisticated financial instruments.</p>
+
+
+
+<p>If options trading is what floats your boat, say ahoy to SIREN, a decentralized protocol aiming to carve out a unique market niche by catering specifically to sophisticated users interested in holding and actively trading tokenized options contracts. This nautical-themed on-chain options marketplace launched its alpha release in December 2020 and is about to embark on the next chapter of its journey. <strong><a href="http://sirenmarkets.com/">SIREN Markets</a> is set to launch on mainnet March 1.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/03/siren-1000x500-1-1.jpg" alt="" class="wp-image-8932"/></figure>
+
+
+
+<h2>SIREN Markets offer seamless on-chain options trading</h2>
+
+
+
+<p>SIREN is a decentralized protocol which facilitates a marketplace of fully-collateralized, on-chain options. SIREN protocol tokenizes both the long and short sides of an options contract as ERC20 tokens which enables options to be traded via its AMM design requiring no third-party settling mechanism or order matching to complete option settlement on chain. Siren AMM v2 can trade up to 6 SIREN options contracts which all share collateral and payment assets in a single pool. This enables liquidity to be rolled over when a market expires for a seamless UX for liquidity providers.</p>
+
+
+
+<p>It starts with liquidity providers depositing collateral into the SIREN AMM pool. So for the WBTC/USDC calls the collateral asset would be WBTC. When you as a trader go to buy options from the AMM, the collateral held within the pool is used to mint a pair of tokens: bToken and wToken. bToken, which stands for buyToken, is sent to the buyer and gives the holder the right to purchase or sell the underlying asset at a predetermined strike price. While wToken, short for writeToken, stays in the pool. If the option is left unexercised, wTokens allow the holder to withdraw the collateral or withdraw the exercise payment from the contract after expiration.</p>
+
+
+
+<p>Note, that SIREN AMM v2 only trades bTokens, but not wTokens. Although, the Siren team has stated that trading of wTokens may become available in the future. Users pay a premium to the pool in the collateral asset each time they make a trade. This process results in liquidity providers passively becoming covered option writers, automatically underwriting contracts to meet demand from traders. In addition to collecting premiums, liquidity providers benefit from any slippage in AMM trades and earn SI token rewards from the SIREN <a href="https://sirenmarkets.medium.com/expanding-the-siren-lpp-c69969e25d41">Liquidity Provider Program (LPP)</a>. It’s always worth noting <a href="https://docs.sirenmarkets.com/faq/what-is-a-liquidity-provider#risks">the risks associated with providing liquidity</a>.</p>
+
+
+
+<h3>Giving sophisticated options traders the right tools for the job</h3>
+
+
+
+<p>The tools that options traders have come to rely on in traditional finance were refined over decades and decades. So it only makes sense that these early days of DeFi provide ample opportunity to incorporate and innovate on these tools. SIREN’s design allows traders to easily swap options in and out in order to build complex positions as well as the necessary information to assess those positions.</p>
+
+
+
+<h4><strong>SIREN AMM v2 pricing is time-decay-aware</strong></h4>
+
+
+
+<p>There are two factors that determine the price of each trade on SIREN v2: spot price and slippage. The spot price is determined using a Black-Scholes model, which takes into account parameters like the underlying price, time to expiration, option strike and implied volatility, coupled with a Chainlink price oracle. Utilizing this formula allows Siren Markets to be time-decay-aware requiring no arbitrage in order to quote reasonable prices. Similar to other AMMs, trades will be impacted by slippage based on the size of the trade and available assets in the pool. In other words, the larger the trade relative to the size of the pool, the higher the slippage. This slippage ultimately benefits liquidity providers as another source of returns for liquidity providers on top of collecting option premiums.</p>
+
+
+
+<h4><strong>What is ITM, ATM and OTM?</strong></h4>
+
+
+
+<p>These expressions are likely familiar to options traders so we’ll skim through these rather quickly. For more in-depth info, you can refer to <a href="https://www.investopedia.com/terms/i/inthemoney.asp">Investopedia’s definitions</a>. An ITM (short for ‘in the money’) option which has value because it has a favorable strike price compared to the current market price. As you can probably guess, an OTM (short for ‘out of the money’) option still needs to reach its strike price whereas an ATM (short for ‘at the money’) has reached the strike price.&nbsp;</p>
+
+
+
+<p>These terms help determine what kind of options traders buy or sell taking into account how that option might behave in the current market. For example, an ITM call may require a smaller rise in the cryptocurrency price to be profitable, but there is less potential upside compared to an ATM or OTM call. So if you believe the market price is going to rise significantly, you might consider buying an OTM call because you’d have a greater potential upside while limiting exposure to loss if the price fell.</p>
+
+
+
+<p>These are just a couple examples of the ways traders can make use of different option characteristics to influence their trading strategy. Greeks are another way options traders can assess an option.</p>
+
+
+
+<h4><strong>Meet the Greeks</strong></h4>
+
+
+
+<p>As Siren is meant for experienced options traders, we’re only going to give a brief overview of <a href="https://docs.sirenmarkets.com/faq/what-are-the-greeks">how option Greeks apply to Siren Markets</a>. To get caught up to speed, you can learn more about these general concepts <a href="https://www.investopedia.com/trading/getting-to-know-the-greeks/">here</a>.</p>
+
+
+
+<p><strong>Delta</strong></p>
+
+
+
+<p>Delta measures a ratio comparing the difference between the underlying asset price relative to the strike price of the option. The delta of a long call is positive; the delta of a long put is negative. The delta is reversed for short calls and puts. Delta is only a theoretical approximation of your exposure in the underlying asset.&nbsp;</p>
+
+
+
+<p><strong>Gamma</strong></p>
+
+
+
+<p>If you imagine delta as the &#8220;speed&#8221; of your option position, gamma is the &#8220;acceleration.” The gamma of long options, calls or puts, is always positive; of short options, always negative.&nbsp;</p>
+
+
+
+<p>The more gamma your position has, your position delta can change a great deal and probably needs close monitoring. Gamma is highest for the ATM strike, and slopes off toward the ITM and OTM strikes.</p>
+
+
+
+<p>If you think the price of an underlying asset is about to change quickly, you want to buy an option with relatively high gamma. For example, the higher the gamma, the more delta if the underlying asset price moves the way you want it to, and vice versa.</p>
+
+
+
+<p><strong>Theta</strong></p>
+
+
+
+<p>As touched on before, Theta measures the rate of decline in the value of an option due to the passage of time sometimes referred to as time decay. No one can escape time, not even options. Time decay describes how long calls and puts have negative theta, losing money as time goes on. Short calls and puts are the opposite having positive theta and making money as time passes.&nbsp;</p>
+
+
+
+<p>Theta is highest for the ATM strike, and slopes off to the ITM and OTM options, and responds to the passage of time and changes in volatility the same way that gamma does. The theta of options is indirectly proportional to gamma. When gamma is big and positive, theta tends to be big and negative. That&#8217;s the trade-off. A position that has a lot of gamma (good for fast changing underlying assets) also has lots of theta that is continuously eroding its value.</p>
+
+
+
+<p><strong>Vega</strong></p>
+
+
+
+<p>Vega is how much the value of an option changes when the implied volatility of that option changes. Long calls and puts both have positive vega and profit when implied volatility rises. Inversely, short calls and puts both have negative vega and profit when implied volatility falls.&nbsp;</p>
+
+
+
+<p>The more time there is until expiration, the higher the vega is for an option. Vega also depends on where the price of the underlying asset is relative to the strike price of the option. Like gamma and theta, vega is highest for the ATM options, and drops for the OTM and ITM options. So, ATM options with lots of time to expiration are the most sensitive to changes in implied volatility.</p>
+
+
+
+<h2>SIREN Governance</h2>
+
+
+
+<p>The SIREN Market project was created to bring the features and tools options traders are familiar with from traditional finance to a seamless on-chain experience without sacrificing autonomy. The Siren team understands that a platform built to cater to sophisticated users only benefits from their feedback and collaboration. And so, SIREN’s native token SI is designed to reward early users placing the future of the platform in their hands via protocol governance. Liquidity providers, traders, and market makers will receive SI token rewards in exchange for their participation. By design, the most experienced and knowledgeable users will be given the most influence over the platform to help respond to future market demands.</p>
+
+
+
+<p>The SI community will be able to create new option markets and determine the fee rate for writing, closing, and redeeming an option. These fees accrue to SI token holders; although it should be noted that upon launch these fees will be set to 0 to reduce the friction for users looking to explore SIREN Markets.</p>
+
+
+
+<p>The first SIREN Liquidity Provider Program (LPP) began in December 2020 and was <a href="https://sirenmarkets.medium.com/expanding-the-siren-lpp-c69969e25d41">extended through May 2021</a>. Find out more about SIREN’s SI token and liquidity providing program <a href="https://sirenmarkets.medium.com/si-token-distribution-event-cff0be106fc6">here</a>.</p>
+
+
+
+<h2>Roadmap</h2>
+
+
+
+<p>Looking toward the future, <a href="https://sirenmarkets.medium.com/si-token-distribution-event-cff0be106fc6">SIREN’S roadmap</a> details many future upgrades to the platform like expanding the list of available asset pools. SIREN is considering adding SUSHI/USDC, UNI/USDC, YFI/USDC, LINK/USDC pools starting with Sushi. Even further out, SIREN protocol will be modified to allow yield-generating assets to be used as collateral.</p>
+
+
+
+<p>Other improvements which option traders may want to keep their eye out for include future interfaces for constructing option spreads and effecting basket trades natively. SIREN also plans to explore layer 2 solutions to improve efficiency and lower fees for its users.</p>
+
+
+
+<h2>Concluding Thoughts</h2>
+
+
+
+<p>DeFi is disruptive because it gives everyone access to the same tools and data as the experts. Many users who had never had never previously owned a share in a company or a treasury bond are now active participants in a new financial paradigm. With the increasing popularity of options trading in traditional finance, it stands to reason that on-chain options may play a bigger role as DeFi reaches more widespread adoption.&nbsp;</p>
+
+
+
+<p>It boils down to: Do you desire a more sophisticated options trading experience? If so, SIREN would like to invite you to join them in building a platform that suits your needs. This is an opportunity to influence the platform early in its development. <strong><a href="http://sirenmarkets.com/">SIREN Markets</a> is set to go live on mainnet on March 1, 2021. </strong>If you want to know more, we recommend joining SIREN’S <a href="https://t.me/sirenmarkets">Telegram</a> or following them on <a href="https://twitter.com/sirenprotocol">Twitter</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with SIREN to help educate and inform the community about Siren Markets. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hegic Protocol &#8211; On-chain Options Trading Protocol</title>
+		<link>./../../../2020/11/28/hegic-protocol-on-chain-options-trading-protocol/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sat, 28 Nov 2020 17:35:13 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[hegic]]></category>
+		<category><![CDATA[options]]></category>
+		<category><![CDATA[options trading]]></category>
+		<category><![CDATA[protocol]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8721</guid>
+
+					<description><![CDATA[During DeFi’s most innovative and exciting year, a new kind of trading experience has exploded onto the scene. Hegic is...]]></description>
+										<content:encoded><![CDATA[
+<p>During DeFi’s most innovative and exciting year, a new kind of trading experience has exploded onto the scene. <a href="https://www.hegic.co/">Hegic</a> is an on-chain, non-custodial platform for options trading, launched by the enigmatic Molly Wintermute. The platform has grown significantly in recent months, after its <a href="https://decrypt.co/35038/hegics-molly-wintermute-im-paying-a-high-price-for-the-mainnet-first-approach-to-building">inauspicious start </a>in April. The first iteration suffered from buggy code, which required Wintermute to return almost $50,000 in locked funds to users. Since then, Hegic has been running smoothly, and volume has <a href="https://www.hegic.co/analytics">rapidly grown</a>. It is poised to become one of the key players in the crypto trading ecosystem.</p>
+
+
+
+<p>Hegic allows users to buy put and call options on ETH and WBTC. Currently, total options volume for WBTC exceeds that of ETH. For those who are unfamiliar with options trading, calls and puts are essentially bets on the future price of assets. Buying a call means you have the right but not the obligation to purchase an asset at a certain price (the “strike price”) for an agreed-upon length of time. You pay a premium to purchase the option. </p>
+
+
+
+<p>Let’s say you buy a call for ETH at $500. The call option expires one month later. If the price of ETH shoots up to $1,000 during this window of time, you can exercise the option for a profit of $500 less the premium cost. Put options work the opposite way. You reserve the right but are not required to sell $ETH at $500 one month later. If ETH plummets to $250 during this time, you can go buy some ETH at market price then turn around and sell it for $500 as agreed. You profit $250 minus the premium you paid. Premium costs depend on the length of the options contract and the “moneyness” of the option (basically, how far the strike price and the actual price deviate at the time of purchase).</p>
+
+
+
+<p>Why would anyone want to use options? Well, for starters, it allows you to trade with leverage and still manage your risk. The beauty of options trading is that traders can use them when they are extremely confident or extremely uncertain, as options can be used as a hedging measure in combination with other trades. The price of a crypto-asset can go parabolic rather quickly. Options allow you to capture all of the upside (or downside) with only the cost of the premium. You are also protected from the asset going <em>against</em> your thesis to an astronomical amount. At worst, you choose not to exercise the option and the only money you’re out is the sunk premium cost. One key aspect of Hegic that experienced traders will need to consider is that the premium is priced in ETH. As the price of ETH fluctuates, the value of the premium also changes, which will impact your P&amp;L.</p>
+
+
+
+<p>To offer a viable trading experience, Hegic requires a deep well of liquidity from which traders can draw. Without sufficient liquidity, traders will be unable to enjoy the same experience provided by centralized exchanges, and liquidity providers will be exposed to even greater counterparty risk when writing contracts. Hegic aims to accomplish this by incentivizing liquidity providers. LPs are called ‘writers’ in the Hegic ecosystem. Writers share the premiums paid in their pools. Hegic also incentivizes liquidity provision with the native HEGIC token. </p>
+
+
+
+<p>Wintermute envisions HEGIC to become a governance token for the protocol at some point in the future, but currently the token is only a requirement for purchasing a staking lot. 888,000 HEGIC buys a staking lot and with it, the right to the protocol’s settlement fees. There is one additional incentive available to writers. By providing liquidity, you are credited with writeBTC or writeETH tokens. These tokens can be staked to earn rHegic token, which is essentially a vested version of HEGIC that can be sold at a hefty discount before the vesting period ends in late 2021.</p>
+
+
+
+<p>Hegic&nbsp;is one of the more complicated DeFi protocols on the market today. It involves a lot more levers and cranks than discussed here, including a bonding curve that controls the new supply of Hegic. To learn more about Hegic, you can check out <a href="https://hegic.gitbook.io/start/">Hegic&#8217;s documentation</a>. You can also try it out for yourself; All you need is an Ethereum wallet. The protocol does not require KYC or account verification. Hegic is proving to be a worthy rival for Deribit, although they are likely to grow in unison given the unique advantages that each provide. Hopefully, there will be plenty of opportunities for arbitrage between the two platforms headed into the future.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Lien &#8211; Governance-less ETH Options and Stablecoins</title>
+		<link>./../../../2020/09/05/lien/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sat, 05 Sep 2020 15:12:51 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[lien]]></category>
+		<category><![CDATA[options]]></category>
+		<category><![CDATA[options trading]]></category>
+		<category><![CDATA[stablecoins]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8535</guid>
+
+					<description><![CDATA[In the background of all the DeFi and yield farming commotion, stablecoins have been booming. DAI, USDC, USDT, and countless...]]></description>
+										<content:encoded><![CDATA[
+<p>In the background of all the DeFi and yield farming commotion, stablecoins have been booming. DAI, USDC, USDT, and countless others have been pouring into DeFi. While it is great to have so many options, each stablecoin has its trade-offs which users must consider. For some, the centralization risk of stablecoins like USDC are simply too great; they desire a stablecoin that is truly decentralized.</p>
+
+
+
+<p><a href="https://lien.finance/">Lien</a>, brought to you by an anonymous team of developers, has a solution for these folks: stablecoins backed by ETH derivatives with &#8220;governance-less&#8221; design which requires no over-collateralization and no manual adjustments to maintain the pegged exchange rate.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://lien.finance/"><img loading="lazy" width="1024" height="341" src="./../../../wp-content/uploads/2020/09/LienBannerWoTagline-1024x341.png" alt="" class="wp-image-8550" srcset="./../../../wp-content/uploads/2020/09/LienBannerWoTagline-1024x341.png 1024w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline-300x100.png 300w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline-768x256.png 768w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h2>Lien Protocol and iDOL</h2>
+
+
+
+<p>Lien Protocol powers a stablecoin called iDOL backed by ETH derivatives which allows it to utilize tranches or &#8220;tranching&#8221; to maintain stability.  iDOL is designed to be insensitive to the fluctuations in the USD price of ETH, minimizing the volatility by having speculators insure the risk. Instead of being directly backed ETH requiring over-collateralization to maintain its peg, iDOL is backed by a basket of bond tokens.</p>
+
+
+
+<p>Lien uses a system where ETH is tranched into two derivative contract tokens: Liquid Bond Token (LBT) and Solid Bond Token (SBT). These two bond tokens are minted at the same time with the same strike price and maturity date. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="534" src="./../../../wp-content/uploads/2020/09/Selection_396-1-1024x534.jpg" alt="" class="wp-image-8541" srcset="./../../../wp-content/uploads/2020/09/Selection_396-1-1024x534.jpg 1024w, ./../../../wp-content/uploads/2020/09/Selection_396-1-300x156.jpg 300w, ./../../../wp-content/uploads/2020/09/Selection_396-1-768x400.jpg 768w, ./../../../wp-content/uploads/2020/09/Selection_396-1.jpg 1310w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Upon maturity, SBT holders receive a fixed dollar amount (if possible) and then any remaining ETH is given to the LBT holder. If the price of ETH upon maturity is lower than the strike price, then the smart contract will pay out the entire ETH to the SBT holder and the LBT holder will receive nothing. In this way, LBT holders take on the brunt of the risk through speculation.</p>
+
+
+
+<h3>Let&#8217;s examine Lien Protocol in action</h3>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="552" src="./../../../wp-content/uploads/2020/09/Selection_397-1024x552.jpg" alt="" class="wp-image-8543" srcset="./../../../wp-content/uploads/2020/09/Selection_397-1024x552.jpg 1024w, ./../../../wp-content/uploads/2020/09/Selection_397-300x162.jpg 300w, ./../../../wp-content/uploads/2020/09/Selection_397-768x414.jpg 768w, ./../../../wp-content/uploads/2020/09/Selection_397.jpg 1034w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>This diagram above can be a bit confusing at first glance but it is simpler than you think once explained. First, you deposit ETH into Lien&#8217;s smart contracts which then splits or &#8220;tranches&#8221; ETH into SBT and LBT that have the same maturity and strike price. The SBT is sent to the iDOL smart contract and used as collateral to mint iDOL. At this point, you hold the LBT and the freshly minted iDOL which can be used and spent like other stablecoins. </p>
+
+
+
+<p>As the maturity date approaches, the SBT is auctioned off for iDOL by the protocol. Once it reaches maturity, the smart contract will pay out to the SBT holder,&nbsp;the dollar amount that the holder is entitled to in ETH. And then, the smart contract pays any remaining ETH to you as the LBT holder. As previously mentioned, LBT holders risk receiving nothing if the price of ETH is below the strike price upon maturity.</p>
+
+
+
+<h3>What makes Lien and iDOL special?</h3>
+
+
+
+<p>Instead of relying on over-collateralization, iDOL is backed by a basket of SBTs, each with their own maturity date, placing the brunt of risk on those speculating on the value of LBTs. As their <a href="https://lien.finance/pdf/iDOLWP_v1.pdf">whitepaper</a> so eloquently puts it: <em>&#8220;The stability of the SBT value is based upon the instability of the LBT value. That is, all the risks related to the price volatility of Ether are undertaken by the LBT holder, which then makes the value of SBT stable. We can think of LBT as a leveraged derivative token, the value of which is associated with Ether but fluctuates much more than Ether.&#8221;</em></p>
+
+
+
+<p>Lien Protocol has placed a buffer of sorts between iDOL holders and the volatility of ETH and the wider market. The system can automatically stabilize the price of SBT and subsequently iDOL at target levels using market forces alone without the need for governance.</p>
+
+
+
+<p>For those bullish on ETH, LBT functions like a call option on ETH that performs as a 2x leveraged ETH token. This allows you to create leveraged long positions by holding LBT. As with call options, you don’t have to worry about margin calls and liquidation during flash crashes.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="700" height="465" src="./../../../wp-content/uploads/2020/09/lien-diagram.png" alt="" class="wp-image-8536" srcset="./../../../wp-content/uploads/2020/09/lien-diagram.png 700w, ./../../../wp-content/uploads/2020/09/lien-diagram-300x199.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
+
+
+
+<h2>Lien FairSwap</h2>
+
+
+
+<p>Lien FairSwap is an AMM DEX which takes inspiration from Uniswap and attempts to mitigate some of the disadvantages of its design. FairSwap has built-in front-running protection which ensures transactions are settled in &#8220;a fair manner&#8221; by taking advantage of a frequent batch auction mechanism. FairSwap doesn&#8217;t process orders one by one and instead batches orders across a few blocks, called an &#8220;exchange box,&#8221; and then clears them all simultaneously.</p>
+
+
+
+<p>FairSwap provides liquidity for iDOL-related derivative tokens like SBT and LBT. Unlike iDOL&#8217;s smart contracts, FairSwap&#8217;s parameters can be modified after launch. To learn more about FairSwap, I recommend you check out the <a href="https://lien.finance/pdf/LienFairSwapWP_v1.pdf">whitepaper</a>.</p>
+
+
+
+<h2>LIEN token</h2>
+
+
+
+<p>As previously mentioned, Lien Protocol is designed to operate autonomously and &#8220;governance-free.&#8221; And so, LIEN token is not your typical governance token. LIEN can be considered a utility token that can be used to receive discounts/rebates on protocol fees. </p>
+
+
+
+<p>The Lien Protocol charges a fee (0.2%) when users mint the iDOL stable coin and when users exchange assets using FairSwap (0.3% &#8211; variable). Fees are collected in ETH or iDOL and are then distributed proportionally to holders of the Lien Token as discounts/rebates at the end of each month. 100% of Lien Protocol fees and 20% of FairSwap fees are attributed to Lien Token holders. <a href="https://medium.com/lien-finance/lien-token-metrics-f9e7bae3e407">See here for more info about LIEN.</a></p>
+
+
+
+<h2>Closing thoughts</h2>
+
+
+
+<p>Each and every week I get the pleasure of diving into new protocols and Lien Protocol did not disappoint. I can easily see how iDOL fulfills many people&#8217;s desire for a stablecoin without centralization or governance risk. I&#8217;d be curious to see down the line if there is an iGBP or iJPY because while iDOL is based on the dollar the system can be applied to other assets with sufficient oracles and market forces.</p>
+
+
+
+<h3>Lien Protocol and FairSwap are live on mainnet</h3>
+
+
+
+<p><strong>Although the Lien team is completely anonymous, special attention has been paid to smart contract security by the Lien team with initial code audits perform by <a href="https://diligence.consensys.net/audits/2020/05/lien-protocol/">ConsenSys Dilligence</a> in May and final code audits performed by <a href="https://certificate.certik.org/reports/lien_finance.pdf">CertiK</a>. </strong>To give you an even better idea of their mindset, the Lien team even imparts users with these wise words in<a href="https://medium.com/lien-finance/lien-apps-go-live-on-ethereum-mainnet-2b16cb28a5bf"> their launch post</a>: &#8220;<em>While audits are extremely important in assessing the validity and security of the code, they do not eliminate risks completely.&#8221;</em></p>
+
+
+
+<p><strong>Lien Protocol and FairSwap are live as of Friday Sept 4th, 2020.</strong> Head over to <a href="https://app.lien.finance/">Lien.finance</a> where you can trade LBT, mint iDOL, bid on SBT auctions, provide liquidity, and more today! </p>
+
+
+
+<p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve been paid by Lien Protocol to inform readers about their platform and iDOL. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ACO &#8211; A Non-Custodial Options Protocol Built for DeFi</title>
+		<link>./../../../2020/08/09/aco/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 09 Aug 2020 14:58:53 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Derivatives]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[aco]]></category>
+		<category><![CDATA[auctus]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[options]]></category>
+		<category><![CDATA[options trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8441</guid>
+
+					<description><![CDATA[The DeFi ecosystem is growing at a breathtaking pace. Unsurprisingly, staying on top of everything in the space is becoming...]]></description>
+										<content:encoded><![CDATA[
+<p>The DeFi ecosystem is growing at a breathtaking pace. Unsurprisingly, staying on top of everything in the space is becoming practically impossible. DeFi is becoming increasingly sophisticated each day as the building blocks or rather money legos fall into place. Most people can tell you the basics of spot and margin trading, but I&#8217;ve started to see more and more people admit they know are unfamiliar with options trading. And, that&#8217;s okay because as many will tell you being a fan of DeFi often times means being a student. We&#8217;ve teamed up with folks behind ACO to explore how options fit into DeFi and how you might take advantage of options in your trading strategy. <a href="https://aco.finance/">ACO</a> is a decentralized non-custodial options protocol created by <a href="https://auctus.org/">Auctus</a>.</p>
+
+
+
+<h2>What is an option?</h2>
+
+
+
+<p>If you&#8217;re not familiar with the term, <a href="https://www.investopedia.com/terms/o/option.asp">options</a> are financial derivatives that offers the option contract holder the opportunity to buy or sell an asset for a specific strike price within a specific time period. In other words, a &#8220;call option&#8221; contract gives you the <em>option</em> to buy an asset at a given price before it expires by &#8220;exercising the option&#8221; as it&#8217;s called. A &#8220;put option&#8221; allows you to exercise the contract and sell at the strike price before the expiration date. Options are different from simply purchasing the underlying asset because you only pay the contract premium initially until you exercise the contract, allowing traders to hedge risks or trade with more leverage at a lower capital cost.</p>
+
+
+
+<p>This is what makes options different from spot trading or even future contracts: you have no obligation to exercise the contract thus buying/selling the underlying asset. If the trade wouldn&#8217;t be in your favor, you can simply let the option contract expire and only be out the premium you paid to purchase the contract. On the flipside, the individual who wrote that option contract earns that premium if it expires without being exercised.</p>
+
+
+
+<h2>What is ACO?</h2>
+
+
+
+<div class="wp-block-image"><figure class="alignright size-medium"><a href="https://aco.finance/"><img loading="lazy" width="300" height="300" src="./../../../wp-content/uploads/2020/08/aco-300x300.png" alt="" class="wp-image-8453" srcset="./../../../wp-content/uploads/2020/08/aco-300x300.png 300w, ./../../../wp-content/uploads/2020/08/aco-1024x1024.png 1024w, ./../../../wp-content/uploads/2020/08/aco-150x150.png 150w, ./../../../wp-content/uploads/2020/08/aco-768x768.png 768w, ./../../../wp-content/uploads/2020/08/aco.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure></div>
+
+
+
+<p>ACO is a decentralized non-custodial options protocol that allows users to trustlessly trade, mint, and exercise call and put options. ACO protocol tokenizes put and call options contracts creating ERC20 tokens which you can send, trade, or even integrate ACO Tokens into other DeFi projects. Each ACO token option has its own smart contract programmed with the terms of the option contract. Additionally, these terms are also included in the ticker symbol of the ACO token.</p>
+
+
+
+<p>ACO tokens’ symbols consists of four parts:</p>
+
+
+
+<ol><li class="">Symbol of the underlying asset</li><li class="">Strike price &amp; Strike Asset</li><li class="">Option type, either P or C, for put or call</li><li class="">Expiration</li></ol>
+
+
+
+<p>Take for example: <strong>ACO ETH-200USDC-C-26JUN20-0800UTC</strong></p>
+
+
+
+<p>The above symbol represents a call option on ETH, expiring on 26 June 2020 08:00 UTC, with a strike price of 200 USDC.</p>
+
+
+
+<p>Auctus, the team behind ACO, has deployed an interface <a href="https://aco.finance/">ACO.finance </a>that allows you to mint, manage and trade ACO tokens (which powered by 0x protocol). ACO Protocol and the interface have been <a href="https://blog.openzeppelin.com/aco-protocol-audit/">audited by OpenZepplin</a>. More on ACO protocol in a bit, but first let&#8217;s explore some of the ways ACO option tokens are utilized by DeFi users.</p>
+
+
+
+<h2>How do I trade options in DeFi?</h2>
+
+
+
+<p>Now at this point, I&#8217;m sure you&#8217;re itching to see how you might take advantage of options. Let&#8217;s take a moment and break down a few situations where options could be a useful tool in your trading strategy. </p>
+
+
+
+<h3>Use Call Options to speculate on rising ETH prices</h3>
+
+
+
+<p>If you expect the price of ETH to rise, you can purchase ETH call options to take advantage of leverage, gaining positive exposure to ETH with less money than outright purchasing ETH at spot prices.</p>
+
+
+
+<p>Let’s assume ETH is currently trading for $400. You could buy 100 ETH for a total of $40,000  and be completely exposed to the price of ETH. Or, you could buy 100 ETH calls with a $400 strike price for $8.00 and have a similar exposure but do so with only $800 ($8 X 100 = 800).</p>
+
+
+
+<p>I&#8217;m sure you can see how this is advantageous. If the price goes up as you expect, you&#8217;ll be able to break even at $408 (the strike price $400 + the $8 premium). However if the price of ETH goes sideways or falls, you might be able to sell the option for a loss (less of a premium) or you can simply let your contract expire without exercising it and only be out the money you spent on the premium.</p>
+
+
+
+<h3>Use Put Options to hedge against declining ETH prices without limiting your exposure</h3>
+
+
+
+<p>If you aren&#8217;t confident in the market and want to protect yourself ETH&#8217;s price falling, you can purchase ETH put options to hedge your bets without selling your ETH or losing your potential upside if the price rises. You can think of ETH put options as a form of insurance which costs you a premium to cover potential losses.</p>
+
+
+
+<p>If ETH is currently trading at $380 and you want to protect yourself against it falling below $360 but don&#8217;t want to sell your 100 ETH quite yet. You could buy 100 put options with a $360 strike price for $4 and pay $400 to have the ability to sell your 100 ETH at $360 if the price of ETH were to drop before your options expire.</p>
+
+
+
+<p>Options tend to give you more time to make a decision when compared to stop orders which are final once filled. Unlike a stop order, you can always wait to see if the price rebounds in your favor.</p>
+
+
+
+<h2>Earn income by writing options on ACO</h2>
+
+
+
+<p>As previously mentioned, you can write options contracts and potentially earn a premium on any unexercised contracts. Needless to say, signing a contract to buy or sell an asset comes with its risks. As a writer of an option, you may be obligated to sell your underlying asset at the strike price if the holder exercises the contract. We urge you as always to do your own research and to take into account these considerations before writing/minting your first option.</p>
+
+
+
+<h3>Write ETH Call Options to earn income on your ETH</h3>
+
+
+
+<p>Say you have ETH that you&#8217;re willing to part with for the right price. Using options, you can receive money today for your willingness to sell your ETH at a higher price.</p>
+
+
+
+<p>Say ETH is at $380, you could mint and sell 100 ETH call options with a $420 strike price at a $9 premium and collect $900 on your willingness to sell your ETH. If things go sideways or your option expires before being exercised, you get to pocket the premium and keep your ETH. Of course, you&#8217;re still exposed to the price of ETH and will be obligated to sell the your ETH at the strike price if your option contract is exercised by the holder.</p>
+
+
+
+<p>There a plenty of factors to it for sure but I think you can see how in right situation writing ETH call options could be a way to capitalize on a sideways or bear market.</p>
+
+
+
+<h3>Write Put Options to earn income on your USDC</h3>
+
+
+
+<p>Do you have USDC on the side waiting to buy ETH at a price below the current? You could earn a little extra income by writing and selling ETH put options. </p>
+
+
+
+<p>Let’s assume ETH is currently trading for $380. You would like to buy 200 ETH if it drops to $300. You could write 200 ETH puts with a $300 strike at $4 and collect $800 on your willingness to buy 200 ETH at $300. Unlike setting a limit order, options let you collect money today for being willing to assume the obligation of buying ETH at the strike price.</p>
+
+
+
+<p>By using this strategy, you can generate additional returns in your stablecoin holdings by collecting a premium for your willingness to be obligated to buy a ETH at a price that is below current price.</p>
+
+
+
+<h2>ACO Protocol and its use of money legos</h2>
+
+
+
+<p>Many aspects of their design make ACO Option Tokens a nice addition to existing money legos, but its the team&#8217;s use of existing money legos to create new functionality that I found the most fascinating.</p>
+
+
+
+<h3>Flash Exercise</h3>
+
+
+
+<p>This is by far one of the coolest parts of ACO. ACO has a feature called &#8220;flash exercise&#8221; which, as its name eludes to, allows you to cover the cost of exercising your ACO options using Uniswap V2 flash swaps leaving you with the remaining profits. Uniswap V2 flash swaps let you withdraw tokens from Uniswap&#8217;s reserves as long as you pay back the tokens in the same transaction. ACO&#8217;s flash exercise makes use of this by withdrawing the tokens necessary to exercise your options contract and then repaying the withdrawn tokens by swapping the underlying asset all in one transaction.</p>
+
+
+
+<p><em>Net Profit = Number of Options * (( Uniswap Price &#8211; Strike Price ) / Uniswap Price )</em></p>
+
+
+
+<p><strong>Essentially, you can always exercise profitable options contracts in one transaction even if you don&#8217;t have the funds available to buy/sell the asset before expiration. </strong>This opens the door for traders who might want to greater exposure with less funds.</p>
+
+
+
+<h3>Governance</h3>
+
+
+
+<p>Currently, the ACO protocol allows a single address to modify parameters, create new options series, add new strike assets and change the template for tokens that will be created in the future. The admin key which controls this address is currently administered by the Auctus team. However, the team plans to ultimately transition control to holders of their AUC token. Once launched, the governance dashboard and system which will allow AUC holders to decide which assets should be supported by the protocol and what fee percentage should be charged and used to buy back and burn AUC.</p>
+
+
+
+<p>One key aspects of the current design which you may have noticed is that these parameters only affect future ACO option tokens. <strong>The protocol&#8217;s admin key has no ability to affect existing tokens</strong>, only you have access to your funds and all contracts are exercised in a non-custodial fashion.</p>
+
+
+
+<h3>Coming up on the roadmap &#8211; YFI, Chainlink, and more</h3>
+
+
+
+<p>YFI put and call options will be added to ACO within the next few weeks. Options will open the door for new strategies for the yearn.finance community. Auctus eventually plans to release an ACO OTC platform allowing users to trade customized options p2p, allowing greater variations of strike prices and expiration dates.</p>
+
+
+
+<p>One of the next crucial components for ACO as a platform is the addition of an automated market maker (AMM) for ACO tokens. The AMM would provide option contract holders, whether it be a trader or a smart contract, with constant on-chain liquidity for ACO Tokens. </p>
+
+
+
+<p>To further improve decentralization, the team is also looking to create volatility oracles with Chainlink.</p>
+
+
+
+<h2>Concluding thoughts</h2>
+
+
+
+<p>Watching DeFi mature has been exhilarating. As each building block is produced, you can see some things like options coming from a mile away. But, I can tell you I didn&#8217;t see something like flash exercise coming. It really goes to show how innovations build on one another so quickly in this space.</p>
+
+
+
+<p>Thanks for reading! We hope you learned a thing or two. We encourage you to go check out <a href="https://aco.finance/">ACO.finance</a> and the slick options trading platform they have built there. You can also learn more by <a href="https://docs.aco.finance/">reading the docs</a> or <a href="https://discord.gg/9JqeMxs">joining the Auctus Discord</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part our DeFi Pulse Drops promotional series; We&#8217;ve been paid by ACO to inform readers about why one might use options and about their decentralized non-custodial options platform. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

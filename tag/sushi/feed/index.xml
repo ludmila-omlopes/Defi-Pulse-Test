@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sushi &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 25 Sep 2020 15:00:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Vampire Mining and the SushiSwap Saga</title>
+		<link>./../../../2020/09/25/vampire-mining-and-the-sushiswap-saga/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2020 15:00:00 +0000</pubDate>
+				<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[amm]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[sushi]]></category>
+		<category><![CDATA[sushiswap]]></category>
+		<category><![CDATA[uni]]></category>
+		<category><![CDATA[Uniswap]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8567</guid>
+
+					<description><![CDATA[A vampire attack or “vampire mining” is a new term in DeFi popularized by SushiSwap’s aggressive migration incentives designed to...]]></description>
+										<content:encoded><![CDATA[
+<p>A vampire attack or “vampire mining” is a new term in DeFi popularized by SushiSwap’s aggressive migration incentives designed to pull liquidity from Uniswap.</p>
+
+
+
+<p>The strategy involves forking an already successful open-source fee-generating protocol, and where opportunities exist, making slight adjustments to better incentivize participants in the new protocol, encouraging the migration of already existing liquidity for essentially the same purpose.</p>
+
+
+
+<p><a href="https://uniswap.org/?gclid=Cj0KCQjwwOz6BRCgARIsAKEG4FVDaI7egyJ4cGSoT7Uc8xLy8Yfd-NFBh3AH8PXuhEGcW3H3pTkesjQaAiAPEALw_wcB">Uniswap</a> made a prime target as it was one of the largest decentralised protocols not to have some sort of governance token or fee distribution token at the time. Uniswap liquidity providers currently share 0.3% fees on all trades made within pools they have provided liquidity to, however the protocol has a <a href="https://uniswap.org/blog/uniswap-v2/">lever</a> that can be pulled that redirects 0.05% (16.7%) of this 0.3% fee into a funding pool supposedly for ecosystem development, though there are concerns from some members of the community that this would likely just line the pockets of Uniswap’s VCs instead.</p>
+
+
+
+<p>Thus <a href="https://sushiswapclassic.org/">SushiSwap</a> was born, an almost direct clone of Uniswap except with an additional protocol related token SUSHI. SUSHI acts as both a governance token and a yield token- always sharing between its holders the 0.05% of fees on trades that Uniswap can divert by activating its lever.</p>
+
+
+
+<p>This change also allows prior liquidity providers to continue to earn fees from the protocol even after withdrawing their liquidity from the SUSHI tokens they’ve earned- strongly rewarding early participants with the aim to bolster its community.&nbsp;</p>
+
+
+
+<p>SushiSwap’s “attack,” as some would call it, hinged on the fact that liquidity providers get Uniswap LP tokens for depositing liquidity in Uniswap’s pool- redeemable for their share of the pool at any time.</p>
+
+
+
+<p>SushiSwap capitalised on this by offering staking contracts where Uniswap LP tokens could be deposited to earn SUSHI tokens. The idea was to have a 2-week early distribution at an enhanced rate where 1000 SUSHI were split between stakers per block to attract a lot of LP tokens, before SushiSwap would mass migrate a tonne of Uniswap’s liquidity into its own pools by redeeming the staked Uniswap LP tokens and swapping staker’s Uniswap LP tokens 1 for 1 with SushiSwap SLP tokens, making them whole again in SushiSwap’s new pools. Trading would then begin and the protocol would continue to emit SUSHI to active liquidity providers at 10% of the early distribution rate.</p>
+
+
+
+<p>SushiSwap’s staking contracts and SUSHI distribution began on August 28th, causing a parabolic rise from about $280m to $1.8B of total value locked (TVL) in Uniswap over 11 days, before the migration occurred a couple of days early on September 8th, causing about $800m of liquidity to be instantly drained to SushiSwap, with Uniswap’s TVL plunging back to ~$400m.</p>
+
+
+
+<p>Interestingly, this is still higher than Uniswap’s TVL prior to SushiSwap. So despite concerns that SushiSwap could have spelled the end for Uniswap, the whole debacle still seems to have been of net benefit to the protocol.</p>
+
+
+
+<p>Another point of debate was whether liquidity providers would remain with SushiSwap once the post-migration rewards fell to 100 SUSHI per block or correct back to the more trusted and time-tested Uniswap.</p>
+
+
+
+<p>Whilst the initial distribution was going on, Chef Nomi (SushiSwap’s anonymous founder) withdrew the entirety of the dev pool- $7m of eth and ~2.5m SUSHI which they sold for ~$6m of Eth on Saturday 5th, making away with around $13m of ETH profit despite early promises not to, causing SUSHI to decline in price and leaving the community in doubt of the future. Chef Nomi however pledged to continue to support the project’s development.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/nFBb9rskxUfBDSK1cJAwaIY7KrYSY2PwNqUUfn4wOTUJ_Hlxie6OCnT1dxIB6Aoq0-Yu01xPABTLPXvs-pQ9wZbAHJHC0X2audCV1IbSbu6dkpwuaLj691e4DAzbwpcUyKnwYqxM" alt=""/></figure>
+
+
+
+<p>A day later they rescinded his commitment and gave control of SushiSwap to the CEO of FTX Sam Bankman-Fried.</p>
+
+
+
+<p>&nbsp;In a final twist, Chef Nomi returned all ~$14m of ETH back to SushiSwap’s treasury on September 11th.</p>
+
+
+
+<p>Since then, the community has successfully migrated liquidity to SushiSwap and continued forward with the project, though with everything going on SUSHI has unsurprisingly seen some significant price volatility.</p>
+
+
+
+<h3>Is this the start of a trend?</h3>
+
+
+
+<p>SushiSwap’s aggressive liquidity migration from Uniswap might have been the first significant example of a “vampire attack”, but it bears considering it will probably not be the last.</p>
+
+
+
+<p>Any protocol where capital is free to leave easily and can be better incentivized to perform a similar function in another protocol is at risk. In particular protocols that are “simpler” in functionality and that rely more on their own smart contracts and platform to provide their service over being highly integrated with other projects (possessing stronger network effects) are at higher risk.</p>
+
+
+
+<p>Uniswap made such a great target precisely because copying the project is largely as simple as copying its smart contracts, and the main requirement for a successful liquidity platform is sufficient liquidity, which as this whole saga has shown can clearly be (at least temporarily) incentivized.</p>
+
+
+
+<p>All done and said, it&#8217;s definitely going to be interesting to watch how SushiSwap and Uniswap continue to co-exist (or not) over the next few months.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

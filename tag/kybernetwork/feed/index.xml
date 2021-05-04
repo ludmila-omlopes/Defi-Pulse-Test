@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kybernetwork &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 10 Feb 2020 15:11:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>DeFi Dive: Kyber Network &#8211; On-chain liquidity protocol for decentralized finance</title>
+		<link>./../../../2020/02/10/defi-dive-kyber-network/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Mon, 10 Feb 2020 15:11:22 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[knc]]></category>
+		<category><![CDATA[Kyber]]></category>
+		<category><![CDATA[kybernetwork]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7964</guid>
+
+					<description><![CDATA[Loi Luu, Co-Founder and CEO of Kyber Network, spoke with us about his past and the fantastic world of money...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/02/DeFi-Dive-Social-Media-Kyber-thumbnail-example-1.png" alt="" class="wp-image-7966" width="1024" height="512"/></figure>
+
+
+
+<p><strong><em>Loi Luu, Co-Founder and CEO of Kyber Network, spoke with us about his past and the fantastic world of money legos.</em></strong></p>
+
+
+
+<h3>How did you get your start in crypto and what inspired you to build your project, product, or service?</h3>
+
+
+
+<p>Since I was young I have been interested in programming, particularly in algorithms and data structure. This made me eventually decide to start my undergraduate studies in Computer Science at Vietnam National University in Hanoi and subsequently pursue my PhD at the National University of Singapore. While in Singapore, I came to learn about blockchain technology. My founders and I were amazed at how game-changing blockchain technology and cryptocurrencies were with regards to revolutionizing global payments and transparent finance. </p>
+
+
+
+<p>Initially, we worked on the 3 pillars of blockchain technology, namely security (Oyente), decentralization (Smartpool), and scalability (Elastico). The inspiration for Kyber Network came when a project approached us to discuss if it was possible to accept a different token in addition to Ether, with the intention to have common token-holders and community with the other token ecosystem. We were surprised at how hard this seemingly simple problem was. Even for one single cross-token transaction, there were a multitude of problems, ranging from incompatibility (token is different from Ether), finality of the payment (how to check if payment is confirmed), price feeds and so on. This problem gets exacerbated when you have to account for the hundreds of tokens in existence. There was no solution then that addressed this problem in a secure and fully on-chain manner. Our goal, since then, was to facilitate seamless decentralized exchange between different projects and ecosystems. That we thought, might eventually lead to equalizing access to everyone, regardless of origin, location, power or background. </p>
+
+
+
+<p>Hence, we developed Kyber Network &#8211; an on-chain protocol for decentralized token exchange in any application. Besides removing key hurdles that hinder the adoption of decentralized technologies, it would give token holders equal access to DApps and services, regardless of which token they hold.</p>
+
+
+
+<h3>What are you building and what sets it apart?</h3>
+
+
+
+<p>We are building Kyber Network, a fully on-chain liquidity protocol that enables decentralized exchange of cryptocurrencies in any application, without a need for any intermediary. Since liquidity in the decentralized space is currently scattered, Kyber integrates liquidity providers (Reserves) into one single endpoint for takers (DApps and end users) to easily access. When a taker requests a trade, the protocol will scan the entire network to find the reserve with the best price and take liquidity from that particular reserve. </p>
+
+
+
+<p>Kyber’s fully on-chain design allows for full transparency and verifiability in the matching engine, as well as seamless composability with DApps, all of which are not possible with off-chain or hybrid approaches. The integration of a large variety of liquidity providers also makes Kyber uniquely capable of supporting sophisticated schemes and catering to the various needs of DeFi DApps and financial institutions. Not surprisingly, Kyber is the <a href="https://research.binance.com/analysis/2020-borderless-state-of-defi">most used DeFi protocol in 2019</a>.</p>
+
+
+
+<h3>Who do you view as the ideal user or customer for your product or service?</h3>
+
+
+
+<p>Kyber Network’s protocol is open source and permissionless, and can be used by any developer, whether you are at a beginner or advanced level. As Kyber is mainly based on Ethereum, developers should ideally have some knowledge of Solidity. You should use Kyber if you are a developer building any kind of DeFi DApp on Ethereum that involves ERC20 token swaps, payments, liquidation, or rebalancing. For KyberSwap, our in-house token swap service, and one of almost 100 DApps using Kyber Network, our ideal customer is an end user that wants to trade and manage ETH and Ethereum tokens in the easiest and most secure way possible.</p>
+
+
+
+<h3>What future event or feature on your roadmap are you most excited for?</h3>
+
+
+
+<p>We’re excited about our <a href="https://blog.kyber.network/katalyst-kyber-protocol-upgrade-and-2020-plans-20427ef47ac6">upcoming Katalyst protocol upgrade</a>, which includes the launch of the KyberDAO and a new KNC token model. Katalyst will bring more benefits for stakeholders and DeFi. For instance, reserves will no longer need to hold a KNC balance for fees, removing a major friction point, and there will be rebates for top performing reserves. In addition, integrated DApps can set their own custom fees and create innovative business models, while KNC holders can stake their KNC in the KyberDAO to participate in governance and receive rewards. This is the first time the KNC community will have the ability to vote on key parameters that affect the direction of the Kyber protocol. Katalyst will establish a long term virtuous loop where the success of the DeFi space, growth of the Kyber ecosystem, and value creation for KNC holders go hand in hand.</p>
+
+
+
+<h3>Where do you see your project, product, or service fitting into the future of DeFi?</h3>
+
+
+
+<p>Kyber aims to be the liquidity layer for the DeFi ecosystem, empowering takers and DApps with a single on-chain endpoint for their liquidity needs and ensuring they receive the best possible rates for each trade. Developers can focus on building and shipping, without needing to worry about liquidity or integrating multiple systems. In general, any DApp that requires on-chain token swaps and is building on DeFi should integrate <a href="https://developer.kyber.network/docs/Start/">Kyber</a> for their liquidity needs!</p>
+
+
+
+<h3>What’s something in DeFi that you think more people should be paying attention to?</h3>
+
+
+
+<p>One of the great features of Ethereum open source projects is the concept of composability, where different protocols can be integrated and combined with each other like money legos to create new innovative DeFi use cases. We are very excited about the endless possibilities for value creation and we aim to be the single on-chain endpoint required for the liquidity needs of these use cases. </p>
+
+
+
+<p>Some of the interesting DeFi use cases include lending platforms such as Fulcrum and Nuo, asset management protocol Melon, Token Sets by Set protocol, and DEX aggregators like <a href="http://dex.ag/">DEX.ag</a> and 1inch. All these platforms utilize Kyber’s on-chain protocol for their liquidity needs. Other popular use cases to pay attention to are Flash loans by Aave, Synthetic assets pegged to public stocks and commodities by Synthetix, DeFi insurance by Nexus Mutual, and Real-time money streams by Sablier.</p>
+
+
+
+<h3>How can readers learn more about your product/service?</h3>
+
+
+
+<p>Join our community at <a href="https://telegram.me/kybernetwork">https://telegram.me/kybernetwork</a>, visit our <a href="https://kyber.network/">website</a>, read our <a href="https://blog.kyber.network/">blog</a>, or look at our <a href="https://developer.kyber.network/">developer documentation </a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

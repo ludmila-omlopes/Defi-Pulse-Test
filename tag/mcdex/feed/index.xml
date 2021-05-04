@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mcdex &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 16 Jul 2020 16:57:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>The Yield Farming Frenzy and its Impact on DeFi</title>
+		<link>./../../../2020/07/16/the-yield-farming-frenzy-and-its-impact-on-defi/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 16:57:34 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[balancer]]></category>
+		<category><![CDATA[Compound]]></category>
+		<category><![CDATA[compound finance]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[liquidity mining]]></category>
+		<category><![CDATA[mcdex]]></category>
+		<category><![CDATA[yield farming]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8371</guid>
+
+					<description><![CDATA[If you follow DeFi, you’ve probably noticed that the concept of yield farming is everywhere lately. From some of the...]]></description>
+										<content:encoded><![CDATA[
+<p>If you follow DeFi, you’ve probably noticed that the concept of yield farming is everywhere lately. From some of the most original memes in the Ethereum ecosystem to traditional news outlets like Forbes, crop rotation to maximize yield across protocols has become one of the defining activities on DeFi in 2020.</p>
+
+
+
+<h3><strong>So, what is Yield Farming?</strong></h3>
+
+
+
+<p>Yield farming is the act of leveraging different DeFi protocols and products to earn a yield or a return on their assets, in some cases obtaining profits well over 100% APY through a combination of lending interest and token incentives. </p>
+
+
+
+<p>The recent yield farming frenzy made total value Locked (TVL) on DeFi skyrocket to new all-time highs, zooming far past $2B. Yield farming has had a substantial impact on protocols like Compound, Balancer, Curve, MCDEX, and Uniswap V2 just to name a few as DeFi users aim to cash in on the trend. This frenzy has brought some important questions to light. Should short term speculative usage of the Ethereum network be considered an indicator of long term adoption? Is this frenzy only a momentary activity that will lose traction once yields go down? Ultimately, is this the beginning of a new growth cycle for Ethereum?</p>
+
+
+
+<h3><strong>How Did The Yield Farming Frenzy begin?</strong></h3>
+
+
+
+<p>The Yield Farming frenzy started when Compound began the live distribution of COMP, its governance token, on June 14th. Compound reached more than $600M total value locked, and overtook MakerDAO for the first time ever on DeFi Pulse’s leaderboard, making it the #1 protocol in DeFi by this measure in a matter of days. However, COMP appears to have only been the beginning with Balancer having launched their protocol rewards incentive program in May started their live distribution a few days after Compound. Balancer experienced similar exponential growth, adding more than $70M TVL.</p>
+
+
+
+<p>Although the frenzy started with COMP, yield farming has been known and practiced in DeFi for some time now. Synthetix, for example, had introduced the concept of protocol token rewards in exchange for liquidity provision to the sETH/ETH pool on Uniswap V1 in July 2019.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Today marks the end of an era. Right as yield farming is taking off we just finalised a poll on SCCP-29 <a href="https://t.co/bXU07AjQsd">https://t.co/bXU07AjQsd</a>. This was the original yield farming pool for sETH:ETH on Uniswap V1. So as it winds down, let&#39;s take a little trip down memory lane.</p>&mdash; kain.eth (@kaiynne) <a href="https://twitter.com/kaiynne/status/1276417760222797825?ref_src=twsrc%5Etfw">June 26, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Things really started taking off a few hours after COMP began being distributed and users started heavily investing in the USDT market on Compound, the one paying the highest amount of COMP rewards. COMP is distributed on a 50%-50% basis between suppliers and borrowers of a given market, and total rewards are allocated in a proportional way to each market’s yield returns. One of the many strategies that were applied was taking out USDT loans with DAI as collateral and investing them in the corresponding market on Compound. Next, BAT became the most profitable market for COMP farming. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">I just went short on <a href="https://twitter.com/search?q=%24USDT&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$USDT</a> using <a href="https://twitter.com/search?q=%24DAI&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$DAI</a> as collateral on <a href="https://t.co/cnckUC54V0">https://t.co/cnckUC54V0</a> using maximum <a href="https://twitter.com/search?q=%24COMP&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$COMP</a> mining recipe.<br><br>Looks like I&#39;m earning way more than I&#39;m paying interest with the current <a href="https://twitter.com/search?q=%24COMP&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$COMP</a> price hovering around ~$60.<a href="https://twitter.com/hashtag/YOLO?src=hash&amp;ref_src=twsrc%5Etfw">#YOLO</a> <a href="https://t.co/03YGZm0Jui">pic.twitter.com/03YGZm0Jui</a></p>&mdash; Samyak Jain (@smykjain) <a href="https://twitter.com/smykjain/status/1272634332599824390?ref_src=twsrc%5Etfw">June 15, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Compound’s team proposed to update the system’s liquidity incentive one week after COMP distribution went live on June 27th. The proposal looked to discourage an inorganic demand for BAT and other assets since users were concentrating extreme liquidation risks into these markets. The new liquidity incentive proposal was executed on July 2nd. Currently, COMP is distributed proportionally across the markets that borrow more dollars, and not dollars of interest paid. Rewards continue to be distributed on a 50%-50% basis between suppliers and borrowers of a given market. You can read more about <a href="https://compound.comradery.io/post/1762">Compound’s proposal to update the system’s liquidity incentives here.<br><br></a>The liquidity incentive effectively discouraged farmers from leveraging markets such as BAT. And now, yield farmers have ballooned the Compound DAI markets to levels higher than the total DAI in existence.  You can check out <a href="https://compound.finance/markets">the current Compound markets here</a> and <a href="https://compound.finance/governance/comp">COMP distribution here</a>.</p>
+
+
+
+<p>Balancer began its live distribution of BAL on June 23rd, which caused a spike of more than $50M in TVL in a few days. You likely recall our previous DeFi Pulse Drop with <a href="https://defipulse.com/blog/balancer-start-liquidity-mining-and-earn-bal-tokens-today/">Balancer Labs announcing their liquidity incentive program, which allows users to earn BAL on top of pool swap fees</a>. Seventy-five million BAL tokens (75% of fully diluted supply) will be distributed among liquidity providers on a 145K weekly basis.&nbsp;</p>
+
+
+
+<h3><strong>Is this the beginning of a new growth cycle for DeFi?</strong></h3>
+
+
+
+<p>The current Yield Farming frenzy has some resemblances with the ICO frenzy of 2017, in which billions of dollars were invested across many tokens, which ultimately proved to be worthless.<strong> One of the main differences with today’s Governance Tokens is that these are being issued by protocols that <em>already have running products that provide value to the ecosystem</em>, instead of being outright scams.</strong> Even though it’s probable that today’s high yields will face a market correction and be lowered at some point, the current frenzy might still continue for some time. And as we have learned in the past, adoption increases after each frenzy: more users and developers are driven to the ecosystem, and the allocated capital funds the development of new innovations that are later used by a broader ecosystem.</p>
+
+
+
+<p>Are you interested in learning more about Yield Farming strategies? Subscribe to <a href="https://yieldfarmer.substack.com/">DeFi Pulse Farmer</a> to learn fresh yield farming plays and insights on big governance decisions.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MCDEX &#8211; 10x Perpetual Contracts Powered by Order Book/AMM Hybrid</title>
+		<link>./../../../2020/06/28/mcdex/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 28 Jun 2020 15:29:36 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[leverage]]></category>
+		<category><![CDATA[mcdex]]></category>
+		<category><![CDATA[perpetual]]></category>
+		<category><![CDATA[perpetuals]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8310</guid>
+
+					<description><![CDATA[DeFi has been on fire lately. Following the space has been absolutely riveting. We&#8217;ve got another sneak peek of an...]]></description>
+										<content:encoded><![CDATA[
+<p>DeFi has been on fire lately. Following the space has been absolutely riveting. We&#8217;ve got another sneak peek of an interesting DeFi protocol for you today. The folks over at MCDEX have taken decentralized perpetual contracts and combined them with a hybrid on-chain AMM/off-chain order book in their recent upgrade MCDEX V2. </p>
+
+
+
+<p><strong>MCDEX&#8217;s first decentralized perpetual contract ETH-PERP launching Monday June 29th, 2020</strong> makes full use of this hybrid model to enable users to <a href="https://mcdex.io/trade?invite_code=052t01">trade ETH/USD perpetual contracts with up to 10x leverage</a> and no expiration. Additionally, MCDEX has recently proposed a new AMM price formula which enables lower slippage, better capital efficiency, and near 0 impermanent loss for liquidity providers.</p>
+
+
+
+<h2>What is MCDEX?</h2>
+
+
+
+<p>Before we dive into the tech, I think it is useful to understand what inspired MCDEX. The team that built MCDEX is a team from China formerly involved in PoW mining. They saw the potential in DeFi and decided to build products that make investing in DeFi easier to continue contributing to the ecosystem as the industry transitions to ETH2.0. Personally, I think the team&#8217;s foresight is readily apparent in many of their designs. So without further ado, let&#8217;s dive into it.</p>
+
+
+
+<p><a href="https://mcdex.io/trade?invite_code=052t01">MCDEX</a> is a decentralized derivatives exchange for traders to long/short efficiently and securely. MCDEX is built on the Mai Protocol V2. Fun fact: the name Mai is actually a pun made with the pinyin for two Chinese characters măi &#8220;买&#8221; meaning buy and mài &#8220;卖&#8221; meaning sell.&nbsp;Funny enough, that&#8217;s exactly what the Mai Protocol does: reduce the complexity of trading decentralized perpetual contracts down to just buy or sell. Historically, decentralized derivatives required many steps; MCDEX eliminates the extra step, streamlining the process and making it more approachable to new users. Additionally, security audits for MCDEX’s Mai Protocol V2 and perpetual contracts have been completed by OpenZeppelin and ConSensys Diligence.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="728" height="376" src="./../../../wp-content/uploads/2020/06/mai2-arch.png" alt="" class="wp-image-8313" srcset="./../../../wp-content/uploads/2020/06/mai2-arch.png 728w, ./../../../wp-content/uploads/2020/06/mai2-arch-300x155.png 300w" sizes="(max-width: 728px) 100vw, 728px" /><figcaption>hybrid architecture of Mai Protocol V2</figcaption></figure>
+
+
+
+<p>As previously mentioned, what makes MCDEX unique is its combination of perpetual contracts with an off-chain order book / on-chain AMM hybrid. This hybrid model gives traders the best of both worlds. The off-chain order book provides traders with the look and feel of a centralized exchange while the AMM provides reliable on-chain liquidity. </p>
+
+
+
+<p>There&#8217;s a sort of symbiosis between the two; the order book offers efficient liquidity but tends to be a bit more centralized whereas the AMM&#8217;s liquidity is always available to both traders and other smart contracts on-chain. This opens up a world of possibilities for these perpetual contracts to be used in the wider DeFi ecosystem.</p>
+
+
+
+<p>Introducing the AMM to MCDEX not only provided reliable on-chain liquidity, it also enabled a key feature of perpetual contracts: funding rate. In a nutshell, the funding rate&#8217;s purpose is to balance out long or short orders in times of high demand to maintain an accurate index price. So naturally, the funding rate is dynamically adjusted by the protocol in response market demand.  For example, when the funding rate is positive it means long position holders pay to fund short positions (short position holders). This incentivizes users to take up the short side of the trade effectively balancing demand for both sides.</p>
+
+
+
+<p>This is where the AMM and off-chain order book work so nicely together. The funding rate needs to be derived on-chain to be sufficiently decentralized but on-chain trading isn&#8217;t always ideal for traders. Liquidity and trading activity will naturally gravitate towards the efficiency of the off-chain order book, but arbitrage opportunities between the order book and AMM improve the AMM&#8217;s liquidity and earn more fees for liquidity providers. Not to mention, many of you will be happy to hear ETH-PERP takes advantage of Chainlink&#8217;s ETH/USD Price Reference Contract live on the Ethereum mainnet as its index price feed.</p>
+
+
+
+<h2>Trade ETH-PERP with up to 10x leverage</h2>
+
+
+
+<p>MCDEX is set to launch ETH-PERP trading on Monday June 29, 2020. Get a <a href="https://mcdex.io/trade?invite_code=052t01">sneak peek</a> at the interface today.</p>
+
+
+
+<p>MCDEX&#8217;s trading interface was designed to be intuitive with a familiar look and feel for experienced traders yet simple enough for new users. I liked how all the info I needed was laid out in the interface; I found the Etherscan links for contract and asset addresses particularly helpful.</p>
+
+
+
+<p>Traders will appreciate the performance of MCDEX&#8217;s order book interface. With its speed, efficiency, and support for features like limit orders you might find yourself surprised you aren&#8217;t trading on a centralized exchange.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://mcdex.io/trade?invite_code=052t01"><img loading="lazy" width="1024" height="613" src="./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-1024x613.jpg" alt="" class="wp-image-8337" srcset="./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-1024x613.jpg 1024w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-300x180.jpg 300w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-768x460.jpg 768w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39.jpg 1270w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Order book trading interface</figcaption></figure></div>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/06/1_l9B7vSmVvIYYPa6ZgwCNqQ-1024x500.png" alt="" class="wp-image-8317"/><figcaption>AMM interface</figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p>If you&#8217;re familiar with other popular perpetual contract exchanges like BitMEX, it&#8217;ll take no time at all to get settled in. Head over to <a href="https://mcdex.io/trade?invite_code=052t01">MCDEX</a> and explore it for yourself. </p>
+
+
+
+<h2>Looking towards the future</h2>
+
+
+
+<p>Many aspects of MCDEX&#8217;s design illustrate the team&#8217;s willingness to learn from battle-tested concepts in DeFi and desire to contribute the ecosystem&#8217;s long-term success. Take for example, 1% out of the 2.5% liquidation penalty automatically goes to an insurance fund. You can find more info about MCDEX&#8217;s roadmap in<a href="https://mcdex.io/references/#/en/white-paper"> the whitepaper</a>.</p>
+
+
+
+<h3>Structured funds enable new strategies for even inexperienced DeFi users</h3>
+
+
+
+<p>Trading perpetual contracts isn&#8217;t everyone&#8217;s cup of tea but that doesn&#8217;t mean they won&#8217;t be able to get in on the action. While perpetual contracts are MCDEX&#8217;s first product, the team plans to release structured trading funds for various risk preferences. This creates the opportunity for even inexperienced traders to take part in perpetual contract trading.</p>
+
+
+
+<p>Structured funds on MCDEX will allow anyone to deposit assets and automatically trade perpetual contracts with a robotic or human-managed fund strategy. This creates the opportunity for MCDEX users to expose themselves to many different strategies and potentially maximize their profits. Not to mention, fundholders will be eligible for liquidity mining incentives&#8230;</p>
+
+
+
+<h3>MCB token and Liquidity Mining</h3>
+
+
+
+<p>MCDEX plans to launch a native token (tentatively in Q3 2020) called MCB token to align its stakeholders, a portion of which will be distributed through liquidity mining to incentivize users to invest in funds. Once launched, MCB tokens will be distributed to the funds based on their net asset value at a fixed amount per day. This should effectively incentivize users to invest in the funds that perform the best whether they be a social or automated funds. Put simply, the better a fund performs, the faster its net asset value grows, the more MCB tokens fundholders are rewarded. Social fund managers will even receive a cut of the MCB they earn for fundholders.</p>
+
+
+
+<p><strong>Initial distribution of MCB tokens</strong></p>
+
+
+
+<ol><li>25% to founding team and early investors</li><li>25% to MCDEX Foundation for token sale to cover expenses such as development, audits, market makers, marketing, etc. </li><li>50% to user incentives with a limit up to 5% per year.</li></ol>
+
+
+
+<p>That limit of 5% a year stuck out to me as something interested because it means that user incentives are planned for a minimum of 10 years. This fits well into MCDEX&#8217;s roadmap to add more user incentives and eventually enable on-chain governance run by MCB token holders. </p>
+
+
+
+<p><strong>Trading competition</strong></p>
+
+
+
+<p>To celebrate the launch of their ETH-PERP smart contract, MCDEX is holding a trading competition with prizes up to $2500 + 2500MCB. The competition will begin on June 29th, 2020 from 12:00 pm UTC, and will close on July 13, 2020, at 12:00 pm UTC. More details can be found <a href="https://mcdex.io/competition">here</a>.</p>
+
+
+
+<h3>Concluding thoughts</h3>
+
+
+
+<p>Ultimately, I find it very encouraging how MCDEX seems to understand the necessity of balancing ease of use, efficiency, decentralization and sustainability when designing smart contract systems. On a personal note, I enjoyed poking through Mai Protocol V2 to write this article because it reminds me again how we&#8217;re truly on the cutting edge here in DeFi.</p>
+
+
+
+<p><strong>We highly recommend you check out MCDEX and see for yourself how the order book enables a smooth and efficient trading experience. Stay tuned for more details regarding MCB liquidity mining.</strong> In the mean time, click here to <a href="https://mcdex.io/trade?invite_code=052t01">head over to MCDEX and get started trading perpetual contracts</a> today.</p>
+
+
+
+<p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve partnered with MCDEX to inform the community about their protocol. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express as part of a DeFi Pulse Drop are our own. </em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

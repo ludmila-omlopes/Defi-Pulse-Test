@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>finance &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sun, 25 Oct 2020 20:13:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>3F Mutual &#8211; Collective Insurance Against MakerDAO Risks</title>
+		<link>./../../../2020/10/25/3f-mutual/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Sun, 25 Oct 2020 20:13:35 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[hakka]]></category>
+		<category><![CDATA[insurance]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8632</guid>
+
+					<description><![CDATA[As you likely already know, MakerDAO’s DAI is a decentralized stablecoin pegged to $1 and backed by many different collateral...]]></description>
+										<content:encoded><![CDATA[
+<p>As you likely already know, MakerDAO’s DAI is a decentralized stablecoin pegged to $1 and backed by many different collateral types. Historically, there has been high demand for DAI causing it to rise above it’s $1 peg at times. To encourage the necessary inflation to bring DAI back down to $1, MakerDAO can add more collateral types and raise the total amount of DAI that can be minted from existing collateral types. While these changes do tend to bring DAI back on peg, they also add new risk parameters and complexity to the system. Some community members have raised concerns that these risks could compound over time, increasing the odds that DAI could become undercollateralized in a crisis and MakerDAO may be forced to trigger an emergency shutdown. If MakerDAO were to ever collapse, it would send ripples through the DeFi ecosystem due to the widespread use of DAI. <a href="https://hakka.finance/">Hakka Finance</a> built <a href="https://3fmutual.com/">3F Mutual</a> for this very reason so users could hedge against this economic risk with lower premiums and better market-making mechanisms.</p>
+
+
+
+<p>Hakka Finance is an engineering team from Taiwan who have been building in the DeFi space since mid-2019. Currently, their two major products are 3F Mutual and <a href="http://blackholeswap.com/">BlackHoleSwap</a> (more on them in a bit), but the team has a history of building cool DeFi projects. The Hakka Finance team were finalists of the Kyber DeFi Virtual Hackathon in September 2019 with their <a href="https://devpost.com/software/crypto-structured-fund">Crypto Structure Fund</a> and also previously built <a href="https://github.com/Robin-and-friends/tCDP">a fungible version of CDPs</a> as well as <a href="https://hakka.finance/">other interesting projects</a>. Their stated goal is to build products that “allow users to pursue financial sovereignty.” The team plans to keep building until they’ve established a mature ecosystem of exceptional DeFi products controlled and governed by the community of HAKKA token holders. But before we dive too far into HAKKA, let’s explore their flagship product 3F Mutual to understand more about the Hakka Finance ecosystem.</p>
+
+
+
+<h2>How does 3F Mutual work?</h2>
+
+
+
+<p>Third Floor Mutual or <a href="https://3fmutual.com/">3F Mutual</a> is a rainy day fund designed to act as collective insurance against the risk of MakerDAO collapsing. You can purchase insurance from 3F Mutual to hedge against the economic risk of MakerDAO which can be claimed if the MakerDAO Emergency Shutdown Module is activated while your insurance is still active.</p>
+
+
+
+<figure class="wp-block-image is-resized"><img loading="lazy" src="https://lh4.googleusercontent.com/D8VdEmKGHRdMvmH1PHp_ubO_KDnh1sd5Y688yISWn6P0IdBDwFIUcmowxdS2Y3taKCsrv25e3MqDptbNttByMd3W5Zc2Dk3TULp_lshAD_VKTP-7CArx2t2YNg5sSNGbPyvP_Chn" alt="" width="555" height="239"/></figure>
+
+
+
+<p>3F Mutual uses an automated market maker (AMM) design which allows users to purchase insurance underwritten by 3F Mutual’s fund pool at any time. In a nutshell, there are three roles involved in 3F’s design: underwriters, insurance buyers, and insurance agents. Underwriters provide capital to 3F Mutual and earn dividends proportional to their share of the pool. As the name implies, insurance buyers pay insurance fees to receive coverage for a limited time. Insurance agents, as you may have guessed, refer new users to 3F and collect a referral bonus for doing so.<br></p>
+
+
+
+<p>One key aspect of 3F’s design is that the insurance fees paid by insurance buyers becomes the pool used to compensate insurance buyers in the event MakerDAO’s emergency shutdown is activated. Additionally, underwriters receive dividends in the form of 15% of all insurance fees paid to the pool. When you buy insurance, you receive both insured units and shares of the pool. Shares, unlike units, never expire and entitle the holder to receive underwriter dividends. In this way, you’re acting as both an insurance buyer and an underwriter for the pool. You can even choose to buy 0-day insurance at the base price effectively purchasing shares with no insurance included.</p>
+
+
+
+<figure class="wp-block-image is-resized"><img loading="lazy" src="https://lh6.googleusercontent.com/z08QP8psDlG5YMzrNtqtwqo_ab6c-PgOmZjUMDVcTkpHHcsQoU8FvJsRRIhiQyTlDYsaif24q0q7pxd7E_n9T1TidSMt0XH7T23YYZS79UCNj1leVbwUROhoa9hHKv-Kfo8NCnmt" alt="" width="437" height="118"/></figure>
+
+
+
+<p>Every time you buy insurance from 3F you pay insurance fees based on the number of insurance units and how many days of coverage you want. The fee you pay when buying insurance is multiplied by a rate set to 100% per insured day with a 1% depreciation. In other words, you can get a discount if you buy longer insurance coverage. You can only buy a maximum of 100 days of coverage.</p>
+
+
+
+<h3>Insurance Agents</h3>
+
+
+
+<p>3F Mutual features insurance agents which allows users to earn referral fees. Anyone can spend 0.01 ETH to register a unique name in 3F Mutual to become the insurance agent. Agents can build a personal profile with a profile picture and opening statement powered by 3BOX and IPFS. Agents receive a bonus for every insurance purchase made with their referral link. Bonuses increase with more referrals in a tiered system. Learn more about <a href="https://3fmutual.hostedwiki.co/pages/In-depth%20tutorials">3F’s insurance agent system</a>.</p>
+
+
+
+<h2>3F Mutual incentivizes early participation</h2>
+
+
+
+<p>If MakerDAO’s emergency shutdown is activated, the total amount you’re eligible to claim is based on your number of active insurance units versus the total number of active units. When your units / coverage expires, you still keep your shares of the pool as an underwriter. With each new unit of insurance purchased, the base price per insurance unit rises and more fees are paid to the pool. As the pool continues to grow, 3F is able to provide larger amounts of insurance capacity which in turn further increases revenue. This positive cycle rewards early participants due to the fact that shares never expire.&nbsp;</p>
+
+
+
+<p>Imagine you’re an early insurance buyer, you’d pay a smaller base price per unit/share than a future buyer and even after your insurance expires you’d continue to earn dividends as an underwriter. And since you receive the same number of shares as you do units purchased (even if you choose 0 days of coverage), the optimal strategy is to purchase short-term insurance in the early stages of 3F Mutual to maximize your dividends and then purchase more coverage right before MakerDAO would trigger an emergency shutdown. Of course, no one can predict if or when MakerDAO might trigger it with 100% accuracy. That’s why 3F can be thought of like a rainy day fund which produces dividends during sunny days.</p>
+
+
+
+<p>Since its launch in mid-September 2020, 3F Mutual has already gotten a fair bit of traction. At the time of writing, there are currently ~1879 ETH in the pool, 5738929 total shares, 4519 active insurances, and 780 agents.</p>
+
+
+
+<h2>How are 3F Mutual insurance fees distributed?</h2>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Destination</strong></td><td><strong>Percentage</strong></td><td><strong>Side note</strong></td></tr><tr><td>Dividends</td><td>15%</td><td>Equally distribute to all shareholders</td></tr><tr><td>IIP</td><td>10%</td><td>Reserve for Insurance Improvement Proposals</td></tr><tr><td>External</td><td>20%</td><td>Allocate to insurance agent (0~16%) and vault</td></tr><tr><td>Pool</td><td>55%</td><td>Compensations for MakerDAO Emergency Shutdown</td></tr></tbody></table></figure>
+
+
+
+<p><br>We already covered dividends, agent bonuses, and the pool of funds set aside for compensation, but that 10% for Insurance Improvement Proposals (IIP) is where 3F Mutual fits into the wider HAKKA ecosystem. This IIP reserve is held with 3F Mutual’s vault and is governed by HAKKA token holders. HAKKA holders vote on IIPs to determine how best to develop, maintain, or upgrade 3F Mutual’s protocol through Hakka Finance’s governance system.</p>
+
+
+
+<h1>Hakka Ecosystem</h1>
+
+
+
+<p>Hakka Finance aims to be a decentralized autonomous organization (DAO), distributing HAKKA tokens to its community members in order to decentralize governance. HAKKA tokens were originally sold to cover the team’s development costs when the market turned bearish in 2019. At present, 60% of all HAKKA tokens are being distributed to the community via liquidity mining and other incentive programs.<br><img loading="lazy" alt="Image for post" src="https://lh4.googleusercontent.com/5jQMvll3P79uGBSIMdCtxMrM7JBL4TJd1RvAdsXxeCeIJEpW8Tf9Riztbcr0Gb_-RtNdnIAm2kybrG4RF1EiV8uV6YTZ5mZuAICdzBz2I_McbpQbqijM85zrhqurCnwc78dZLDPI" width="624" height="307"><br>The Hakka Finance team is committed to transparency providing the community with a <a href="https://medium.com/hakkafinance/hakka-finance-transparency-report-e75f025507dc">Transparency Report</a> and <a href="https://hakka-finance.gitbook.io/hakka-wiki/governance/governance-roadmap">Hakka’s governance roadmap</a>. In an <a href="https://medium.com/hakkafinance/financial-statements-of-hakka-finance-646674369a3d">updated financial statement from Sept. 2020</a>, Hakka Finance mentions that a significant portion of the total supply was burned and locking / vesting schedules were extended.</p>
+
+
+
+<p>HAKKA token holders <a href="https://beta-gov.hakka.finance/#/">govern various parameters in Hakka Finance</a> products, like the IIP reserves mentioned. HAKKA governance also determines when to add <a href="https://medium.com/hakkafinance/hakka-reward-pools-v8-af51937ac068">new liquidity mining incentives</a>. Users can <a href="https://rewards.hakka.finance/pools">earn HAKKA tokens</a> by providing liquidity for purchasing insurance on 3F Mutual in addition to providing liquidity for HAKKA and BlackHoleSwap, Hakka Finance’s stablecoin DEX.&nbsp;</p>
+
+
+
+<h1>BlackHoleSwap</h1>
+
+
+
+<p>Created in July 2020, <a href="http://blackholeswap.com/">BlackHoleSwap</a> is a decentralized stablecoin exchange that can process transactions far exceeding its existing liquidity by tapping into lending protocols. BlackHoleSwap’s name is inspired by its goal to have the deepest liquidity in the universe. BlackHoleSwap leverages excess supply to borrow the necessary stablecoin when reserves are inadequate to perform a swap, lowering slippage and maximizing capital utilization. This adds what the Hakka team refers to as “virtual liquidity” to popular AMM models like Uniswap. Given the same amount of “real reserves,” BlackHoleSwap produces less slippage than many other DEXes and can even have “real reserves” as little as 0.<br><img loading="lazy" src="https://lh5.googleusercontent.com/ZXhfK-ufRY_SwGojTSU8VDd2FkG2_PK2cLAihGZ-Hma5QTDuOOb1qcbAvLJ-HMwHBIRcg1XlaBenbzBbdnG8LXRLGdOYroRQpn3k0Vn8EzZ9VamOGY1KSklDXL58qnpRgFyk1TO_" width="624" height="391"></p>
+
+
+
+<p>And because it is integrated with Compound, BlackHoleSwap can even mine COMP for the pool producing extra profit for liquidity providers. To learn more about the technical details behind BlackHoleSwap, I recommend you read the wiki found <a href="https://hakka-finance.gitbook.io/hakka-wiki/hakka-products/black-hole-swap-bhs">here</a>.</p>
+
+
+
+<h1>Closing Thoughts</h1>
+
+
+
+<p>Between <a href="https://3fmutual.com/">3F Mutual</a> and <a href="https://blackholeswap.com/swap">BlackHoleSwap</a>, the Hakka team has built interesting products with innovative features uniquely catered to the DeFi space. I’d argue they live up to their catch phrase of “Warped Spacetime with Crypto Native Primitives” because some of their features are a bit mind-bending. Given their track record, I’ll be eagerly awaiting whatever comes next from Hakka Finance. To stay on top of all the different products Hakka Finance is cooking up, check out <a href="https://hakka.finance/">their website</a> and follow them on <a href="https://twitter.com/hakkafinance">Twitter</a>.&nbsp;</p>
+
+
+
+<p><strong><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Hakka Finance to help educate and inform the community about 3F Mutual and the Hakka Ecosystem. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>New Cryptocurrency That Will Kill Of Bitcoin</title>
+		<link>./../../../2018/01/31/new-cryptocurrency-that-will-kill-of-bitcoin/index.html</link>
+					<comments>./../../../2018/01/31/new-cryptocurrency-that-will-kill-of-bitcoin/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Wed, 31 Jan 2018 20:00:04 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[IT]]></category>
+		<guid isPermaLink="false">https://cdn.gillion.shufflehound.com/?p=55</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam laoreet, nunc et accumsan cursus, neque eros sodales lectus, in fermentum...]]></description>
+										<content:encoded><![CDATA[<p><span class="sh-dropcaps" style="font-size: 18px">L</span>orem ipsum dolor sit amet, consectetur adipiscing elit. Nam laoreet, nunc et accumsan cursus, neque eros sodales lectus, in fermentum libero dui eu lacus. Nam lobortis facilisis sapien non aliquet. Aenean ligula urna, vehicula placerat sodales vel, tempor et orci. Donec molestie metus a sagittis condimentum. Duis vulputate lectus massa, vel viverra sem interdum sit amet. In pulvinar arcu id nisi eleifend, in placerat velit tempor. Sed volutpat orci nec velit cursus posuere.</p>
+<p><figure id="attachment_1351" aria-describedby="caption-attachment-1351" style="width: 423px" class="wp-caption alignleft"><img loading="lazy" class="wp-image-1351" style="text-align: center" src="https://cdn.gillion.shufflehound.com/news/wp-content/uploads/sites/15/2017/01/2-300x225.jpg" alt="" width="423" height="317" srcset="./../../../wp-content/uploads/2017/01/2-300x225.jpg 300w, ./../../../wp-content/uploads/2017/01/2-1024x768.jpg 1024w, ./../../../wp-content/uploads/2017/01/2-768x576.jpg 768w, ./../../../wp-content/uploads/2017/01/2-585x439.jpg 585w, ./../../../wp-content/uploads/2017/01/2.jpg 1200w" sizes="(max-width: 423px) 100vw, 423px" /><figcaption id="caption-attachment-1351" class="wp-caption-text">Maecenas molestie vestibulum dui</figcaption></figure></p>
+<p>&nbsp;</p>
+<p><strong><span style="font-size: 18px"><span style="font-size: 24px">Step 1</span></span></strong></p>
+<p><span style="font-size: 18px">volutpat nec libero.</span> Fusce mattis non nisi quis tincidunt. Donec dictum velit sed feugiat laoreet. Sed justo magna, sollicitudin et dignissim ac, venenatis at tortor.</p>
+<p><strong>Go to :</strong><span style="color: #38bdff"> <em><a style="color: #38bdff" href="https://cdn.gillion.shufflehound.com/magazine/2016/01/31/lesson-1-basics-of-photography/">Link Page</a></em></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: left"><span style="font-size: 24px"><strong>Step 2</strong></span></p>
+<p>Proin mattis, erat at ultrices aliquam, turpis nisi rutrum erat, eu finibus felis nisl ultricies mi. Aliquam quis interdum dui. <strong>Vivamus mattis bibendum dolor, vel varius ante facilisis at. </strong></p>
+<p>Maecenas molestie vestibulum dui, vitae tempor massa mollis porta. Suspendisse id porta diam, in suscipit est. <strong>Phasellus lectus eros, dictum sed augue ac,</strong> mattis varius felis.</p>
+<p>&nbsp;</p>
+<p style="text-align: center"><span style="font-size: 36px;color: #999999">Pellentesque eget metus et velit maximus placerat ut in quam</span></p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p><span style="font-size: 24px"><strong>Step 3: Nulla congue mi sed enim venenatis</strong></span></p>
+<p>Nulla vel euismod eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lacinia finibus ipsum vitae tempus. Nam vestibulum pretium leo a facilisis. Ut id tincidunt neque. Morbi sit amet varius velit. Pellentesque eget metus et velit maximus placerat ut in quam. Pellentesque luctus ligula id ipsum gravida, quis scelerisque mi congue. Morbi vehicula neque ex, non ultricies arcu ullamcorper sit amet</p>
+<ul>
+<li>Lorem ipsum dolor sit amet</li>
+<li>Consectetur adipiscing elit</li>
+<li>Suspendisse lacinia finibus ipsum</li>
+<li>Vitae tempus. Nam vestibulum</li>
+<li>Pretium leo a facilisis.</li>
+</ul>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p><span style="font-size: 24px"><strong>Step 4: Nullam ipsum felis, euismod bibendum</strong></span></p>
+<p>In tortor diam, commodo imperdiet risus eget, lacinia gravida ipsum. Etiam lorem sem, tempor vitae odio sit amet, porttitor sagittis massa. Aenean a diam nec orci malesuada convallis in a nisi.</p>
+<p>&nbsp;</p>
+<p>			<rs-module-wrap id="rev_slider_error_1_wrapper">
+				<rs-module id="rev_slider_error_1">
+					<div class="rs_error_message_box">
+						<div class="rs_error_message_oops">Oops...</div>
+						<div class="rs_error_message_content">Slider with alias Testo_1 not found.</div>
+					</div>
+				</rs-module>
+			</rs-module-wrap>
+			<script type="text/javascript">
+				var rs_eslider = document.getElementById("rev_slider_error_1");
+				rs_eslider.style.display = "none";
+				console.log("Slider with alias Testo_1 not found.");
+			</script>
+</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 30px"><strong><span style="color: #f63a4c">Final step:</span> Nulla nulla orci, tincidunt ac malesuada et, gravida vitae leo</strong></span></p>
+<p>Nunc sagittis nibh et felis dignissim, ac sagittis ante venenatis. Vivamus lobortis, urna sed scelerisque gravida, nulla libero tincidunt urna, eget rhoncus lectus quam id lectus. Quisque tristique non neque vitae pretium. Duis eget mi libero. Vestibulum eu convallis leo. Duis eget bibendum eros, at suscipit nibh. Etiam leo sem, fringilla quis dictum accumsan, luctus vel elit. Mauris magna nibh, scelerisque a ipsum ut, scelerisque vestibulum mauris.</p>
+<p>&nbsp;</p>
+<blockquote><p>Consectetur in purus sed, ornare sollicitudin mi. Quisque interdum imperdiet dapibus. Fusce ultrices pharetra accumsan.<br />
+<cite>&#8211; Bershtain Saal </cite></p></blockquote>
+<p>&nbsp;</p>
+<p>Nam laoreet, nunc et accumsan cursus, neque eros sodales lectus, in fermentum libero dui eu lacus. Nam lobortis facilisis sapien non aliquet. Aenean ligula urna, vehicula placerat sodales vel, tempor et orci. Donec molestie metus a sagittis condimentum.</p>
+<p>Duis vulputate lectus massa, vel viverra sem interdum sit amet. In pulvinar arcu id nisi eleifend, in placerat velit tempor. Sed volutpat orci nec velit cursus posuere.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2018/01/31/new-cryptocurrency-that-will-kill-of-bitcoin/feed/index.html</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
