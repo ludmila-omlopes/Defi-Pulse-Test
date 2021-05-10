@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 17 Mar 2021 19:27:46 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 May 2021 18:55:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -24,9 +24,10 @@
 		<link>./../../../2021/03/17/flexible-leverage-index/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Wed, 17 Mar 2021 19:27:46 +0000</pubDate>
+		<pubDate>Wed, 17 Mar 2021 14:27:46 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[New Features]]></category>
+		<category><![CDATA[Pulse Inc]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[ETH2x-FLI]]></category>
 		<category><![CDATA[flexible leverage index]]></category>
@@ -100,8 +101,8 @@
 		<link>./../../../2020/11/27/dpi-november-rebalance-and-defi-pulse-index-construction-version-0-2/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Fri, 27 Nov 2020 20:16:55 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+		<pubDate>Fri, 27 Nov 2020 15:16:55 +0000</pubDate>
+				<category><![CDATA[Pulse Inc]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[DeFi]]></category>
 		<category><![CDATA[defi pulse index]]></category>

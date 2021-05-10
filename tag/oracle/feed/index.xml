@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 03 May 2020 13:32:28 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 May 2021 19:06:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -189,9 +189,10 @@
 		<link>./../../../2019/09/12/what-is-an-oracle-how-smart-contracts-see-the-world/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Fri, 13 Sep 2019 00:00:22 +0000</pubDate>
+		<pubDate>Thu, 12 Sep 2019 19:00:22 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Learn]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Dapp]]></category>
 		<category><![CDATA[DeFi]]></category>

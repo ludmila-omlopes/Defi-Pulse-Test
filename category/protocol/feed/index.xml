@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 01 Mar 2021 21:19:51 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 May 2021 19:10:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -205,10 +205,9 @@
 		<link>./../../../2020/12/13/harvest-finance-drop/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 13 Dec 2020 21:59:09 +0000</pubDate>
+		<pubDate>Sun, 13 Dec 2020 16:59:09 +0000</pubDate>
 				<category><![CDATA[Protocol]]></category>
 		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[aggregator]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[harvest]]></category>
@@ -1149,9 +1148,10 @@
 		<link>./../../../2019/07/22/coin-burn/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Mon, 22 Jul 2019 15:23:39 +0000</pubDate>
+		<pubDate>Mon, 22 Jul 2019 10:23:39 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Learn]]></category>
 		<category><![CDATA[Protocol]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[burn]]></category>

@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 21 Feb 2021 19:55:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 May 2021 00:51:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -24,9 +24,8 @@
 		<link>./../../../2021/02/21/reflexer/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 21 Feb 2021 19:55:00 +0000</pubDate>
+		<pubDate>Sun, 21 Feb 2021 14:55:00 +0000</pubDate>
 				<category><![CDATA[Explainers]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[dai]]></category>
 		<category><![CDATA[lending]]></category>
 		<category><![CDATA[MakerDAO]]></category>

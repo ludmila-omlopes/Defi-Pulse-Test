@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 08 Feb 2021 22:12:31 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 May 2021 01:25:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -186,12 +186,11 @@
 		<link>./../../../2020/08/30/perpetual-protocol/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 30 Aug 2020 16:18:11 +0000</pubDate>
+		<pubDate>Sun, 30 Aug 2020 11:18:11 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Exchanges]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Trading]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[derivatives]]></category>
 		<category><![CDATA[futures]]></category>
 		<category><![CDATA[perp]]></category>
@@ -663,9 +662,9 @@
 		<link>./../../../2020/04/24/defi-dive-loopring/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Fri, 24 Apr 2020 13:21:06 +0000</pubDate>
+		<pubDate>Fri, 24 Apr 2020 08:21:06 +0000</pubDate>
 				<category><![CDATA[DEX]]></category>
-		<category><![CDATA[Exchange]]></category>
+		<category><![CDATA[Exchanges]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Trading]]></category>
 		<category><![CDATA[decentralized exchanges]]></category>
@@ -758,13 +757,11 @@
 		<link>./../../../2020/04/19/futureswap/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 19 Apr 2020 12:45:46 +0000</pubDate>
-				<category><![CDATA[Exchange]]></category>
-		<category><![CDATA[Exchanges]]></category>
+		<pubDate>Sun, 19 Apr 2020 07:45:46 +0000</pubDate>
+				<category><![CDATA[Exchanges]]></category>
 		<category><![CDATA[Futures]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Trading]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[decentralized exchanges]]></category>
 		<category><![CDATA[derivatives]]></category>
 		<category><![CDATA[exchange]]></category>
@@ -907,10 +904,9 @@
 		<link>./../../../2020/02/18/defi-dive-tokentax/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2020 16:29:58 +0000</pubDate>
+		<pubDate>Tue, 18 Feb 2020 11:29:58 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Trading]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[ERC20]]></category>
 		<category><![CDATA[Ethereum]]></category>
 		<category><![CDATA[lending]]></category>
@@ -1047,9 +1043,9 @@
 		<link>./../../../2019/11/01/how-to-make-money-on-defi/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Fri, 01 Nov 2019 19:04:52 +0000</pubDate>
+		<pubDate>Fri, 01 Nov 2019 14:04:52 +0000</pubDate>
 				<category><![CDATA[DEX]]></category>
-		<category><![CDATA[Exchange]]></category>
+		<category><![CDATA[Exchanges]]></category>
 		<category><![CDATA[Explainers]]></category>
 		<category><![CDATA[Trading]]></category>
 		<category><![CDATA[Compound]]></category>

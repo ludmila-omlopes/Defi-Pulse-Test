@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 21 Feb 2021 19:55:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 May 2021 19:07:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -24,9 +24,8 @@
 		<link>./../../../2021/02/21/reflexer/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 21 Feb 2021 19:55:00 +0000</pubDate>
+		<pubDate>Sun, 21 Feb 2021 14:55:00 +0000</pubDate>
 				<category><![CDATA[Explainers]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[dai]]></category>
 		<category><![CDATA[lending]]></category>
 		<category><![CDATA[MakerDAO]]></category>
@@ -626,10 +625,9 @@
 		<link>./../../../2020/01/09/3-defi-dapps-starting-2020-off-strong/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2020 19:10:07 +0000</pubDate>
+		<pubDate>Thu, 09 Jan 2020 14:10:07 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[chainlink]]></category>
 		<category><![CDATA[dai]]></category>
 		<category><![CDATA[dsr]]></category>
@@ -676,10 +674,9 @@
 		<link>./../../../2019/12/16/what-is-chai/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Mon, 16 Dec 2019 17:02:33 +0000</pubDate>
+		<pubDate>Mon, 16 Dec 2019 12:02:33 +0000</pubDate>
 				<category><![CDATA[Explainers]]></category>
 		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[cDai]]></category>
 		<category><![CDATA[chai]]></category>
 		<category><![CDATA[dai]]></category>
@@ -829,9 +826,10 @@
 		<link>./../../../2019/08/20/what-is-a-cdp/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Tue, 20 Aug 2019 19:47:53 +0000</pubDate>
+		<pubDate>Tue, 20 Aug 2019 14:47:53 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Learn]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[CDP]]></category>
 		<category><![CDATA[dai]]></category>

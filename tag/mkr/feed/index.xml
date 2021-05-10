@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 15 Mar 2020 07:52:35 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 May 2021 01:25:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -345,10 +345,9 @@
 		<link>./../../../2020/01/09/3-defi-dapps-starting-2020-off-strong/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2020 19:10:07 +0000</pubDate>
+		<pubDate>Thu, 09 Jan 2020 14:10:07 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[chainlink]]></category>
 		<category><![CDATA[dai]]></category>
 		<category><![CDATA[dsr]]></category>

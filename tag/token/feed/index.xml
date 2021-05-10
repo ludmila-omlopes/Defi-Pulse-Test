@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 22 Dec 2020 19:50:15 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 May 2021 19:10:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -24,9 +24,8 @@
 		<link>./../../../2020/12/22/introducing-bitcoin-at-work/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Tue, 22 Dec 2020 19:50:15 +0000</pubDate>
+		<pubDate>Tue, 22 Dec 2020 14:50:15 +0000</pubDate>
 				<category><![CDATA[New Features]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[acbtc]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[bch]]></category>
@@ -88,9 +87,8 @@
 		<link>./../../../2020/11/29/deversifi-nectar-beehive-v1/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 29 Nov 2020 19:00:03 +0000</pubDate>
+		<pubDate>Sun, 29 Nov 2020 14:00:03 +0000</pubDate>
 				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[decentralized exchange]]></category>
 		<category><![CDATA[DeFi]]></category>
 		<category><![CDATA[deversifi]]></category>
@@ -786,9 +784,10 @@
 		<link>./../../../2019/07/22/coin-burn/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Mon, 22 Jul 2019 15:23:39 +0000</pubDate>
+		<pubDate>Mon, 22 Jul 2019 10:23:39 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Learn]]></category>
 		<category><![CDATA[Protocol]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[burn]]></category>

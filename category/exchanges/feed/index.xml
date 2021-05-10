@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 30 Aug 2020 16:18:11 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 May 2021 19:10:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -24,12 +24,11 @@
 		<link>./../../../2020/08/30/perpetual-protocol/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 30 Aug 2020 16:18:11 +0000</pubDate>
+		<pubDate>Sun, 30 Aug 2020 11:18:11 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Exchanges]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Trading]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[derivatives]]></category>
 		<category><![CDATA[futures]]></category>
 		<category><![CDATA[perp]]></category>
@@ -199,17 +198,110 @@
 		
 			</item>
 		<item>
+		<title>DeFi Dive: Loopring &#8211; Ethereum’s zkRollup Exchange Protocol</title>
+		<link>./../../../2020/04/24/defi-dive-loopring/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 24 Apr 2020 08:21:06 +0000</pubDate>
+				<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Exchanges]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[decentralized exchanges]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[layer 2]]></category>
+		<category><![CDATA[loopring]]></category>
+		<category><![CDATA[lrc]]></category>
+		<category><![CDATA[zk-snarks]]></category>
+		<category><![CDATA[zkrollup]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8191</guid>
+
+					<description><![CDATA[In this edition of DeFi Dive, Daniel Wang, founder and CEO of Loopring, discusses how zkRollups can scale high-throughput DeFi...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="512" src="./../../../wp-content/uploads/2020/04/loopring-1.png" alt="" data-id="8198" data-full-url="./../../../wp-content/uploads/2020/04/loopring-1.png" data-link="https://defipulse.com/blog/?attachment_id=8198" class="wp-image-8198" srcset="./../../../wp-content/uploads/2020/04/loopring-1.png 1024w, ./../../../wp-content/uploads/2020/04/loopring-1-300x150.png 300w, ./../../../wp-content/uploads/2020/04/loopring-1-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+
+
+
+<p><em style=""><b>In this edition of DeFi Dive, Daniel Wang, founder and CEO of Loopring, discusses how zkRollups can scale high-throughput DeFi applications like Loopring.io while </b></em><strong><em>maintaining layer 1 security.</em></strong></p>
+
+
+
+<h3>How did you get your start in crypto and what inspired you to build your project, product, or service?</h3>
+
+
+
+<p>I learned Bitcoin back in 2013 when I was working for JD.com as a senior engineering director. Later I quit JD.com and built a centralized exchange in China, which listed BTC, Ripple, and some other cryptocurrencies. The multiple hacks of exchanges during 2014 &#8211; 2017 made me think about what technicalities can be used to create a better kind of crypto exchanges that can offer much higher security for user assets. </p>
+
+
+
+<p>When Ethereum came out, we formed a team to verify a straightforward idea: using smart-contract to build an exchange to trade tokens. We believe a well audited smart-contract exchange should offer the same level of security as the assets. That&#8217;s the beginning of Loopring, but the project ends up with a very different technical solution that we have never imagined.</p>
+
+
+
+<h3>What are you building and what sets it apart?</h3>
+
+
+
+<p>Loopring, in its latest version (3.0), is the first zkRollup-based exchange protocol that can settle more than 2K trades per second without sacrificing the layer1 security and incurs less than 200USD per million settlements. We have just started to operate an exchange built on top of this protocol &#8211; the Loopring Exchange, aka Loopring.io. </p>
+
+
+
+<p>However, this is not the end of the protocol or the exchange. We are working on versions that will offer better support for onchain composability and easier customization. With the new version, multiple exchanges built on top of the same protocol may have very different DeFi properties and business models. We believe zkRollup is the right solution for scalability, not just for exchanges, but many dApps that are designed to target millions of active users.</p>
+
+
+
+<h3>Who do you view as the ideal user or customer for your product or service?</h3>
+
+
+
+<p>We target people who use centralized exchanges. As of now, DeFi&#8217;s active user base is still very small, and DeFi onboarding is quite challenging for users without a technical background. With our new smart wallet app (launching later this year), we hope to offer a mobile platform for a massive user base with a language they speak and a set of features they can quickly understand. Eventually, security will be part of the minimum requirement a crypto platform shall offer, not a feature that we now talk about so often.</p>
+
+
+
+<h3>What future event or feature on your roadmap are you most excited for?</h3>
+
+
+
+<p>Loopring 3.5 is something we look forward to, and it will be code-complete very soon. We also expect Loopring Wallet to make a difference in terms of user acquisition.</p>
+
+
+
+<h3>Where do you see your project, product, or service fitting into the future of DeFi?</h3>
+
+
+
+<p>Orderbook-based exchanges are essential infrastructures for cryptocurrencies, and they fulfill user needs and will remain the dominant form of trading for the massive, even in the future. We believe Loopring is on the right track, and with continuous optimizations and improvements, we will remain competitive and gradually eliminate the centralized exchange technical stack.</p>
+
+
+
+<h3>What’s something in DeFi that you think more people should be paying attention to?</h3>
+
+
+
+<p>Serious investors should be concerned with DeFi&#8217;s ever-growing complexity and composability. Our crypto-assets on these products are only as secure as the weakest link in the stack. I do not participate in DeFi aggressively as the return doesn&#8217;t justify the risk for the asset I put in. I&#8217;m not saying we should not participate in DeFi at all, but a wise thing to do is only to invest want we can afford to lose.</p>
+
+
+
+<h3>How can readers learn more about your product/service?</h3>
+
+
+
+<p>The best source of information regarding Loopring is our <a href="https://loopring.org/">website</a>. For engineers and hackers, our <a href="https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md">design doc</a> is where they can find the most technical details. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Futureswap — Decentralized Futures With Up to 20x Leverage</title>
 		<link>./../../../2020/04/19/futureswap/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 19 Apr 2020 12:45:46 +0000</pubDate>
-				<category><![CDATA[Exchange]]></category>
-		<category><![CDATA[Exchanges]]></category>
+		<pubDate>Sun, 19 Apr 2020 07:45:46 +0000</pubDate>
+				<category><![CDATA[Exchanges]]></category>
 		<category><![CDATA[Futures]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Trading]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[decentralized exchanges]]></category>
 		<category><![CDATA[derivatives]]></category>
 		<category><![CDATA[exchange]]></category>
@@ -348,6 +440,47 @@
 		
 			</item>
 		<item>
+		<title>How to make money on DeFi (Hint: It&#8217;s not hard.)</title>
+		<link>./../../../2019/11/01/how-to-make-money-on-defi/index.html</link>
+		
+		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<pubDate>Fri, 01 Nov 2019 14:04:52 +0000</pubDate>
+				<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Exchanges]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[Compound]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[Dapp]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[defipulse]]></category>
+		<category><![CDATA[Dex.Ag]]></category>
+		<category><![CDATA[lending]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=7709</guid>
+
+					<description><![CDATA[Decentralized finance (DeFi) is changing the way people interact with their money.  However, we know it can be a lot...]]></description>
+										<content:encoded><![CDATA[<p>Decentralized finance (DeFi) is changing the way people interact with their money.  However, we know it can be a lot to take in. Don&#8217;t worry, because we&#8217;ve put together this quick guide to give you jump start.</p>
+<h2>Start making money on DeFi in 4 steps</h2>
+<p>If you&#8217;re familiar with Ethereum, these steps will only take a few minutes. And when it&#8217;s all said and done, you&#8217;ll be earning interest in DAI every block. <em><strong>However if you&#8217;re completely new to Ethereum,</strong></em> you may instead want to check out <strong><a href="https://defipulse.com/blog/zero-to-defi-cdai/">Zero to DeFi</a></strong>, a beginner&#8217;s guide which breaks down the entire process of getting a wallet, acquiring ETH, and lending out your DAI.</p>
+<h3>1. Get ETH into an address that you own</h3>
+<p>As the saying goes, if you don&#8217;t hold the private keys to the wallet, then they aren&#8217;t your coins. So, be sure to perform these steps from a wallet that you hold the private keys to. And, don&#8217;t forget to keep them backed up somewhere safe.</p>
+<h3>2. Head to <a href="https://dex.ag/">DEX.AG</a> and sell most of that ETH for DAI</h3>
+<p><a href="http://DEX.AG/">DEX.AG</a> is a decentralized exchange or DEX aggregator that gets you the best price available from several of the most popular DEXes. It even splits your trade across multiple DEXes if it improves the price, all in one transaction. <strong>Make sure to leave a little ETH leftover for <a href="https://ethgasstation.info/blog/what-is-gas/">gas fees</a>.</strong></p>
+<h3><a href="https://dex.ag/"><img loading="lazy" class="alignnone wp-image-7722" src="./../../../wp-content/uploads/2019/11/Selection_300.jpg" alt="" width="600" height="600" srcset="./../../../wp-content/uploads/2019/11/Selection_300.jpg 1000w, ./../../../wp-content/uploads/2019/11/Selection_300-300x300.jpg 300w, ./../../../wp-content/uploads/2019/11/Selection_300-150x150.jpg 150w, ./../../../wp-content/uploads/2019/11/Selection_300-768x768.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" /></a></h3>
+<h3>3. Go to DeFi Pulse&#8217;s <a href="https://defipulse.com/income">Earn Income page</a></h3>
+<p>DeFi Pulse is a site where you can find the latest analytics and rankings of DeFi protocols. The DeFi Pulse <a href="https://defipulse.com/income">Earn Income page</a> compares the interest rates you can earn from DeFi lending protocols.</p>
+<p><a href="https://defipulse.com/income"><img loading="lazy" class="alignnone wp-image-7715" src="./../../../wp-content/uploads/2019/11/Selection_295-260x300.jpg" alt="" width="600" height="693" srcset="./../../../wp-content/uploads/2019/11/Selection_295-260x300.jpg 260w, ./../../../wp-content/uploads/2019/11/Selection_295-886x1024.jpg 886w, ./../../../wp-content/uploads/2019/11/Selection_295-768x887.jpg 768w, ./../../../wp-content/uploads/2019/11/Selection_295.jpg 934w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<h3>4. Pick a lending protocol, and start earning interest</h3>
+<p>Enter the asset and amount you wish to lend to find which lending protocol has the best interest rate. Pick a protocol and click the &#8216;Next&#8217; button which will redirect you to that app/service. Compound finance is currently the most popular lending protocol. Follow the app&#8217;s instructions to begin lending out your DAI and start earning interest.</p>
+<h3>And then later, when you&#8217;re ready to cash out&#8230;</h3>
+<p>Head back to the lending protocol you chose and use your private key to unlock the DAI plus interest generated whenever you want. There&#8217;s no &#8220;lock-in&#8221; period or time you have to wait before earning interest. Your DAI is earning interest every block until you choose to stop.</p>
+<p><em>Still have questions? </em>Come chat us in our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a> and stay up-to-date on the world of DeFi by following us on <a href="https://twitter.com/defipulse">Twitter.</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Best Decentralized Exchanges (DEXes)</title>
 		<link>./../../../2019/08/05/best-decentralized-exchanges-dexes/index.html</link>
 		
@@ -401,13 +534,11 @@
 		<link>./../../../2019/07/23/how-to-trade-on-a-dex/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Tue, 23 Jul 2019 15:18:45 +0000</pubDate>
-				<category><![CDATA[Exchange]]></category>
-		<category><![CDATA[Exchanges]]></category>
+		<pubDate>Tue, 23 Jul 2019 10:18:45 +0000</pubDate>
+				<category><![CDATA[Exchanges]]></category>
 		<category><![CDATA[Explainers]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Trading]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[decentralized exchanges]]></category>
 		<category><![CDATA[DEX]]></category>
 		<category><![CDATA[smart contract]]></category>
@@ -441,13 +572,12 @@
 		<link>./../../../2019/07/19/what-is-a-decentralized-exchange/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Fri, 19 Jul 2019 16:29:11 +0000</pubDate>
-				<category><![CDATA[Exchange]]></category>
-		<category><![CDATA[Exchanges]]></category>
+		<pubDate>Fri, 19 Jul 2019 11:29:11 +0000</pubDate>
+				<category><![CDATA[Exchanges]]></category>
 		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Learn]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Trading]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[decentralized exchanges]]></category>
 		<category><![CDATA[DeFi]]></category>
 		<category><![CDATA[DEX]]></category>

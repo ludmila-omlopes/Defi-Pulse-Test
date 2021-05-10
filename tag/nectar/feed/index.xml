@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 29 Nov 2020 19:00:03 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 May 2021 00:52:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -24,9 +24,8 @@
 		<link>./../../../2020/11/29/deversifi-nectar-beehive-v1/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 29 Nov 2020 19:00:03 +0000</pubDate>
+		<pubDate>Sun, 29 Nov 2020 14:00:03 +0000</pubDate>
 				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[decentralized exchange]]></category>
 		<category><![CDATA[DeFi]]></category>
 		<category><![CDATA[deversifi]]></category>

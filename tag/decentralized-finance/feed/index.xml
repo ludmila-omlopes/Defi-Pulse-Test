@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 08 Feb 2021 22:12:31 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 May 2021 01:24:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -138,9 +138,8 @@
 		<link>./../../../2020/12/22/introducing-bitcoin-at-work/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Tue, 22 Dec 2020 19:50:15 +0000</pubDate>
+		<pubDate>Tue, 22 Dec 2020 14:50:15 +0000</pubDate>
 				<category><![CDATA[New Features]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[acbtc]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[bch]]></category>
@@ -558,10 +557,9 @@
 		<link>./../../../2020/07/16/the-yield-farming-frenzy-and-its-impact-on-defi/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Thu, 16 Jul 2020 16:57:34 +0000</pubDate>
+		<pubDate>Thu, 16 Jul 2020 11:57:34 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[balancer]]></category>
 		<category><![CDATA[Compound]]></category>
 		<category><![CDATA[compound finance]]></category>

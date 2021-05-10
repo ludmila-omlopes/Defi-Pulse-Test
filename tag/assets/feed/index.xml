@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Fri, 02 Apr 2021 19:15:25 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 May 2021 18:55:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -131,9 +131,10 @@
 		<link>./../../../2021/03/17/flexible-leverage-index/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Wed, 17 Mar 2021 19:27:46 +0000</pubDate>
+		<pubDate>Wed, 17 Mar 2021 14:27:46 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[New Features]]></category>
+		<category><![CDATA[Pulse Inc]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[ETH2x-FLI]]></category>
 		<category><![CDATA[flexible leverage index]]></category>
@@ -411,9 +412,8 @@
 		<link>./../../../2020/12/22/introducing-bitcoin-at-work/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Tue, 22 Dec 2020 19:50:15 +0000</pubDate>
+		<pubDate>Tue, 22 Dec 2020 14:50:15 +0000</pubDate>
 				<category><![CDATA[New Features]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[acbtc]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[bch]]></category>
@@ -475,10 +475,9 @@
 		<link>./../../../2020/12/13/harvest-finance-drop/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 13 Dec 2020 21:59:09 +0000</pubDate>
+		<pubDate>Sun, 13 Dec 2020 16:59:09 +0000</pubDate>
 				<category><![CDATA[Protocol]]></category>
 		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[aggregator]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[harvest]]></category>
@@ -614,8 +613,8 @@
 		<link>./../../../2020/11/27/dpi-november-rebalance-and-defi-pulse-index-construction-version-0-2/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Fri, 27 Nov 2020 20:16:55 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+		<pubDate>Fri, 27 Nov 2020 15:16:55 +0000</pubDate>
+				<category><![CDATA[Pulse Inc]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[DeFi]]></category>
 		<category><![CDATA[defi pulse index]]></category>

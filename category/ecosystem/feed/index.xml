@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 20 Apr 2021 13:03:31 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 May 2021 18:55:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -112,9 +112,10 @@
 		<link>./../../../2021/03/17/flexible-leverage-index/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Wed, 17 Mar 2021 19:27:46 +0000</pubDate>
+		<pubDate>Wed, 17 Mar 2021 14:27:46 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[New Features]]></category>
+		<category><![CDATA[Pulse Inc]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[ETH2x-FLI]]></category>
 		<category><![CDATA[flexible leverage index]]></category>
@@ -883,10 +884,9 @@
 		<link>./../../../2020/09/25/vampire-mining-and-the-sushiswap-saga/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Fri, 25 Sep 2020 15:00:00 +0000</pubDate>
+		<pubDate>Fri, 25 Sep 2020 10:00:00 +0000</pubDate>
 				<category><![CDATA[DEX]]></category>
 		<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[amm]]></category>
 		<category><![CDATA[DEXes]]></category>
 		<category><![CDATA[sushi]]></category>

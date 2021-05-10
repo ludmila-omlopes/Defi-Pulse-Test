@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 31 May 2020 13:55:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 May 2021 19:10:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -152,13 +152,11 @@
 		<link>./../../../2020/04/19/futureswap/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 19 Apr 2020 12:45:46 +0000</pubDate>
-				<category><![CDATA[Exchange]]></category>
-		<category><![CDATA[Exchanges]]></category>
+		<pubDate>Sun, 19 Apr 2020 07:45:46 +0000</pubDate>
+				<category><![CDATA[Exchanges]]></category>
 		<category><![CDATA[Futures]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Trading]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[decentralized exchanges]]></category>
 		<category><![CDATA[derivatives]]></category>
 		<category><![CDATA[exchange]]></category>
@@ -301,13 +299,12 @@
 		<link>./../../../2019/07/19/what-is-a-decentralized-exchange/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Fri, 19 Jul 2019 16:29:11 +0000</pubDate>
-				<category><![CDATA[Exchange]]></category>
-		<category><![CDATA[Exchanges]]></category>
+		<pubDate>Fri, 19 Jul 2019 11:29:11 +0000</pubDate>
+				<category><![CDATA[Exchanges]]></category>
 		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Learn]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Trading]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[decentralized exchanges]]></category>
 		<category><![CDATA[DeFi]]></category>
 		<category><![CDATA[DEX]]></category>

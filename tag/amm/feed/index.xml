@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Fri, 23 Apr 2021 13:02:32 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 May 2021 00:52:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -322,10 +322,9 @@
 		<link>./../../../2020/09/25/vampire-mining-and-the-sushiswap-saga/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Fri, 25 Sep 2020 15:00:00 +0000</pubDate>
+		<pubDate>Fri, 25 Sep 2020 10:00:00 +0000</pubDate>
 				<category><![CDATA[DEX]]></category>
 		<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[amm]]></category>
 		<category><![CDATA[DEXes]]></category>
 		<category><![CDATA[sushi]]></category>

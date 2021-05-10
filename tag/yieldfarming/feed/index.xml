@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 14 Feb 2021 16:57:01 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 May 2021 00:51:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -296,10 +296,9 @@
 		<link>./../../../2020/12/13/harvest-finance-drop/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 13 Dec 2020 21:59:09 +0000</pubDate>
+		<pubDate>Sun, 13 Dec 2020 16:59:09 +0000</pubDate>
 				<category><![CDATA[Protocol]]></category>
 		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[aggregator]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[harvest]]></category>

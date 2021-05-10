@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 20 Apr 2021 13:03:31 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 May 2021 19:07:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -853,10 +853,9 @@
 		<link>./../../../2020/02/18/defi-dive-tokentax/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2020 16:29:58 +0000</pubDate>
+		<pubDate>Tue, 18 Feb 2020 11:29:58 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Trading]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[ERC20]]></category>
 		<category><![CDATA[Ethereum]]></category>
 		<category><![CDATA[lending]]></category>
@@ -1004,16 +1003,13 @@
 		<link>./../../../2019/09/03/what-is-defi/index.html</link>
 		
 		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Tue, 03 Sep 2019 21:54:04 +0000</pubDate>
-				<category><![CDATA[Derivatives]]></category>
-		<category><![CDATA[DEX]]></category>
-		<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[Explainers]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Trading]]></category>
+		<pubDate>Tue, 03 Sep 2019 16:54:04 +0000</pubDate>
+				<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Learn]]></category>
 		<category><![CDATA[decentralized exchange]]></category>
 		<category><![CDATA[decentralized finance]]></category>
 		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[DEX]]></category>
 		<category><![CDATA[investing]]></category>
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7552</guid>
