@@ -18,14 +18,15 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>DeFi Dive: UMA &#8211; a DeFi platform built to enable Universal Market Access</title>
 		<link>./../../../2020/05/03/defi-dive-uma/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Sun, 03 May 2020 13:32:28 +0000</pubDate>
-				<category><![CDATA[Ecosystem]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[decentralized finance]]></category>
 		<category><![CDATA[DeFi]]></category>
 		<category><![CDATA[derivatives]]></category>
@@ -35,9 +36,11 @@
 		<category><![CDATA[universal market access]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8222</guid>
 
-					<description><![CDATA[Today, we interview UMA co-founder Allison Lu who talks about her and her team&#8217;s mission to bring market access to...]]></description>
+					<description><![CDATA[<p>Today, we interview UMA co-founder Allison Lu who talks about her and her team&#8217;s mission to bring market access to...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/05/03/defi-dive-uma/index.html">DeFi Dive: UMA &#8211; a DeFi platform built to enable Universal Market Access</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="512" src="./../../../wp-content/uploads/2020/04/DeFi_Dive_uma__Social_Media.png" alt="" class="wp-image-8226" srcset="./../../../wp-content/uploads/2020/04/DeFi_Dive_uma__Social_Media.png 1024w, ./../../../wp-content/uploads/2020/04/DeFi_Dive_uma__Social_Media-300x150.png 300w, ./../../../wp-content/uploads/2020/04/DeFi_Dive_uma__Social_Media-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="512" src="https://defipulse.com/blog/wp-content/uploads/2020/04/DeFi_Dive_uma__Social_Media.png" alt="" class="wp-image-8226" srcset="./../../../wp-content/uploads/2020/04/DeFi_Dive_uma__Social_Media.png 1024w, ./../../../wp-content/uploads/2020/04/DeFi_Dive_uma__Social_Media-300x150.png 300w, ./../../../wp-content/uploads/2020/04/DeFi_Dive_uma__Social_Media-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -130,6 +133,7 @@
 
 
 <p><a href="https://umaproject.org/">Website</a><br><a href="https://twitter.com/UMAprotocol">Twitter</a><br><a href="https://medium.com/uma-project/">Medium</a>  <br><a href="https://github.com/UMAprotocol/">Github</a><br>Join our mostly developer-focused <a href="https://join.slack.com/t/umaprotocol/shared_invite/zt-7mtxxds5-OIhE~q_WkwGCVNrq0~G~rg">Slack</a></p>
+<p>The post <a rel="nofollow" href="./../../../2020/05/03/defi-dive-uma/index.html">DeFi Dive: UMA &#8211; a DeFi platform built to enable Universal Market Access</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -12,20 +12,21 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 May 2021 00:52:26 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 29 Nov 2020 19:00:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>DeversiFi &#8211; A high-speed trading platform capable of 9000 TPS</title>
 		<link>./../../../2020/11/29/deversifi-nectar-beehive-v1/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 29 Nov 2020 14:00:03 +0000</pubDate>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Sun, 29 Nov 2020 19:00:03 +0000</pubDate>
 				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[decentralized exchange]]></category>
 		<category><![CDATA[DeFi]]></category>
 		<category><![CDATA[deversifi]]></category>
@@ -36,7 +37,9 @@
 		<category><![CDATA[token]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8715</guid>
 
-					<description><![CDATA[Let’s face it&#8230; In the heat of the moment when it matters most you want to be using the fastest,...]]></description>
+					<description><![CDATA[<p>Let’s face it&#8230; In the heat of the moment when it matters most you want to be using the fastest,...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/29/deversifi-nectar-beehive-v1/index.html">DeversiFi &#8211; A high-speed trading platform capable of 9000 TPS</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Let’s face it&#8230; In the heat of the moment when it matters most you want to be using the fastest, cheapest way to execute that critical trade. And when you trade on most DEXes, network congestion and the subsequent high gas fees impact your performance. Pay too low of a gas price and you’ll be stuck waiting around, sometimes only to have your transaction revert. So, your other option is to crank up the gas price and pay gas fees which add up over time, eating into your profits.&nbsp;</p>
 
@@ -203,6 +206,7 @@
 
 
 <p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with DeversiFi to help educate and inform the community about the DeversiFi and the Nectar Ecosystem. DeFi Pulse received NEC tokens as part of its payment. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em> </p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/29/deversifi-nectar-beehive-v1/index.html">DeversiFi &#8211; A high-speed trading platform capable of 9000 TPS</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

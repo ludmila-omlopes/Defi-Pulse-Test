@@ -12,30 +12,34 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 09 May 2021 23:42:43 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 Jul 2019 15:18:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>How to trade on a DEX?</title>
 		<link>./../../../2019/07/23/how-to-trade-on-a-dex/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Tue, 23 Jul 2019 10:18:45 +0000</pubDate>
-				<category><![CDATA[Exchanges]]></category>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Tue, 23 Jul 2019 15:18:45 +0000</pubDate>
+				<category><![CDATA[Exchange]]></category>
+		<category><![CDATA[Exchanges]]></category>
 		<category><![CDATA[Explainers]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[decentralized exchanges]]></category>
 		<category><![CDATA[DEX]]></category>
 		<category><![CDATA[smart contract]]></category>
 		<category><![CDATA[trade]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7367</guid>
 
-					<description><![CDATA[You&#8217;re probably familiar with traditional cryptocurrency exchanges like Coinbase or Binance. And, you probably know that these exchanges are run...]]></description>
+					<description><![CDATA[<p>You&#8217;re probably familiar with traditional cryptocurrency exchanges like Coinbase or Binance. And, you probably know that these exchanges are run...</p>
+<p>The post <a rel="nofollow" href="./../../../2019/07/23/how-to-trade-on-a-dex/index.html">How to trade on a DEX?</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>You&#8217;re probably familiar with traditional cryptocurrency exchanges like <a href="https://www.coinbase.com/join/daley_e6">Coinbase</a> or <a href="https://www.binance.com/en/register?ref=QVZBT755">Binance</a>. And, you probably know that these exchanges are run by central authorities which hold your funds in custody while you trade. This puts your money out of your control and at risk of theft.</p>
 <p>But did you know that many decentralized exchanges or DEXs allow you to make trades directly from your wallet? In fact, in many cases when you trade on a DEX, the funds never leave your wallet which means you avoid paying withdrawal fees on money that&#8217;s yours to begin with. But how does that work?</p>
 <h2>DEXs are smart contracts</h2>
@@ -52,6 +56,7 @@
 <p><img loading="lazy" class="alignnone wp-image-7372" src="/blog/wp-content/uploads/2019/06/dexagtrade-1024x588.png" alt="trade on a dex" width="900" height="517" srcset="./../../../wp-content/uploads/2019/06/dexagtrade-1024x588.png 1024w, ./../../../wp-content/uploads/2019/06/dexagtrade-300x172.png 300w, ./../../../wp-content/uploads/2019/06/dexagtrade-768x441.png 768w, ./../../../wp-content/uploads/2019/06/dexagtrade-1536x882.png 1536w, ./../../../wp-content/uploads/2019/06/dexagtrade-1568x901.png 1568w, ./../../../wp-content/uploads/2019/06/dexagtrade.png 1635w" sizes="(max-width: 900px) 100vw, 900px" /></p>
 <p>The exchange found at the top of the list will be the best trade available on the market for the trading pair and amount you&#8217;ve chosen. Click the &#8216;Buy Now&#8217; button and MetaMask will walk you through submitting your trade to the DEX. However, if you haven&#8217;t previously interacted with the DEX, you&#8217;ll be required to send an approval transaction to the smart contract first.</p>
 <p>After hitting submit, your trade will be complete as soon as your transaction is confirmed. Well would you look at that, you&#8217;ve completed your first trade on a DEX in just a few clicks!</p>
+<p>The post <a rel="nofollow" href="./../../../2019/07/23/how-to-trade-on-a-dex/index.html">How to trade on a DEX?</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

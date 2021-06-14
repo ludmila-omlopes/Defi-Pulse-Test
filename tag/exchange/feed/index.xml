@@ -12,18 +12,18 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 May 2021 19:10:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 31 May 2020 13:55:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Balancer &#8211; Start Liquidity Mining and Earn BAL Tokens Today</title>
 		<link>./../../../2020/05/31/balancer-start-liquidity-mining-and-earn-bal-tokens-today/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Sun, 31 May 2020 13:55:00 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[amm]]></category>
@@ -35,13 +35,15 @@
 		<category><![CDATA[exchange]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8276</guid>
 
-					<description><![CDATA[Liquidity is paramount to the growth of DeFi. Many DApps require reliable pools of liquidity to function. One of the...]]></description>
+					<description><![CDATA[<p>Liquidity is paramount to the growth of DeFi. Many DApps require reliable pools of liquidity to function. One of the...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/05/31/balancer-start-liquidity-mining-and-earn-bal-tokens-today/index.html">Balancer &#8211; Start Liquidity Mining and Earn BAL Tokens Today</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Liquidity is paramount to the growth of DeFi. Many DApps require reliable pools of liquidity to function. One of the most interesting project&#8217;s innovating in the pool liquidity space is Balancer. If you haven&#8217;t heard of Balancer, now&#8217;s a great time to learn because Balancer is about to start distributing BAL tokens to liquidity providers on June 1st, 2020 at 00:00 UTC. We&#8217;re working with Balancer Labs to get the word out about this Liquidity Mining process as part of our DeFi Pulse Drop series.</p>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2020/05/1_hrBWNLyxr4YwrdCnRsfOeQ-1024x576.png" alt="" class="wp-image-8278" srcset="./../../../wp-content/uploads/2020/05/1_hrBWNLyxr4YwrdCnRsfOeQ-1024x576.png 1024w, ./../../../wp-content/uploads/2020/05/1_hrBWNLyxr4YwrdCnRsfOeQ-300x169.png 300w, ./../../../wp-content/uploads/2020/05/1_hrBWNLyxr4YwrdCnRsfOeQ-768x432.png 768w, ./../../../wp-content/uploads/2020/05/1_hrBWNLyxr4YwrdCnRsfOeQ.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="https://defipulse.com/blog/wp-content/uploads/2020/05/1_hrBWNLyxr4YwrdCnRsfOeQ-1024x576.png" alt="" class="wp-image-8278" srcset="./../../../wp-content/uploads/2020/05/1_hrBWNLyxr4YwrdCnRsfOeQ-1024x576.png 1024w, ./../../../wp-content/uploads/2020/05/1_hrBWNLyxr4YwrdCnRsfOeQ-300x169.png 300w, ./../../../wp-content/uploads/2020/05/1_hrBWNLyxr4YwrdCnRsfOeQ-768x432.png 768w, ./../../../wp-content/uploads/2020/05/1_hrBWNLyxr4YwrdCnRsfOeQ.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -121,7 +123,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="621" src="./../../../wp-content/uploads/2020/05/1_07aShFlZ136DIIx8ltsWPA@2x-1024x621.png" alt="" class="wp-image-8277" srcset="./../../../wp-content/uploads/2020/05/1_07aShFlZ136DIIx8ltsWPA@2x-1024x621.png 1024w, ./../../../wp-content/uploads/2020/05/1_07aShFlZ136DIIx8ltsWPA@2x-300x182.png 300w, ./../../../wp-content/uploads/2020/05/1_07aShFlZ136DIIx8ltsWPA@2x-768x466.png 768w, ./../../../wp-content/uploads/2020/05/1_07aShFlZ136DIIx8ltsWPA@2x.png 1362w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="621" src="https://defipulse.com/blog/wp-content/uploads/2020/05/1_07aShFlZ136DIIx8ltsWPA@2x-1024x621.png" alt="" class="wp-image-8277" srcset="./../../../wp-content/uploads/2020/05/1_07aShFlZ136DIIx8ltsWPA@2x-1024x621.png 1024w, ./../../../wp-content/uploads/2020/05/1_07aShFlZ136DIIx8ltsWPA@2x-300x182.png 300w, ./../../../wp-content/uploads/2020/05/1_07aShFlZ136DIIx8ltsWPA@2x-768x466.png 768w, ./../../../wp-content/uploads/2020/05/1_07aShFlZ136DIIx8ltsWPA@2x.png 1362w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -142,6 +144,7 @@
 
 
 <p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve partnered with Balancer Labs to help spread the word about Liquidity Mining and BAL token distribution. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express as part of a DeFi Pulse Drop are our own. Not only are we thrilled to receive BAL tokens, we&#8217;re even more excited to be a part of the Balancer community</em>!</p>
+<p>The post <a rel="nofollow" href="./../../../2020/05/31/balancer-start-liquidity-mining-and-earn-bal-tokens-today/index.html">Balancer &#8211; Start Liquidity Mining and Earn BAL Tokens Today</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -151,12 +154,15 @@
 		<title>Futureswap — Decentralized Futures With Up to 20x Leverage</title>
 		<link>./../../../2020/04/19/futureswap/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 19 Apr 2020 07:45:46 +0000</pubDate>
-				<category><![CDATA[Exchanges]]></category>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Sun, 19 Apr 2020 12:45:46 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Exchange]]></category>
+		<category><![CDATA[Exchanges]]></category>
 		<category><![CDATA[Futures]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[decentralized exchanges]]></category>
 		<category><![CDATA[derivatives]]></category>
 		<category><![CDATA[exchange]]></category>
@@ -166,13 +172,15 @@
 		<category><![CDATA[margin trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8112</guid>
 
-					<description><![CDATA[If you ask me, the most exciting part of decentralized finance is seeing DeFi&#8217;s money legos stacking up over time....]]></description>
+					<description><![CDATA[<p>If you ask me, the most exciting part of decentralized finance is seeing DeFi&#8217;s money legos stacking up over time....</p>
+<p>The post <a rel="nofollow" href="./../../../2020/04/19/futureswap/index.html">Futureswap — Decentralized Futures With Up to 20x Leverage</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>If you ask me, the most exciting part of decentralized finance is seeing DeFi&#8217;s money legos stacking up over time. Futureswap, launching Monday afternoon PST (April 20th, 2020), is a great example of how decentralized finance iterates on past successes to evolve into something even better.</p>
 
 
 
-<figure class="wp-block-image size-full"><a href="https://exchange.futureswap.com/?src=0xDA5167FfCa51e72703DCC2c0F2fEF1bB3A790fa0"><img loading="lazy" width="2488" height="1168" src="./../../../wp-content/uploads/2020/04/ROW-DG_1-1.png" alt="" class="wp-image-8166" srcset="./../../../wp-content/uploads/2020/04/ROW-DG_1-1.png 2488w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-300x141.png 300w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-1024x481.png 1024w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-768x361.png 768w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-1536x721.png 1536w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-2048x961.png 2048w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-1568x736.png 1568w" sizes="(max-width: 2488px) 100vw, 2488px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="https://exchange.futureswap.com/?src=0xDA5167FfCa51e72703DCC2c0F2fEF1bB3A790fa0"><img loading="lazy" width="2488" height="1168" src="https://defipulse.com/blog/wp-content/uploads/2020/04/ROW-DG_1-1.png" alt="" class="wp-image-8166" srcset="./../../../wp-content/uploads/2020/04/ROW-DG_1-1.png 2488w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-300x141.png 300w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-1024x481.png 1024w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-768x361.png 768w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-1536x721.png 1536w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-2048x961.png 2048w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-1568x736.png 1568w" sizes="(max-width: 2488px) 100vw, 2488px" /></a></figure>
 
 
 
@@ -289,6 +297,7 @@
 
 
 <h4><strong><a href="https://exchange.futureswap.com/?src=0xDA5167FfCa51e72703DCC2c0F2fEF1bB3A790fa0">Futureswap</a> is set to launch at Monday afternoon PST (April 20, 2020) so there&#8217;s never been a better time to get involved.</strong></h4>
+<p>The post <a rel="nofollow" href="./../../../2020/04/19/futureswap/index.html">Futureswap — Decentralized Futures With Up to 20x Leverage</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -298,13 +307,14 @@
 		<title>What is a decentralized exchange?</title>
 		<link>./../../../2019/07/19/what-is-a-decentralized-exchange/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Fri, 19 Jul 2019 11:29:11 +0000</pubDate>
-				<category><![CDATA[Exchanges]]></category>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Fri, 19 Jul 2019 16:29:11 +0000</pubDate>
+				<category><![CDATA[Exchange]]></category>
+		<category><![CDATA[Exchanges]]></category>
 		<category><![CDATA[Explainers]]></category>
-		<category><![CDATA[Learn]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[decentralized exchanges]]></category>
 		<category><![CDATA[DeFi]]></category>
 		<category><![CDATA[DEX]]></category>
@@ -312,7 +322,9 @@
 		<category><![CDATA[exchange]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7389</guid>
 
-					<description><![CDATA[A decentralized exchange, or DEX for short, is like a stock exchange run by a smart contract on the Ethereum...]]></description>
+					<description><![CDATA[<p>A decentralized exchange, or DEX for short, is like a stock exchange run by a smart contract on the Ethereum...</p>
+<p>The post <a rel="nofollow" href="./../../../2019/07/19/what-is-a-decentralized-exchange/index.html">What is a decentralized exchange?</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>A decentralized exchange, or DEX for short, is like a stock exchange run by a smart contract on the Ethereum blockchain. Although both allow you to trade assets, a decentralized exchange trades cryptocurrency only and so does not require a centralized authority to operate. Instead, a decentralized exchange uses a smart contract to enforce the rules, execute trades, and securely handle funds when necessary.</p>
 <h4>In order to examine the differences, let&#8217;s break down what a centralized exchange looks like in traditional finance.</h4>
 <p>Exchanges are where you buy and sell things. More specifically, financial exchanges are where you trade financial assets and commodities. In traditional finance, these assets are held in custody by a central exchange who takes orders from buyers and sellers for commodities, stock, securities, currencies, and more.</p>
@@ -325,6 +337,7 @@
 <p>There&#8217;s a risk to putting your money in someone else&#8217;s hands. This is especially true when it comes to cryptocurrency. Centralized cryptocurrency exchanges hold millions of dollars of their customers&#8217; funds and are prime targets for hackers and thieves.</p>
 <p>Decentralized exchanges reduce this risk by either letting you keep your funds in your wallet until the order is filled. Or rather, the funds are held in a smart contract secured by the Ethereum blockchain.</p>
 <p>Try it our yourself! It&#8217;s easy; just use <a href="https://dex.ag/">DEX.AG</a> to find the best prices from 10 different DEXes in one click. And then, just punch in your desire trading pair and amount, hit Buy Now, and in seconds you&#8217;ll have made your first trade on a DEX.</p>
+<p>The post <a rel="nofollow" href="./../../../2019/07/19/what-is-a-decentralized-exchange/index.html">What is a decentralized exchange?</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

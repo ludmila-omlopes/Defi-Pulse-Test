@@ -18,14 +18,15 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>4 New DeFi Trends to Watch Out for in 2020</title>
 		<link>./../../../2019/12/12/4-new-defi-trends-to-watch-out-for-in-2020/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Thu, 12 Dec 2019 20:26:59 +0000</pubDate>
-				<category><![CDATA[DEX]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[DEX]]></category>
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[bzx]]></category>
 		<category><![CDATA[decentralized exchanges]]></category>
@@ -37,7 +38,9 @@
 		<category><![CDATA[zk-snarks]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7824</guid>
 
-					<description><![CDATA[It&#8217;s been an amazing year for Decentralized Finance. As of writing this, DeFi has grown from $293M to $665M since...]]></description>
+					<description><![CDATA[<p>It&#8217;s been an amazing year for Decentralized Finance. As of writing this, DeFi has grown from $293M to $665M since...</p>
+<p>The post <a rel="nofollow" href="./../../../2019/12/12/4-new-defi-trends-to-watch-out-for-in-2020/index.html">4 New DeFi Trends to Watch Out for in 2020</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>It&#8217;s been an amazing year for Decentralized Finance. As of writing this, DeFi has grown from $293M to $665M since the start of 2019. Not only should the community celebrate the tremendous growth this year, but also the many brighter days ahead. Let&#8217;s look to what the future holds for DeFi with four trends you should keep your eyes out for in 2020.</p>
 <h3>Privacy Solutions and Mixers</h3>
 <p>Research into zero knowledge proof technology was extremely fruitful in 2019. For starters, the gas cost of ZK-SNARKs has greatly been <a href="https://defipulse.com/blog/how-ethereums-istanbul-network-upgrade-affects-defi/">reduced through new EIPs</a>. Not to mention, new ZK proving systems like PLONK, Sonic, etc. are faster than ever. Additionally, EY has continued its work on zero knowledge transaction batching, achieving a 400-fold improvement in gas efficiency.</p>
@@ -53,6 +56,7 @@
 <p>What will be the most popular way to stake ETH and cryptocurrency in general? Exchanges and custody services are already offering Tezos staking and will likely offer custodial ETH staking.</p>
 <p>What kind of DeFi products and services will launch to suit the needs of ETH 2.0? For example, <a href="https://www.rocketpool.net/">Rocket Pool</a>&nbsp;is arguably the most popular decentralized staking pool in development. Learn more about the changes coming soon with Ethereum 2.0 <a href="https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/#phase-0-beacon-chain">here</a>.</p>
 <p><span style="font-weight: 400;">F</span>ollow us on&nbsp;<a href="https://twitter.com/defipulse">Twitter</a>&nbsp;or join us in&nbsp;<span style="font-weight: 400;">our&nbsp;<a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a>&nbsp;to keep up with the DeFi ecosystem</span></p>
+<p>The post <a rel="nofollow" href="./../../../2019/12/12/4-new-defi-trends-to-watch-out-for-in-2020/index.html">4 New DeFi Trends to Watch Out for in 2020</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -62,10 +66,9 @@
 		<title>Introducing IPY &#8211; Speedometer for the New Financial System</title>
 		<link>./../../../2019/11/07/introducing-ipy-speedometer-for-new-financial-system/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Thu, 07 Nov 2019 13:46:16 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[New Features]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[bzx]]></category>
 		<category><![CDATA[Compound]]></category>
@@ -78,18 +81,21 @@
 		<category><![CDATA[maker]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7682</guid>
 
-					<description><![CDATA[Introducing Interest Per Year, or IPY for short, a new metric created by DeFi Pulse used to track the performance...]]></description>
+					<description><![CDATA[<p>Introducing Interest Per Year, or IPY for short, a new metric created by DeFi Pulse used to track the performance...</p>
+<p>The post <a rel="nofollow" href="./../../../2019/11/07/introducing-ipy-speedometer-for-new-financial-system/index.html">Introducing IPY &#8211; Speedometer for the New Financial System</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>Introducing <a href="https://defipulse.com/defi-lending">Interest Per Year</a>, or IPY for short, a new metric created by DeFi Pulse used to track the performance of DeFi lending markets.&nbsp;<span style="font-weight: 400;">Imagine IPY like the speedometer for DeFi measuring the speed at which interest is accruing in DeFi lending protocols given the borrow rate and outstanding debt at that moment. IPY is useful for measuring the potential performance changes of lending protocols in the short term.</span></p>
 <p><strong>What&#8217;s truly fascinating about a metric like IPY is the fact that it isn&#8217;t possible without DeFi.</strong> In centralized finance, banks, financial institutions, and regulators control the flow of information. These authorities choose what information gets disclosed to the public. It&#8217;s not like you can walk into your bank and say, &#8220;I&#8217;m here to perform an audit.&#8221; But things are different with DeFi.</p>
 <p>With DeFi, all the data is publicly available on-chain for everyone to see. Transparency and real time data are two major&nbsp;advantages DeFi has gained by rebuilding things from scratch. And it&#8217;s up to us as members of the DeFi community to decide how we want to synthesize the data and utilize those advantages.</p>
-<p><a href="https://defipulse.com/defi-lending"><img loading="lazy" class="alignnone wp-image-7742 size-full" src="./../../../wp-content/uploads/2019/11/Selection_323-1.jpg" alt="" width="895" height="645" srcset="./../../../wp-content/uploads/2019/11/Selection_323-1.jpg 895w, ./../../../wp-content/uploads/2019/11/Selection_323-1-300x216.jpg 300w, ./../../../wp-content/uploads/2019/11/Selection_323-1-768x553.jpg 768w" sizes="(max-width: 895px) 100vw, 895px" /></a></p>
+<p><a href="https://defipulse.com/defi-lending"><img loading="lazy" class="alignnone wp-image-7742 size-full" src="https://defipulse.com/blog/wp-content/uploads/2019/11/Selection_323-1.jpg" alt="" width="895" height="645" srcset="./../../../wp-content/uploads/2019/11/Selection_323-1.jpg 895w, ./../../../wp-content/uploads/2019/11/Selection_323-1-300x216.jpg 300w, ./../../../wp-content/uploads/2019/11/Selection_323-1-768x553.jpg 768w" sizes="(max-width: 895px) 100vw, 895px" /></a></p>
 <p>It&#8217;s important to remember that DeFi lending is still maturing. Historically, the most popular form of collateral has been ETH. And, the most popular asset to borrow has been DAI. Lending rates have been highly correlated to the performance of this trading pair ETH/DAI. While rates may go up and down, outstanding debts have consistently risen over time. Additionally, as DeFi lending matures and new assets like securities, property, real estate, etc enter the picture, metrics like IPY will mature as well.</p>
-<p><a href="https://defipulse.com/defi-lending"><img loading="lazy" class="alignnone wp-image-7745 size-full" src="./../../../wp-content/uploads/2019/11/Selection_326.jpg" alt="" width="900" height="815" srcset="./../../../wp-content/uploads/2019/11/Selection_326.jpg 900w, ./../../../wp-content/uploads/2019/11/Selection_326-300x272.jpg 300w, ./../../../wp-content/uploads/2019/11/Selection_326-768x695.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /></a></p>
+<p><a href="https://defipulse.com/defi-lending"><img loading="lazy" class="alignnone wp-image-7745 size-full" src="https://defipulse.com/blog/wp-content/uploads/2019/11/Selection_326.jpg" alt="" width="900" height="815" srcset="./../../../wp-content/uploads/2019/11/Selection_326.jpg 900w, ./../../../wp-content/uploads/2019/11/Selection_326-300x272.jpg 300w, ./../../../wp-content/uploads/2019/11/Selection_326-768x695.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /></a></p>
 <p>Interest Per Year is an example of what&#8217;s possible through DeFi. It&#8217;s a metric that can help market participants better understand the condition of DeFi lending markets.&nbsp;<span style="font-weight: 400;">For example, DAI&#8217;s IPY is generally greater than USDC&#8217;s but USDC has a more stable IPY. This indicates that there is greater demand for DAI loans overall but USDC is carving out a niche for steady consistent lending returns.</span></p>
 <p>Whether you want to analyze historical rates or simply stay ahead of trends in DeFi, the new&nbsp;<a href="https://defipulse.com/defi-lending">DeFi Lending</a>&nbsp;page makes it easier to spot patterns emerging in the market.&nbsp;<span style="font-weight: 400;">Our new page supports a variety of assets including DAI, USDC, ETH, REP, ZRX, WBTC, and BAT with lending data from Compound, Maker, dYdX, and Fulcrum.</span></p>
 <h3>Witness the growth of DeFi lending markets firsthand</h3>
 <p>Decentralized Finance is still in its infancy. It&#8217;s a historic time for the industry and we&#8217;re about to witness events which will shape DeFi forever. In the days ahead, we&#8217;ll see more and more assets be introduced as collateral in DeFi. Not to mention, different lending models will emerge. And on top of it all, more and more people will experience borrowing or lending in DeFi for the first time. We hope <a href="https://defipulse.com/defi-lending">DeFi Lending</a> will give you the tools to capture history in the making.</p>
 <p><span style="font-weight: 400;">Have a question or feedback about the new Lending page? Let us know what you think on <a href="https://twitter.com/defipulse">Twitter</a> or in our&nbsp;<a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord.</a></span></p>
+<p>The post <a rel="nofollow" href="./../../../2019/11/07/introducing-ipy-speedometer-for-new-financial-system/index.html">Introducing IPY &#8211; Speedometer for the New Financial System</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -99,7 +105,7 @@
 		<title>Top 3 Most Popular Cryptocurrency Margin Trading Platforms in DeFi</title>
 		<link>./../../../2019/10/03/top-3-most-popular-cryptocurrency-margin-trading-platforms-in-defi/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Thu, 03 Oct 2019 19:07:35 +0000</pubDate>
 				<category><![CDATA[Explainers]]></category>
 		<category><![CDATA[Technology]]></category>
@@ -113,27 +119,30 @@
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7650</guid>
 
-					<description><![CDATA[Margin trading is extremely popular in the cryptocurrency markets. In the past, traders used to rely on centralized exchanges to...]]></description>
+					<description><![CDATA[<p>Margin trading is extremely popular in the cryptocurrency markets. In the past, traders used to rely on centralized exchanges to...</p>
+<p>The post <a rel="nofollow" href="./../../../2019/10/03/top-3-most-popular-cryptocurrency-margin-trading-platforms-in-defi/index.html">Top 3 Most Popular Cryptocurrency Margin Trading Platforms in DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>Margin trading is extremely popular in the cryptocurrency markets. In the past, traders used to rely on centralized exchanges to trade using leverage. But recently, <a href="https://defipulse.com/blog/what-is-a-dapp/">DApps</a> that provide this kind of trading have become some of the most popular services in <a href="https://defipulse.com/blog/what-is-defi/">DeFi</a>.</p>
 <h1>What is margin trading?</h1>
-<p>Margin trading is a method of trading using borrowed funds allowing you further leverage your existing assets. <strong>Margin trading comes with higher risks than normal trading.</strong>&nbsp;Because while it does offer the potential to amplify your gains, it can also amplify losses incurred through trading. In traditional finance, brokers typically provide the funds necessary to open a leveraged position. In DeFi, margin traders borrow cryptocurrencies from decentralized lending protocols powered by smart contracts. Lenders<a href="https://defipulse.com/income"> earn interest rates anywhere from 5-20%</a> for lending their tokens to borrowers like margin traders.</p>
+<p>Margin trading is a method of trading using borrowed funds allowing you further leverage your existing assets. <strong>Margin trading comes with higher risks than normal trading.</strong> Because while it does offer the potential to amplify your gains, it can also amplify losses incurred through trading. In traditional finance, brokers typically provide the funds necessary to open a leveraged position. In DeFi, margin traders borrow cryptocurrencies from decentralized lending protocols powered by smart contracts. Lenders<a href="https://defipulse.com/income"> earn interest rates anywhere from 5-20%</a> for lending their tokens to borrowers like margin traders.</p>
 <h3>How does it work?</h3>
 <p>When you open a margin trade, you select your desired amount of leverage and lock in funds (sometimes referred to as collateral) worth a portion of your total order, also known as your margin. Leverage in this case refers to ratio of borrowed assets to the value of your margin. For example, if you opened a margin trade with 3x leverage worth $3,000, you&#8217;d be required to lock in $1,000 worth of collateral.</p>
 <p>Margin trading positions can either by long or short. Opening a long position means you believe that the price will go up. Whereas, opening a short position, also known as shorting, means you believe the price of the asset your trading will go down.</p>
 <p>To new traders with little collateral, margin trading can be very appealing because it gives you access to more capital. However, you should be aware that trading with leverage multiplies your profits <em>and your losses</em>, meaning that <strong>you should never risk more than you&#8217;re willing to lose</strong>. If the value of your margin falls or the price does not go the way you predicted and your trade becomes over-leveraged, your margin trade can be liquidated and your collateral can be sold to repay the assets you borrowed plus interest.</p>
 <h1>Top Margin Trading Platforms in DeFi</h1>
 <p>DeFi margin trading platforms are built using smart contracts which enforce trading rules and facilitate the loans between lenders and borrowers, or rather margin traders in this case. When you margin trading cryptocurrency on any of these platforms, you will pay interest on any assets that you borrow. Potential leverage and borrowing interest rates vary from platform to platform. And, the interest you pay is subject to fluctuation depending on the platform&#8217;s available supply and demand for loans.</p>
-<h3><img loading="lazy" class="alignnone size-large wp-image-7661" src="./../../../wp-content/uploads/2019/10/Selection_225-1024x504.jpg" alt="" width="640" height="315" srcset="./../../../wp-content/uploads/2019/10/Selection_225-1024x504.jpg 1024w, ./../../../wp-content/uploads/2019/10/Selection_225-300x148.jpg 300w, ./../../../wp-content/uploads/2019/10/Selection_225-768x378.jpg 768w, ./../../../wp-content/uploads/2019/10/Selection_225-1536x756.jpg 1536w, ./../../../wp-content/uploads/2019/10/Selection_225-1568x772.jpg 1568w, ./../../../wp-content/uploads/2019/10/Selection_225.jpg 1918w" sizes="(max-width: 640px) 100vw, 640px" /></h3>
+<h3><img loading="lazy" class="alignnone size-large wp-image-7661" src="https://defipulse.com/blog/wp-content/uploads/2019/10/Selection_225-1024x504.jpg" alt="" width="640" height="315" srcset="./../../../wp-content/uploads/2019/10/Selection_225-1024x504.jpg 1024w, ./../../../wp-content/uploads/2019/10/Selection_225-300x148.jpg 300w, ./../../../wp-content/uploads/2019/10/Selection_225-768x378.jpg 768w, ./../../../wp-content/uploads/2019/10/Selection_225-1536x756.jpg 1536w, ./../../../wp-content/uploads/2019/10/Selection_225-1568x772.jpg 1568w, ./../../../wp-content/uploads/2019/10/Selection_225.jpg 1918w" sizes="(max-width: 640px) 100vw, 640px" /></h3>
 <h3>dYdX</h3>
-<p><a href="https://dydx.exchange/">dYdX</a>&nbsp;is a non-custodial trading platform geared toward experienced traders which offers trades with up to 5x leverage on longs and 4x leverage on shorts. dYdX is the largest margin trading platform in DeFi with <a href="https://defipulse.com/dydx">over $23 million worth of assets locked</a> into its smart contracts. The following pairs are currently available to trade on dYdX: ETH-DAI, ETH-USDC, and DAI-USDC.</p>
-<h3><img loading="lazy" class="alignnone size-large wp-image-7662" src="./../../../wp-content/uploads/2019/10/Selection_223-1024x509.jpg" alt="" width="640" height="318" srcset="./../../../wp-content/uploads/2019/10/Selection_223-1024x509.jpg 1024w, ./../../../wp-content/uploads/2019/10/Selection_223-300x149.jpg 300w, ./../../../wp-content/uploads/2019/10/Selection_223-768x382.jpg 768w, ./../../../wp-content/uploads/2019/10/Selection_223-1536x763.jpg 1536w, ./../../../wp-content/uploads/2019/10/Selection_223-1568x779.jpg 1568w, ./../../../wp-content/uploads/2019/10/Selection_223.jpg 1902w" sizes="(max-width: 640px) 100vw, 640px" /></h3>
+<p><a href="https://dydx.exchange/">dYdX</a> is a non-custodial trading platform geared toward experienced traders which offers trades with up to 5x leverage on longs and 4x leverage on shorts. dYdX is the largest margin trading platform in DeFi with <a href="https://defipulse.com/dydx">over $23 million worth of assets locked</a> into its smart contracts. The following pairs are currently available to trade on dYdX: ETH-DAI, ETH-USDC, and DAI-USDC.</p>
+<h3><img loading="lazy" class="alignnone size-large wp-image-7662" src="https://defipulse.com/blog/wp-content/uploads/2019/10/Selection_223-1024x509.jpg" alt="" width="640" height="318" srcset="./../../../wp-content/uploads/2019/10/Selection_223-1024x509.jpg 1024w, ./../../../wp-content/uploads/2019/10/Selection_223-300x149.jpg 300w, ./../../../wp-content/uploads/2019/10/Selection_223-768x382.jpg 768w, ./../../../wp-content/uploads/2019/10/Selection_223-1536x763.jpg 1536w, ./../../../wp-content/uploads/2019/10/Selection_223-1568x779.jpg 1568w, ./../../../wp-content/uploads/2019/10/Selection_223.jpg 1902w" sizes="(max-width: 640px) 100vw, 640px" /></h3>
 <h3>Fulcrum</h3>
 <p><a href="https://fulcrum.trade/#/">Fulcrum</a> is non-custodial margin trading platform built using the bZx protocol and Kyber Network. When you open a position, the smart contract takes out a loan from bZx on your behalf which is then swapped for the token you selected. Fulcrum allows you to long or short with up to 4x leverage and supports ETH, DAI, WBTC, LINK, ZRX, REP and KNC tokens.</p>
-<h3><img loading="lazy" class="alignnone size-large wp-image-7663" src="./../../../wp-content/uploads/2019/10/Selection_224-1024x510.jpg" alt="" width="640" height="319" srcset="./../../../wp-content/uploads/2019/10/Selection_224-1024x510.jpg 1024w, ./../../../wp-content/uploads/2019/10/Selection_224-300x150.jpg 300w, ./../../../wp-content/uploads/2019/10/Selection_224-768x383.jpg 768w, ./../../../wp-content/uploads/2019/10/Selection_224-1536x766.jpg 1536w, ./../../../wp-content/uploads/2019/10/Selection_224-1568x782.jpg 1568w, ./../../../wp-content/uploads/2019/10/Selection_224.jpg 1904w" sizes="(max-width: 640px) 100vw, 640px" /></h3>
+<h3><img loading="lazy" class="alignnone size-large wp-image-7663" src="https://defipulse.com/blog/wp-content/uploads/2019/10/Selection_224-1024x510.jpg" alt="" width="640" height="319" srcset="./../../../wp-content/uploads/2019/10/Selection_224-1024x510.jpg 1024w, ./../../../wp-content/uploads/2019/10/Selection_224-300x150.jpg 300w, ./../../../wp-content/uploads/2019/10/Selection_224-768x383.jpg 768w, ./../../../wp-content/uploads/2019/10/Selection_224-1536x766.jpg 1536w, ./../../../wp-content/uploads/2019/10/Selection_224-1568x782.jpg 1568w, ./../../../wp-content/uploads/2019/10/Selection_224.jpg 1904w" sizes="(max-width: 640px) 100vw, 640px" /></h3>
 <h3>Nuo Network</h3>
-<p><a href="https://nuo.network/">Nuo Network</a> is the second largest margin trading platform in DeFi with <a href="https://defipulse.com/nuo-network">$10.6 million worth of assets currently locked</a> in its smart contracts. Using its debt reserves and Kyber Network to swap tokens, margin traders can open positions with up to x3 leverage. Traders can long or short ETH, WBTC, LINK, MKR, DAI, REP, ZRX, BAT, KNC, and USDT across four base pairs: USDC, DAI, WBTC, and ETH.</p>
+<p>Nuo Network is the second largest margin trading platform in DeFi with <a href="https://defipulse.com/nuo-network">$10.6 million worth of assets currently locked</a> in its smart contracts. Using its debt reserves and Kyber Network to swap tokens, margin traders can open positions with up to x3 leverage. Traders can long or short ETH, WBTC, LINK, MKR, DAI, REP, ZRX, BAT, KNC, and USDT across four base pairs: USDC, DAI, WBTC, and ETH.</p>
 <p><strong>Remember, margin trading can be extremely risky. So be sure to use caution, never risk more than you&#8217;re willing to lose, and to do your own research!</strong></p>
-<p><span style="font-weight: 400;">For more information about DeFi, follow us on <a href="https://twitter.com/defipulse">Twitter</a> or come chat us in our&nbsp;<a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord.</a></span></p>
+<p><span style="font-weight: 400;">For more information about DeFi, follow us on <a href="https://twitter.com/defipulse">Twitter</a> or come chat us in our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord.</a></span></p>
+<p>The post <a rel="nofollow" href="./../../../2019/10/03/top-3-most-popular-cryptocurrency-margin-trading-platforms-in-defi/index.html">Top 3 Most Popular Cryptocurrency Margin Trading Platforms in DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -12,20 +12,22 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 May 2021 00:51:21 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 21 Feb 2021 19:55:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Reflexer &#8211; Crypto-Native Stability Built for DeFi</title>
 		<link>./../../../2021/02/21/reflexer/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 21 Feb 2021 14:55:00 +0000</pubDate>
-				<category><![CDATA[Explainers]]></category>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Sun, 21 Feb 2021 19:55:00 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[dai]]></category>
 		<category><![CDATA[lending]]></category>
 		<category><![CDATA[MakerDAO]]></category>
@@ -35,7 +37,9 @@
 		<category><![CDATA[sai]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8906</guid>
 
-					<description><![CDATA[The average person would describe cryptocurrency as highly volatile. And while this is true for many, there are coins designed...]]></description>
+					<description><![CDATA[<p>The average person would describe cryptocurrency as highly volatile. And while this is true for many, there are coins designed...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/02/21/reflexer/index.html">Reflexer &#8211; Crypto-Native Stability Built for DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>The average person would describe cryptocurrency as highly volatile. And while this is true for many, there are coins designed to reduce volatility or stability commonly referred to as stablecoins. Stablecoins, particularly those pegged to the US Dollar, have dramatically risen in popularity thanks to the utility they provide to users and smart contracts alike. Users tend to gravitate to the narrative of USD pegged stablecoins as a familiar unit of account. However, history has shown that stablecoins pegged to the value of a specific asset or basket of assets don’t always hold their peg. And when they do go off peg, it can quickly diminish the reputation of a stablecoin built on the premise of always being $1.&nbsp;</p>
 
@@ -49,7 +53,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=5626157429&amp;iu=/22134506417"><img src="./../../../wp-content/uploads/2021/02/reflexer_banner_youtube2__1_-1.png" alt="" class="wp-image-8909"/></a></figure>
+<figure class="wp-block-image size-large"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=5626157429&amp;iu=/22134506417"><img loading="lazy" width="1000" height="562" src="https://defipulse.com/blog/wp-content/uploads/2021/02/reflexer_banner_youtube2__1_.png" alt="" class="wp-image-8909" srcset="./../../../wp-content/uploads/2021/02/reflexer_banner_youtube2__1_.png 1000w, ./../../../wp-content/uploads/2021/02/reflexer_banner_youtube2__1_-300x169.png 300w, ./../../../wp-content/uploads/2021/02/reflexer_banner_youtube2__1_-768x432.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></figure>
 
 
 
@@ -166,6 +170,7 @@
 
 
 <p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Reflexer to help educate and inform the community about reflex indexes. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/02/21/reflexer/index.html">Reflexer &#8211; Crypto-Native Stability Built for DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -175,7 +180,7 @@
 		<title>What is SAI? Where is my DAI? Migrating to Multi-Collateral Dai</title>
 		<link>./../../../2019/11/18/what-is-sai-where-is-my-dai-migrating-to-multi-collateral-dai/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Mon, 18 Nov 2019 16:04:37 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Explainers]]></category>
@@ -189,10 +194,12 @@
 		<category><![CDATA[vault]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7772</guid>
 
-					<description><![CDATA[Don&#8217;t panic. Everything is ok. The Maker system has been upgraded to Multi-Collateral Dai. You should see SAI in your...]]></description>
+					<description><![CDATA[<p>Don&#8217;t panic. Everything is ok. The Maker system has been upgraded to Multi-Collateral Dai. You should see SAI in your...</p>
+<p>The post <a rel="nofollow" href="./../../../2019/11/18/what-is-sai-where-is-my-dai-migrating-to-multi-collateral-dai/index.html">What is SAI? Where is my DAI? Migrating to Multi-Collateral Dai</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>Don&#8217;t panic. Everything is ok. The Maker system has been upgraded to Multi-Collateral Dai. You should see SAI in your wallet instead of DAI. This just means it&#8217;s time to migrate your &#8220;DAI&#8221;, now referred to as SAI, to Maker&#8217;s new architecture.</p>
 <p>With the launch of Multi-Collateral Dai on November 18th, 2019, the name and ticker symbol of Single Collateral Dai is changing to Sai (SAI). DAI now refers to DAI minted in the new Multi-Collateral Dai system. The term Collateralized Debt Position (CDP) is also being replaced with the term &#8220;Vault&#8221; under MCDai.</p>
-<h3><img loading="lazy" class="alignnone size-large wp-image-7776" src="./../../../wp-content/uploads/2019/11/new-DAI-terminology-1024x496.jpg" alt="" width="640" height="310" srcset="./../../../wp-content/uploads/2019/11/new-DAI-terminology-1024x496.jpg 1024w, ./../../../wp-content/uploads/2019/11/new-DAI-terminology-300x145.jpg 300w, ./../../../wp-content/uploads/2019/11/new-DAI-terminology-768x372.jpg 768w, ./../../../wp-content/uploads/2019/11/new-DAI-terminology-1536x744.jpg 1536w, ./../../../wp-content/uploads/2019/11/new-DAI-terminology-1568x760.jpg 1568w, ./../../../wp-content/uploads/2019/11/new-DAI-terminology.jpg 1600w" sizes="(max-width: 640px) 100vw, 640px" /></h3>
+<h3><img loading="lazy" class="alignnone size-large wp-image-7776" src="https://defipulse.com/blog/wp-content/uploads/2019/11/new-DAI-terminology-1024x496.jpg" alt="" width="640" height="310" srcset="./../../../wp-content/uploads/2019/11/new-DAI-terminology-1024x496.jpg 1024w, ./../../../wp-content/uploads/2019/11/new-DAI-terminology-300x145.jpg 300w, ./../../../wp-content/uploads/2019/11/new-DAI-terminology-768x372.jpg 768w, ./../../../wp-content/uploads/2019/11/new-DAI-terminology-1536x744.jpg 1536w, ./../../../wp-content/uploads/2019/11/new-DAI-terminology-1568x760.jpg 1568w, ./../../../wp-content/uploads/2019/11/new-DAI-terminology.jpg 1600w" sizes="(max-width: 640px) 100vw, 640px" /></h3>
 <p>These changes were made to reduce confusion during the transition period where both the Single Collateral and Multi-Collateral Maker systems will run in parallel. During this time, DAI and SAI will exist in the market together.</p>
 <p>Each smart contract, platform, or service that previously used DAI is expected to change ticker symbols and upgrade accordingly. And while many services and exchanges plan to transition ASAP, the process isn&#8217;t going to be instant. Be careful not to confuse the two tokens and double-check before sending tokens anywhere. Mistakes may result in the loss of your funds.</p>
 <h3>What changes are coming with Multi-Collateral Dai?</h3>
@@ -237,6 +244,7 @@
 <p><a href="https://dex.ag/">DEX.AG</a> renamed DAI to &#8220;SAI old DAI (DAI)&#8221; in its menus. On Monday Nov. 18th, MCD DAI will be listed as DAI and ready to trade, sourcing liquidity from all available DEXes.</p>
 <p><a href="https://blog.coinbase.com/coinbase-and-coinbase-pro-plan-to-support-multi-collateral-dai-514407679b86">Coinbase and Coinbase Pro</a> plan to automatically convert any SAI you hold on Coinbase to multi-collateral DAI on December 2nd at 9 AM PST (you can get a <a href="https://www.coinbase.com/join/daley_e6">Coinbase account here</a> if you don&#8217;t have one).</p>
 <p><span style="font-weight: 400;">Still have questions left unanswered? We can help you find answers in our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord.</a> Also, f</span>ollow us on <a href="https://twitter.com/defipulse">Twitter</a> for latest updates on the community&#8217;s transition from DAI.</p>
+<p>The post <a rel="nofollow" href="./../../../2019/11/18/what-is-sai-where-is-my-dai-migrating-to-multi-collateral-dai/index.html">What is SAI? Where is my DAI? Migrating to Multi-Collateral Dai</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

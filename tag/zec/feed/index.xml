@@ -18,14 +18,15 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>DeFi Dive: RenVM &#8211; interoperability for DeFi</title>
 		<link>./../../../2020/03/03/defi-dive-renvm/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Tue, 03 Mar 2020 14:55:28 +0000</pubDate>
-				<category><![CDATA[Ecosystem]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[bch]]></category>
 		<category><![CDATA[Bitcoin]]></category>
@@ -39,9 +40,11 @@
 		<category><![CDATA[zec]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8013</guid>
 
-					<description><![CDATA[In this edition of DeFi Dive, Michael W. Burgess, Ren&#8217;s Head of Operations, discusses their team&#8217;s journey of bringing interoperability...]]></description>
+					<description><![CDATA[<p>In this edition of DeFi Dive, Michael W. Burgess, Ren&#8217;s Head of Operations, discusses their team&#8217;s journey of bringing interoperability...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/03/03/defi-dive-renvm/index.html">DeFi Dive: RenVM &#8211; interoperability for DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="512" src="./../../../wp-content/uploads/2020/03/DeFi-Dive-Social-Media-ren.png" alt="" class="wp-image-8018" srcset="./../../../wp-content/uploads/2020/03/DeFi-Dive-Social-Media-ren.png 1024w, ./../../../wp-content/uploads/2020/03/DeFi-Dive-Social-Media-ren-300x150.png 300w, ./../../../wp-content/uploads/2020/03/DeFi-Dive-Social-Media-ren-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="512" src="https://defipulse.com/blog/wp-content/uploads/2020/03/DeFi-Dive-Social-Media-ren.png" alt="" class="wp-image-8018" srcset="./../../../wp-content/uploads/2020/03/DeFi-Dive-Social-Media-ren.png 1024w, ./../../../wp-content/uploads/2020/03/DeFi-Dive-Social-Media-ren-300x150.png 300w, ./../../../wp-content/uploads/2020/03/DeFi-Dive-Social-Media-ren-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -134,6 +137,7 @@
 
 
 <p>Come find us on <a href="http://twitter.com/renprotocol">Twitter</a> and get excited because 2020 will be an exciting time.</p>
+<p>The post <a rel="nofollow" href="./../../../2020/03/03/defi-dive-renvm/index.html">DeFi Dive: RenVM &#8211; interoperability for DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

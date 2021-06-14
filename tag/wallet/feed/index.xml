@@ -12,18 +12,124 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 26 Feb 2020 13:57:13 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Apr 2021 14:48:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>Founder Fireside Chat with Itamar Lesuisse of Argent</title>
+		<link>./../../../2021/04/30/founder-fireside-chat-with-itamar-lesuisse-of-argent/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Fri, 30 Apr 2021 14:48:55 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Founder Fireside Chats]]></category>
+		<category><![CDATA[argent]]></category>
+		<category><![CDATA[argent wallet]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[smart wallet]]></category>
+		<category><![CDATA[wallet]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9207</guid>
+
+					<description><![CDATA[<p>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/04/30/founder-fireside-chat-with-itamar-lesuisse-of-argent/index.html">Founder Fireside Chat with Itamar Lesuisse of Argent</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/04/argent_blog_header.png" alt="" class="wp-image-9208" width="1024" height="512"/></figure>
+
+
+
+<p class="has-medium-font-size"><em>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity to better understand their perspective and what drives them to build their vision.</em></p>
+
+
+
+<p class="has-medium-font-size">Welcome back! This week we had the opportunity to speak with Itamar Lesuisse, CEO and Co-Founder of <a href="http://argent.xyz/">Argent</a>. Itamar shares his unique perspective coming from the team behind Argent, one of the most popular DeFi smart contract wallets.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q1.png" alt="" class="wp-image-9026" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q1.png 1200w, ./../../../wp-content/uploads/2021/03/Q1-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q1-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q1-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">Argent is entering an extremely exciting phase. We&#8217;re about to release a big update to our Layer 1 wallet, tailored for people with $50K-$1m plus who need smooth access to DeFi. Essentially it&#8217;s a multi-sig when you want, not when you don&#8217;t. Control and convenience. </p>
+
+
+
+<p class="has-medium-font-size">Then, this summer, we&#8217;re launching a Layer 2 wallet to make a major push for crypto mass adoption. We&#8217;ll start by using zkSync but will expand beyond that over time. It will be simple, secure, fast and low cost.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">The trilemma forces you to think very carefully about first principles and why you&#8217;re actually building. What are you trying to achieve? For who? That then shapes what trade-offs you&#8217;re willing to make. </p>
+
+
+
+<p class="has-medium-font-size">For us, we believe Ethereum will be the foundation of a new, global financial system that expands economic opportunity. <strong>Of course that needs scalability, but without security and decentralization it would be built on sand</strong>, so we&#8217;re prioritizing those (while pushing for scalability wherever it doesn&#8217;t conflict with those).</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/Q6.png" alt="" class="wp-image-9134" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/04/Q6.png 1200w, ./../../../wp-content/uploads/2021/04/Q6-300x55.png 300w, ./../../../wp-content/uploads/2021/04/Q6-1024x188.png 1024w, ./../../../wp-content/uploads/2021/04/Q6-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">It&#8217;s too early for us to say if we&#8217;ve achieved this but we&#8217;re trying to build a durable community by making it truly participatory and not transactional. It&#8217;s not about us broadcasting to an audience but instead about hearing what people think and responding to that. </p>
+
+
+
+<p class="has-medium-font-size">We try go give people a sense of ownership of Argent&#8217;s future. They shape our roadmap and give us invaluable feedback. Last, <strong>the strongest communities are about a shared vision for how the future can be better, instead of just narrowly focused on product.</strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q3.png" alt="" class="wp-image-9031" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q3.png 1200w, ./../../../wp-content/uploads/2021/03/Q3-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q3-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q3-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">Other than the advantages of smart contract wallets over hardware wallets and MetaMask&#8230; <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </p>
+
+
+
+<p class="has-medium-font-size">I&#8217;d say the need to closely examine the tradeoffs being made by various scalability solutions and the projects building on them.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q4.png" alt="" class="wp-image-9032" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q4.png 1200w, ./../../../wp-content/uploads/2021/03/Q4-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q4-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q4-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size"><strong>Focus.</strong> The pace of innovation in crypto is insane and there&#8217;s so many directions you can take a wallet. <strong>Keeping our heads down and focusing on simplicity and security has served us well so far.</strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">It&#8217;s impossible to keep track of them all.</p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-very-light-gray-background-color has-very-light-gray-color is-style-wide"/>
+
+
+
+<p class="has-medium-font-size"><strong>Thanks you for joining us Itamer and thank you all for reading.</strong> You can find Itamar on Twitter at&nbsp;<a href="https://twitter.com/itamarl">@itamarl</a>. Stay informed on <a href="https://www.argent.xyz/">Argent</a>&nbsp;by following them on&nbsp;<a href="https://twitter.com/argentHQ">Twitter</a> or joining their <a href="https://discordapp.com/invite/GWSyrHg">Discord</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../2021/04/30/founder-fireside-chat-with-itamar-lesuisse-of-argent/index.html">Founder Fireside Chat with Itamar Lesuisse of Argent</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>DeFi Dive: Frontier &#8211; DeFi Simple, Safe and Mobile</title>
 		<link>./../../../2020/02/26/defi-dive-frontier/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Wed, 26 Feb 2020 13:57:13 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[Dapp]]></category>
@@ -35,9 +141,11 @@
 		<category><![CDATA[wallet]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8009</guid>
 
-					<description><![CDATA[We spoke with Frontier Co-Founder &#38; Head of Marketing Palash Jain who longs to bring DeFi to the masses with...]]></description>
+					<description><![CDATA[<p>We spoke with Frontier Co-Founder &#38; Head of Marketing Palash Jain who longs to bring DeFi to the masses with...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/02/26/defi-dive-frontier/index.html">DeFi Dive: Frontier &#8211; DeFi Simple, Safe and Mobile</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="512" src="./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-1024x512.png" alt="" class="wp-image-8010" srcset="./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-1024x512.png 1024w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-300x150.png 300w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-768x384.png 768w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-1536x768.png 1536w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-1568x784.png 1568w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="512" src="https://defipulse.com/blog/wp-content/uploads/2020/02/DefiPulse_Frontier-1-1024x512.png" alt="" class="wp-image-8010" srcset="./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-1024x512.png 1024w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-300x150.png 300w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-768x384.png 768w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-1536x768.png 1536w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-1568x784.png 1568w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -114,6 +222,7 @@
 
 
 <p>Frontier App is also available on <a href="https://apple.co/2ORqvbh">App Store</a> and <a href="https://bit.ly/2ORqKTJ">Play Store</a>, or you can download the App from our website<a href="http://Frontierwallet.com/"> Frontierwallet.com</a></p>
+<p>The post <a rel="nofollow" href="./../../../2020/02/26/defi-dive-frontier/index.html">DeFi Dive: Frontier &#8211; DeFi Simple, Safe and Mobile</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

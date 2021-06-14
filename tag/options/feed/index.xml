@@ -18,14 +18,15 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>SIREN &#8211; Decentralized Options For Sophisticated Traders</title>
 		<link>./../../../2021/03/01/siren/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Mon, 01 Mar 2021 21:19:51 +0000</pubDate>
-				<category><![CDATA[Ecosystem]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Explainers]]></category>
 		<category><![CDATA[Protocol]]></category>
 		<category><![CDATA[amm]]></category>
@@ -36,7 +37,9 @@
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8929</guid>
 
-					<description><![CDATA[Options trading has become more popular than ever now that anyone can trade from anywhere with a few taps. The...]]></description>
+					<description><![CDATA[<p>Options trading has become more popular than ever now that anyone can trade from anywhere with a few taps. The...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/03/01/siren/index.html">SIREN &#8211; Decentralized Options For Sophisticated Traders</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Options trading has become more popular than ever now that anyone can trade from anywhere with a few taps. The barriers to entry have been lowered improving accessibility for the average joe. In case you don’t know, options are financial primitives that give a trader the choice (or the <em>option</em>) to buy or sell an asset at a predetermined strike price at some point in the future. Traders can utilize options to hedge against potential price changes or to speculate on the future price of an asset. As DeFi matures, on-chain financial primitives like options become the building blocks for even more sophisticated financial instruments.</p>
 
@@ -46,7 +49,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/03/siren-1000x500-1-1.jpg" alt="" class="wp-image-8932"/></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1000" height="500" src="https://defipulse.com/blog/wp-content/uploads/2021/03/siren-1000x500-1.jpg" alt="" class="wp-image-8932" srcset="./../../../wp-content/uploads/2021/03/siren-1000x500-1.jpg 1000w, ./../../../wp-content/uploads/2021/03/siren-1000x500-1-300x150.jpg 300w, ./../../../wp-content/uploads/2021/03/siren-1000x500-1-768x384.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -195,6 +198,7 @@
 
 
 <p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with SIREN to help educate and inform the community about Siren Markets. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/03/01/siren/index.html">SIREN &#8211; Decentralized Options For Sophisticated Traders</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -204,9 +208,10 @@
 		<title>Hegic Protocol &#8211; On-chain Options Trading Protocol</title>
 		<link>./../../../2020/11/28/hegic-protocol-on-chain-options-trading-protocol/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Infoguild]]></dc:creator>
 		<pubDate>Sat, 28 Nov 2020 17:35:13 +0000</pubDate>
-				<category><![CDATA[Protocol]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Protocol]]></category>
 		<category><![CDATA[Trading]]></category>
 		<category><![CDATA[derivatives]]></category>
 		<category><![CDATA[hegic]]></category>
@@ -216,7 +221,9 @@
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8721</guid>
 
-					<description><![CDATA[During DeFi’s most innovative and exciting year, a new kind of trading experience has exploded onto the scene. Hegic is...]]></description>
+					<description><![CDATA[<p>During DeFi’s most innovative and exciting year, a new kind of trading experience has exploded onto the scene. Hegic is...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/28/hegic-protocol-on-chain-options-trading-protocol/index.html">Hegic Protocol &#8211; On-chain Options Trading Protocol</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>During DeFi’s most innovative and exciting year, a new kind of trading experience has exploded onto the scene. <a href="https://www.hegic.co/">Hegic</a> is an on-chain, non-custodial platform for options trading, launched by the enigmatic Molly Wintermute. The platform has grown significantly in recent months, after its <a href="https://decrypt.co/35038/hegics-molly-wintermute-im-paying-a-high-price-for-the-mainnet-first-approach-to-building">inauspicious start </a>in April. The first iteration suffered from buggy code, which required Wintermute to return almost $50,000 in locked funds to users. Since then, Hegic has been running smoothly, and volume has <a href="https://www.hegic.co/analytics">rapidly grown</a>. It is poised to become one of the key players in the crypto trading ecosystem.</p>
 
@@ -243,6 +250,7 @@
 
 
 <p>Hegic&nbsp;is one of the more complicated DeFi protocols on the market today. It involves a lot more levers and cranks than discussed here, including a bonding curve that controls the new supply of Hegic. To learn more about Hegic, you can check out <a href="https://hegic.gitbook.io/start/">Hegic&#8217;s documentation</a>. You can also try it out for yourself; All you need is an Ethereum wallet. The protocol does not require KYC or account verification. Hegic is proving to be a worthy rival for Deribit, although they are likely to grow in unison given the unique advantages that each provide. Hopefully, there will be plenty of opportunities for arbitrage between the two platforms headed into the future.</p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/28/hegic-protocol-on-chain-options-trading-protocol/index.html">Hegic Protocol &#8211; On-chain Options Trading Protocol</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -252,9 +260,10 @@
 		<title>Lien &#8211; Governance-less ETH Options and Stablecoins</title>
 		<link>./../../../2020/09/05/lien/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Sat, 05 Sep 2020 15:12:51 +0000</pubDate>
-				<category><![CDATA[Ecosystem]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[decentralized finance]]></category>
@@ -266,7 +275,9 @@
 		<category><![CDATA[stablecoins]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8535</guid>
 
-					<description><![CDATA[In the background of all the DeFi and yield farming commotion, stablecoins have been booming. DAI, USDC, USDT, and countless...]]></description>
+					<description><![CDATA[<p>In the background of all the DeFi and yield farming commotion, stablecoins have been booming. DAI, USDC, USDT, and countless...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/09/05/lien/index.html">Lien &#8211; Governance-less ETH Options and Stablecoins</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>In the background of all the DeFi and yield farming commotion, stablecoins have been booming. DAI, USDC, USDT, and countless others have been pouring into DeFi. While it is great to have so many options, each stablecoin has its trade-offs which users must consider. For some, the centralization risk of stablecoins like USDC are simply too great; they desire a stablecoin that is truly decentralized.</p>
 
@@ -276,7 +287,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="https://lien.finance/"><img loading="lazy" width="1024" height="341" src="./../../../wp-content/uploads/2020/09/LienBannerWoTagline-1024x341.png" alt="" class="wp-image-8550" srcset="./../../../wp-content/uploads/2020/09/LienBannerWoTagline-1024x341.png 1024w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline-300x100.png 300w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline-768x256.png 768w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://lien.finance/"><img loading="lazy" width="1024" height="341" src="https://defipulse.com/blog/wp-content/uploads/2020/09/LienBannerWoTagline-1024x341.png" alt="" class="wp-image-8550" srcset="./../../../wp-content/uploads/2020/09/LienBannerWoTagline-1024x341.png 1024w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline-300x100.png 300w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline-768x256.png 768w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -292,7 +303,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="534" src="./../../../wp-content/uploads/2020/09/Selection_396-1-1024x534.jpg" alt="" class="wp-image-8541" srcset="./../../../wp-content/uploads/2020/09/Selection_396-1-1024x534.jpg 1024w, ./../../../wp-content/uploads/2020/09/Selection_396-1-300x156.jpg 300w, ./../../../wp-content/uploads/2020/09/Selection_396-1-768x400.jpg 768w, ./../../../wp-content/uploads/2020/09/Selection_396-1.jpg 1310w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="534" src="https://defipulse.com/blog/wp-content/uploads/2020/09/Selection_396-1-1024x534.jpg" alt="" class="wp-image-8541" srcset="./../../../wp-content/uploads/2020/09/Selection_396-1-1024x534.jpg 1024w, ./../../../wp-content/uploads/2020/09/Selection_396-1-300x156.jpg 300w, ./../../../wp-content/uploads/2020/09/Selection_396-1-768x400.jpg 768w, ./../../../wp-content/uploads/2020/09/Selection_396-1.jpg 1310w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -304,7 +315,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="552" src="./../../../wp-content/uploads/2020/09/Selection_397-1024x552.jpg" alt="" class="wp-image-8543" srcset="./../../../wp-content/uploads/2020/09/Selection_397-1024x552.jpg 1024w, ./../../../wp-content/uploads/2020/09/Selection_397-300x162.jpg 300w, ./../../../wp-content/uploads/2020/09/Selection_397-768x414.jpg 768w, ./../../../wp-content/uploads/2020/09/Selection_397.jpg 1034w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="552" src="https://defipulse.com/blog/wp-content/uploads/2020/09/Selection_397-1024x552.jpg" alt="" class="wp-image-8543" srcset="./../../../wp-content/uploads/2020/09/Selection_397-1024x552.jpg 1024w, ./../../../wp-content/uploads/2020/09/Selection_397-300x162.jpg 300w, ./../../../wp-content/uploads/2020/09/Selection_397-768x414.jpg 768w, ./../../../wp-content/uploads/2020/09/Selection_397.jpg 1034w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -332,7 +343,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="700" height="465" src="./../../../wp-content/uploads/2020/09/lien-diagram.png" alt="" class="wp-image-8536" srcset="./../../../wp-content/uploads/2020/09/lien-diagram.png 700w, ./../../../wp-content/uploads/2020/09/lien-diagram-300x199.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="700" height="465" src="https://defipulse.com/blog/wp-content/uploads/2020/09/lien-diagram.png" alt="" class="wp-image-8536" srcset="./../../../wp-content/uploads/2020/09/lien-diagram.png 700w, ./../../../wp-content/uploads/2020/09/lien-diagram-300x199.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
 
 
 
@@ -381,6 +392,7 @@
 
 
 <p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve been paid by Lien Protocol to inform readers about their platform and iDOL. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2020/09/05/lien/index.html">Lien &#8211; Governance-less ETH Options and Stablecoins</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -390,9 +402,10 @@
 		<title>ACO &#8211; A Non-Custodial Options Protocol Built for DeFi</title>
 		<link>./../../../2020/08/09/aco/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Sun, 09 Aug 2020 14:58:53 +0000</pubDate>
-				<category><![CDATA[Derivatives]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Derivatives]]></category>
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[aco]]></category>
@@ -404,7 +417,9 @@
 		<category><![CDATA[options trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8441</guid>
 
-					<description><![CDATA[The DeFi ecosystem is growing at a breathtaking pace. Unsurprisingly, staying on top of everything in the space is becoming...]]></description>
+					<description><![CDATA[<p>The DeFi ecosystem is growing at a breathtaking pace. Unsurprisingly, staying on top of everything in the space is becoming...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/08/09/aco/index.html">ACO &#8211; A Non-Custodial Options Protocol Built for DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>The DeFi ecosystem is growing at a breathtaking pace. Unsurprisingly, staying on top of everything in the space is becoming practically impossible. DeFi is becoming increasingly sophisticated each day as the building blocks or rather money legos fall into place. Most people can tell you the basics of spot and margin trading, but I&#8217;ve started to see more and more people admit they know are unfamiliar with options trading. And, that&#8217;s okay because as many will tell you being a fan of DeFi often times means being a student. We&#8217;ve teamed up with folks behind ACO to explore how options fit into DeFi and how you might take advantage of options in your trading strategy. <a href="https://aco.finance/">ACO</a> is a decentralized non-custodial options protocol created by <a href="https://auctus.org/">Auctus</a>.</p>
 
@@ -426,7 +441,7 @@
 
 
 
-<div class="wp-block-image"><figure class="alignright size-medium"><a href="https://aco.finance/"><img loading="lazy" width="300" height="300" src="./../../../wp-content/uploads/2020/08/aco-300x300.png" alt="" class="wp-image-8453" srcset="./../../../wp-content/uploads/2020/08/aco-300x300.png 300w, ./../../../wp-content/uploads/2020/08/aco-1024x1024.png 1024w, ./../../../wp-content/uploads/2020/08/aco-150x150.png 150w, ./../../../wp-content/uploads/2020/08/aco-768x768.png 768w, ./../../../wp-content/uploads/2020/08/aco.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure></div>
+<div class="wp-block-image"><figure class="alignright size-medium"><a href="https://aco.finance/"><img loading="lazy" width="300" height="300" src="https://defipulse.com/blog/wp-content/uploads/2020/08/aco-300x300.png" alt="" class="wp-image-8453" srcset="./../../../wp-content/uploads/2020/08/aco-300x300.png 300w, ./../../../wp-content/uploads/2020/08/aco-1024x1024.png 1024w, ./../../../wp-content/uploads/2020/08/aco-150x150.png 150w, ./../../../wp-content/uploads/2020/08/aco-768x768.png 768w, ./../../../wp-content/uploads/2020/08/aco.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure></div>
 
 
 
@@ -599,6 +614,7 @@
 
 
 <p><em>Disclosure: This post is part our DeFi Pulse Drops promotional series; We&#8217;ve been paid by ACO to inform readers about why one might use options and about their decentralized non-custodial options platform. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2020/08/09/aco/index.html">ACO &#8211; A Non-Custodial Options Protocol Built for DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

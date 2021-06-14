@@ -12,21 +12,23 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 May 2021 01:25:35 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Feb 2020 16:29:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>DeFi Dive: TokenTax &#8211; DeFi crypto tax calculator and cryptocurrency accounting firm</title>
 		<link>./../../../2020/02/18/defi-dive-tokentax/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2020 11:29:58 +0000</pubDate>
-				<category><![CDATA[Ecosystem]]></category>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Tue, 18 Feb 2020 16:29:58 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[ERC20]]></category>
 		<category><![CDATA[Ethereum]]></category>
 		<category><![CDATA[lending]]></category>
@@ -37,9 +39,11 @@
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7972</guid>
 
-					<description><![CDATA[Alex Miles, co-founder of TokenTax, discusses his quest to ease the crypto community&#8217;s DeFi tax woes. How did you get...]]></description>
+					<description><![CDATA[<p>Alex Miles, co-founder of TokenTax, discusses his quest to ease the crypto community&#8217;s DeFi tax woes. How did you get...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/02/18/defi-dive-tokentax/index.html">DeFi Dive: TokenTax &#8211; DeFi crypto tax calculator and cryptocurrency accounting firm</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb.png" alt="" class="wp-image-7974" width="1024" height="512" srcset="./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb.png 1024w, ./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb-300x150.png 300w, ./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/02/defidive-tokentax-social_thumb.png" alt="" class="wp-image-7974" width="1024" height="512" srcset="./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb.png 1024w, ./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb-300x150.png 300w, ./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -120,6 +124,7 @@
 
 
 <p>Also follow me on Twitter! <a href="https://twitter.com/milesalex">https://twitter.com/milesalex</a></p>
+<p>The post <a rel="nofollow" href="./../../../2020/02/18/defi-dive-tokentax/index.html">DeFi Dive: TokenTax &#8211; DeFi crypto tax calculator and cryptocurrency accounting firm</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

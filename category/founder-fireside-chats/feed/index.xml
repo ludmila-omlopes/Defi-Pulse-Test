@@ -12,29 +12,748 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Fri, 23 Apr 2021 13:02:32 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Jun 2021 18:25:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>Founder Fireside Chat with Preston Van Loon of Cryptex</title>
+		<link>./../../../2021/06/04/test-founder-fireside-chat-with-preston-van-loon-of-cryptex/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Fri, 04 Jun 2021 13:44:27 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Founder Fireside Chats]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9384</guid>
+
+					<description><![CDATA[<p>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/06/04/test-founder-fireside-chat-with-preston-van-loon-of-cryptex/index.html">Founder Fireside Chat with Preston Van Loon of Cryptex</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/06/preston-fireside-blog-header.png" alt="" class="wp-image-9385" width="1024" height="512" srcset="./../../../wp-content/uploads/2021/06/preston-fireside-blog-header.png 1024w, ./../../../wp-content/uploads/2021/06/preston-fireside-blog-header-300x150.png 300w, ./../../../wp-content/uploads/2021/06/preston-fireside-blog-header-768x384.png 768w, ./../../../wp-content/uploads/2021/06/preston-fireside-blog-header-585x293.png 585w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-medium-font-size"><em>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity to better understand their perspective and what drives them to build their vision.</em></p>
+
+
+
+<p class="has-medium-font-size">Welcome back! This week be had the opportunity to chat with Preston Van Loon, Co-Founder of <a href="https://defipulse.com/cryptex">Cryptex</a>, who offered up lessons he&#8217;s learned building in the cryptocurrency space and what excites him about DeFi.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q1.png" alt="" class="wp-image-9026" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q1.png 1200w, ./../../../wp-content/uploads/2021/03/Q1-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q1-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q1-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size"><a href="https://cryptex.finance/">Cryptex</a>’s flagship product is TCAP, which is the Total Crypto Market Cap token. This is a synthetic collateralized asset. The price of TCAP directly correlates with the total market cap value of all cryptocurrencies in the space. </p>
+
+
+
+<p class="has-medium-font-size">We think this is a really unique product in that there&#8217;s not really a great way for retail investors or any kind of investor to buy into the entire market. Maybe they think that cryptocurrencies in general are a good thing and going in the right direction, but they may not really have the ability to analyze and understand all the protocols, either a technical level or a user level. But they know that cryptocurrency is the future. </p>
+
+
+
+<p class="has-medium-font-size">So with something like TCAP, they&#8217;re able to get exposure to the entire market and be able to capture the value of cryptocurrencies from an investment perspective.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">So, the scalability trilemma is this famous problem where you have these three properties to the blockchain, and you want to be able to increase any aspect of that trilemma without taking away from something else. </p>
+
+
+
+<p class="has-medium-font-size">That being said,<strong> you want it to be secure, fast and decentralized.</strong> And so you can go fast if you take away the decentralized aspect of it, maybe you&#8217;re running like the super node. Or you could go fast by making it cheaper to do and not verifying signatures or really just making it less secure in that way if you go faster. </p>
+
+
+
+<p class="has-medium-font-size"><strong>I think that scalability is the problem that we need to solve, and most urgently.</strong> I think that the other two aspects, decentralization and security are also important, security being the most important, I think, in terms of a blockchain where there will always be some aspects of centralization. And that&#8217;s fine to some extent. </p>
+
+
+
+<p class="has-medium-font-size">We always want to make it as decentralized as possible, but security being number one, if you violate the security assumptions of a blockchain, it&#8217;s no longer secured, it&#8217;s game over or could be game over essentially. </p>
+
+
+
+<p class="has-medium-font-size">And then scalability coming second, it&#8217;s like, you want it to go fast without really taking away from too much of the other aspects.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/Q6.png" alt="" class="wp-image-9134" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/04/Q6.png 1200w, ./../../../wp-content/uploads/2021/04/Q6-300x55.png 300w, ./../../../wp-content/uploads/2021/04/Q6-1024x188.png 1024w, ./../../../wp-content/uploads/2021/04/Q6-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size"><strong>In order to have a long lasting community, you need to keep the community engaged. </strong>You know, we&#8217;re building this together, <strong>it&#8217;s not just the Cryptex team building out cool, exciting products. We&#8217;re building it together as a community.</strong> </p>
+
+
+
+<p class="has-medium-font-size">And it&#8217;s still initially by the Cryptex team, but going forward it&#8217;s built by the community almost in every aspect we could think of. Community members are hired to the Cryptex DAO, continuing development and outreach and these kinds of things. </p>
+
+
+
+<p class="has-medium-font-size">On an ongoing basis, we have meetings with the community, kind of bringing everybody together, figuring out how the DAO should operate and what the next steps should be. Either on the forums and our discord channel or on a frequent Zoom call that we have every other week.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q3.png" alt="" class="wp-image-9031" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q3.png 1200w, ./../../../wp-content/uploads/2021/03/Q3-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q3-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q3-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size"><strong>I think that DeFi is really not getting the full attention that it should.</strong> The thing that <strong>I&#8217;m most excited about with DeFi is this concept of being your own bank.</strong> And that&#8217;s sort of something that we strive to do with blockchains in general.</p>
+
+
+
+<p class="has-medium-font-size">But in terms of really just earning interest with your capital, with your savings in traditional finance, it&#8217;s not very rewarding to do that, but in a DeFi space, you kind of take out the middleman there, being the brick and mortar banks who are making money off of you. You could be making that money yourself in DeFi space, there are a lot of really creative products out there. </p>
+
+
+
+<p class="has-medium-font-size">Something upcoming that I think is really cool is <a href="https://element.fi/">Element Finance</a>, it&#8217;s built by some of the people who&#8217;ve done a lot of really exciting work on the Ethereum protocol. And this project in particular helps users basically earn interest on their ether without sacrificing or locking up the principal or the full principal for the entire time. </p>
+
+
+
+<p class="has-medium-font-size">So it&#8217;s a really interesting project in that way, that you&#8217;re able to deposit the ether. Then you can sell off your principal and just earn the interest that you would have at the end of the maturity of the contract.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q4.png" alt="" class="wp-image-9032" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q4.png 1200w, ./../../../wp-content/uploads/2021/03/Q4-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q4-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q4-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">There&#8217;s a lot of lessons that I have learned. I&#8217;ve been working on blockchain stuff for about three years, a little more, and it&#8217;s a very different world from traditional software development. </p>
+
+
+
+<p class="has-medium-font-size">So from the development perspective, it&#8217;s all about really making sure that things behave the way you expect them to. Getting there takes lots of vigorous testing being, unit testing at the code level, and testing it, on some sort of testnet or simulation. </p>
+
+
+
+<p class="has-medium-font-size">And then of course there&#8217;s a lot of testing around the usability of things. Actually getting in there and playing with it, not just on an automated level, but really being careful about, and putting a lot of thought into the design is important because once you&#8217;ve deployed it, it can be difficult to upgrade it or modify it any way. So if you release it with a bug, you may be stuck with a bug forever. </p>
+
+
+
+<p class="has-medium-font-size"><strong>The lesson is: you got to really plan things out and move carefully, it&#8217;s the opposite of move fast and break things. </strong>It&#8217;s move slow and make sure you did it all right so you don&#8217;t get stuck or have to do it again.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">I&#8217;m a big fan of the ultrasound money meme. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="573" src="./../../../wp-content/uploads/2021/06/ultrasoundmoney-1024x573.jpeg" alt="" class="wp-image-9386" srcset="./../../../wp-content/uploads/2021/06/ultrasoundmoney-1024x573.jpeg 1024w, ./../../../wp-content/uploads/2021/06/ultrasoundmoney-300x168.jpeg 300w, ./../../../wp-content/uploads/2021/06/ultrasoundmoney-768x430.jpeg 768w, ./../../../wp-content/uploads/2021/06/ultrasoundmoney-1536x860.jpeg 1536w, ./../../../wp-content/uploads/2021/06/ultrasoundmoney-2048x1147.jpeg 2048w, ./../../../wp-content/uploads/2021/06/ultrasoundmoney-585x328.jpeg 585w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-medium-font-size">Basically, it&#8217;s kind of a meme for Bitcoiners where they say that Bitcoin is sound money, mostly due to the fixed supply cap. And with Ethereum&#8217;s new monetary policy coming out towards end of the year, it becomes instead of an inflationary asset, it becomes deflationary. And so the meme&#8217;s argument is that if a fixed supply is sound money, then a deflationary supply is even more sound. And that next level of sound money is ultrasound money. </p>
+
+
+
+<p class="has-medium-font-size">So I liked that meme, you can see it in a lot of Ethereum, Twitter names and profiles that have the bat and the speaker that&#8217;s ultrasound meme. And I&#8217;m really a big fan of that because it kind of brings light to these two different types of monetary policy between Ethereum and Bitcoin.</p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-very-light-gray-background-color has-very-light-gray-color is-style-wide"/>
+
+
+
+<p class="has-medium-font-size">I hope you enjoyed this chat. As always, thank you for reading and special thanks to Preston for taking the time to speak with us.</p>
+
+
+
+<p class="has-medium-font-size">Follow Preston Van Loon on <a href="https://twitter.com/preston_vanloon">Twitter</a> or find out more about <a href="https://cryptex.finance/">Cryptex</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../2021/06/04/test-founder-fireside-chat-with-preston-van-loon-of-cryptex/index.html">Founder Fireside Chat with Preston Van Loon of Cryptex</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Founder Fireside Chat with Clayton Roche of UMA</title>
+		<link>./../../../2021/05/27/founder-fireside-chat-with-clayton-roche-of-uma/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Thu, 27 May 2021 17:27:31 +0000</pubDate>
+				<category><![CDATA[Founder Fireside Chats]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[oracle]]></category>
+		<category><![CDATA[uma]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9333</guid>
+
+					<description><![CDATA[<p>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/27/founder-fireside-chat-with-clayton-roche-of-uma/index.html">Founder Fireside Chat with Clayton Roche of UMA</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/05/Uma-header.png" alt="" class="wp-image-9335" width="1024" height="512"/></figure>
+
+
+
+<p class="has-medium-font-size"><em>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity to better understand their perspective and what drives them to build their vision.</em></p>
+
+
+
+<p class="has-medium-font-size">In this installment, we sat down with Clayton Roche, Community Lead at UMA and Co-founder of the DeFi Nation group, who offers a unique perspective on the trials of building a new industry.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q1.png" alt="" class="wp-image-9026" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q1.png 1200w, ./../../../wp-content/uploads/2021/03/Q1-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q1-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q1-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">I’ll be precise with my answer and list a few things that set UMA apart. UMA’s contracts are self-contained, so any issue with one collateral type will not affect neighboring contracts. UMA allows for any collateral type, as opposed to requiring the use of our own token. </p>
+
+
+
+<p class="has-medium-font-size">UMA also has its own oracle solution, which is not the case for similar products, and this solution operates unlike any other currently live. It is a “priceless” system whereby the prices come on chain very infrequently and only ever due to a dispute.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">Security is really first and foremost.<strong> Scalability without security just means losing people&#8217;s money more efficiently.</strong> </p>
+
+
+
+<p class="has-medium-font-size">Decentralization is a certain type of security, but must come after actual smart contract security and effective financial engineering.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/Q6.png" alt="" class="wp-image-9134" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/04/Q6.png 1200w, ./../../../wp-content/uploads/2021/04/Q6-300x55.png 300w, ./../../../wp-content/uploads/2021/04/Q6-1024x188.png 1024w, ./../../../wp-content/uploads/2021/04/Q6-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">The most critical part? I would say,<strong> finding scalable ways to recognize when people bring value</strong>. </p>
+
+
+
+<p class="has-medium-font-size">For example, if someone creates a dashboard or meme or shares an interesting idea, finding ways to recognize their contribution. </p>
+
+
+
+<p class="has-medium-font-size">This can be done in many ways. Sometimes that means rewarding them with ownership in a protocol they are helping to build, and other times that means integrating their suggestion.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q3.png" alt="" class="wp-image-9031" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q3.png 1200w, ./../../../wp-content/uploads/2021/03/Q3-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q3-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q3-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">&#8220;Real-world&#8221; integrations. </p>
+
+
+
+<p class="has-medium-font-size">I think DeFi has gotten very self-referential but that will all fall away after the bull market.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q4.png" alt="" class="wp-image-9032" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q4.png 1200w, ./../../../wp-content/uploads/2021/03/Q4-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q4-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q4-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">Everyone feels like they have imposter syndrome. And how could we not? </p>
+
+
+
+<p class="has-medium-font-size">We’re literally designing a new industry—Even if someone tells you you’re great, who qualified them to make that judgement? </p>
+
+
+
+<p class="has-medium-font-size">I’ve learned to let my passion and intellectual interest distract me from my own insecurities, and that usually keeps me going through the day.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/05/work.jpg" alt="" class="wp-image-9306"/></figure>
+
+
+
+<p class="has-medium-font-size">It ain&#8217;t much, but it&#8217;s an honest living.</p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-very-light-gray-background-color has-very-light-gray-color is-style-wide"/>
+
+
+
+<p class="has-medium-font-size">We hope you enjoyed it and thanks for reading! And thank you to Clayton for sharing his witty but insightful thoughts with all of us. </p>
+
+
+
+<p class="has-medium-font-size">Follow Clayton Roche on <a href="https://twitter.com/TokenArchitect">Twitter</a> and learn more about <a href="https://umaproject.org/">UMA</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/27/founder-fireside-chat-with-clayton-roche-of-uma/index.html">Founder Fireside Chat with Clayton Roche of UMA</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Founder Fireside Chat with Ross Middleton of DeversiFi</title>
+		<link>./../../../2021/05/21/founder-fireside-chat-with-ross-middleton-of-deversifi/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Fri, 21 May 2021 15:32:30 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Founder Fireside Chats]]></category>
+		<category><![CDATA[deversifi]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[interview]]></category>
+		<category><![CDATA[rollups]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9156</guid>
+
+					<description><![CDATA[<p>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/21/founder-fireside-chat-with-ross-middleton-of-deversifi/index.html">Founder Fireside Chat with Ross Middleton of DeversiFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/deversifi_blog_header-1.png" alt="" class="wp-image-9164" width="1024" height="512" srcset="./../../../wp-content/uploads/2021/04/deversifi_blog_header-1.png 1024w, ./../../../wp-content/uploads/2021/04/deversifi_blog_header-1-300x150.png 300w, ./../../../wp-content/uploads/2021/04/deversifi_blog_header-1-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-medium-font-size"><em>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity to better understand their perspective and what drives them to build their vision.</em></p>
+
+
+
+<p class="has-medium-font-size">Another week, another intriguing chat to share with you all. For this week&#8217;s Founder Fireside Chat, we spoke with Ross Middleton, Co-Founder of <a href="https://defipulse.com/deversifi">DeversiFi</a>, about the leap forward in technology that rollups represent for our industry.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q1.png" alt="" class="wp-image-9026" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q1.png 1200w, ./../../../wp-content/uploads/2021/03/Q1-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q1-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q1-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">DeversiFI is a layer-2 exchange built on Ethereum. When we set out 2 years ago, we wanted to give people all the features and benefits that they were used to from trading on a large centralised exchange, but without giving up control of their funds. </p>
+
+
+
+<p class="has-medium-font-size">We launched on the StarkWare validium technology 10 months ago to launch the first scalable &amp; private DEX that offers incredible aggregated liquidity for major pairs. Trading &amp; Swapping on DeversiFi is private &#8211; privacy and aggregated liquidity are two of the main differentiators vs other order book DEXs.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">I think all three are important aspects. For those who haven&#8217;t encountered DeversiFI before, DeversiFi is a layer-2 exchanges that uses zk rollup/validium technology to achieve scalability without sacrificing security or decentralisation. </p>
+
+
+
+<p class="has-medium-font-size">We examined a number of different scaling solutions (and built one or two ourselves) before landing on zk rollup technology as rollups really do solve the scalability trilemma.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/Q6.png" alt="" class="wp-image-9134" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/04/Q6.png 1200w, ./../../../wp-content/uploads/2021/04/Q6-300x55.png 300w, ./../../../wp-content/uploads/2021/04/Q6-1024x188.png 1024w, ./../../../wp-content/uploads/2021/04/Q6-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">Building a product that people find useful and can actively be a real part of is key in building a long lasting community. <strong>If you give people a unique tool that solves one of their daily pain points then they are only too happy to provide feedback and put their time into making your project even better.</strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q3.png" alt="" class="wp-image-9031" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q3.png 1200w, ./../../../wp-content/uploads/2021/03/Q3-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q3-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q3-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">I am biased here but Layer-2 really is the future. All of these &#8216;Ethereum killer&#8217; layer-1 chains are having their moment in the sun because fees on Ethereum are so high at the moment. </p>
+
+
+
+<p class="has-medium-font-size">We have operating Layer-2 exchanges on Ethereum that allow people to trade &amp; swap without paying any gas at all. <strong>Within 12 months we will also start to see Ethereum Virtual Machine compatible rollups, bridges and CEX on/off-boarding. There may never be a reason for anyone to every touch Layer-1 Ethereum ever again, let alone another blockchain.</strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q4.png" alt="" class="wp-image-9032" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q4.png 1200w, ./../../../wp-content/uploads/2021/03/Q4-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q4-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q4-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">So many! We launched at the bottom of the bear market in 2020, before DEXs and DeFi was really a thing. </p>
+
+
+
+<p class="has-medium-font-size">We had an existing DEX that settled every trade on-chain, but it was taking up a lot of time to support and interfered with our ability to raise financing as people thought it was our main product. </p>
+
+
+
+<p class="has-medium-font-size">In hindsight, we should have stopped supporting our old product and focused entirely on the new one. There are so many other lessons that we have learned as a team but we don&#8217;t have time to go into more than one of two!</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">I like the &#8216;waiting for Eth 2.0 to launch meme&#8217; the most because <strong>we actually don&#8217;t need Eth 2.0 to fully launch now that we have a whole ecosystem of rollups that is springing up.</strong> I see rollups as a way to scale Ethereum for the long run, not just whilst we are waiting for execution sharding.</p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-very-light-gray-background-color has-very-light-gray-color is-style-wide"/>
+
+
+
+<p class="has-medium-font-size"><strong>Thank you for reading!</strong>&nbsp;A special thanks to Ross for joining us for a rather interesting conversation about how rollups have impacted DeFi. For more, you can find Ross Middleton on <a href="https://twitter.com/rossdefi">Twitter</a>&nbsp;and explore what <a href="https://www.deversifi.com/">DeversiFi</a> has to offer.</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/21/founder-fireside-chat-with-ross-middleton-of-deversifi/index.html">Founder Fireside Chat with Ross Middleton of DeversiFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Founder Fireside Chat with Robert Lauko of Liquity</title>
+		<link>./../../../2021/05/14/founder-fireside-chat-with-robert-lauko-of-liquity/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Fri, 14 May 2021 15:08:37 +0000</pubDate>
+				<category><![CDATA[Founder Fireside Chats]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[liquity]]></category>
+		<category><![CDATA[stablecoins]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9242</guid>
+
+					<description><![CDATA[<p>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/14/founder-fireside-chat-with-robert-lauko-of-liquity/index.html">Founder Fireside Chat with Robert Lauko of Liquity</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/05/Liquity-blog-header.png" alt="" class="wp-image-9243" width="1024" height="512"/></figure>
+
+
+
+<p class="has-medium-font-size"><em>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity to better understand their perspective and what drives them to build their vision.</em></p>
+
+
+
+<p class="has-medium-font-size">Welcome! We&#8217;re glad to have you back for another Founder Fireside Chat. This week, we sat down with Robert Lauko, Founder and CEO of <a href="https://defipulse.com/liquity">Liquity</a>, whose work aims to push the bounds of decentralization.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q1.png" alt="" class="wp-image-9026" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q1.png 1200w, ./../../../wp-content/uploads/2021/03/Q1-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q1-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q1-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">In contrast to other stablecoins and CDP platforms, Liquity is optimized for making borrowing as attractive as possible. It achieves this by replacing interest rates with a very low, one-time fee (most of the time only 0.5%) paid upfront on the borrowed amount and by only requiring a collateral ratio of 110%. This makes borrowing LUSD very capital efficient, cheap for medium to long term loans, and particularly interesting for leverage seekers. </p>
+
+
+
+<p class="has-medium-font-size">Liquity also has a unique approach to handling liquidations. In other systems, under-collateralized positions are usually resolved through lengthy collateral auctions. Liquity replaces these auctions by pooling together capital (i.e. LUSD) upfront from users wishing to buy liquidated collateral effectively at a ~10% discount. We call this mechanism the Stability Pool. </p>
+
+
+
+<p class="has-medium-font-size">Lastly, as a result of its radical approach to immutability, Liquity is also completely algorithmic, with the system being able to auto-adjust to external circumstances like a peg break.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">In a strict sense, <strong>security is the most important since an unsecure system is flawed even if it’s scalable or decentralized, while centralized and unscalable systems can have legitimate use cases. </strong></p>
+
+
+
+<p class="has-medium-font-size">For building a highly dynamic application like Liquity with its redistribution mechanism, we had to go miles to work around Ethereum’s scalability issues. </p>
+
+
+
+<p class="has-medium-font-size">On the other hand, we are pushing the concept of decentralization by not running an official frontend and by making the protocol fully immutable. But without being secure, these features would mean nothing.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/Q6.png" alt="" class="wp-image-9134" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/04/Q6.png 1200w, ./../../../wp-content/uploads/2021/04/Q6-300x55.png 300w, ./../../../wp-content/uploads/2021/04/Q6-1024x188.png 1024w, ./../../../wp-content/uploads/2021/04/Q6-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">In order to form a lasting community that sticks with your product or service, you need to make sure that you can offer sustainable value in the long run rather than just temporary benefits. </p>
+
+
+
+<p class="has-medium-font-size"><strong>While yield farming opportunities are great to attract early adopters, it is crucial to keep delivering long term utility regardless of the market conditions. </strong>Furthermore, you need to make sure that your users and community members have easy access to the team and that their questions, concerns, and ideas are heard.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q3.png" alt="" class="wp-image-9031" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q3.png 1200w, ./../../../wp-content/uploads/2021/03/Q3-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q3-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q3-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">Most of the focus has been on decentralizing the backend, i.e. the smart contracts, while few projects have tried to decentralize their frontends too.</p>
+
+
+
+<p class="has-medium-font-size"> IPFS and Arweave are interesting in this regard, but they are detached from the platform (e.g. Ethereum) that is hosting the backend. With DFINITY’s Internet Computer, it will become possible to seamlessly decentralize the backend and the frontend using the same technology stack. With their recent launch, they’ll be worth keeping an eye on.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q4.png" alt="" class="wp-image-9032" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q4.png 1200w, ./../../../wp-content/uploads/2021/03/Q4-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q4-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q4-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">Over the last 1.5 years it became clear to me how important it is to build a team that is motivated, shares the same principles, and is aligned with the vision of the project. </p>
+
+
+
+<p class="has-medium-font-size"><strong>When people are committed to a common goal and working together as a group, they can create incredible results. </strong>Outsourcing tasks to third parties and companies turned out to be much more challenging and less successful in my experience.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">DeFi is becoming more and more popular among the real farmers <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> So the farming memes are my favorite.</p>
+
+
+
+<p class="has-medium-font-size"><em><strong>Note of the editor: we&#8217;ve included this common yield farming meme here for your reference</strong></em></p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/05/work.jpg" alt="" class="wp-image-9306"/></figure>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-very-light-gray-background-color has-very-light-gray-color is-style-wide"/>
+
+
+
+<p class="has-medium-font-size"><strong>Thanks for reading!</strong> And thank you to Robert for taking the time to share his thoughts with us. You can hear more from <a href="https://twitter.com/robert_lauko">Robert Lauko on Twitter</a> and learn more about <a href="https://www.liquity.org/">Liquity</a> here.</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/14/founder-fireside-chat-with-robert-lauko-of-liquity/index.html">Founder Fireside Chat with Robert Lauko of Liquity</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Founder Fireside Chat with Nour Haridy of Inverse Finance</title>
+		<link>./../../../2021/05/07/founder-fireside-chat-with-nour-haridy-of-inverse-finance/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Fri, 07 May 2021 14:16:24 +0000</pubDate>
+				<category><![CDATA[Founder Fireside Chats]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[inverse]]></category>
+		<category><![CDATA[inverse-finance]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9159</guid>
+
+					<description><![CDATA[<p>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/07/founder-fireside-chat-with-nour-haridy-of-inverse-finance/index.html">Founder Fireside Chat with Nour Haridy of Inverse Finance</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/inverse_blog_header.png" alt="" class="wp-image-9165" width="1024" height="512" srcset="./../../../wp-content/uploads/2021/04/inverse_blog_header.png 1024w, ./../../../wp-content/uploads/2021/04/inverse_blog_header-300x150.png 300w, ./../../../wp-content/uploads/2021/04/inverse_blog_header-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-medium-font-size"><em>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity to better understand their perspective and what drives them to build their vision.</em></p>
+
+
+
+<p class="has-medium-font-size">This week in this installment in our Founder Fireside Chat series, we talked with Nour Haridy, Founder of <a href="https://defipulse.com/inverse">Inverse Finance</a>, about not settling for the conventional approach.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q1.png" alt="" class="wp-image-9026" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q1.png 1200w, ./../../../wp-content/uploads/2021/03/Q1-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q1-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q1-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">I&#8217;m one of many others building Inverse DAO and its ecosystem of DeFi products. I&#8217;d say what sets us apart from others is that we tend to try unconventional solutions to difficult problems. </p>
+
+
+
+<p class="has-medium-font-size">For example, we started off by launching a non-tradable governance token and seized free riders tokens in order to increase governance participation. We combined money markets, stablecoins and synthetic assets into a single protocol (Anchor) in an attempt to increase the capital efficiency of all these products together. </p>
+
+
+
+<p class="has-medium-font-size">Regarding smart contract risk, we resorted to public community reviews as an alternative to the corporate auditing industry. Basically, we&#8217;re about trying new things and having fun.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">Security. No point trusting your assets to a blockchain that has a track record of being insecure (e.g. Ethereum Classic).</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/Q6.png" alt="" class="wp-image-9134" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/04/Q6.png 1200w, ./../../../wp-content/uploads/2021/04/Q6-300x55.png 300w, ./../../../wp-content/uploads/2021/04/Q6-1024x188.png 1024w, ./../../../wp-content/uploads/2021/04/Q6-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">I wouldn&#8217;t consider myself an expert on the matter, but I&#8217;d say that it helps to have a strong common interest. </p>
+
+
+
+<p class="has-medium-font-size">In the case of DeFi protocols, that can be a protocol that the community wants to work together to grow.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q3.png" alt="" class="wp-image-9031" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q3.png 1200w, ./../../../wp-content/uploads/2021/03/Q3-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q3-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q3-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size"><strong>Many DeFi protocols seem to try to replicate products from TradFi which results in products that inherit the same inefficiencies. </strong></p>
+
+
+
+<p class="has-medium-font-size">In my opinion, <strong>synthetic assets are very under-explored</strong> and are our best chance at creating entirely new financial products that resemble nothing we&#8217;ve seen before.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q4.png" alt="" class="wp-image-9032" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q4.png 1200w, ./../../../wp-content/uploads/2021/03/Q4-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q4-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q4-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">The biggest competitive edge in this space is not having a life.</p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-very-light-gray-background-color has-very-light-gray-color is-style-wide"/>
+
+
+
+<p class="has-medium-font-size">While we at DeFi Pulse can&#8217;t recommend not having a life, we would like to take a moment to thank you for reading. And thank you Nour for joining us. You can follow <a href="https://twitter.com/nourharidy">Nour</a> and <a href="https://inverse.finance/">Inverse Finance</a> on <a href="https://twitter.com/InverseFinance">Twitter</a> for more. </p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/07/founder-fireside-chat-with-nour-haridy-of-inverse-finance/index.html">Founder Fireside Chat with Nour Haridy of Inverse Finance</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Founder Fireside Chat with Itamar Lesuisse of Argent</title>
+		<link>./../../../2021/04/30/founder-fireside-chat-with-itamar-lesuisse-of-argent/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Fri, 30 Apr 2021 14:48:55 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Founder Fireside Chats]]></category>
+		<category><![CDATA[argent]]></category>
+		<category><![CDATA[argent wallet]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[smart wallet]]></category>
+		<category><![CDATA[wallet]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9207</guid>
+
+					<description><![CDATA[<p>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/04/30/founder-fireside-chat-with-itamar-lesuisse-of-argent/index.html">Founder Fireside Chat with Itamar Lesuisse of Argent</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/04/argent_blog_header.png" alt="" class="wp-image-9208" width="1024" height="512"/></figure>
+
+
+
+<p class="has-medium-font-size"><em>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity to better understand their perspective and what drives them to build their vision.</em></p>
+
+
+
+<p class="has-medium-font-size">Welcome back! This week we had the opportunity to speak with Itamar Lesuisse, CEO and Co-Founder of <a href="http://argent.xyz/">Argent</a>. Itamar shares his unique perspective coming from the team behind Argent, one of the most popular DeFi smart contract wallets.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q1.png" alt="" class="wp-image-9026" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q1.png 1200w, ./../../../wp-content/uploads/2021/03/Q1-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q1-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q1-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">Argent is entering an extremely exciting phase. We&#8217;re about to release a big update to our Layer 1 wallet, tailored for people with $50K-$1m plus who need smooth access to DeFi. Essentially it&#8217;s a multi-sig when you want, not when you don&#8217;t. Control and convenience. </p>
+
+
+
+<p class="has-medium-font-size">Then, this summer, we&#8217;re launching a Layer 2 wallet to make a major push for crypto mass adoption. We&#8217;ll start by using zkSync but will expand beyond that over time. It will be simple, secure, fast and low cost.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">The trilemma forces you to think very carefully about first principles and why you&#8217;re actually building. What are you trying to achieve? For who? That then shapes what trade-offs you&#8217;re willing to make. </p>
+
+
+
+<p class="has-medium-font-size">For us, we believe Ethereum will be the foundation of a new, global financial system that expands economic opportunity. <strong>Of course that needs scalability, but without security and decentralization it would be built on sand</strong>, so we&#8217;re prioritizing those (while pushing for scalability wherever it doesn&#8217;t conflict with those).</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/Q6.png" alt="" class="wp-image-9134" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/04/Q6.png 1200w, ./../../../wp-content/uploads/2021/04/Q6-300x55.png 300w, ./../../../wp-content/uploads/2021/04/Q6-1024x188.png 1024w, ./../../../wp-content/uploads/2021/04/Q6-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">It&#8217;s too early for us to say if we&#8217;ve achieved this but we&#8217;re trying to build a durable community by making it truly participatory and not transactional. It&#8217;s not about us broadcasting to an audience but instead about hearing what people think and responding to that. </p>
+
+
+
+<p class="has-medium-font-size">We try go give people a sense of ownership of Argent&#8217;s future. They shape our roadmap and give us invaluable feedback. Last, <strong>the strongest communities are about a shared vision for how the future can be better, instead of just narrowly focused on product.</strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q3.png" alt="" class="wp-image-9031" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q3.png 1200w, ./../../../wp-content/uploads/2021/03/Q3-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q3-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q3-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">Other than the advantages of smart contract wallets over hardware wallets and MetaMask&#8230; <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </p>
+
+
+
+<p class="has-medium-font-size">I&#8217;d say the need to closely examine the tradeoffs being made by various scalability solutions and the projects building on them.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q4.png" alt="" class="wp-image-9032" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q4.png 1200w, ./../../../wp-content/uploads/2021/03/Q4-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q4-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q4-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size"><strong>Focus.</strong> The pace of innovation in crypto is insane and there&#8217;s so many directions you can take a wallet. <strong>Keeping our heads down and focusing on simplicity and security has served us well so far.</strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">It&#8217;s impossible to keep track of them all.</p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-very-light-gray-background-color has-very-light-gray-color is-style-wide"/>
+
+
+
+<p class="has-medium-font-size"><strong>Thanks you for joining us Itamer and thank you all for reading.</strong> You can find Itamar on Twitter at&nbsp;<a href="https://twitter.com/itamarl">@itamarl</a>. Stay informed on <a href="https://www.argent.xyz/">Argent</a>&nbsp;by following them on&nbsp;<a href="https://twitter.com/argentHQ">Twitter</a> or joining their <a href="https://discordapp.com/invite/GWSyrHg">Discord</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../2021/04/30/founder-fireside-chat-with-itamar-lesuisse-of-argent/index.html">Founder Fireside Chat with Itamar Lesuisse of Argent</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Founder Fireside Chat with Sunil Srivatsa of Saddle</title>
 		<link>./../../../2021/04/23/founder-fireside-chat-with-sunil-srivatsa-of-saddle/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Fri, 23 Apr 2021 13:02:32 +0000</pubDate>
-				<category><![CDATA[Founder Fireside Chats]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Founder Fireside Chats]]></category>
 		<category><![CDATA[amm]]></category>
 		<category><![CDATA[DEXes]]></category>
 		<category><![CDATA[saddle]]></category>
 		<category><![CDATA[saddle-finance]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=9169</guid>
 
-					<description><![CDATA[The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...]]></description>
+					<description><![CDATA[<p>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/04/23/founder-fireside-chat-with-sunil-srivatsa-of-saddle/index.html">Founder Fireside Chat with Sunil Srivatsa of Saddle</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/04/saddl_blog_header.png" alt="" class="wp-image-9170" width="1024" height="512"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/saddl_blog_header.png" alt="" class="wp-image-9170" width="1024" height="512"/></figure>
 
 
 
@@ -46,7 +765,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q1-1.png" alt="" class="wp-image-9026" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q1.png" alt="" class="wp-image-9026" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q1.png 1200w, ./../../../wp-content/uploads/2021/03/Q1-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q1-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q1-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -62,7 +781,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -78,7 +797,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/04/Q6.png" alt="" class="wp-image-9134" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/04/Q6.png 1200w, ./../../../wp-content/uploads/2021/04/Q6-300x55.png 300w, ./../../../wp-content/uploads/2021/04/Q6-1024x188.png 1024w, ./../../../wp-content/uploads/2021/04/Q6-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/Q6.png" alt="" class="wp-image-9134" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/04/Q6.png 1200w, ./../../../wp-content/uploads/2021/04/Q6-300x55.png 300w, ./../../../wp-content/uploads/2021/04/Q6-1024x188.png 1024w, ./../../../wp-content/uploads/2021/04/Q6-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -90,7 +809,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q3-1.png" alt="" class="wp-image-9031" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q3.png" alt="" class="wp-image-9031" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q3.png 1200w, ./../../../wp-content/uploads/2021/03/Q3-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q3-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q3-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -102,7 +821,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q4-1.png" alt="" class="wp-image-9032" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q4.png" alt="" class="wp-image-9032" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q4.png 1200w, ./../../../wp-content/uploads/2021/03/Q4-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q4-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q4-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -110,11 +829,11 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/04/andre-bikestick.png" alt="" class="wp-image-9173" width="350" height="501"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/andre-bikestick.png" alt="" class="wp-image-9173" width="350" height="501"/></figure>
 
 
 
@@ -126,11 +845,12 @@
 
 
 
-<p class="has-medium-font-size">Thanks for your time and the insights for Sunil. You can find Sunil on Twitter at <a href="https://twitter.com/devops199fan">@devops199fan</a>. Keep up to date with <a href="http://saddle.finance/">Saddle</a> by following them on <a href="https://twitter.com/saddlefinance">Twitter</a>, reading their <a href="https://medium.com/saddle">blog</a>, and joining their <a href="https://discord.gg/hX8RZFBW9R">Discord</a> or <a href="https://t.me/saddle_finance">Telegram</a>.</p>
+<p class="has-medium-font-size">Thanks for your time and the insights for Sunil. You can find Sunil on Twitter at&nbsp;<a href="https://twitter.com/devops199fan">@devops199fan</a>. Keep up to date with <a href="http://saddle.finance/">Saddle</a> by following them on <a href="https://twitter.com/saddlefinance">Twitter</a>, reading their <a href="https://medium.com/saddle">blog</a>, and joining their <a href="https://discord.gg/hX8RZFBW9R">Discord</a> or <a href="https://t.me/saddle_finance">Telegram</a>.</p>
 
 
 
 <p class="has-medium-font-size"><strong>Thanks for reading! </strong>Please be sure to share with us which founders you think should be highlighted next.</p>
+<p>The post <a rel="nofollow" href="./../../../2021/04/23/founder-fireside-chat-with-sunil-srivatsa-of-saddle/index.html">Founder Fireside Chat with Sunil Srivatsa of Saddle</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -12,29 +12,632 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 May 2021 00:52:40 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 31 May 2021 19:52:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>Integral Aims to Win the AMM Wars</title>
+		<link>./../../../2021/05/31/integral/index.html</link>
+		
+		<dc:creator><![CDATA[William Peaster]]></dc:creator>
+		<pubDate>Mon, 31 May 2021 19:52:49 +0000</pubDate>
+				<category><![CDATA[Exchanges]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[amm]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[integral]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9363</guid>
+
+					<description><![CDATA[<p>There’s a new automated market maker (AMM) on the block, and it has the infrastructure to shake things up in...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/31/integral/index.html">Integral Aims to Win the AMM Wars</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>There’s a new automated market maker (AMM) on the block, and it has the infrastructure to shake things up in DeFi. The protocol’s tech, which allows the decentralized exchange to feast on the liquidity of other exchanges, is uniquely advantageous for liquidity providers (LPs), so now the race is on to see how many users the project can win over.&nbsp;</p>
+
+
+
+<p>The DEX in question? <a href="https://integral.link/deposit"><strong>Integral</strong></a>, a new kind of trading protocol that launched in March 2021 and whose team is positioning it to compete with both <em>decentralized </em>crypto exchanges like Uniswap and <em>centralized </em>crypto exchanges like Coinbase.&nbsp;</p>
+
+
+
+<h2><strong>An AMM to Eat All AMMs?</strong></h2>
+
+
+
+<p>To compete with the exchanges of the world, Integral needs a compelling way to match these exchanges’ liquidity. So what’s one protocol to do against the combined activity of all these other bustling entities?</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh3.googleusercontent.com/eIf2Og4K3j8nNVFL5nJ8Qrc3yjSNhKclKz4MAbECv8qCK547sIaNWCiMagEqyYCMJ-TOXTIUy8TOnYTvUoZPim0CkNq-4NfTbj1Q4Fy4vNr_74rQREUgKhNZj_Sgici290erSZAr" alt=""/></figure>
+
+
+
+<p>Fortunately for Integral the protocol has an interesting answer, a <strong>new AMM style called an Orderbook AMM, or OB-AMM</strong>. What’s special about this style is it allows Integral to “mirror” its competitors’ external liquidity at will, yet with the major advantage of needing just a <em>fraction </em>of that liquidity in the project’s own pools.&nbsp;</p>
+
+
+
+<p>This is because of how the OB-AMM model achieves what’s known as <strong>concentrated liquidity</strong>, i.e. liquidity that’s distributed along a price range, upon which capital can be condensed in particular places. Integral delivers LPs and traders concentrated liquidity by <strong>decoupling </strong><strong><em>capital</em></strong><strong>, the crypto in the OB-AMM’s pools, from </strong><strong><em>depth</em></strong>, as in an orderbook’s depth or the shapes of pools’ price ranges. The project notably offered this advantage weeks ahead of Uniswap V3, which launched in May 2021 and has since helped popularize concentrated liquidity.&nbsp;</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/RcOO6tBh5Dq_0_A6E-4QRLO50f1VzBRTUnwmqmiI8d8VuGR1Ecy3THlraM8riVlqNcPkYtO7zz6iUIR-ZrgUMG4XFfeArIDzi1ryi_Wp2IE3vE_OhTG6BslLo2Yt5-mtIp6VO0lH" alt=""/></figure>
+
+
+
+<p>Accordingly, Integral can match the world’s exchanges by taking <em>their </em>orderbooks and mirroring <em>their </em>depth onto Integral’s own pools. This is why Integral currently enjoys +$11B in implied liquidity and same-level price impact while simultaneously having only ~$111.5M in <a href="https://defipulse.com/integral">total value locked (TVL)</a> at the moment. It can provide 3x the depth of Binance’s orderbook, for example, and it needs way less liquidity to do so. The ensuing efficiency helps keep price impact lower and LP APYs higher for users.&nbsp;</p>
+
+
+
+<h2><strong>Impermanent Profit (IP) is here to stay</strong></h2>
+
+
+
+<p>There are two other foundational elements of Integral that make the AMM innovative: the protocol’s <strong>trade delay</strong> system and its <strong>mean-0 impermanent loss</strong> (IL) system.&nbsp;</p>
+
+
+
+<p>Integral’s <em>trade delay</em> forces traders to wait 5 minutes + Ethereum’s confirmation time, an implementation that protects LPs from the threat of (IL) caused by arbitrageurs and frontrunners. And <em>mean-0 IL</em> entails Integral LPs having IL profiles that oscillate around 0. At times this IL will even become negative, meaning it becomes more profitable to supply an asset to a pool in contrast to just holding it in your wallet, and over time the IL will converge to 0.&nbsp;</p>
+
+
+
+<p>The combination of these systems with Integral’s overall efficiency has led to pronounced occasions of what the project’s team is calling <strong><em>impermanent profit</em></strong><strong> </strong>(IP<strong>)</strong>. Again, if IL means you would’ve been better off holding your assets than LPing them, <em>IP</em> means you ended up better off LPing than you would have by just holding the underlying assets.&nbsp;</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh3.googleusercontent.com/tQ3lQMssk8fCt8YGcx0J__JNKosMufKdj9x6GDPoHYzd4DGESJGM7NxD51pGlB2yMDcdIyw0dGVlQc5px-pYVPUt9972rehX2gijQE3JwOswIUfMOguhnwvCUGp8oumyX9VRqwJf" alt=""/></figure>
+
+
+
+<p>For instance, LPs of Integral’s ETH-USDT pool saw <a href="https://twitter.com/IntegralHQ/status/1396128896542597121">0.5% impermanent profit</a> within the <em>first week</em> of the AMM opening up trading to the public. Of course there are no guarantees for how anything will perform over time, but Integral’s efficiencies mean there’s undoubtedly more such profits where those came from for the project’s LPs going forward.&nbsp;</p>
+
+
+
+<h2><strong>ITGR pre-farming continues</strong></h2>
+
+
+
+<p>This coming June 7th, Integral’s token genesis event (TGE) will take place for the project’s native ITGR token. </p>
+
+
+
+<p>In the meantime, you can already start accruing ITGR rewards by providing liquidity for, or trading through, the AMM’s pools: ETH-WBTC, ETH-DAI, ETH-USDC, ETH-USDT, ETH-LINK, and the project’s newly launched stable pools, <a href="https://twitter.com/IntegralHQ/status/1397608962724294658">DAI-USDC, DAI-USDT, and USDC-USDT</a>. With its concentrated liquidity feature, these new pools are designed to deliver the same stablecoin depth and slippage as some of the biggest pools in DeFi, all while leading the industry in stablecoin trading fee levels at 2 bps. </p>
+
+
+
+<h2><strong>Keep an eye on Integral</strong></h2>
+
+
+
+<p>Integral is all but poised to grow from here, as the protocol’s ability to mirror competitors’s liquidity makes its potential considerable. At the same time the project is still young and has plenty of work on its roadmap, so there’s lots more to track from here.&nbsp;</p>
+
+
+
+<p>You can give <a href="https://integral.link/swap">Integral’s trading pools</a> a try for yourself when you next have the chance, and if you’re wanting to learn more about this game-changing decentralized exchange then you can stay up to speed by following Integral on <a href="https://twitter.com/IntegralHQ">Twitter</a> or by participating in Integral’s communities on <a href="https://discord.com/invite/GJYCF55Tb6">Discord</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drops series; We’ve partnered with Integral to help educate and inform the community about its OB-AMM technology. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/31/integral/index.html">Integral Aims to Win the AMM Wars</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Founder Fireside Chat with Ross Middleton of DeversiFi</title>
+		<link>./../../../2021/05/21/founder-fireside-chat-with-ross-middleton-of-deversifi/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Fri, 21 May 2021 15:32:30 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Founder Fireside Chats]]></category>
+		<category><![CDATA[deversifi]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[interview]]></category>
+		<category><![CDATA[rollups]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9156</guid>
+
+					<description><![CDATA[<p>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/21/founder-fireside-chat-with-ross-middleton-of-deversifi/index.html">Founder Fireside Chat with Ross Middleton of DeversiFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/deversifi_blog_header-1.png" alt="" class="wp-image-9164" width="1024" height="512" srcset="./../../../wp-content/uploads/2021/04/deversifi_blog_header-1.png 1024w, ./../../../wp-content/uploads/2021/04/deversifi_blog_header-1-300x150.png 300w, ./../../../wp-content/uploads/2021/04/deversifi_blog_header-1-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-medium-font-size"><em>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity to better understand their perspective and what drives them to build their vision.</em></p>
+
+
+
+<p class="has-medium-font-size">Another week, another intriguing chat to share with you all. For this week&#8217;s Founder Fireside Chat, we spoke with Ross Middleton, Co-Founder of <a href="https://defipulse.com/deversifi">DeversiFi</a>, about the leap forward in technology that rollups represent for our industry.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q1.png" alt="" class="wp-image-9026" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q1.png 1200w, ./../../../wp-content/uploads/2021/03/Q1-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q1-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q1-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">DeversiFI is a layer-2 exchange built on Ethereum. When we set out 2 years ago, we wanted to give people all the features and benefits that they were used to from trading on a large centralised exchange, but without giving up control of their funds. </p>
+
+
+
+<p class="has-medium-font-size">We launched on the StarkWare validium technology 10 months ago to launch the first scalable &amp; private DEX that offers incredible aggregated liquidity for major pairs. Trading &amp; Swapping on DeversiFi is private &#8211; privacy and aggregated liquidity are two of the main differentiators vs other order book DEXs.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">I think all three are important aspects. For those who haven&#8217;t encountered DeversiFI before, DeversiFi is a layer-2 exchanges that uses zk rollup/validium technology to achieve scalability without sacrificing security or decentralisation. </p>
+
+
+
+<p class="has-medium-font-size">We examined a number of different scaling solutions (and built one or two ourselves) before landing on zk rollup technology as rollups really do solve the scalability trilemma.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/Q6.png" alt="" class="wp-image-9134" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/04/Q6.png 1200w, ./../../../wp-content/uploads/2021/04/Q6-300x55.png 300w, ./../../../wp-content/uploads/2021/04/Q6-1024x188.png 1024w, ./../../../wp-content/uploads/2021/04/Q6-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">Building a product that people find useful and can actively be a real part of is key in building a long lasting community. <strong>If you give people a unique tool that solves one of their daily pain points then they are only too happy to provide feedback and put their time into making your project even better.</strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q3.png" alt="" class="wp-image-9031" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q3.png 1200w, ./../../../wp-content/uploads/2021/03/Q3-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q3-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q3-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">I am biased here but Layer-2 really is the future. All of these &#8216;Ethereum killer&#8217; layer-1 chains are having their moment in the sun because fees on Ethereum are so high at the moment. </p>
+
+
+
+<p class="has-medium-font-size">We have operating Layer-2 exchanges on Ethereum that allow people to trade &amp; swap without paying any gas at all. <strong>Within 12 months we will also start to see Ethereum Virtual Machine compatible rollups, bridges and CEX on/off-boarding. There may never be a reason for anyone to every touch Layer-1 Ethereum ever again, let alone another blockchain.</strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q4.png" alt="" class="wp-image-9032" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q4.png 1200w, ./../../../wp-content/uploads/2021/03/Q4-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q4-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q4-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">So many! We launched at the bottom of the bear market in 2020, before DEXs and DeFi was really a thing. </p>
+
+
+
+<p class="has-medium-font-size">We had an existing DEX that settled every trade on-chain, but it was taking up a lot of time to support and interfered with our ability to raise financing as people thought it was our main product. </p>
+
+
+
+<p class="has-medium-font-size">In hindsight, we should have stopped supporting our old product and focused entirely on the new one. There are so many other lessons that we have learned as a team but we don&#8217;t have time to go into more than one of two!</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">I like the &#8216;waiting for Eth 2.0 to launch meme&#8217; the most because <strong>we actually don&#8217;t need Eth 2.0 to fully launch now that we have a whole ecosystem of rollups that is springing up.</strong> I see rollups as a way to scale Ethereum for the long run, not just whilst we are waiting for execution sharding.</p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-very-light-gray-background-color has-very-light-gray-color is-style-wide"/>
+
+
+
+<p class="has-medium-font-size"><strong>Thank you for reading!</strong>&nbsp;A special thanks to Ross for joining us for a rather interesting conversation about how rollups have impacted DeFi. For more, you can find Ross Middleton on <a href="https://twitter.com/rossdefi">Twitter</a>&nbsp;and explore what <a href="https://www.deversifi.com/">DeversiFi</a> has to offer.</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/21/founder-fireside-chat-with-ross-middleton-of-deversifi/index.html">Founder Fireside Chat with Ross Middleton of DeversiFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Slingshot &#8211; A Next Generation Decentralized Trading Platform</title>
+		<link>./../../../2021/05/12/slingshot-polygon/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Wed, 12 May 2021 17:03:51 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[dex aggregator]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[polygon]]></category>
+		<category><![CDATA[slingshot]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9214</guid>
+
+					<description><![CDATA[<p>Did you know that the combination of how the Earth’s gravity warps spacetime and the speed at which a satellite...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/12/slingshot-polygon/index.html">Slingshot &#8211; A Next Generation Decentralized Trading Platform</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Did you know that the combination of how the Earth’s gravity warps spacetime and the speed at which a satellite travels effectively allows satellites to time travel into the future nanoseconds at time? If you wanted to time travel, theoretically you’d need two things: a massive black hole and and an incredibly fast spacecraft.&nbsp;</p>
+
+
+
+<p>Many have described DeFi as a liquidity black hole, sucking in anything that comes near it. And now, there’s a craft capable of speeds fast enough to <em>slingshot</em> us into the future. <a href="https://app.slingshot.finance/"><strong>Slingshot</strong></a><strong> is a next generation decentralized trading platform which aggregates the top liquidity sources in order to give traders like you the best prices, speed and execution on trades.&nbsp;</strong></p>
+
+
+
+<p>In late February, Slingshot launched its closed beta with a unique way for users to earn their invite. The first 100 players to complete the race, a sci-fi themed browser game, won access to the beta and NFT prizes for having the best speedrun times. One player even finished the race so quickly they were <a href="https://twitter.com/AgentProtocol/status/1365828515489345537">accused of being a robot</a>. While a race may seem odd, it was arguably the perfect primer for the futuristic look and feel of Slingshot’s smooth trading interface.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://slingshot.finance/"><img loading="lazy" width="443" height="46" src="./../../../wp-content/uploads/2021/05/slingshot-logo.png" alt="" class="wp-image-9291" srcset="./../../../wp-content/uploads/2021/05/slingshot-logo.png 443w, ./../../../wp-content/uploads/2021/05/slingshot-logo-300x31.png 300w" sizes="(max-width: 443px) 100vw, 443px" /></a></figure></div>
+
+
+
+<p>You can now try it for yourself today because <a href="https://app.slingshot.finance/"><strong>Slingshot</strong></a><strong> is live on Polygon</strong>. Slingshot chose to launch their first Liquidity Zone on Polygon because it fit with their mission to provide traders with the best trading experience.</p>
+
+
+
+<h2>Slingshot is tailored for a next level trading experience</h2>
+
+
+
+<p>To quote its early <a href="https://twitter.com/i/status/1329235851813953537">teaser</a> video, Slingshot wants you to “fall in love with DeFi all over again.” And to be honest, the video game-like UI/UX of Slingshot is rather alluring. Between the live price chart, trade history, scrolling price ticker, and all the flashes of red and green when token prices update, you feel like you’re behind the console of a trading machine.</p>
+
+
+
+<p>Speedrunning was indeed an apt way to introduce users to Slingshot, a trading platform built for speed. The flow of trading on Slingshot is rather intuitive. You can either start by searching for a token to trade using the search bar or click the + sign on the left side to bookmark a token. Next, select whether you want to buy or sell and the amount you want to spend. And voila, Slingshot finds you the best price for your trade aggregated from the top liquidity sources.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://app.slingshot.finance/"><img loading="lazy" width="1024" height="506" src="./../../../wp-content/uploads/2021/05/slingshot-ui-1-1024x506.png" alt="" class="wp-image-9293" srcset="./../../../wp-content/uploads/2021/05/slingshot-ui-1-1024x506.png 1024w, ./../../../wp-content/uploads/2021/05/slingshot-ui-1-300x148.png 300w, ./../../../wp-content/uploads/2021/05/slingshot-ui-1-768x379.png 768w, ./../../../wp-content/uploads/2021/05/slingshot-ui-1-1536x759.png 1536w, ./../../../wp-content/uploads/2021/05/slingshot-ui-1-585x289.png 585w, ./../../../wp-content/uploads/2021/05/slingshot-ui-1.png 1917w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></div>
+
+
+
+<h3>A polished UI with a buttery smooth trade flow</h3>
+
+
+
+<p>When trading bookmarked tokens, this entire process flows smoothly from left to right allowing you to trade incredibly fast, especially on Polygon. While Polygon is the only publicly available Liquidity Zone today, beta users can tell you how awesome it is to seamlessly switch between Liquidity Zones. Slingshot allows you to search for tokens across Liquidity Zones and then filters the list of available tokens according to the Liquidity Zone of the token you selected. So say you’re connected to Ethereum but want to buy MATIC on Polygon. There’s no need to pre-switch your network in Metamask because Slingshot handles this as part of the trade flow. Don’t worry though; you’ll get the chance to see what this is like soon enough.</p>
+
+
+
+<p>The more subtle details in the user interface also really add polish to the entire trading experience. For example, when you hover your mouse over the ticker at the top, it feels as if time slows as the scrolling ticker slows in reaction to your cursor. And when you hover over the chart, the cursor becomes a crosshair which follows the line of the price chart. Every little bit adds up to make trading frictionless and fun again.</p>
+
+
+
+<h2>Test drive the future of trading with Slingshot</h2>
+
+
+
+<p><strong>Slingshot is offering our community members an awesome DFP-themed golden grapes NFT for FREE to celebrate the launch.</strong> To be eligible to receive the NFT, be sure to <a href="https://tinyurl.com/4yz5p8v4">fill out this form</a> with your wallet address.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-1024x576.jpg" alt="" class="wp-image-9301" srcset="./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-300x169.jpg 300w, ./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-768x432.jpg 768w, ./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-1200x675.jpg 1200w, ./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-585x329.jpg 585w, ./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Try <a href="https://slingshot.finance/">Slingshot</a> live on Polygon.</strong> As previously mentioned, Polygon is Slingshot’s first Liquidity Zone available to the public. Be the first to hear about new features and Liquidity Zones by following Slingshot on <a href="https://twitter.com/SlingshotCrypto">Twitter</a> and join the Slingshot community on <a href="https://discord.gg/KnpjtDkaRQ">Discord</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Slingshot to help educate and inform the community about the launch of Slingshot on Polygon. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/12/slingshot-polygon/index.html">Slingshot &#8211; A Next Generation Decentralized Trading Platform</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AMA with Slingshot CEO Clinton Bembry Jr.</title>
+		<link>./../../../2021/05/12/ama-with-slingshot-ceo-clinton-bembry-jr/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Wed, 12 May 2021 16:49:56 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[ama]]></category>
+		<category><![CDATA[dex aggregator]]></category>
+		<category><![CDATA[Dex.Ag]]></category>
+		<category><![CDATA[dexag]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[slingshot]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9278</guid>
+
+					<description><![CDATA[<p>This AMA session with Slingshot CEO Clinton Bembry Jr. occurred on May 7th, 2021. The following is a transcription of...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/12/ama-with-slingshot-ceo-clinton-bembry-jr/index.html">AMA with Slingshot CEO Clinton Bembry Jr.</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/05/Slingshot-ama-1024x576.png" alt="" class="wp-image-9279"/></figure>
+
+
+
+<p>This AMA session with Slingshot CEO Clinton Bembry Jr. occurred on May 7th, 2021. The following is a transcription of the live from DeFi Pulse’s AMA Discord channel. To participate in future AMAs, please join our <a href="https://discord.gg/Gx4TCTk">Discord</a> and follow us on <a href="https://twitter.com/defipulse">Twitter</a>.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p><strong>Chaz Schmidt:<em> </em></strong><em>Hello and welcome @everyone! Thank you for joining us today for an AMA with Clinton Bembry Jr., CEO of Slingshot ( @Clinton | Slingshot ).&nbsp;</em></p>
+
+
+
+<p><em>The AMA will last around 30 minutes and will be made available shortly after for those who could not attend.</em></p>
+
+
+
+<p><em>Clinton will be answering the questions we&#8217;ve collected from the community throughout the week. A special thanks to those of you who submitted questions for today&#8217;s AMA.</em><strong><em><br></em></strong><strong><em><br></em></strong><strong>How&#8217;s it going Clinton?</strong></p>
+
+
+
+<p><strong>Clinton Bembry Jr.:</strong> Hey Chaz! doing well, hbu?</p>
+
+
+
+<p><strong>CS: </strong><em>Not too shabby. Thanks everyone for showing up for the AMA. Let&#8217;s start off with a rather easy question&#8230;</em></p>
+
+
+
+<p><strong>What is Slingshot?</strong></p>
+
+
+
+<p><strong>Clinton:</strong> sweet, Slingshot is a decentralized trading platform that aggregates liquidity across DEX protocols (like uniswap, sushiswap, curve, etc.) to offer user sthe best prices on their trades. We place a huge emphasis on user-experience and aim to offer the ultimate trading experience for both DeFi natives and newcomers to crypto!</p>
+
+
+
+<p><strong>CS: </strong><em>This next one comes from the Slingshot Discord where folks are clamoring for more details on Slingshot ever since your initial teaser earlier this year.</em></p>
+
+
+
+<p><strong>What will separate Slingshot from all other DEXes already operating? Uniswap, SushiSwap, LinkSwap, DODO, etc.</strong><br><br><strong>Clinton:</strong> so Slingshot itself isn&#8217;t a DEX, we plug our liquidity engine into other DEXes like uniswap and sushiswap etc</p>
+
+
+
+<p>By aggregating liquidity and splitting orders between other DEXes we are able to offer much better prices than if you were to trade on an individual DEX<br><br>Slingshot isn&#8217;t just about the best prices, but also unparalleled user-experience</p>
+
+
+
+<p><strong>CS: </strong><em>I know for many DeFi users fees can be a big factor when it comes to user experience.</em><br><br><strong>How does Slingshot plan to support trading on layer 2 or multiple chains?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>definitely, many people (myself included) got priced out of trading on Ethereum L1</p>
+
+
+
+<p>At launch we will suport trading on Polygon, which is an Ethereum L2/sidechain. The tx fee on Polygon for a trade is as low as $0.0002, compared to Ethereum which can be a $100+ fee per trade</p>
+
+
+
+<p>At Slingshot we&#8217;re all about pricing people back into DeFi <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p><strong>CS:</strong><em> Sounds good to me. I like low fees. I saw in your Discord that Closed Beta users have been able to use Slingshot on Polygon already.</em></p>
+
+
+
+<p><strong>What has been the most useful feedback from the closed beta so far?</strong></p>
+
+
+
+<p><strong>Clinton:</strong> Our polygon support is a result of the feedback we received from our earliest beta users. Due to high fees they were being forced to turn back to the world centralized trading. We began working on L2 support immediately and shipped it a few weeks later.</p>
+
+
+
+<p>other than that &#8211; it&#8217;s been very helpful in general to hear which features users want to see to aid in their trading flows</p>
+
+
+
+<p><strong>CS: </strong><em>That actually leads straight into my next question which is:</em><strong> What features of Slingshot are you most excited for the public to see?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>aside from the lightning fast L2 trading + unbeatable prices, i&#8217;m personally excited for people to experience all of the real-time, on-chain data we pump through our platform.</p>
+
+
+
+<p>Every time a block get&#8217;s mined we parse all trading activity and surface it to our users and it makes for a visceral experience!</p>
+
+
+
+<p>oh also &#8211; our price charts are custom made and look really cool :sunglasses:</p>
+
+
+
+<p><strong>CS: </strong><em>I can attest to this personally. I&#8217;ve gotten a chance to test Slingshot in the beta and I found myself getting lost in it like it is a game. The flow from seeing a price change on the ticker, clicking it to select the token, and executing the trade was incredible. A community member wanted to know more about the sci-fi browser game that Slingshot produced where players could win their way into the beta.</em><strong> In their words, &#8220;What was the point of the game?&#8221; And, will other aspects of Slingshot involve gamification?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>the point of the game was&nbsp; to announce our closed-beta and bootstrap an initial user-base, while also having some fun while we build the future of finance!<br><br>I mean, how else are you supposed to announce a beta?</p>
+
+
+
+<p><strong>CS: </strong><em>Solid point haha</em><br><br><em>And it was fun. One player was even so fast they were accused of being a robot</em> <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f916.png" alt="🤖" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p><strong>Clinton: </strong>haha yes, a bit of a speed-running competition broke out! as far as I could tell, they were all legit, no bots!</p>
+
+
+
+<p><strong>CS: </strong><em>We&#8217;re reaching near the end now and it&#8217;s been super interesting so far. If you&#8217;re up for it Clinton, we have a couple more of questions before we let you go</em></p>
+
+
+
+<p><strong>Clinton: </strong>Of course!<br><br><strong>CS: </strong><em>I think the audience would get angry if I didn&#8217;t ask the obvious: </em><strong>When launch?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>soon <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> bahaha<br>forreal though &#8211; very soon<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p><strong>CS: </strong><em>We&#8217;ll accept that answer.</em><br><br><strong>Clinton: </strong>we want to get Slingshout out publicly for everyone to use ASAP</p>
+
+
+
+<p><strong>CS: </strong><em>I think that&#8217;s about all the questions we have time for.&nbsp;</em></p>
+
+
+
+<p><em>Thank you for joining us Clinton. I know I for one am excited for Slingshot to go live.</em></p>
+
+
+
+<p><strong>Clinton: </strong>awesome, thanks for having me!</p>
+
+
+
+<p>quick plug &#8211; we&#8217;re hiring for a lot of roles at Slingshot. If you&#8217;re interested in helping us build the future of trading, <a href="https://slingshot-finance.homerun.co/">check out our job postings here</a>.</p>
+
+
+
+<p><strong>CS: </strong><em>Haha yes. Be sure to reach out if you fit those roles lol</em></p>
+
+
+
+<p><strong>Anything else you&#8217;d like to add before we go?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>that&#8217;s all from me!</p>
+
+
+
+<p><strong>CS: </strong><em>Well it was a pleasure talking with you</em></p>
+
+
+
+<p><em>Thank you everyone for attending! I hope your curiosities were satisfied.</em></p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p>Follow us on <a href="https://twitter.com/defipulse">Twitter</a> to hear about the latest AMA and don’t forget to keep your eyes on Slingshot for the true answer to the question: when launch?<em><br></em><em><br></em><em>Disclosure: This post is paid promotion; We’ve partnered with Slingshot to help educate and inform the community about Slingshot’s decentralized trading platform. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/12/ama-with-slingshot-ceo-clinton-bembry-jr/index.html">AMA with Slingshot CEO Clinton Bembry Jr.</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Fractionalizing NFTs with DODO NFT</title>
+		<link>./../../../2021/05/04/dodo-nft/index.html</link>
+		
+		<dc:creator><![CDATA[Yule Andrade]]></dc:creator>
+		<pubDate>Tue, 04 May 2021 19:19:26 +0000</pubDate>
+				<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Exchange]]></category>
+		<category><![CDATA[Exchanges]]></category>
+		<category><![CDATA[amm]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[dodo]]></category>
+		<category><![CDATA[nft]]></category>
+		<category><![CDATA[PMM]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9218</guid>
+
+					<description><![CDATA[<p>Non-fungible tokens (NFTs) took over the world in 2021. While some people still can&#8217;t fully grasp their value proposition, they...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/04/dodo-nft/index.html">Fractionalizing NFTs with DODO NFT</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Non-fungible tokens (NFTs) took over the world in 2021. While some people still can&#8217;t fully grasp their value proposition, they are an obsession for many others. Artists, collectors and investors have found fertile ground in the blockchain space, where they can trade and speculate on the price of intangible assets. And more importantly, do it seamlessly without auctioneers or any other middlemen. This is where <a href="https://defipulse.com/dodo">DODO</a>’s brand new feature allowing users to fractionalize NFTs called <a href="http://dodonft.io/">DODO NFT</a> comes in. With DODO NFTs, everyone is able to participate in the NFTs ecosystem by leveraging DODO’s <a href="https://defipulse.com/blog/dodo-and-proactive-market-making/">Proactive Market Maker</a> (PMM) protocol.</p>
+
+
+
+<h2>Why fractionalize NFTs?</h2>
+
+
+
+<p>Although the NFTs ecosystem has seen enormous growth and success in the past months, creating a market for NFTs can still be difficult for many creators. Since NFTs are non-divisible by definition, their price discovery process is hard; ask and bid prices on NFTs usually have huge discrepancies and the most wanted items have prohibitive prices for the small investors and collectors.&nbsp;</p>
+
+
+
+<p>One way to overcome the hurdle of price discovery is with DODO’s approach to the concept of fractionalizing NFTs, which can give rise to a highly active and efficient secondary market. In DODO’s proposed mechanism, an NFT or a collection of NFTs are placed in a vault contract and then fragmented into sub-units by issuing ERC20 (fungible tokens) that represent the ownership of the vault. With this process, anyone can buy a fraction or share of an NFT, regardless of the amount of capital they can invest.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://lh5.googleusercontent.com/jZP26I8hJDnvCEPmyR7hOnuwyZa5nKjXtEay_MFp4xIlp8zD45R-TvmDSEQr-pMCPaNCMyabEdaleujeIkk4yeY6mLGgSR2IqNLWmIIKV8wCmJDVeklpjd_cDgfzsAqPiwh3hF3H" alt="The fractionalization process using DODO"/><figcaption>The fractionalization process using DODO</figcaption></figure></div>
+
+
+
+<p>Owning an NFT collectively can be very appealing. The power of community ownership comes from an alignment of values and vision surpasses the amount of interest and money one individual can have. Fractionalizing an NFT collectible can also be powerful from a distribution point of view since, as more people own an NFT the more it signals the value of it to the community.<br></p>
+
+
+
+<h2>Create flexible NFT markets with DODO’s PMM</h2>
+
+
+
+<p>With DODO NFT, powered by DODO’s established Proactive Market Maker (PMM), creators can easily fractionalize NFTs and bootstrap a market with interconnected liquidity. DODO NFT’s complete suite of tools allows anyone to handle all the processes related to fragmentation, from the vault creation, the ERC20 tokens issuance, the contracts and the creation of dedicated DODO PMMs.&nbsp;</p>
+
+
+
+<p>DODO NFT represents a brand-new solution to pricing and liquidity formation of an NFT marketplace. To begin with, the vault contract can hold various assets, including one or more NFTs or a combination of selected ERC20 tokens, serving as an individual or an organization&#8217;s portfolio. Creators of DODO NFT Vaults can also choose to issue a predetermined amount of fungible tokens and select how many will be assigned to the team and how many will go directly to provide liquidity for the PMM.</p>
+
+
+
+<h2>What is different from a traditional AMM pool?</h2>
+
+
+
+<p>Suppose you issued a certain amount of tokens for an NFT community sale. Automated market makers that use a constant product approach, such as Uniswap V2, require initial liquidity to be deposited in order to set the initial price of the asset. If you want to create a liquidity market for all tokens, you will need to provide an equal amount of money as the bid-side liquidity to achieve the desired initial price.&nbsp;</p>
+
+
+
+<p>DODO proactive markets allow you to provide single-sided liquidity. You can build a DODO NFT market and proactively set the starting price for a fragmented token without committing any capital. As traders buy the fungible tokens, the price will automatically increase following a curve. One other crucial contrast to automated market makers that use a constant product approach is that, in the former, only a single price curve is supported, while in the case of DODO PMM, it allows you to set a Slippage Coefficient (k) that gives the flexibility to handle different markets situations.<br><br>Below we can observe different price curves that can be set up with DODO PMM. The simplest one is when k=0. In this curve, the price doesn&#8217;t change with the amount sold. Any token will always be sold for the same price. In the opposite spectrum, k=1, the price increases with the amount sold in the same behavior as the constant product function. It&#8217;s possible to set more smooth curves choosing intermediary values for k. DODO PMM pools also allow for the customization of the trading fees collected from buyers rather than a fixed 0.3% fee.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="./../../../wp-content/uploads/2021/05/Dodo-Curves-1024x446.jpg" alt="" class="wp-image-9228"/><figcaption>NFT PMM price curves with different “Slippage Coefficient” k.</figcaption></figure></div>
+
+
+
+<p>Splitting up the DODO NFT Vault into fungible tokens can lead to a powerful mechanism as it allows composability to many other DeFi protocols. The underlying tokens can then be accessed using different DEXes and trading routes to be exchanged with any other token. They could even possibly be used as collateral for borrowing other assets like say for derivatives trading or even as a part of an NFT index primitive.&nbsp;</p>
+
+
+
+<h1>Learn more about DODO</h1>
+
+
+
+<p>DODO NFT is a novel protocol specially designed for innovation and liquidity. It will be launched in June of this year, giving everyone access to the NFTs market. DODO also has many more solutions to different market strategies. You can learn more by <a href="https://dodoex.io/">exploring DODO</a>, following <a href="https://twitter.com/BreederDodo">DODO on Twitter</a>, and joining in the discussion happening in the DODO community on <a href="https://t.me/dodoex_official">Telegram</a> and <a href="https://discord.com/invite/sWKnV6fRqm">Discord</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Partner Program; We’ve partnered with DODO to help educate and inform the community about DODO’s NFT features. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/04/dodo-nft/index.html">Fractionalizing NFTs with DODO NFT</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Founder Fireside Chat with Sunil Srivatsa of Saddle</title>
 		<link>./../../../2021/04/23/founder-fireside-chat-with-sunil-srivatsa-of-saddle/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Fri, 23 Apr 2021 13:02:32 +0000</pubDate>
-				<category><![CDATA[Founder Fireside Chats]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Founder Fireside Chats]]></category>
 		<category><![CDATA[amm]]></category>
 		<category><![CDATA[DEXes]]></category>
 		<category><![CDATA[saddle]]></category>
 		<category><![CDATA[saddle-finance]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=9169</guid>
 
-					<description><![CDATA[The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...]]></description>
+					<description><![CDATA[<p>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/04/23/founder-fireside-chat-with-sunil-srivatsa-of-saddle/index.html">Founder Fireside Chat with Sunil Srivatsa of Saddle</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/04/saddl_blog_header.png" alt="" class="wp-image-9170" width="1024" height="512"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/saddl_blog_header.png" alt="" class="wp-image-9170" width="1024" height="512"/></figure>
 
 
 
@@ -46,7 +649,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q1-1.png" alt="" class="wp-image-9026" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q1.png" alt="" class="wp-image-9026" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q1.png 1200w, ./../../../wp-content/uploads/2021/03/Q1-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q1-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q1-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -62,7 +665,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -78,7 +681,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/04/Q6.png" alt="" class="wp-image-9134" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/04/Q6.png 1200w, ./../../../wp-content/uploads/2021/04/Q6-300x55.png 300w, ./../../../wp-content/uploads/2021/04/Q6-1024x188.png 1024w, ./../../../wp-content/uploads/2021/04/Q6-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/Q6.png" alt="" class="wp-image-9134" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/04/Q6.png 1200w, ./../../../wp-content/uploads/2021/04/Q6-300x55.png 300w, ./../../../wp-content/uploads/2021/04/Q6-1024x188.png 1024w, ./../../../wp-content/uploads/2021/04/Q6-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -90,7 +693,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q3-1.png" alt="" class="wp-image-9031" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q3.png" alt="" class="wp-image-9031" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q3.png 1200w, ./../../../wp-content/uploads/2021/03/Q3-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q3-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q3-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -102,7 +705,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q4-1.png" alt="" class="wp-image-9032" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q4.png" alt="" class="wp-image-9032" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q4.png 1200w, ./../../../wp-content/uploads/2021/03/Q4-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q4-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q4-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -110,11 +713,11 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/04/andre-bikestick.png" alt="" class="wp-image-9173" width="350" height="501"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/andre-bikestick.png" alt="" class="wp-image-9173" width="350" height="501"/></figure>
 
 
 
@@ -126,11 +729,12 @@
 
 
 
-<p class="has-medium-font-size">Thanks for your time and the insights for Sunil. You can find Sunil on Twitter at <a href="https://twitter.com/devops199fan">@devops199fan</a>. Keep up to date with <a href="http://saddle.finance/">Saddle</a> by following them on <a href="https://twitter.com/saddlefinance">Twitter</a>, reading their <a href="https://medium.com/saddle">blog</a>, and joining their <a href="https://discord.gg/hX8RZFBW9R">Discord</a> or <a href="https://t.me/saddle_finance">Telegram</a>.</p>
+<p class="has-medium-font-size">Thanks for your time and the insights for Sunil. You can find Sunil on Twitter at&nbsp;<a href="https://twitter.com/devops199fan">@devops199fan</a>. Keep up to date with <a href="http://saddle.finance/">Saddle</a> by following them on <a href="https://twitter.com/saddlefinance">Twitter</a>, reading their <a href="https://medium.com/saddle">blog</a>, and joining their <a href="https://discord.gg/hX8RZFBW9R">Discord</a> or <a href="https://t.me/saddle_finance">Telegram</a>.</p>
 
 
 
 <p class="has-medium-font-size"><strong>Thanks for reading! </strong>Please be sure to share with us which founders you think should be highlighted next.</p>
+<p>The post <a rel="nofollow" href="./../../../2021/04/23/founder-fireside-chat-with-sunil-srivatsa-of-saddle/index.html">Founder Fireside Chat with Sunil Srivatsa of Saddle</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -140,7 +744,7 @@
 		<title>DexGuru &#8211; Real-time Data, Analytics and Trading for AMMs in One Place</title>
 		<link>./../../../2021/04/20/dexguru/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Tue, 20 Apr 2021 13:03:31 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Explainers]]></category>
@@ -152,7 +756,9 @@
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=9142</guid>
 
-					<description><![CDATA[The origin of the Sanskrit word guru is said to be based on the syllables gu (गु) and ru (रु),...]]></description>
+					<description><![CDATA[<p>The origin of the Sanskrit word guru is said to be based on the syllables gu (गु) and ru (रु),...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/04/20/dexguru/index.html">DexGuru &#8211; Real-time Data, Analytics and Trading for AMMs in One Place</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>The origin of the Sanskrit word <em>guru</em> is said to be based on the syllables<em> gu</em> (गु) and <em>ru</em> (रु), which stand for darkness and &#8220;light that dispels it.&#8221; Gurus cast out the darkness of ignorance with the light of their wisdom. To become a guru, you must be able to take in your surroundings to gain perspective and glean greater wisdom. DexGuru wants to be your guide lighting the way through the dark forest. <a href="https://dex.guru/">DexGuru</a> harmonizes permissionless, real-time data and analytics of every on-chain market in a single UI capable of trading across DEXes.</p>
 
@@ -166,7 +772,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="https://dex.guru/"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/04/dexguru-ui-1024x576.png" alt="" class="wp-image-9147" srcset="./../../../wp-content/uploads/2021/04/dexguru-ui-1024x576.png 1024w, ./../../../wp-content/uploads/2021/04/dexguru-ui-300x169.png 300w, ./../../../wp-content/uploads/2021/04/dexguru-ui-768x432.png 768w, ./../../../wp-content/uploads/2021/04/dexguru-ui-1536x864.png 1536w, ./../../../wp-content/uploads/2021/04/dexguru-ui-1568x882.png 1568w, ./../../../wp-content/uploads/2021/04/dexguru-ui.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://dex.guru/"><img loading="lazy" width="1024" height="576" src="https://defipulse.com/blog/wp-content/uploads/2021/04/dexguru-ui-1024x576.png" alt="" class="wp-image-9147" srcset="./../../../wp-content/uploads/2021/04/dexguru-ui-1024x576.png 1024w, ./../../../wp-content/uploads/2021/04/dexguru-ui-300x169.png 300w, ./../../../wp-content/uploads/2021/04/dexguru-ui-768x432.png 768w, ./../../../wp-content/uploads/2021/04/dexguru-ui-1536x864.png 1536w, ./../../../wp-content/uploads/2021/04/dexguru-ui-1568x882.png 1568w, ./../../../wp-content/uploads/2021/04/dexguru-ui.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -194,7 +800,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="345" height="342" src="./../../../wp-content/uploads/2021/04/image.png" alt="" class="wp-image-9150" srcset="./../../../wp-content/uploads/2021/04/image.png 345w, ./../../../wp-content/uploads/2021/04/image-300x297.png 300w, ./../../../wp-content/uploads/2021/04/image-150x150.png 150w" sizes="(max-width: 345px) 100vw, 345px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="345" height="342" src="https://defipulse.com/blog/wp-content/uploads/2021/04/image.png" alt="" class="wp-image-9150" srcset="./../../../wp-content/uploads/2021/04/image.png 345w, ./../../../wp-content/uploads/2021/04/image-300x297.png 300w, ./../../../wp-content/uploads/2021/04/image-150x150.png 150w" sizes="(max-width: 345px) 100vw, 345px" /></figure>
 
 
 
@@ -219,6 +825,7 @@
 
 
 <p><strong><em>Disclosure: This post is part a promotional series; We’ve partnered with DexGuru to help educate and inform the community about its on-chain market data and trading tools. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></strong></p>
+<p>The post <a rel="nofollow" href="./../../../2021/04/20/dexguru/index.html">DexGuru &#8211; Real-time Data, Analytics and Trading for AMMs in One Place</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -228,7 +835,7 @@
 		<title>DODO and Proactive Market Making (PMM)</title>
 		<link>./../../../2021/03/29/dodo-and-proactive-market-making/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Mon, 29 Mar 2021 13:00:48 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[DEX]]></category>
@@ -238,13 +845,15 @@
 		<category><![CDATA[PMM]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=9048</guid>
 
-					<description><![CDATA[DODO is a decentralized exchange (DEX) platform powered by a unique Proactive Market Making (PMM) algorithm. DODO’s PMM algorithm was...]]></description>
+					<description><![CDATA[<p>DODO is a decentralized exchange (DEX) platform powered by a unique Proactive Market Making (PMM) algorithm. DODO’s PMM algorithm was...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/03/29/dodo-and-proactive-market-making/index.html">DODO and Proactive Market Making (PMM)</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>DODO is a decentralized exchange (DEX) platform powered by a unique Proactive Market Making (PMM) algorithm. <a href="https://dodoex.io/">DODO</a>’s PMM algorithm was developed entirely in-house by the DODO team iterating on the design of Automated Market Makers (AMMs) to improve capital efficiency, reduce impermanent loss, and minimize slippage for traders. Inspired by their previous work on DDEX, the DODO team set out to abstract the proactive market making concepts popular on order book-based exchanges into a permissionless on-chain liquidity protocol.</p>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://dodoex.io/"><img loading="lazy" width="1024" height="375" src="./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-1024x375.png" alt="" class="wp-image-9050" srcset="./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-1024x375.png 1024w, ./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-300x110.png 300w, ./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-768x282.png 768w, ./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-1536x563.png 1536w, ./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-2048x751.png 2048w, ./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-1568x575.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://dodoex.io/"><img src="https://defipulse.com/blog/wp-content/uploads/2021/03/LOGO-DODO_τö╗µ¥┐-1-1024x375.png" alt="" class="wp-image-9050"/></a></figure>
 
 
 
@@ -305,6 +914,7 @@
 
 
 <p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Partner Program; We’ve partnered with DODO to help educate and inform the community about DODO’s PMM technology. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/03/29/dodo-and-proactive-market-making/index.html">DODO and Proactive Market Making (PMM)</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -314,7 +924,7 @@
 		<title>SnowSwap &#8211; Low Slippage Swaps for Yield-Bearing Stablecoins, BTC and ETH2</title>
 		<link>./../../../2021/01/25/snowswap/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Mon, 25 Jan 2021 21:38:22 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Explainers]]></category>
@@ -327,7 +937,9 @@
 		<category><![CDATA[yield]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8826</guid>
 
-					<description><![CDATA[Many would argue that generating yield with stablecoins is currently one of DeFi’s biggest use cases. So it’s no wonder...]]></description>
+					<description><![CDATA[<p>Many would argue that generating yield with stablecoins is currently one of DeFi’s biggest use cases. So it’s no wonder...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/01/25/snowswap/index.html">SnowSwap &#8211; Low Slippage Swaps for Yield-Bearing Stablecoins, BTC and ETH2</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Many would argue that generating yield with stablecoins is currently one of DeFi’s biggest use cases. So it’s no wonder we’ve seen a flurry of different stablecoins, yield aggregators and vaults entering the market, each with their own tokenized representation of yield-bearing stablecoins. You can almost picture these yield-bearing tokens like snowflakes; each similar at a glance but entirely unique when examined closely. When snowflakes are combined they become an indistinguishable mass that can be shaped to create something more like a snowman or igloo. Whether you prefer to look at protocols and tokens like snowflakes or money legos, there are undeniable benefits to combining and layering different DeFi protocols to create something new. This is precisely the logic behind <a href="https://snowswap.org/">SnowSwap</a> which aims to be the defacto way to swap yield-bearing assets like stablecoins, tokenized BTC, ETH2 staking tokens and other similar assets.</p>
 
@@ -386,6 +998,7 @@
 
 
 <p>If you haven’t already, we recommend you go <a href="https://snowswap.org/">check out SnowSwap</a> and see how its low slippage AMM design can offer you more convenience and utility.<br><br><br><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with SnowSwap to help educate and inform the community about their protocol. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/01/25/snowswap/index.html">SnowSwap &#8211; Low Slippage Swaps for Yield-Bearing Stablecoins, BTC and ETH2</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -395,9 +1008,10 @@
 		<title>DeversiFi &#8211; A high-speed trading platform capable of 9000 TPS</title>
 		<link>./../../../2020/11/29/deversifi-nectar-beehive-v1/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 29 Nov 2020 14:00:03 +0000</pubDate>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Sun, 29 Nov 2020 19:00:03 +0000</pubDate>
 				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[decentralized exchange]]></category>
 		<category><![CDATA[DeFi]]></category>
 		<category><![CDATA[deversifi]]></category>
@@ -408,7 +1022,9 @@
 		<category><![CDATA[token]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8715</guid>
 
-					<description><![CDATA[Let’s face it&#8230; In the heat of the moment when it matters most you want to be using the fastest,...]]></description>
+					<description><![CDATA[<p>Let’s face it&#8230; In the heat of the moment when it matters most you want to be using the fastest,...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/29/deversifi-nectar-beehive-v1/index.html">DeversiFi &#8211; A high-speed trading platform capable of 9000 TPS</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Let’s face it&#8230; In the heat of the moment when it matters most you want to be using the fastest, cheapest way to execute that critical trade. And when you trade on most DEXes, network congestion and the subsequent high gas fees impact your performance. Pay too low of a gas price and you’ll be stuck waiting around, sometimes only to have your transaction revert. So, your other option is to crank up the gas price and pay gas fees which add up over time, eating into your profits.&nbsp;</p>
 
@@ -575,549 +1191,7 @@
 
 
 <p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with DeversiFi to help educate and inform the community about the DeversiFi and the Nectar Ecosystem. DeFi Pulse received NEC tokens as part of its payment. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em> </p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Vampire Mining and the SushiSwap Saga</title>
-		<link>./../../../2020/09/25/vampire-mining-and-the-sushiswap-saga/index.html</link>
-		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Fri, 25 Sep 2020 10:00:00 +0000</pubDate>
-				<category><![CDATA[DEX]]></category>
-		<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[amm]]></category>
-		<category><![CDATA[DEXes]]></category>
-		<category><![CDATA[sushi]]></category>
-		<category><![CDATA[sushiswap]]></category>
-		<category><![CDATA[uni]]></category>
-		<category><![CDATA[Uniswap]]></category>
-		<guid isPermaLink="false">https://defipulse.com/blog/?p=8567</guid>
-
-					<description><![CDATA[A vampire attack or “vampire mining” is a new term in DeFi popularized by SushiSwap’s aggressive migration incentives designed to...]]></description>
-										<content:encoded><![CDATA[
-<p>A vampire attack or “vampire mining” is a new term in DeFi popularized by SushiSwap’s aggressive migration incentives designed to pull liquidity from Uniswap.</p>
-
-
-
-<p>The strategy involves forking an already successful open-source fee-generating protocol, and where opportunities exist, making slight adjustments to better incentivize participants in the new protocol, encouraging the migration of already existing liquidity for essentially the same purpose.</p>
-
-
-
-<p><a href="https://uniswap.org/?gclid=Cj0KCQjwwOz6BRCgARIsAKEG4FVDaI7egyJ4cGSoT7Uc8xLy8Yfd-NFBh3AH8PXuhEGcW3H3pTkesjQaAiAPEALw_wcB">Uniswap</a> made a prime target as it was one of the largest decentralised protocols not to have some sort of governance token or fee distribution token at the time. Uniswap liquidity providers currently share 0.3% fees on all trades made within pools they have provided liquidity to, however the protocol has a <a href="https://uniswap.org/blog/uniswap-v2/">lever</a> that can be pulled that redirects 0.05% (16.7%) of this 0.3% fee into a funding pool supposedly for ecosystem development, though there are concerns from some members of the community that this would likely just line the pockets of Uniswap’s VCs instead.</p>
-
-
-
-<p>Thus <a href="https://sushiswapclassic.org/">SushiSwap</a> was born, an almost direct clone of Uniswap except with an additional protocol related token SUSHI. SUSHI acts as both a governance token and a yield token- always sharing between its holders the 0.05% of fees on trades that Uniswap can divert by activating its lever.</p>
-
-
-
-<p>This change also allows prior liquidity providers to continue to earn fees from the protocol even after withdrawing their liquidity from the SUSHI tokens they’ve earned- strongly rewarding early participants with the aim to bolster its community.&nbsp;</p>
-
-
-
-<p>SushiSwap’s “attack,” as some would call it, hinged on the fact that liquidity providers get Uniswap LP tokens for depositing liquidity in Uniswap’s pool- redeemable for their share of the pool at any time.</p>
-
-
-
-<p>SushiSwap capitalised on this by offering staking contracts where Uniswap LP tokens could be deposited to earn SUSHI tokens. The idea was to have a 2-week early distribution at an enhanced rate where 1000 SUSHI were split between stakers per block to attract a lot of LP tokens, before SushiSwap would mass migrate a tonne of Uniswap’s liquidity into its own pools by redeeming the staked Uniswap LP tokens and swapping staker’s Uniswap LP tokens 1 for 1 with SushiSwap SLP tokens, making them whole again in SushiSwap’s new pools. Trading would then begin and the protocol would continue to emit SUSHI to active liquidity providers at 10% of the early distribution rate.</p>
-
-
-
-<p>SushiSwap’s staking contracts and SUSHI distribution began on August 28th, causing a parabolic rise from about $280m to $1.8B of total value locked (TVL) in Uniswap over 11 days, before the migration occurred a couple of days early on September 8th, causing about $800m of liquidity to be instantly drained to SushiSwap, with Uniswap’s TVL plunging back to ~$400m.</p>
-
-
-
-<p>Interestingly, this is still higher than Uniswap’s TVL prior to SushiSwap. So despite concerns that SushiSwap could have spelled the end for Uniswap, the whole debacle still seems to have been of net benefit to the protocol.</p>
-
-
-
-<p>Another point of debate was whether liquidity providers would remain with SushiSwap once the post-migration rewards fell to 100 SUSHI per block or correct back to the more trusted and time-tested Uniswap.</p>
-
-
-
-<p>Whilst the initial distribution was going on, Chef Nomi (SushiSwap’s anonymous founder) withdrew the entirety of the dev pool- $7m of eth and ~2.5m SUSHI which they sold for ~$6m of Eth on Saturday 5th, making away with around $13m of ETH profit despite early promises not to, causing SUSHI to decline in price and leaving the community in doubt of the future. Chef Nomi however pledged to continue to support the project’s development.</p>
-
-
-
-<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/nFBb9rskxUfBDSK1cJAwaIY7KrYSY2PwNqUUfn4wOTUJ_Hlxie6OCnT1dxIB6Aoq0-Yu01xPABTLPXvs-pQ9wZbAHJHC0X2audCV1IbSbu6dkpwuaLj691e4DAzbwpcUyKnwYqxM" alt=""/></figure>
-
-
-
-<p>A day later they rescinded his commitment and gave control of SushiSwap to the CEO of FTX Sam Bankman-Fried.</p>
-
-
-
-<p>&nbsp;In a final twist, Chef Nomi returned all ~$14m of ETH back to SushiSwap’s treasury on September 11th.</p>
-
-
-
-<p>Since then, the community has successfully migrated liquidity to SushiSwap and continued forward with the project, though with everything going on SUSHI has unsurprisingly seen some significant price volatility.</p>
-
-
-
-<h3>Is this the start of a trend?</h3>
-
-
-
-<p>SushiSwap’s aggressive liquidity migration from Uniswap might have been the first significant example of a “vampire attack”, but it bears considering it will probably not be the last.</p>
-
-
-
-<p>Any protocol where capital is free to leave easily and can be better incentivized to perform a similar function in another protocol is at risk. In particular protocols that are “simpler” in functionality and that rely more on their own smart contracts and platform to provide their service over being highly integrated with other projects (possessing stronger network effects) are at higher risk.</p>
-
-
-
-<p>Uniswap made such a great target precisely because copying the project is largely as simple as copying its smart contracts, and the main requirement for a successful liquidity platform is sufficient liquidity, which as this whole saga has shown can clearly be (at least temporarily) incentivized.</p>
-
-
-
-<p>All done and said, it&#8217;s definitely going to be interesting to watch how SushiSwap and Uniswap continue to co-exist (or not) over the next few months.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Balancer &#8211; Start Liquidity Mining and Earn BAL Tokens Today</title>
-		<link>./../../../2020/05/31/balancer-start-liquidity-mining-and-earn-bal-tokens-today/index.html</link>
-		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 31 May 2020 13:55:00 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[amm]]></category>
-		<category><![CDATA[bal]]></category>
-		<category><![CDATA[balancer]]></category>
-		<category><![CDATA[DeFi]]></category>
-		<category><![CDATA[DEX]]></category>
-		<category><![CDATA[DEXes]]></category>
-		<category><![CDATA[exchange]]></category>
-		<guid isPermaLink="false">https://defipulse.com/blog/?p=8276</guid>
-
-					<description><![CDATA[Liquidity is paramount to the growth of DeFi. Many DApps require reliable pools of liquidity to function. One of the...]]></description>
-										<content:encoded><![CDATA[
-<p>Liquidity is paramount to the growth of DeFi. Many DApps require reliable pools of liquidity to function. One of the most interesting project&#8217;s innovating in the pool liquidity space is Balancer. If you haven&#8217;t heard of Balancer, now&#8217;s a great time to learn because Balancer is about to start distributing BAL tokens to liquidity providers on June 1st, 2020 at 00:00 UTC. We&#8217;re working with Balancer Labs to get the word out about this Liquidity Mining process as part of our DeFi Pulse Drop series.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2020/05/1_hrBWNLyxr4YwrdCnRsfOeQ-1024x576.png" alt="" class="wp-image-8278" srcset="./../../../wp-content/uploads/2020/05/1_hrBWNLyxr4YwrdCnRsfOeQ-1024x576.png 1024w, ./../../../wp-content/uploads/2020/05/1_hrBWNLyxr4YwrdCnRsfOeQ-300x169.png 300w, ./../../../wp-content/uploads/2020/05/1_hrBWNLyxr4YwrdCnRsfOeQ-768x432.png 768w, ./../../../wp-content/uploads/2020/05/1_hrBWNLyxr4YwrdCnRsfOeQ.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<h2>What is Balancer?</h2>
-
-
-
-<p>Balancer is a non-custodial generalized automatic market maker (AMM) protocol that launched in March of this year. Yes, that&#8217;s a mouthful but it&#8217;s easy to understand once you break it down. You&#8217;re probably familiar with AMM exchange models like Uniswap, but where Balancer differs is the fact it&#8217;s generalized making it suitable for all sorts of needs, but more on that in a bit.</p>
-
-
-
-<h3>Balancer pools are like self-balancing index funds</h3>
-
-
-
-<p>Anyone can create a Balancer pool and add liquidity to the protocol. However, what makes Balancer pools so unique is that you aren&#8217;t restricted to pools with the typical 50/50 split between two tokens we&#8217;re used to. Balancer pools support up to 8 tokens with custom distributions. For example, a pool could be 30% WETH, 30% MKR, and 30% USDC, and 10% LINK while another pool is 80% WETH and 20% DAI. </p>
-
-
-
-<p>Balancer uses smart order routing (SOR) to route users&#8217; trades to the pools that combined provide the best rate possible. Essentially, Balancer pools are like self-balancing index funds but instead of charging you fees you actually get paid for contributing your liquidity.</p>
-
-
-
-<h3>Different pools for different needs</h3>
-
-
-
-<p>As previously mentioned, Balancer liquidity pools are highly flexible and can be optimized for specific use cases. Balancer Labs has even released templates for new innovative pool designs. Take for instance <a href="https://medium.com/balancer-protocol/building-liquidity-into-token-distribution-a49d4286e0d4">Liquidity Bootstrapping Pools</a> (LBPs) that communities can use to build deep liquidity for their token. Or even, <a href="https://medium.com/balancer-protocol/zero-impermanent-loss-stablecoin-pool-with-lending-interests-a3da6d8bb782">stablecoin pools with zero impermanent-loss</a>.</p>
-
-
-
-<h2>Balancer Protocol Governance Token (BAL)</h2>
-
-
-
-<p>Balancer V1 initially launched with no native token; this latest update to Balancer introduces the Balancer Protocol Governance Token (BAL). BAL holders will determine the future of Balancer protocol, making decisions like implementing new features, potential protocol fees, or even bigger picture plans like whether to use layer 2 scaling and/or deploy contracts on other blockchains. </p>
-
-
-
-<p>Out of the total supply of 100M BAL tokens, 25M were initially allocated to founders, core devs, advisors and investors and are all subject to vesting periods. The remaining 75M BAL tokens will be mostly distributed to users who provide liquidity to Balancer pools in a process called <strong>liquidity mining</strong>. </p>
-
-
-
-<h2>Liquidity mining &#8211; Earn BAL on top of pool returns</h2>
-
-
-
-<p>For a protocol like Balancer to remain decentralized, the governance process also needs to be decentralized. And, it only makes sense for those that use the protocol the most to be given a voice in said process. This is exactly what Balancer&#8217;s liquidity mining aims to do. </p>
-
-
-
-<p>Each week, 145k BAL will be awarded to users with liquidity in Balancer pools, totaling 7.5M BAL per year. The idea is to create a really strong incentive for early adopters grow liquidity and get involved in the governance process.</p>
-
-
-
-<p><strong>Starting on June 1st, 2020 at 00:00 UTC (which is tonight if you&#8217;re reading this Sunday May 31st), those currently providing liquidity to Balancer protocol will be eligible to receive BAL tokens.</strong> So now&#8217;s your chance to <a href="https://pools.balancer.exchange/#/">add liquidity or create a new pool</a> to reap the benefits of being that early adopter.</p>
-
-
-
-<p><em>&#8220;All liquidity providers will receive Balancer Protocol Governance Tokens as long as a USD price can be extracted from CoinGecko for at least 2 tokens present in their liquidity pools. Liquidity from tokens without such USD price is not eligible.&#8221;</em></p>
-
-
-
-<h3>Earn BAL on top of pool swap fees</h3>
-
-
-
-<p>Every Balancer pool has its own customized <em>pool swap fee</em>; whenever someone performs a trade that utilizes the pool&#8217;s liquidity, this fee is distributed equally to that pool&#8217;s liquidity providers. So when you provide liquidity not only are you earning this fee, but you&#8217;re also earning BAL </p>
-
-
-
-<h3>Liquidity mining encourages lower pool fees</h3>
-
-
-
-<p>One of the coolest parts of liquidity mining is that it&#8217;s designed to incentivize pools to have low pool swap fees. The USD value of each pool&#8217;s underlying tokens according to CoinGecko is multiplied by what&#8217;s called a <em>feeFactor</em> to determine how many BAL the pool is eligible to receive. </p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="621" src="./../../../wp-content/uploads/2020/05/1_07aShFlZ136DIIx8ltsWPA@2x-1024x621.png" alt="" class="wp-image-8277" srcset="./../../../wp-content/uploads/2020/05/1_07aShFlZ136DIIx8ltsWPA@2x-1024x621.png 1024w, ./../../../wp-content/uploads/2020/05/1_07aShFlZ136DIIx8ltsWPA@2x-300x182.png 300w, ./../../../wp-content/uploads/2020/05/1_07aShFlZ136DIIx8ltsWPA@2x-768x466.png 768w, ./../../../wp-content/uploads/2020/05/1_07aShFlZ136DIIx8ltsWPA@2x.png 1362w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>As you can see in the chart above, the higher the fee, the lower this feeFactor is, and the less BAL tokens that pool&#8217;s liquidity providers receive each week. The logic is that pools with lower fees pull in more users willing to trade on Balancer and so these pools should receive greater rewards. Personally, I think it&#8217;s a clever way to optimize Balancer to achieve lower fees while still rewarding liquidity providers accordingly.</p>
-
-
-
-<h2>Don&#8217;t miss out. Liquidity mining starts soon.</h2>
-
-
-
-<p>If you haven&#8217;t tried it yet, there&#8217;s never been a better time to consider <a href="https://pools.balancer.exchange/">adding liquidity to existing pools or creating your own pool</a>. <strong>Starting tonight Sunday 31st (June 1st, 2020 at 00:00 UTC to be precise), those currently providing liquidity to Balancer protocol will be eligible to receive BAL</strong>. Not only will you earn BAL, getting involved early is also a great way to ensure Balancer works best for you, implementing changes you want to see as a stakeholder in the protocol.</p>
-
-
-
-<p>Want to learn more about BAL and Balancer Protocol? Click here to learn more about<a href="https://medium.com/balancer-protocol/balancer-liquidity-mining-begins-6e65932eaea9"> liquidity mining</a> and <a href="https://medium.com/balancer-protocol/proposing-balancer-liquidity-mining-cab4503972fa">BAL distribution</a>. Join the <a href="https://discord.gg/7efCEzA">Balancer Discord</a> to follow the discussion.</p>
-
-
-
-<p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve partnered with Balancer Labs to help spread the word about Liquidity Mining and BAL token distribution. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express as part of a DeFi Pulse Drop are our own. Not only are we thrilled to receive BAL tokens, we&#8217;re even more excited to be a part of the Balancer community</em>!</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Build Sustainable DApps with your own X Blaster with Custom Fees</title>
-		<link>./../../../2020/05/18/build-sustainable-dapps-with-your-own-x-blaster-with-custom-fees/index.html</link>
-		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Mon, 18 May 2020 14:16:08 +0000</pubDate>
-				<category><![CDATA[Developer Docs]]></category>
-		<category><![CDATA[DEX]]></category>
-		<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[New Features]]></category>
-		<category><![CDATA[aggregator]]></category>
-		<category><![CDATA[developer tools]]></category>
-		<category><![CDATA[Dex.Ag]]></category>
-		<category><![CDATA[DEXes]]></category>
-		<category><![CDATA[ERC20]]></category>
-		<category><![CDATA[liquidity]]></category>
-		<category><![CDATA[swaps]]></category>
-		<category><![CDATA[token]]></category>
-		<category><![CDATA[trading]]></category>
-		<guid isPermaLink="false">https://defipulse.com/blog/?p=8256</guid>
-
-					<description><![CDATA[TLDR: Integrating DEX.AG&#8217;s X Blaster with custom fees into your platform provides your users or smart contract with convenient native...]]></description>
-										<content:encoded><![CDATA[
-<p><em><strong>TLDR: </strong><a href="https://docs.dex.ag/proxy-contract">Integrating DEX.AG&#8217;s X Blaster with custom fees</a> into your platform provides your users or smart contract with convenient native liquidity while allowing you to build a sustainable business model.</em></p>
-
-
-
-<h2>Liquidity is vital for the growth of DeFi</h2>
-
-
-
-<p>Users want to experience all DeFi has to offer. But often times to do that you  need to swap between tokens or stablecoins. Liquidity is an important resource that enables DeFi&#8217;s composability and makes it possible for many DApps to function. It&#8217;s the blood that flows through the veins of DeFi. </p>
-
-
-
-<p>For a smooth user experience, it&#8217;s essential to have a reliable liquidity at a decent price. DEXes are an obvious choice for reliable liquidity when designing an application or smart contract. However, relying on a single DEX comes with its disadvantages. For example, maybe the token your users want to trade isn&#8217;t listed or has extremely low liquidity causing costly price slippage. </p>
-
-
-
-<h3>DeFi is all about having options</h3>
-
-
-
-<p>If one DEX isn&#8217;t ideal, The obvious answer is to do what DeFi does best with money legos and combine the awesome powers of DEXes. That&#8217;s why we built our other service DEX.AG, a DEX aggregator. DEX.AG&#8217;s X Blaster let&#8217;s you trade multiple DEXes and even splits trades across the combination of DEXes that results in the best price. Each DEX has its strengths, the X Blaster combines those strengths and connects users with the DEX or DEXes that best suits their needs. Not to mention, the X Blaster&#8217;s API has a blazing fast response time that delivers available trades within a fraction of a second so users never wait.</p>
-
-
-
-<h4>X Blaster <strong>aggregates liquidity from popular DEXes: </strong></h4>
-
-
-
-<ul><li>0x v3</li><li>Bancor</li><li>Curve</li><li>Kyber</li><li>Oasis</li><li>Uniswap</li><li>Synthetix<br>&#8230;. and more</li></ul>
-
-
-
-<p>With each new update, new tokens, exchanges, and integrations like Compound cTokens and CHAI are added to the X Blaster. We focus on token listings and improving your integrated X Blaster so you can focus on what matters.</p>
-
-
-
-<h2>Custom fees enable flexible and sustainable business models</h2>
-
-
-
-<p>We built DEX.AG because we understand the power of bringing the community together and the value that can create. We see our proxy contracts with custom fees as an opportunity for teams build sustainable models and grow their communities.</p>
-
-
-
-<p>We know how crucial the right business model can be to finding the perfect product-market fit. You choose the custom fees on your X Blaster proxy contract. Developers know their users best and this gives them the flexibility to grow their community on their terms. </p>
-
-
-
-<h2>X Blaster in action</h2>
-
-
-
-<p>Want to witness the X Blaster in action? You can trade using the X Blaster on <a href="https://dex.ag/">DEX.AG</a>. Here are examples of the X Blaster integrated directly into two of the most popular wallets in the Ethereum community.</p>
-
-
-
-<h3>MyCrypto Beta</h3>
-
-
-
-<p><a href="http://beta.mycrypto.com/">MyCrypto Beta</a> users can take advantage of the X Blaster under the <a href="https://beta.mycrypto.com/swap">Swap Assets</a>.</p>
-
-
-
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Our Swap functionality is NEW and IMPROVED! <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br><br>Let us know what you think. <br><br><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/y1wikwDz0f">https://t.co/y1wikwDz0f</a> <a href="https://t.co/O3ZintskMf">pic.twitter.com/O3ZintskMf</a></p>&mdash; MyCrypto.com (@MyCrypto) <a href="https://twitter.com/MyCrypto/status/1245851750499680258?ref_src=twsrc%5Etfw">April 2, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<h3>MyEtherWallet</h3>
-
-
-
-<p><a href="https://www.myetherwallet.com/">MEW</a> recently rolled out the X Blaster to its Android users.</p>
-
-
-
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">MEW finds the best price for you with <a href="https://twitter.com/DEXAG_TokenWire?ref_src=twsrc%5Etfw">@DEXAG_TokenWire</a><br><br>Make decentralized swaps from your smartphone with just a few clicks in MEW wallet app <a href="https://t.co/i0dGyXFw5L">pic.twitter.com/i0dGyXFw5L</a></p>&mdash; MyEtherWallet | MEW (@myetherwallet) <a href="https://twitter.com/myetherwallet/status/1255943097986342913?ref_src=twsrc%5Etfw">April 30, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<h2>Get your own X Blaster and level up your UX/UI</h2>
-
-
-
-<p>Once integrated, the X Blaster puts the hottest new DEXes and tokens just a few taps away. You can focus on your core product while your users get the liquidity they need conveniently right inside your application. And to top it off, when we ship updates to the X Blaster (which is quite often) you don&#8217;t have to lift a finger to reap the benefits in your platform. </p>
-
-
-
-<p>Give your users what they want and get your own X Blaster today! Head over to our <a href="https://docs.dex.ag/proxy-contract">API/SDK documention</a> to get started.<br></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>DeFi Dive: Loopring &#8211; Ethereum’s zkRollup Exchange Protocol</title>
-		<link>./../../../2020/04/24/defi-dive-loopring/index.html</link>
-		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Fri, 24 Apr 2020 08:21:06 +0000</pubDate>
-				<category><![CDATA[DEX]]></category>
-		<category><![CDATA[Exchanges]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Trading]]></category>
-		<category><![CDATA[decentralized exchanges]]></category>
-		<category><![CDATA[DEXes]]></category>
-		<category><![CDATA[layer 2]]></category>
-		<category><![CDATA[loopring]]></category>
-		<category><![CDATA[lrc]]></category>
-		<category><![CDATA[zk-snarks]]></category>
-		<category><![CDATA[zkrollup]]></category>
-		<guid isPermaLink="false">https://defipulse.com/blog/?p=8191</guid>
-
-					<description><![CDATA[In this edition of DeFi Dive, Daniel Wang, founder and CEO of Loopring, discusses how zkRollups can scale high-throughput DeFi...]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="512" src="./../../../wp-content/uploads/2020/04/loopring-1.png" alt="" data-id="8198" data-full-url="./../../../wp-content/uploads/2020/04/loopring-1.png" data-link="https://defipulse.com/blog/?attachment_id=8198" class="wp-image-8198" srcset="./../../../wp-content/uploads/2020/04/loopring-1.png 1024w, ./../../../wp-content/uploads/2020/04/loopring-1-300x150.png 300w, ./../../../wp-content/uploads/2020/04/loopring-1-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
-
-
-
-<p><em style=""><b>In this edition of DeFi Dive, Daniel Wang, founder and CEO of Loopring, discusses how zkRollups can scale high-throughput DeFi applications like Loopring.io while </b></em><strong><em>maintaining layer 1 security.</em></strong></p>
-
-
-
-<h3>How did you get your start in crypto and what inspired you to build your project, product, or service?</h3>
-
-
-
-<p>I learned Bitcoin back in 2013 when I was working for JD.com as a senior engineering director. Later I quit JD.com and built a centralized exchange in China, which listed BTC, Ripple, and some other cryptocurrencies. The multiple hacks of exchanges during 2014 &#8211; 2017 made me think about what technicalities can be used to create a better kind of crypto exchanges that can offer much higher security for user assets. </p>
-
-
-
-<p>When Ethereum came out, we formed a team to verify a straightforward idea: using smart-contract to build an exchange to trade tokens. We believe a well audited smart-contract exchange should offer the same level of security as the assets. That&#8217;s the beginning of Loopring, but the project ends up with a very different technical solution that we have never imagined.</p>
-
-
-
-<h3>What are you building and what sets it apart?</h3>
-
-
-
-<p>Loopring, in its latest version (3.0), is the first zkRollup-based exchange protocol that can settle more than 2K trades per second without sacrificing the layer1 security and incurs less than 200USD per million settlements. We have just started to operate an exchange built on top of this protocol &#8211; the Loopring Exchange, aka Loopring.io. </p>
-
-
-
-<p>However, this is not the end of the protocol or the exchange. We are working on versions that will offer better support for onchain composability and easier customization. With the new version, multiple exchanges built on top of the same protocol may have very different DeFi properties and business models. We believe zkRollup is the right solution for scalability, not just for exchanges, but many dApps that are designed to target millions of active users.</p>
-
-
-
-<h3>Who do you view as the ideal user or customer for your product or service?</h3>
-
-
-
-<p>We target people who use centralized exchanges. As of now, DeFi&#8217;s active user base is still very small, and DeFi onboarding is quite challenging for users without a technical background. With our new smart wallet app (launching later this year), we hope to offer a mobile platform for a massive user base with a language they speak and a set of features they can quickly understand. Eventually, security will be part of the minimum requirement a crypto platform shall offer, not a feature that we now talk about so often.</p>
-
-
-
-<h3>What future event or feature on your roadmap are you most excited for?</h3>
-
-
-
-<p>Loopring 3.5 is something we look forward to, and it will be code-complete very soon. We also expect Loopring Wallet to make a difference in terms of user acquisition.</p>
-
-
-
-<h3>Where do you see your project, product, or service fitting into the future of DeFi?</h3>
-
-
-
-<p>Orderbook-based exchanges are essential infrastructures for cryptocurrencies, and they fulfill user needs and will remain the dominant form of trading for the massive, even in the future. We believe Loopring is on the right track, and with continuous optimizations and improvements, we will remain competitive and gradually eliminate the centralized exchange technical stack.</p>
-
-
-
-<h3>What’s something in DeFi that you think more people should be paying attention to?</h3>
-
-
-
-<p>Serious investors should be concerned with DeFi&#8217;s ever-growing complexity and composability. Our crypto-assets on these products are only as secure as the weakest link in the stack. I do not participate in DeFi aggressively as the return doesn&#8217;t justify the risk for the asset I put in. I&#8217;m not saying we should not participate in DeFi at all, but a wise thing to do is only to invest want we can afford to lose.</p>
-
-
-
-<h3>How can readers learn more about your product/service?</h3>
-
-
-
-<p>The best source of information regarding Loopring is our <a href="https://loopring.org/">website</a>. For engineers and hackers, our <a href="https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md">design doc</a> is where they can find the most technical details. </p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>DeFi Dive: Kyber Network &#8211; On-chain liquidity protocol for decentralized finance</title>
-		<link>./../../../2020/02/10/defi-dive-kyber-network/index.html</link>
-		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Mon, 10 Feb 2020 15:11:22 +0000</pubDate>
-				<category><![CDATA[DEX]]></category>
-		<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[DeFi]]></category>
-		<category><![CDATA[DEXes]]></category>
-		<category><![CDATA[knc]]></category>
-		<category><![CDATA[Kyber]]></category>
-		<category><![CDATA[kybernetwork]]></category>
-		<guid isPermaLink="false">https://defipulse.com/blog/?p=7964</guid>
-
-					<description><![CDATA[Loi Luu, Co-Founder and CEO of Kyber Network, spoke with us about his past and the fantastic world of money...]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/02/DeFi-Dive-Social-Media-Kyber-thumbnail-example-1.png" alt="" class="wp-image-7966" width="1024" height="512"/></figure>
-
-
-
-<p><strong><em>Loi Luu, Co-Founder and CEO of Kyber Network, spoke with us about his past and the fantastic world of money legos.</em></strong></p>
-
-
-
-<h3>How did you get your start in crypto and what inspired you to build your project, product, or service?</h3>
-
-
-
-<p>Since I was young I have been interested in programming, particularly in algorithms and data structure. This made me eventually decide to start my undergraduate studies in Computer Science at Vietnam National University in Hanoi and subsequently pursue my PhD at the National University of Singapore. While in Singapore, I came to learn about blockchain technology. My founders and I were amazed at how game-changing blockchain technology and cryptocurrencies were with regards to revolutionizing global payments and transparent finance. </p>
-
-
-
-<p>Initially, we worked on the 3 pillars of blockchain technology, namely security (Oyente), decentralization (Smartpool), and scalability (Elastico). The inspiration for Kyber Network came when a project approached us to discuss if it was possible to accept a different token in addition to Ether, with the intention to have common token-holders and community with the other token ecosystem. We were surprised at how hard this seemingly simple problem was. Even for one single cross-token transaction, there were a multitude of problems, ranging from incompatibility (token is different from Ether), finality of the payment (how to check if payment is confirmed), price feeds and so on. This problem gets exacerbated when you have to account for the hundreds of tokens in existence. There was no solution then that addressed this problem in a secure and fully on-chain manner. Our goal, since then, was to facilitate seamless decentralized exchange between different projects and ecosystems. That we thought, might eventually lead to equalizing access to everyone, regardless of origin, location, power or background. </p>
-
-
-
-<p>Hence, we developed Kyber Network &#8211; an on-chain protocol for decentralized token exchange in any application. Besides removing key hurdles that hinder the adoption of decentralized technologies, it would give token holders equal access to DApps and services, regardless of which token they hold.</p>
-
-
-
-<h3>What are you building and what sets it apart?</h3>
-
-
-
-<p>We are building Kyber Network, a fully on-chain liquidity protocol that enables decentralized exchange of cryptocurrencies in any application, without a need for any intermediary. Since liquidity in the decentralized space is currently scattered, Kyber integrates liquidity providers (Reserves) into one single endpoint for takers (DApps and end users) to easily access. When a taker requests a trade, the protocol will scan the entire network to find the reserve with the best price and take liquidity from that particular reserve. </p>
-
-
-
-<p>Kyber’s fully on-chain design allows for full transparency and verifiability in the matching engine, as well as seamless composability with DApps, all of which are not possible with off-chain or hybrid approaches. The integration of a large variety of liquidity providers also makes Kyber uniquely capable of supporting sophisticated schemes and catering to the various needs of DeFi DApps and financial institutions. Not surprisingly, Kyber is the <a href="https://research.binance.com/analysis/2020-borderless-state-of-defi">most used DeFi protocol in 2019</a>.</p>
-
-
-
-<h3>Who do you view as the ideal user or customer for your product or service?</h3>
-
-
-
-<p>Kyber Network’s protocol is open source and permissionless, and can be used by any developer, whether you are at a beginner or advanced level. As Kyber is mainly based on Ethereum, developers should ideally have some knowledge of Solidity. You should use Kyber if you are a developer building any kind of DeFi DApp on Ethereum that involves ERC20 token swaps, payments, liquidation, or rebalancing. For KyberSwap, our in-house token swap service, and one of almost 100 DApps using Kyber Network, our ideal customer is an end user that wants to trade and manage ETH and Ethereum tokens in the easiest and most secure way possible.</p>
-
-
-
-<h3>What future event or feature on your roadmap are you most excited for?</h3>
-
-
-
-<p>We’re excited about our <a href="https://blog.kyber.network/katalyst-kyber-protocol-upgrade-and-2020-plans-20427ef47ac6">upcoming Katalyst protocol upgrade</a>, which includes the launch of the KyberDAO and a new KNC token model. Katalyst will bring more benefits for stakeholders and DeFi. For instance, reserves will no longer need to hold a KNC balance for fees, removing a major friction point, and there will be rebates for top performing reserves. In addition, integrated DApps can set their own custom fees and create innovative business models, while KNC holders can stake their KNC in the KyberDAO to participate in governance and receive rewards. This is the first time the KNC community will have the ability to vote on key parameters that affect the direction of the Kyber protocol. Katalyst will establish a long term virtuous loop where the success of the DeFi space, growth of the Kyber ecosystem, and value creation for KNC holders go hand in hand.</p>
-
-
-
-<h3>Where do you see your project, product, or service fitting into the future of DeFi?</h3>
-
-
-
-<p>Kyber aims to be the liquidity layer for the DeFi ecosystem, empowering takers and DApps with a single on-chain endpoint for their liquidity needs and ensuring they receive the best possible rates for each trade. Developers can focus on building and shipping, without needing to worry about liquidity or integrating multiple systems. In general, any DApp that requires on-chain token swaps and is building on DeFi should integrate <a href="https://developer.kyber.network/docs/Start/">Kyber</a> for their liquidity needs!</p>
-
-
-
-<h3>What’s something in DeFi that you think more people should be paying attention to?</h3>
-
-
-
-<p>One of the great features of Ethereum open source projects is the concept of composability, where different protocols can be integrated and combined with each other like money legos to create new innovative DeFi use cases. We are very excited about the endless possibilities for value creation and we aim to be the single on-chain endpoint required for the liquidity needs of these use cases. </p>
-
-
-
-<p>Some of the interesting DeFi use cases include lending platforms such as Fulcrum and Nuo, asset management protocol Melon, Token Sets by Set protocol, and DEX aggregators like <a href="http://dex.ag/">DEX.ag</a> and 1inch. All these platforms utilize Kyber’s on-chain protocol for their liquidity needs. Other popular use cases to pay attention to are Flash loans by Aave, Synthetic assets pegged to public stocks and commodities by Synthetix, DeFi insurance by Nexus Mutual, and Real-time money streams by Sablier.</p>
-
-
-
-<h3>How can readers learn more about your product/service?</h3>
-
-
-
-<p>Join our community at <a href="https://telegram.me/kybernetwork">https://telegram.me/kybernetwork</a>, visit our <a href="https://kyber.network/">website</a>, read our <a href="https://blog.kyber.network/">blog</a>, or look at our <a href="https://developer.kyber.network/">developer documentation </a></p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/29/deversifi-nectar-beehive-v1/index.html">DeversiFi &#8211; A high-speed trading platform capable of 9000 TPS</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

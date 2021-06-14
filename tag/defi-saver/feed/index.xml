@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>defi-saver &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 07 Jun 2021 17:24:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>DeFi Saver’s Recipe Creator a DeFi UX Gamechanger</title>
+		<link>./../../../2021/06/07/defi-saver-drop/index.html</link>
+		
+		<dc:creator><![CDATA[William Peaster]]></dc:creator>
+		<pubDate>Mon, 07 Jun 2021 17:24:56 +0000</pubDate>
+				<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[defi-saver]]></category>
+		<category><![CDATA[flashloans]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[recipe creator]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9392</guid>
+
+					<description><![CDATA[<p>Users from around the world should be able to easily access the benefits of decentralized finance. Yet in DeFi’s early...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/06/07/defi-saver-drop/index.html">DeFi Saver’s Recipe Creator a DeFi UX Gamechanger</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Users from around the world should be able to easily access the benefits of decentralized finance. Yet in DeFi’s early days, you could really only be initiated to these benefits by manually figuring things out on your own through trial and error. This has kept accessibility at bay in kind!&nbsp;</p>
+
+
+
+<p>What&#8217;s needed, then, is an advanced DeFi transaction builder made simple &#8211; a system where anyone can readily manage a range of different activities, from yield farming to leveraged positions and debt refinancing, from a single dashboard and regardless of skill level. Stepping up to the plate here is DeFi management solution <a href="https://bit.ly/34TuwmX"><strong>DeFi Saver</strong></a>, which just launched the beginnings of such a system via its new powerful <em>Recipe Creator</em> feature. </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://bit.ly/34TuwmX"><img src="https://lh5.googleusercontent.com/KN58a0-eduwIKya0Q6ED80owTuiUvM12iaewWfFkfE_2N0R7JGb-bMNvryr5349sctQAiwoI8SWHrdnTLW1Y2Tt46pMtfiedWHj6fAu7fNXoDbfMd7m1OTCz33Qlgg6J-ZeiZw_I" alt=""/></a></figure></div>
+
+
+
+<h2><strong>Cooking up all things DeFi</strong></h2>
+
+
+
+<p>The <strong>Recipe Creator</strong> is a transaction builder interface for creating and executing <em>recipes</em>. Simply put, recipes are blends of DeFi activities that can involve interactions between multiple DeFi apps and additionally utilize flashloans and token swaps.&nbsp;</p>
+
+
+
+<p>A <strong>flashloan</strong> lets users borrow large amounts of crypto <em>without collateral</em> so long as the debt is paid back within the same transaction but, previously, flashloans were mostly isolated to the domain of DeFi experts. That’s all changing now that <strong>the Recipe Creator is letting anyone easily use these powerful tools</strong> to streamline multiple DeFi actions into single transactions, all through DeFi Saver’s audited, reputable, and user-friendly infrastructure.&nbsp;</p>
+
+
+
+<figure class="wp-block-image"><a href="https://bit.ly/3vZU0el"><img src="https://lh6.googleusercontent.com/--jdU88PMEzy-iT1u8Sc0mHiW21LsZ_nrQlYzEDltwQqiouuIFmq116rjbRJV8grBBzmQBz3FHzAD2TVZnvVG8bK9bVLg2oxsxo1hJSG2fDiTtrN7xd3hvQgCVxCEGUxugjeUYJY" alt=""/></a></figure>
+
+
+
+<p>The Recipe Creator itself is currently divided into two main parts: the <a href="https://bit.ly/3vZU0el">Recipe Book</a>, which is composed of pre-made recipes or rather pre-structured DeFi strategies, and the eponymous <a href="https://bit.ly/3g1pL1j">Recipe Creator</a>, which allows builders to <strong>simply drag-and-drop their own recipes together</strong> however they please. </p>
+
+
+
+<p>Additionally, the Recipe Creator makes use of natural language processing, so users can just write simple instructions like “Supply 500 DAI to Compound” or sequences of instructions separated by commas to quickly create recipes. Recipes currently support actions across top DeFi apps like <strong>Aave, Compound, Maker, Reflexer, and Uniswap V2</strong>, and the DeFi Saver team plans to integrate new protocols regularly.&nbsp;</p>
+
+
+
+<p>The ease of these future integrations will come courtesy of DeFi Saver’s recently overhauled smart contract system, which now composes transactions efficiently as mixtures of composable activities rather than one long string of stacked actions.&nbsp;</p>
+
+
+
+<p>The result is an <strong>optimized transaction builder</strong> system that lets users conveniently manage a range of staple DeFi activities, like borrowing, lending, creating and managing leveraged positions, and yield farming. And if you&#8217;re creating a collateralized debt position in order to obtain stablecoins or other assets for liquidity farming purposes, note that DeFi Saver also has liquidation protection options in the form of their Automation features.&nbsp;</p>
+
+
+
+<h2><strong>Simulate recipes before you try them</strong></h2>
+
+
+
+<p>DeFi Saver notably released a new <strong>Simulation mode</strong> feature alongside the Recipe Creator. This mode lets you quickly spin up a simulated 100 ETH account and then experiment with executing recipes and more with this simulated ETH in any way you see fit.&nbsp;</p>
+
+
+
+<p>Accordingly, gone are the days where users must use <em>actual ETH</em> on the Ethereum mainnet to first get the hang of DeFi activities. Instead, when activated <strong>Simulation mode forks at the current Ethereum block</strong> so you can freely play around with market conditions, e.g. prices, as they existed upon activation. This gas-less environment is perfect for helping novices and veterans alike practice and strategize their DeFi activities.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh5.googleusercontent.com/3vARUuaRvmMdANfwH6iyHoXHxSubL1O_oUOJ6Ig4e5Zc6jHnlyyscW1HY820cEiFWI9vnDSLZwtnNaWk5QUVE5uozCYsRT-X55AYcTi__KCFcrkyHg86im1GkPscSi6lZBR0jf5p" alt=""/></figure></div>
+
+
+
+<p>If you’re interested in starting a Simulation account on DeFi Saver and taking some recipes for a spin, simply <strong>click on the “Simulation” button on the lower left-hand corner of the DeFi Saver dashboard</strong>. Upon doing so, select whether you want to create a new simulated account with 100 play ETH or to simulate your current account as it exists at the time.&nbsp;</p>
+
+
+
+<h2><strong>Don’t sleep on the Recipe Creator</strong></h2>
+
+
+
+<p>As it currently stands, the Recipe Creator already has the potential to bring in more than a few new DeFi users by making the UX around using DeFi so streamlined and convenient.&nbsp;</p>
+
+
+
+<p>Looking ahead, the DeFi Saver team wants to improve this UX even further with more additions and advancements. For starters, new integrations with DApps like Lido, Liquity, and Yearn are on the slate for the near future as are integrations with promising layer-two (L2) scaling solutions like Arbitrum, Optimism, and zkSync 2.0. The DeFi Saver team is also exploring the automation of recipes, so consider keeping an eye out for that as well.&nbsp;</p>
+
+
+
+<p>If you are interested in tracking the progress of the Recipe Creator going forward, you can stay up to date on all current happenings by following DeFi Saver on <a href="https://bit.ly/34VQnKF">Twitter</a> or by joining the project’s <a href="https://discord.com/invite/XGDJHhZ">Discord</a> community. </p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drops series; We’ve partnered with DeFi Saver to help educate and inform the community about its new Recipe Creator technology. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/06/07/defi-saver-drop/index.html">DeFi Saver’s Recipe Creator a DeFi UX Gamechanger</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -12,139 +12,20 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 May 2021 19:07:36 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Apr 2020 13:28:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
-		<title>Meet The Token List — An Accurate List of Authentic Tokens on Ethereum</title>
-		<link>./../../../2020/05/07/meet-the-token-list/index.html</link>
-		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Thu, 07 May 2020 17:42:43 +0000</pubDate>
-				<category><![CDATA[New Features]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Trading]]></category>
-		<category><![CDATA[decentralized finance]]></category>
-		<category><![CDATA[DeFi]]></category>
-		<category><![CDATA[defi pulse]]></category>
-		<category><![CDATA[ERC20]]></category>
-		<category><![CDATA[ETH]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[list]]></category>
-		<category><![CDATA[token]]></category>
-		<guid isPermaLink="false">https://defipulse.com/blog/?p=8230</guid>
-
-					<description><![CDATA[Imagine you&#8217;re trying out a new DeFi project. Everything is going smoothly; the instructions on screen guide you, making you...]]></description>
-										<content:encoded><![CDATA[
-<p>Imagine you&#8217;re trying out a new DeFi project. Everything is going smoothly; the instructions on screen guide you, making you feel confident in your actions. That is until you complete your transaction and then your tokens don&#8217;t arrive. You start to get that sinking feeling in your stomach as you realize you&#8217;ve received tokens the wrong tokens&#8230;</p>
-
-
-
-<p>Looking at your transaction confirmation you realize you received a token with the same name and ticker symbol as the one you thought you selected. In fact, upon reviewing the token selection menu you realize there are lots of inaccurate and confusing tokens listed. It&#8217;s a simple mistake but costly mistake anyone could make that leaves a sour taste in your mouth about the whole experience.</p>
-
-
-
-<h4>So what happened?</h4>
-
-
-
-<p>On Ethereum, anyone can create a token with any name or ticker symbol. It&#8217;s not like registering a username on a website; there&#8217;s no native mechanism preventing a new token from having the same name, symbol, or even icon as an existing token. Whether intentionally or not, duplicate or misleading tokens are created all the time making mistakes like the one described above more and more likely to occur for even the most experienced users.</p>
-
-
-
-<p>Not to mention, DeFi grows so quickly that it&#8217;s practically impossible to keep up with the countless new tokens being produced by projects. DAI alone has over 30 variations. This situation isn&#8217;t slowing down anytime soon and a lot of collective time is being spent in our community right now playing detective in order to determine if a token is the right token.</p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://defipulse.com/token-list"><img loading="lazy" src="./../../../wp-content/uploads/2020/05/token-list-thumb-1-wo-padding.jpg" alt="" class="wp-image-8247" width="638" height="638"/></a></figure></div>
-
-
-
-<h2>Meet The Token List</h2>
-
-
-
-<p>The Token List provides an accurate list of authentic tokens submitted and curated by the community. Its purpose is to create a standard list of tokens that everyone can rely on. <strong>Anyone can apply to have a token added to The Token List as long as it isn’t likely to be confused with previously listed or well-known tokens. And, it&#8217;s free for anyone to integrate The Token List into their project.</strong></p>
-
-
-
-<p>A reliable well-vetted token list serves as a source of truth for the community helping ensure users are never confused by misleading tokens or outright scams. The idea is that when you see a platform is using The Token List, you can be confident that the tokens available are the real deal.</p>
-
-
-
-<h3>Implementation is fast, easy and forever free</h3>
-
-
-
-<p>Integrating The Token List into your project is simple and worry-free with little to no maintenance. <a href="https://defipulse.com/token-list">The Token List</a> lets your team work smarter, not harder. No more wasting man hours on listing new tokens on top of maintaining the ever-growing list of existing tokens. And best of all, <strong>it&#8217;s forever free to use</strong> &#8211; no upfront cost or ongoing fees.</p>
-
-
-
-<p>The Token List provides all the relevant information for each authentic token in JSON format: </p>
-
-
-
-<ul><li>token name</li><li>contract address </li><li>ticker symbol </li><li>decimals</li><li>icon image</li><li>token standard (ERC20, ERC223, etc)</li><li>and flags describing token qualities such as: is it used in governance, is it a social token, etc.</li></ul>
-
-
-
-<p>We handle the listing and maintenance for you so you can get back to building what matters.</p>
-
-
-
-<h4>Got a token? Apply to The Token List in a snap.</h4>
-
-
-
-<p>As previously mentioned, anyone can submit an application to list any authentic token to The Token List. Simply, visit <a href="https://defipulse.com/token-list">The Token List</a>, click the &#8216;Add a Token now!&#8217; button (powered by Unlock Protocol). It costs a flat fee of 0.05 ETH to apply. And then, follow the prompts to fill out the simple form with the required token details. </p>
-
-
-
-<p>We review all applications for authenticity and to ensure that they are unique enough to not confuse the average user. We want to help improve user experience, not act as gatekeepers, so we&#8217;ll err on the side of inclusion where possible (but for the safety of the community we do reserve the right to reject outright scams or tokens intending to mislead, etc).</p>
-
-
-
-<h3>Adaptive token selection</h3>
-
-
-
-<p>Opening up the token listing process benefits all involved by making UX/UIs become more responsive and inclusive. Instead of acting as a potential gatekeepers, DeFi projects now become advocates of collaboration and empower their community to take ownership of the token listing process. Additionally, the community lends their watchful eyes to help maintain the accuracy and authenticity of existing token listings (because we know how fast some things change in DeFi).</p>
-
-
-
-<h3>Collaboration and composability</h3>
-
-
-
-<p>The ability to connect and combine existing smart contracts to create something new is a defining aspect of DeFi. We&#8217;re an industry built on collaboration which increases the pace of innovation. Projects and users alike benefit from keeping this shared list of tokens up-to-date with the latest listings and changes to existing tokens, potentially serving as a catalyst for even more composability between DeFi projects. Naturally, it&#8217;s easier to work together when you&#8217;re all on the same page. For example: when one project submits their newest token, it&#8217;s automatically added to all projects using The Token List.</p>
-
-
-
-<h2>Take advantage of The Token List today</h2>
-
-
-
-<p>Whether you&#8217;re hacking together an idea, tired of maintaining your current token listings, or want to make your token known to the world, <a href="https://defipulse.com/token-list">The Token List</a> is a simple but effective solution to meet your needs.</p>
-
-
-
-<p>We&#8217;re really excited for this release and the potential impact an open, accessible standard token list could have on DeFi. Standards can improve quality of life and safety for users and make developers&#8217; work easier and more efficient. We&#8217;re also interested to see how this list will grow with community input. We&#8217;re 100% open to new ideas like new descriptive flags. So please let us know what you think on <a href="https://twitter.com/defipulse">Twitter</a>, <a href="https://discord.gg/Gx4TCTk">Discord</a>, and <a href="https://t.me/defipulse">Telegram</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>See the Bigger Picture with DeFi Pulse Data</title>
 		<link>./../../../2020/04/28/see-the-bigger-picture-with-defi-pulse-data/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Tue, 28 Apr 2020 13:28:27 +0000</pubDate>
-				<category><![CDATA[New Features]]></category>
+				<category><![CDATA[Community]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[data]]></category>
 		<category><![CDATA[decentralized finance]]></category>
@@ -156,7 +37,9 @@
 		<category><![CDATA[gas]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8202</guid>
 
-					<description><![CDATA[DeFi doesn&#8217;t just stand for decentralized finance; DeFi is a community of users, developers, investors, traders, researchers, writers, and so...]]></description>
+					<description><![CDATA[<p>DeFi doesn&#8217;t just stand for decentralized finance; DeFi is a community of users, developers, investors, traders, researchers, writers, and so...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/04/28/see-the-bigger-picture-with-defi-pulse-data/index.html">See the Bigger Picture with DeFi Pulse Data</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>DeFi doesn&#8217;t just stand for decentralized finance; DeFi is a community of users, developers, investors, traders, researchers, writers, and so much more. Our collective endeavors are etched into the blockchain; our stories and shared history can be found in our data.</p>
 
@@ -180,7 +63,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="https://data.defipulse.com/"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2020/04/defipulse-data-social-1024x576.png" alt="" class="wp-image-8212" srcset="./../../../wp-content/uploads/2020/04/defipulse-data-social-1024x576.png 1024w, ./../../../wp-content/uploads/2020/04/defipulse-data-social-300x169.png 300w, ./../../../wp-content/uploads/2020/04/defipulse-data-social-768x432.png 768w, ./../../../wp-content/uploads/2020/04/defipulse-data-social-1536x864.png 1536w, ./../../../wp-content/uploads/2020/04/defipulse-data-social-1568x882.png 1568w, ./../../../wp-content/uploads/2020/04/defipulse-data-social.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://data.defipulse.com/"><img loading="lazy" width="1024" height="576" src="https://defipulse.com/blog/wp-content/uploads/2020/04/defipulse-data-social-1024x576.png" alt="" class="wp-image-8212" srcset="./../../../wp-content/uploads/2020/04/defipulse-data-social-1024x576.png 1024w, ./../../../wp-content/uploads/2020/04/defipulse-data-social-300x169.png 300w, ./../../../wp-content/uploads/2020/04/defipulse-data-social-768x432.png 768w, ./../../../wp-content/uploads/2020/04/defipulse-data-social-1536x864.png 1536w, ./../../../wp-content/uploads/2020/04/defipulse-data-social-1568x882.png 1568w, ./../../../wp-content/uploads/2020/04/defipulse-data-social.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -215,7 +98,7 @@
 
 
 <figure class="wp-block-embed-twitter aligncenter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr"><a href="https://twitter.com/dForcenet?ref_src=twsrc%5Etfw">@dForcenet</a>’s <a href="https://twitter.com/LendfMe?ref_src=twsrc%5Etfw">@LendfMe</a> $20M money market pool currently under attack <a href="https://t.co/qDJqKkQBnT">pic.twitter.com/qDJqKkQBnT</a></p>&mdash; Andrew Køng (@Rewkang) <a href="https://twitter.com/Rewkang/status/1251707230040150018?ref_src=twsrc%5Etfw">April 19, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr"><a href="https://twitter.com/dForcenet?ref_src=twsrc%5Etfw">@dForcenet</a>’s <a href="https://twitter.com/LendfMe?ref_src=twsrc%5Etfw">@LendfMe</a> $20M money market pool currently under attack <a href="https://t.co/qDJqKkQBnT">pic.twitter.com/qDJqKkQBnT</a></p>&mdash; Andrew Kang (@Rewkang) <a href="https://twitter.com/Rewkang/status/1251707230040150018?ref_src=twsrc%5Etfw">April 19, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div></figure>
 
 
@@ -243,6 +126,7 @@
 
 
 <p><strong>Sign for <a href="http://data.defipulse.com/">DeFi Pulse Data</a> today for free</strong> and see what the data inspires you to create. Don&#8217;t forget to share it with us on <a href="https://twitter.com/defipulse">Twitter</a>, <a href="https://t.me/defipulse">Telegram</a> or <a href="https://discord.gg/Gx4TCTk">Discord</a></p>
+<p>The post <a rel="nofollow" href="./../../../2020/04/28/see-the-bigger-picture-with-defi-pulse-data/index.html">See the Bigger Picture with DeFi Pulse Data</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -252,9 +136,10 @@
 		<title>DeFi Dive: RenVM &#8211; interoperability for DeFi</title>
 		<link>./../../../2020/03/03/defi-dive-renvm/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Tue, 03 Mar 2020 14:55:28 +0000</pubDate>
-				<category><![CDATA[Ecosystem]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[bch]]></category>
 		<category><![CDATA[Bitcoin]]></category>
@@ -268,9 +153,11 @@
 		<category><![CDATA[zec]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8013</guid>
 
-					<description><![CDATA[In this edition of DeFi Dive, Michael W. Burgess, Ren&#8217;s Head of Operations, discusses their team&#8217;s journey of bringing interoperability...]]></description>
+					<description><![CDATA[<p>In this edition of DeFi Dive, Michael W. Burgess, Ren&#8217;s Head of Operations, discusses their team&#8217;s journey of bringing interoperability...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/03/03/defi-dive-renvm/index.html">DeFi Dive: RenVM &#8211; interoperability for DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="512" src="./../../../wp-content/uploads/2020/03/DeFi-Dive-Social-Media-ren.png" alt="" class="wp-image-8018" srcset="./../../../wp-content/uploads/2020/03/DeFi-Dive-Social-Media-ren.png 1024w, ./../../../wp-content/uploads/2020/03/DeFi-Dive-Social-Media-ren-300x150.png 300w, ./../../../wp-content/uploads/2020/03/DeFi-Dive-Social-Media-ren-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="512" src="https://defipulse.com/blog/wp-content/uploads/2020/03/DeFi-Dive-Social-Media-ren.png" alt="" class="wp-image-8018" srcset="./../../../wp-content/uploads/2020/03/DeFi-Dive-Social-Media-ren.png 1024w, ./../../../wp-content/uploads/2020/03/DeFi-Dive-Social-Media-ren-300x150.png 300w, ./../../../wp-content/uploads/2020/03/DeFi-Dive-Social-Media-ren-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -363,6 +250,7 @@
 
 
 <p>Come find us on <a href="http://twitter.com/renprotocol">Twitter</a> and get excited because 2020 will be an exciting time.</p>
+<p>The post <a rel="nofollow" href="./../../../2020/03/03/defi-dive-renvm/index.html">DeFi Dive: RenVM &#8211; interoperability for DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -372,7 +260,7 @@
 		<title>How to Generate DAI with a Maker Vault</title>
 		<link>./../../../2020/02/19/how-to-generate-dai-with-a-maker-vault/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Wed, 19 Feb 2020 14:24:32 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[dai]]></category>
@@ -386,7 +274,9 @@
 		<category><![CDATA[vault]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7990</guid>
 
-					<description><![CDATA[DAI is an ERC20 token designed to maintain a peg to the US Dollar, also known as a stablecoin, generated...]]></description>
+					<description><![CDATA[<p>DAI is an ERC20 token designed to maintain a peg to the US Dollar, also known as a stablecoin, generated...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/02/19/how-to-generate-dai-with-a-maker-vault/index.html">How to Generate DAI with a Maker Vault</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>DAI is an ERC20 token designed to maintain a peg to the US Dollar, also known as a stablecoin, generated and maintained by the <a href="https://makerdao.com/">Maker Protocol</a>. Every single DAI in existence has been generated by users <a href="https://defipulse.com/maker">locking collateral into Maker&#8217;s smart contract system</a> and opening what&#8217;s called a Vault.</p>
 
@@ -412,7 +302,7 @@
 
 
 
-<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="./../../../wp-content/uploads/2020/02/Selection_999019-1-1024x508.png" alt="" data-id="7995" data-full-url="./../../../wp-content/uploads/2020/02/Selection_999019-1.png" data-link="https://defipulse.com/blog/?attachment_id=7995" class="wp-image-7995"/></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="508" src="https://defipulse.com/blog/wp-content/uploads/2020/02/Selection_999019-1024x508.png" alt="" data-id="7995" data-full-url="https://defipulse.com/blog/wp-content/uploads/2020/02/Selection_999019.png" data-link="https://defipulse.com/blog/?attachment_id=7995" class="wp-image-7995" srcset="./../../../wp-content/uploads/2020/02/Selection_999019-1024x508.png 1024w, ./../../../wp-content/uploads/2020/02/Selection_999019-300x149.png 300w, ./../../../wp-content/uploads/2020/02/Selection_999019-768x381.png 768w, ./../../../wp-content/uploads/2020/02/Selection_999019-1536x762.png 1536w, ./../../../wp-content/uploads/2020/02/Selection_999019-1568x777.png 1568w, ./../../../wp-content/uploads/2020/02/Selection_999019.png 1918w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
 
 
 
@@ -420,7 +310,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/02/Selection_999017-1-1024x510.png" alt="" class="wp-image-7996"/></figure>
+<figure class="wp-block-image size-large"><img src="https://defipulse.com/blog/wp-content/uploads/2020/02/Selection_999017-1024x510.png" alt="" class="wp-image-7996"/></figure>
 
 
 
@@ -428,7 +318,7 @@
 
 
 
-<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="./../../../wp-content/uploads/2020/02/Selection_999016-1-1024x511.png" alt="" data-id="7997" data-full-url="./../../../wp-content/uploads/2020/02/Selection_999016-1.png" data-link="https://defipulse.com/blog/?attachment_id=7997" class="wp-image-7997"/></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://defipulse.com/blog/wp-content/uploads/2020/02/Selection_999016-1024x511.png" alt="" data-id="7997" data-full-url="https://defipulse.com/blog/wp-content/uploads/2020/02/Selection_999016.png" data-link="https://defipulse.com/blog/?attachment_id=7997" class="wp-image-7997"/></figure></li></ul></figure>
 
 
 
@@ -436,7 +326,7 @@
 
 
 
-<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="./../../../wp-content/uploads/2020/02/Selection_999018-1024x510.png" alt="" data-id="7998" data-full-url="./../../../wp-content/uploads/2020/02/Selection_999018.png" data-link="https://defipulse.com/blog/?attachment_id=7998" class="wp-image-7998"/></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://defipulse.com/blog/wp-content/uploads/2020/02/Selection_999018-1024x510.png" alt="" data-id="7998" data-full-url="https://defipulse.com/blog/wp-content/uploads/2020/02/Selection_999018.png" data-link="https://defipulse.com/blog/?attachment_id=7998" class="wp-image-7998"/></figure></li></ul></figure>
 
 
 
@@ -465,6 +355,7 @@
 
 
 <p>Learn more about Maker and the world of decentralized finance (DeFi)! Come chat with us and stay informed in our <a href="http://t.me/defipulse">Telegram</a> or <a href="https://discord.gg/Gx4TCTk">Discord</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../2020/02/19/how-to-generate-dai-with-a-maker-vault/index.html">How to Generate DAI with a Maker Vault</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -474,11 +365,10 @@
 		<title>What is a CDP?</title>
 		<link>./../../../2019/08/20/what-is-a-cdp/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Tue, 20 Aug 2019 14:47:53 +0000</pubDate>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Tue, 20 Aug 2019 19:47:53 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Explainers]]></category>
-		<category><![CDATA[Learn]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[CDP]]></category>
 		<category><![CDATA[dai]]></category>
@@ -489,12 +379,14 @@
 		<category><![CDATA[MakerDAO]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7538</guid>
 
-					<description><![CDATA[CDP stands for Collateralized Debt Position. In laymen&#8217;s terms, it&#8217;s when you put up assets as collateral in order to...]]></description>
+					<description><![CDATA[<p>CDP stands for Collateralized Debt Position. In laymen&#8217;s terms, it&#8217;s when you put up assets as collateral in order to...</p>
+<p>The post <a rel="nofollow" href="./../../../2019/08/20/what-is-a-cdp/index.html">What is a CDP?</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>CDP stands for Collateralized Debt Position. In laymen&#8217;s terms, it&#8217;s when you put up assets as collateral in order to take out a loan or debt against said collateral. When you&#8217;re talking about Ethereum, a CDP specifically refers to a position or loan taken out in DAI through the <a href="https://makerdao.com/en/" target="_blank" rel="noopener noreferrer">MakerDAO</a> smart contract which is backed by ETH.</p>
 <p>When you open a MakerDAO CDP, you lock in ether (ETH) as collateral. And then, you&#8217;re able to mint up to 2/3 of the US dollar value of your ether in DAI, a stablecoin pegged to the US dollar. In other words, your CDP must have at least 150% more collateral value than your total debt in DAI.</p>
 <p>CDP holders pay an annual interest rate on their debts called the stability fee for the opportunity to mint new DAI. And when the debt is repaid, the DAI is burned along with the stability fee owed in Maker&#8217;s token MKR. The stability fee deters users from over-inflating the total supply of DAI.</p>
 <p>For every 1 DAI, there is at least $1.50 worth of Ether (ETH) locked into a Maker CDP as collateral. And if your collateral value falls, you must lock in more ETH, pay back some of your debt, or risk having their CDP liquidated. When a CDP is liquidated, the ETH held as collateral is automatically sold to pay back the debts in addition to a penalty fee for failing to keep your collateral ratio above 150%.</p>
-<p><figure id="attachment_7544" aria-describedby="caption-attachment-7544" style="width: 1000px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-7544" src="./../../../wp-content/uploads/2019/08/makerdao-cdp-portal-1024x576.jpg" alt="CDP" width="1000" height="563" /><figcaption id="caption-attachment-7544" class="wp-caption-text">MakerDAO&#8217;s CDP Portal</figcaption></figure></p>
+<p><figure id="attachment_7544" aria-describedby="caption-attachment-7544" style="width: 1000px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-7544" src="https://defipulse.com/blog/wp-content/uploads/2019/08/makerdao-cdp-portal-1024x576.jpg" alt="CDP" width="1000" height="563" /><figcaption id="caption-attachment-7544" class="wp-caption-text">MakerDAO&#8217;s CDP Portal</figcaption></figure></p>
 <h2>How do I open a CDP?</h2>
 <p>It&#8217;s quick and easy to open a CDP. Just head on over to MakerDAO&#8217;s <a href="https://cdp.makerdao.com/" target="_blank" rel="noopener noreferrer">Portal</a>, send a few transactions&#8230; and then BAM! You&#8217;re the proud owner of a CDP.</p>
 <p>First, connect your wallet and the menu will guide you through sending the transaction to open your CDP. Once you&#8217;ve opened your CDP, you&#8217;ll need to add some ETH to your CDP with the <em>&#8216;Deposit&#8217;</em> button. Next, click the <em>&#8216;Generate&#8217;</em> button to mint your desired amount of DAI.</p>
@@ -504,6 +396,7 @@
 <p>The easy answer is: to have access to DAI. While the price of ETH may fluctuate, you can count on DAI to hover around $1. So there&#8217;s a natural demand for DAI in payments, commerce, games, lending, and many many more use cases. DAI has also become the de facto stablecoin for <a href="https://defipulse.com/blog/best-decentralized-exchanges-dexes/">decentralized exchanges</a>.</p>
 <p>The more complicated answer is that there are a number of reasons you might want to borrow against your ETH. Maybe you want the DAI to pay off other bills in your life but you don&#8217;t want to sell your ETH. Or, maybe you want to mint DAI to leverage yourself by purchasing other investments. There are numerous reasons you might want liquidity while still being exposed to the price of ETH.</p>
 <p><span style="font-weight: 400;">If you still need a little help wrapping your head around the concept of a CDP, come find us on <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a> or Twitter <a href="https://twitter.com/defipulse" target="_blank" rel="noopener noreferrer">@DefiPulse</a>.</span></p>
+<p>The post <a rel="nofollow" href="./../../../2019/08/20/what-is-a-cdp/index.html">What is a CDP?</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -513,7 +406,7 @@
 		<title>Best Decentralized Exchanges (DEXes)</title>
 		<link>./../../../2019/08/05/best-decentralized-exchanges-dexes/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Mon, 05 Aug 2019 12:52:57 +0000</pubDate>
 				<category><![CDATA[DEX]]></category>
 		<category><![CDATA[Ecosystem]]></category>
@@ -527,7 +420,9 @@
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7446</guid>
 
-					<description><![CDATA[In the past, users had to rely on centralized exchanges to trade their cryptocurrency. But, things have come a long...]]></description>
+					<description><![CDATA[<p>In the past, users had to rely on centralized exchanges to trade their cryptocurrency. But, things have come a long...</p>
+<p>The post <a rel="nofollow" href="./../../../2019/08/05/best-decentralized-exchanges-dexes/index.html">Best Decentralized Exchanges (DEXes)</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>In the past, users had to rely on centralized exchanges to trade their cryptocurrency. But, things have come a long way since then and you have other options. And, nowadays decentralized exchanges provide users with a competitive alternative.</p>
 <h3>Not sure what decentralized exchanges are?</h3>
 <p>It&#8217;s okay if you&#8217;re unfamilar with what decentralized exchanges are. Here&#8217;s a helpful explainer you can read to learn <a href="/blog/what-is-a-decentralized-exchange/">what a DEX is</a>.</p>
@@ -553,6 +448,7 @@
 <p>And best of all, you and your trade are interacting directly with the DEX&#8217;s smart contract. So, there are no additional fees on top of fee of your selected exchange.</p>
 <h3>Thanks for reading</h3>
 <p>Good luck finding the right decentralized exchange for you. And if you have any questions, we&#8217;re here to help in our Discord.</p>
+<p>The post <a rel="nofollow" href="./../../../2019/08/05/best-decentralized-exchanges-dexes/index.html">Best Decentralized Exchanges (DEXes)</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

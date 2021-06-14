@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>liquity &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 14 May 2021 15:08:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Founder Fireside Chat with Robert Lauko of Liquity</title>
+		<link>./../../../2021/05/14/founder-fireside-chat-with-robert-lauko-of-liquity/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Fri, 14 May 2021 15:08:37 +0000</pubDate>
+				<category><![CDATA[Founder Fireside Chats]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[liquity]]></category>
+		<category><![CDATA[stablecoins]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9242</guid>
+
+					<description><![CDATA[<p>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/14/founder-fireside-chat-with-robert-lauko-of-liquity/index.html">Founder Fireside Chat with Robert Lauko of Liquity</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/05/Liquity-blog-header.png" alt="" class="wp-image-9243" width="1024" height="512"/></figure>
+
+
+
+<p class="has-medium-font-size"><em>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity to better understand their perspective and what drives them to build their vision.</em></p>
+
+
+
+<p class="has-medium-font-size">Welcome! We&#8217;re glad to have you back for another Founder Fireside Chat. This week, we sat down with Robert Lauko, Founder and CEO of <a href="https://defipulse.com/liquity">Liquity</a>, whose work aims to push the bounds of decentralization.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q1.png" alt="" class="wp-image-9026" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q1.png 1200w, ./../../../wp-content/uploads/2021/03/Q1-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q1-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q1-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">In contrast to other stablecoins and CDP platforms, Liquity is optimized for making borrowing as attractive as possible. It achieves this by replacing interest rates with a very low, one-time fee (most of the time only 0.5%) paid upfront on the borrowed amount and by only requiring a collateral ratio of 110%. This makes borrowing LUSD very capital efficient, cheap for medium to long term loans, and particularly interesting for leverage seekers. </p>
+
+
+
+<p class="has-medium-font-size">Liquity also has a unique approach to handling liquidations. In other systems, under-collateralized positions are usually resolved through lengthy collateral auctions. Liquity replaces these auctions by pooling together capital (i.e. LUSD) upfront from users wishing to buy liquidated collateral effectively at a ~10% discount. We call this mechanism the Stability Pool. </p>
+
+
+
+<p class="has-medium-font-size">Lastly, as a result of its radical approach to immutability, Liquity is also completely algorithmic, with the system being able to auto-adjust to external circumstances like a peg break.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">In a strict sense, <strong>security is the most important since an unsecure system is flawed even if it’s scalable or decentralized, while centralized and unscalable systems can have legitimate use cases. </strong></p>
+
+
+
+<p class="has-medium-font-size">For building a highly dynamic application like Liquity with its redistribution mechanism, we had to go miles to work around Ethereum’s scalability issues. </p>
+
+
+
+<p class="has-medium-font-size">On the other hand, we are pushing the concept of decentralization by not running an official frontend and by making the protocol fully immutable. But without being secure, these features would mean nothing.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/Q6.png" alt="" class="wp-image-9134" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/04/Q6.png 1200w, ./../../../wp-content/uploads/2021/04/Q6-300x55.png 300w, ./../../../wp-content/uploads/2021/04/Q6-1024x188.png 1024w, ./../../../wp-content/uploads/2021/04/Q6-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">In order to form a lasting community that sticks with your product or service, you need to make sure that you can offer sustainable value in the long run rather than just temporary benefits. </p>
+
+
+
+<p class="has-medium-font-size"><strong>While yield farming opportunities are great to attract early adopters, it is crucial to keep delivering long term utility regardless of the market conditions. </strong>Furthermore, you need to make sure that your users and community members have easy access to the team and that their questions, concerns, and ideas are heard.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q3.png" alt="" class="wp-image-9031" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q3.png 1200w, ./../../../wp-content/uploads/2021/03/Q3-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q3-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q3-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">Most of the focus has been on decentralizing the backend, i.e. the smart contracts, while few projects have tried to decentralize their frontends too.</p>
+
+
+
+<p class="has-medium-font-size"> IPFS and Arweave are interesting in this regard, but they are detached from the platform (e.g. Ethereum) that is hosting the backend. With DFINITY’s Internet Computer, it will become possible to seamlessly decentralize the backend and the frontend using the same technology stack. With their recent launch, they’ll be worth keeping an eye on.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q4.png" alt="" class="wp-image-9032" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q4.png 1200w, ./../../../wp-content/uploads/2021/03/Q4-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q4-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q4-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">Over the last 1.5 years it became clear to me how important it is to build a team that is motivated, shares the same principles, and is aligned with the vision of the project. </p>
+
+
+
+<p class="has-medium-font-size"><strong>When people are committed to a common goal and working together as a group, they can create incredible results. </strong>Outsourcing tasks to third parties and companies turned out to be much more challenging and less successful in my experience.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">DeFi is becoming more and more popular among the real farmers <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> So the farming memes are my favorite.</p>
+
+
+
+<p class="has-medium-font-size"><em><strong>Note of the editor: we&#8217;ve included this common yield farming meme here for your reference</strong></em></p>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/05/work.jpg" alt="" class="wp-image-9306"/></figure>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-very-light-gray-background-color has-very-light-gray-color is-style-wide"/>
+
+
+
+<p class="has-medium-font-size"><strong>Thanks for reading!</strong> And thank you to Robert for taking the time to share his thoughts with us. You can hear more from <a href="https://twitter.com/robert_lauko">Robert Lauko on Twitter</a> and learn more about <a href="https://www.liquity.org/">Liquity</a> here.</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/14/founder-fireside-chat-with-robert-lauko-of-liquity/index.html">Founder Fireside Chat with Robert Lauko of Liquity</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

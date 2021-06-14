@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nft &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 04 May 2021 19:19:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Fractionalizing NFTs with DODO NFT</title>
+		<link>./../../../2021/05/04/dodo-nft/index.html</link>
+		
+		<dc:creator><![CDATA[Yule Andrade]]></dc:creator>
+		<pubDate>Tue, 04 May 2021 19:19:26 +0000</pubDate>
+				<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Exchange]]></category>
+		<category><![CDATA[Exchanges]]></category>
+		<category><![CDATA[amm]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[dodo]]></category>
+		<category><![CDATA[nft]]></category>
+		<category><![CDATA[PMM]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9218</guid>
+
+					<description><![CDATA[<p>Non-fungible tokens (NFTs) took over the world in 2021. While some people still can&#8217;t fully grasp their value proposition, they...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/04/dodo-nft/index.html">Fractionalizing NFTs with DODO NFT</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Non-fungible tokens (NFTs) took over the world in 2021. While some people still can&#8217;t fully grasp their value proposition, they are an obsession for many others. Artists, collectors and investors have found fertile ground in the blockchain space, where they can trade and speculate on the price of intangible assets. And more importantly, do it seamlessly without auctioneers or any other middlemen. This is where <a href="https://defipulse.com/dodo">DODO</a>’s brand new feature allowing users to fractionalize NFTs called <a href="http://dodonft.io/">DODO NFT</a> comes in. With DODO NFTs, everyone is able to participate in the NFTs ecosystem by leveraging DODO’s <a href="https://defipulse.com/blog/dodo-and-proactive-market-making/">Proactive Market Maker</a> (PMM) protocol.</p>
+
+
+
+<h2>Why fractionalize NFTs?</h2>
+
+
+
+<p>Although the NFTs ecosystem has seen enormous growth and success in the past months, creating a market for NFTs can still be difficult for many creators. Since NFTs are non-divisible by definition, their price discovery process is hard; ask and bid prices on NFTs usually have huge discrepancies and the most wanted items have prohibitive prices for the small investors and collectors.&nbsp;</p>
+
+
+
+<p>One way to overcome the hurdle of price discovery is with DODO’s approach to the concept of fractionalizing NFTs, which can give rise to a highly active and efficient secondary market. In DODO’s proposed mechanism, an NFT or a collection of NFTs are placed in a vault contract and then fragmented into sub-units by issuing ERC20 (fungible tokens) that represent the ownership of the vault. With this process, anyone can buy a fraction or share of an NFT, regardless of the amount of capital they can invest.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://lh5.googleusercontent.com/jZP26I8hJDnvCEPmyR7hOnuwyZa5nKjXtEay_MFp4xIlp8zD45R-TvmDSEQr-pMCPaNCMyabEdaleujeIkk4yeY6mLGgSR2IqNLWmIIKV8wCmJDVeklpjd_cDgfzsAqPiwh3hF3H" alt="The fractionalization process using DODO"/><figcaption>The fractionalization process using DODO</figcaption></figure></div>
+
+
+
+<p>Owning an NFT collectively can be very appealing. The power of community ownership comes from an alignment of values and vision surpasses the amount of interest and money one individual can have. Fractionalizing an NFT collectible can also be powerful from a distribution point of view since, as more people own an NFT the more it signals the value of it to the community.<br></p>
+
+
+
+<h2>Create flexible NFT markets with DODO’s PMM</h2>
+
+
+
+<p>With DODO NFT, powered by DODO’s established Proactive Market Maker (PMM), creators can easily fractionalize NFTs and bootstrap a market with interconnected liquidity. DODO NFT’s complete suite of tools allows anyone to handle all the processes related to fragmentation, from the vault creation, the ERC20 tokens issuance, the contracts and the creation of dedicated DODO PMMs.&nbsp;</p>
+
+
+
+<p>DODO NFT represents a brand-new solution to pricing and liquidity formation of an NFT marketplace. To begin with, the vault contract can hold various assets, including one or more NFTs or a combination of selected ERC20 tokens, serving as an individual or an organization&#8217;s portfolio. Creators of DODO NFT Vaults can also choose to issue a predetermined amount of fungible tokens and select how many will be assigned to the team and how many will go directly to provide liquidity for the PMM.</p>
+
+
+
+<h2>What is different from a traditional AMM pool?</h2>
+
+
+
+<p>Suppose you issued a certain amount of tokens for an NFT community sale. Automated market makers that use a constant product approach, such as Uniswap V2, require initial liquidity to be deposited in order to set the initial price of the asset. If you want to create a liquidity market for all tokens, you will need to provide an equal amount of money as the bid-side liquidity to achieve the desired initial price.&nbsp;</p>
+
+
+
+<p>DODO proactive markets allow you to provide single-sided liquidity. You can build a DODO NFT market and proactively set the starting price for a fragmented token without committing any capital. As traders buy the fungible tokens, the price will automatically increase following a curve. One other crucial contrast to automated market makers that use a constant product approach is that, in the former, only a single price curve is supported, while in the case of DODO PMM, it allows you to set a Slippage Coefficient (k) that gives the flexibility to handle different markets situations.<br><br>Below we can observe different price curves that can be set up with DODO PMM. The simplest one is when k=0. In this curve, the price doesn&#8217;t change with the amount sold. Any token will always be sold for the same price. In the opposite spectrum, k=1, the price increases with the amount sold in the same behavior as the constant product function. It&#8217;s possible to set more smooth curves choosing intermediary values for k. DODO PMM pools also allow for the customization of the trading fees collected from buyers rather than a fixed 0.3% fee.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="./../../../wp-content/uploads/2021/05/Dodo-Curves-1024x446.jpg" alt="" class="wp-image-9228"/><figcaption>NFT PMM price curves with different “Slippage Coefficient” k.</figcaption></figure></div>
+
+
+
+<p>Splitting up the DODO NFT Vault into fungible tokens can lead to a powerful mechanism as it allows composability to many other DeFi protocols. The underlying tokens can then be accessed using different DEXes and trading routes to be exchanged with any other token. They could even possibly be used as collateral for borrowing other assets like say for derivatives trading or even as a part of an NFT index primitive.&nbsp;</p>
+
+
+
+<h1>Learn more about DODO</h1>
+
+
+
+<p>DODO NFT is a novel protocol specially designed for innovation and liquidity. It will be launched in June of this year, giving everyone access to the NFTs market. DODO also has many more solutions to different market strategies. You can learn more by <a href="https://dodoex.io/">exploring DODO</a>, following <a href="https://twitter.com/BreederDodo">DODO on Twitter</a>, and joining in the discussion happening in the DODO community on <a href="https://t.me/dodoex_official">Telegram</a> and <a href="https://discord.com/invite/sWKnV6fRqm">Discord</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Partner Program; We’ve partnered with DODO to help educate and inform the community about DODO’s NFT features. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/04/dodo-nft/index.html">Fractionalizing NFTs with DODO NFT</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

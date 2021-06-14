@@ -12,22 +12,21 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 May 2021 19:10:15 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 22 Jul 2019 15:23:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>What is a coin burn?</title>
 		<link>./../../../2019/07/22/coin-burn/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Mon, 22 Jul 2019 10:23:39 +0000</pubDate>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Mon, 22 Jul 2019 15:23:39 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Explainers]]></category>
-		<category><![CDATA[Learn]]></category>
 		<category><![CDATA[Protocol]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[burn]]></category>
@@ -36,7 +35,9 @@
 		<category><![CDATA[token]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7353</guid>
 
-					<description><![CDATA[A coin burn is when you take cryptocurrency, coins, or tokens and destroy them. Many coins or tokens have built-in mechanisms...]]></description>
+					<description><![CDATA[<p>A coin burn is when you take cryptocurrency, coins, or tokens and destroy them. Many coins or tokens have built-in mechanisms...</p>
+<p>The post <a rel="nofollow" href="./../../../2019/07/22/coin-burn/index.html">What is a coin burn?</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<h2></h2>
 <p>A coin burn is when you take cryptocurrency, coins, or tokens and destroy them. Many coins or tokens have built-in mechanisms which periodically burn a portion of their existing supply.</p>
 <p>The idea is pretty simple. When you burn a coin, you lower the total supply of the coins in circulation. And according to the law of supply and demand, lowering the total supply of coins should theoretically increase its value as long as there is sufficient future demand for the coin.</p>
@@ -54,6 +55,7 @@
 <p>The <a href="https://kyber.network/" target="_blank" rel="noopener noreferrer">Kyber Network</a> is an on-chain liquidity protocol which allows users to swap tokens through its liquidity providers. Kyber Network Crystal (KNC) is an ERC20 token involved in nearly every aspect of this decentralized liquidity network.</p>
 <p>KNC utilizes a burning mechanism to take a portion of its token supply out of circulation with every swap. Whenever you swap tokens on the Kyber Network, you pay your transaction fees in KNC. some of which is burned. Kyber recently <a href="https://blog.kyber.network/kyber-ecosystem-report-3-b2dc8ba0e44a" target="_blank" rel="noopener noreferrer">reported</a> that in May they had crossed 1,000,000 KNC tokens burned.</p>
 <p>Although that&#8217;s not all its used for, Kyber Network utilizes its token in a variety of ways to align the goals of each participant. From paying fees to open a liquidity reserve to receiving kickbacks for referrals as a vendor, the idea is to create utility and thus demand for KNC.</p>
+<p>The post <a rel="nofollow" href="./../../../2019/07/22/coin-burn/index.html">What is a coin burn?</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

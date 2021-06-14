@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>slingshot &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 12 May 2021 17:03:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Slingshot &#8211; A Next Generation Decentralized Trading Platform</title>
+		<link>./../../../2021/05/12/slingshot-polygon/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Wed, 12 May 2021 17:03:51 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[dex aggregator]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[polygon]]></category>
+		<category><![CDATA[slingshot]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9214</guid>
+
+					<description><![CDATA[<p>Did you know that the combination of how the Earth’s gravity warps spacetime and the speed at which a satellite...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/12/slingshot-polygon/index.html">Slingshot &#8211; A Next Generation Decentralized Trading Platform</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Did you know that the combination of how the Earth’s gravity warps spacetime and the speed at which a satellite travels effectively allows satellites to time travel into the future nanoseconds at time? If you wanted to time travel, theoretically you’d need two things: a massive black hole and and an incredibly fast spacecraft.&nbsp;</p>
+
+
+
+<p>Many have described DeFi as a liquidity black hole, sucking in anything that comes near it. And now, there’s a craft capable of speeds fast enough to <em>slingshot</em> us into the future. <a href="https://app.slingshot.finance/"><strong>Slingshot</strong></a><strong> is a next generation decentralized trading platform which aggregates the top liquidity sources in order to give traders like you the best prices, speed and execution on trades.&nbsp;</strong></p>
+
+
+
+<p>In late February, Slingshot launched its closed beta with a unique way for users to earn their invite. The first 100 players to complete the race, a sci-fi themed browser game, won access to the beta and NFT prizes for having the best speedrun times. One player even finished the race so quickly they were <a href="https://twitter.com/AgentProtocol/status/1365828515489345537">accused of being a robot</a>. While a race may seem odd, it was arguably the perfect primer for the futuristic look and feel of Slingshot’s smooth trading interface.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://slingshot.finance/"><img loading="lazy" width="443" height="46" src="./../../../wp-content/uploads/2021/05/slingshot-logo.png" alt="" class="wp-image-9291" srcset="./../../../wp-content/uploads/2021/05/slingshot-logo.png 443w, ./../../../wp-content/uploads/2021/05/slingshot-logo-300x31.png 300w" sizes="(max-width: 443px) 100vw, 443px" /></a></figure></div>
+
+
+
+<p>You can now try it for yourself today because <a href="https://app.slingshot.finance/"><strong>Slingshot</strong></a><strong> is live on Polygon</strong>. Slingshot chose to launch their first Liquidity Zone on Polygon because it fit with their mission to provide traders with the best trading experience.</p>
+
+
+
+<h2>Slingshot is tailored for a next level trading experience</h2>
+
+
+
+<p>To quote its early <a href="https://twitter.com/i/status/1329235851813953537">teaser</a> video, Slingshot wants you to “fall in love with DeFi all over again.” And to be honest, the video game-like UI/UX of Slingshot is rather alluring. Between the live price chart, trade history, scrolling price ticker, and all the flashes of red and green when token prices update, you feel like you’re behind the console of a trading machine.</p>
+
+
+
+<p>Speedrunning was indeed an apt way to introduce users to Slingshot, a trading platform built for speed. The flow of trading on Slingshot is rather intuitive. You can either start by searching for a token to trade using the search bar or click the + sign on the left side to bookmark a token. Next, select whether you want to buy or sell and the amount you want to spend. And voila, Slingshot finds you the best price for your trade aggregated from the top liquidity sources.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://app.slingshot.finance/"><img loading="lazy" width="1024" height="506" src="./../../../wp-content/uploads/2021/05/slingshot-ui-1-1024x506.png" alt="" class="wp-image-9293" srcset="./../../../wp-content/uploads/2021/05/slingshot-ui-1-1024x506.png 1024w, ./../../../wp-content/uploads/2021/05/slingshot-ui-1-300x148.png 300w, ./../../../wp-content/uploads/2021/05/slingshot-ui-1-768x379.png 768w, ./../../../wp-content/uploads/2021/05/slingshot-ui-1-1536x759.png 1536w, ./../../../wp-content/uploads/2021/05/slingshot-ui-1-585x289.png 585w, ./../../../wp-content/uploads/2021/05/slingshot-ui-1.png 1917w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></div>
+
+
+
+<h3>A polished UI with a buttery smooth trade flow</h3>
+
+
+
+<p>When trading bookmarked tokens, this entire process flows smoothly from left to right allowing you to trade incredibly fast, especially on Polygon. While Polygon is the only publicly available Liquidity Zone today, beta users can tell you how awesome it is to seamlessly switch between Liquidity Zones. Slingshot allows you to search for tokens across Liquidity Zones and then filters the list of available tokens according to the Liquidity Zone of the token you selected. So say you’re connected to Ethereum but want to buy MATIC on Polygon. There’s no need to pre-switch your network in Metamask because Slingshot handles this as part of the trade flow. Don’t worry though; you’ll get the chance to see what this is like soon enough.</p>
+
+
+
+<p>The more subtle details in the user interface also really add polish to the entire trading experience. For example, when you hover your mouse over the ticker at the top, it feels as if time slows as the scrolling ticker slows in reaction to your cursor. And when you hover over the chart, the cursor becomes a crosshair which follows the line of the price chart. Every little bit adds up to make trading frictionless and fun again.</p>
+
+
+
+<h2>Test drive the future of trading with Slingshot</h2>
+
+
+
+<p><strong>Slingshot is offering our community members an awesome DFP-themed golden grapes NFT for FREE to celebrate the launch.</strong> To be eligible to receive the NFT, be sure to <a href="https://tinyurl.com/4yz5p8v4">fill out this form</a> with your wallet address.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-1024x576.jpg" alt="" class="wp-image-9301" srcset="./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-300x169.jpg 300w, ./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-768x432.jpg 768w, ./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-1200x675.jpg 1200w, ./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-585x329.jpg 585w, ./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Try <a href="https://slingshot.finance/">Slingshot</a> live on Polygon.</strong> As previously mentioned, Polygon is Slingshot’s first Liquidity Zone available to the public. Be the first to hear about new features and Liquidity Zones by following Slingshot on <a href="https://twitter.com/SlingshotCrypto">Twitter</a> and join the Slingshot community on <a href="https://discord.gg/KnpjtDkaRQ">Discord</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Slingshot to help educate and inform the community about the launch of Slingshot on Polygon. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/12/slingshot-polygon/index.html">Slingshot &#8211; A Next Generation Decentralized Trading Platform</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AMA with Slingshot CEO Clinton Bembry Jr.</title>
+		<link>./../../../2021/05/12/ama-with-slingshot-ceo-clinton-bembry-jr/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Wed, 12 May 2021 16:49:56 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[ama]]></category>
+		<category><![CDATA[dex aggregator]]></category>
+		<category><![CDATA[Dex.Ag]]></category>
+		<category><![CDATA[dexag]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[slingshot]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9278</guid>
+
+					<description><![CDATA[<p>This AMA session with Slingshot CEO Clinton Bembry Jr. occurred on May 7th, 2021. The following is a transcription of...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/12/ama-with-slingshot-ceo-clinton-bembry-jr/index.html">AMA with Slingshot CEO Clinton Bembry Jr.</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/05/Slingshot-ama-1024x576.png" alt="" class="wp-image-9279"/></figure>
+
+
+
+<p>This AMA session with Slingshot CEO Clinton Bembry Jr. occurred on May 7th, 2021. The following is a transcription of the live from DeFi Pulse’s AMA Discord channel. To participate in future AMAs, please join our <a href="https://discord.gg/Gx4TCTk">Discord</a> and follow us on <a href="https://twitter.com/defipulse">Twitter</a>.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p><strong>Chaz Schmidt:<em> </em></strong><em>Hello and welcome @everyone! Thank you for joining us today for an AMA with Clinton Bembry Jr., CEO of Slingshot ( @Clinton | Slingshot ).&nbsp;</em></p>
+
+
+
+<p><em>The AMA will last around 30 minutes and will be made available shortly after for those who could not attend.</em></p>
+
+
+
+<p><em>Clinton will be answering the questions we&#8217;ve collected from the community throughout the week. A special thanks to those of you who submitted questions for today&#8217;s AMA.</em><strong><em><br></em></strong><strong><em><br></em></strong><strong>How&#8217;s it going Clinton?</strong></p>
+
+
+
+<p><strong>Clinton Bembry Jr.:</strong> Hey Chaz! doing well, hbu?</p>
+
+
+
+<p><strong>CS: </strong><em>Not too shabby. Thanks everyone for showing up for the AMA. Let&#8217;s start off with a rather easy question&#8230;</em></p>
+
+
+
+<p><strong>What is Slingshot?</strong></p>
+
+
+
+<p><strong>Clinton:</strong> sweet, Slingshot is a decentralized trading platform that aggregates liquidity across DEX protocols (like uniswap, sushiswap, curve, etc.) to offer user sthe best prices on their trades. We place a huge emphasis on user-experience and aim to offer the ultimate trading experience for both DeFi natives and newcomers to crypto!</p>
+
+
+
+<p><strong>CS: </strong><em>This next one comes from the Slingshot Discord where folks are clamoring for more details on Slingshot ever since your initial teaser earlier this year.</em></p>
+
+
+
+<p><strong>What will separate Slingshot from all other DEXes already operating? Uniswap, SushiSwap, LinkSwap, DODO, etc.</strong><br><br><strong>Clinton:</strong> so Slingshot itself isn&#8217;t a DEX, we plug our liquidity engine into other DEXes like uniswap and sushiswap etc</p>
+
+
+
+<p>By aggregating liquidity and splitting orders between other DEXes we are able to offer much better prices than if you were to trade on an individual DEX<br><br>Slingshot isn&#8217;t just about the best prices, but also unparalleled user-experience</p>
+
+
+
+<p><strong>CS: </strong><em>I know for many DeFi users fees can be a big factor when it comes to user experience.</em><br><br><strong>How does Slingshot plan to support trading on layer 2 or multiple chains?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>definitely, many people (myself included) got priced out of trading on Ethereum L1</p>
+
+
+
+<p>At launch we will suport trading on Polygon, which is an Ethereum L2/sidechain. The tx fee on Polygon for a trade is as low as $0.0002, compared to Ethereum which can be a $100+ fee per trade</p>
+
+
+
+<p>At Slingshot we&#8217;re all about pricing people back into DeFi <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p><strong>CS:</strong><em> Sounds good to me. I like low fees. I saw in your Discord that Closed Beta users have been able to use Slingshot on Polygon already.</em></p>
+
+
+
+<p><strong>What has been the most useful feedback from the closed beta so far?</strong></p>
+
+
+
+<p><strong>Clinton:</strong> Our polygon support is a result of the feedback we received from our earliest beta users. Due to high fees they were being forced to turn back to the world centralized trading. We began working on L2 support immediately and shipped it a few weeks later.</p>
+
+
+
+<p>other than that &#8211; it&#8217;s been very helpful in general to hear which features users want to see to aid in their trading flows</p>
+
+
+
+<p><strong>CS: </strong><em>That actually leads straight into my next question which is:</em><strong> What features of Slingshot are you most excited for the public to see?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>aside from the lightning fast L2 trading + unbeatable prices, i&#8217;m personally excited for people to experience all of the real-time, on-chain data we pump through our platform.</p>
+
+
+
+<p>Every time a block get&#8217;s mined we parse all trading activity and surface it to our users and it makes for a visceral experience!</p>
+
+
+
+<p>oh also &#8211; our price charts are custom made and look really cool :sunglasses:</p>
+
+
+
+<p><strong>CS: </strong><em>I can attest to this personally. I&#8217;ve gotten a chance to test Slingshot in the beta and I found myself getting lost in it like it is a game. The flow from seeing a price change on the ticker, clicking it to select the token, and executing the trade was incredible. A community member wanted to know more about the sci-fi browser game that Slingshot produced where players could win their way into the beta.</em><strong> In their words, &#8220;What was the point of the game?&#8221; And, will other aspects of Slingshot involve gamification?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>the point of the game was&nbsp; to announce our closed-beta and bootstrap an initial user-base, while also having some fun while we build the future of finance!<br><br>I mean, how else are you supposed to announce a beta?</p>
+
+
+
+<p><strong>CS: </strong><em>Solid point haha</em><br><br><em>And it was fun. One player was even so fast they were accused of being a robot</em> <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f916.png" alt="🤖" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p><strong>Clinton: </strong>haha yes, a bit of a speed-running competition broke out! as far as I could tell, they were all legit, no bots!</p>
+
+
+
+<p><strong>CS: </strong><em>We&#8217;re reaching near the end now and it&#8217;s been super interesting so far. If you&#8217;re up for it Clinton, we have a couple more of questions before we let you go</em></p>
+
+
+
+<p><strong>Clinton: </strong>Of course!<br><br><strong>CS: </strong><em>I think the audience would get angry if I didn&#8217;t ask the obvious: </em><strong>When launch?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>soon <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> bahaha<br>forreal though &#8211; very soon<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p><strong>CS: </strong><em>We&#8217;ll accept that answer.</em><br><br><strong>Clinton: </strong>we want to get Slingshout out publicly for everyone to use ASAP</p>
+
+
+
+<p><strong>CS: </strong><em>I think that&#8217;s about all the questions we have time for.&nbsp;</em></p>
+
+
+
+<p><em>Thank you for joining us Clinton. I know I for one am excited for Slingshot to go live.</em></p>
+
+
+
+<p><strong>Clinton: </strong>awesome, thanks for having me!</p>
+
+
+
+<p>quick plug &#8211; we&#8217;re hiring for a lot of roles at Slingshot. If you&#8217;re interested in helping us build the future of trading, <a href="https://slingshot-finance.homerun.co/">check out our job postings here</a>.</p>
+
+
+
+<p><strong>CS: </strong><em>Haha yes. Be sure to reach out if you fit those roles lol</em></p>
+
+
+
+<p><strong>Anything else you&#8217;d like to add before we go?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>that&#8217;s all from me!</p>
+
+
+
+<p><strong>CS: </strong><em>Well it was a pleasure talking with you</em></p>
+
+
+
+<p><em>Thank you everyone for attending! I hope your curiosities were satisfied.</em></p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p>Follow us on <a href="https://twitter.com/defipulse">Twitter</a> to hear about the latest AMA and don’t forget to keep your eyes on Slingshot for the true answer to the question: when launch?<em><br></em><em><br></em><em>Disclosure: This post is paid promotion; We’ve partnered with Slingshot to help educate and inform the community about Slingshot’s decentralized trading platform. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/12/ama-with-slingshot-ceo-clinton-bembry-jr/index.html">AMA with Slingshot CEO Clinton Bembry Jr.</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

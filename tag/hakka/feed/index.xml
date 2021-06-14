@@ -18,12 +18,12 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>3F Mutual &#8211; Collective Insurance Against MakerDAO Risks</title>
 		<link>./../../../2020/10/25/3f-mutual/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Sun, 25 Oct 2020 20:13:35 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[dai]]></category>
@@ -35,7 +35,9 @@
 		<category><![CDATA[MakerDAO]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8632</guid>
 
-					<description><![CDATA[As you likely already know, MakerDAO’s DAI is a decentralized stablecoin pegged to $1 and backed by many different collateral...]]></description>
+					<description><![CDATA[<p>As you likely already know, MakerDAO’s DAI is a decentralized stablecoin pegged to $1 and backed by many different collateral...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/10/25/3f-mutual/index.html">3F Mutual &#8211; Collective Insurance Against MakerDAO Risks</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>As you likely already know, MakerDAO’s DAI is a decentralized stablecoin pegged to $1 and backed by many different collateral types. Historically, there has been high demand for DAI causing it to rise above it’s $1 peg at times. To encourage the necessary inflation to bring DAI back down to $1, MakerDAO can add more collateral types and raise the total amount of DAI that can be minted from existing collateral types. While these changes do tend to bring DAI back on peg, they also add new risk parameters and complexity to the system. Some community members have raised concerns that these risks could compound over time, increasing the odds that DAI could become undercollateralized in a crisis and MakerDAO may be forced to trigger an emergency shutdown. If MakerDAO were to ever collapse, it would send ripples through the DeFi ecosystem due to the widespread use of DAI. <a href="https://hakka.finance/">Hakka Finance</a> built <a href="https://3fmutual.com/">3F Mutual</a> for this very reason so users could hedge against this economic risk with lower premiums and better market-making mechanisms.</p>
 
@@ -142,6 +144,7 @@
 
 
 <p><strong><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Hakka Finance to help educate and inform the community about 3F Mutual and the Hakka Ecosystem. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></strong></p>
+<p>The post <a rel="nofollow" href="./../../../2020/10/25/3f-mutual/index.html">3F Mutual &#8211; Collective Insurance Against MakerDAO Risks</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -18,14 +18,15 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>4 New DeFi Trends to Watch Out for in 2020</title>
 		<link>./../../../2019/12/12/4-new-defi-trends-to-watch-out-for-in-2020/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Thu, 12 Dec 2019 20:26:59 +0000</pubDate>
-				<category><![CDATA[DEX]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[DEX]]></category>
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[bzx]]></category>
 		<category><![CDATA[decentralized exchanges]]></category>
@@ -37,7 +38,9 @@
 		<category><![CDATA[zk-snarks]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7824</guid>
 
-					<description><![CDATA[It&#8217;s been an amazing year for Decentralized Finance. As of writing this, DeFi has grown from $293M to $665M since...]]></description>
+					<description><![CDATA[<p>It&#8217;s been an amazing year for Decentralized Finance. As of writing this, DeFi has grown from $293M to $665M since...</p>
+<p>The post <a rel="nofollow" href="./../../../2019/12/12/4-new-defi-trends-to-watch-out-for-in-2020/index.html">4 New DeFi Trends to Watch Out for in 2020</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>It&#8217;s been an amazing year for Decentralized Finance. As of writing this, DeFi has grown from $293M to $665M since the start of 2019. Not only should the community celebrate the tremendous growth this year, but also the many brighter days ahead. Let&#8217;s look to what the future holds for DeFi with four trends you should keep your eyes out for in 2020.</p>
 <h3>Privacy Solutions and Mixers</h3>
 <p>Research into zero knowledge proof technology was extremely fruitful in 2019. For starters, the gas cost of ZK-SNARKs has greatly been <a href="https://defipulse.com/blog/how-ethereums-istanbul-network-upgrade-affects-defi/">reduced through new EIPs</a>. Not to mention, new ZK proving systems like PLONK, Sonic, etc. are faster than ever. Additionally, EY has continued its work on zero knowledge transaction batching, achieving a 400-fold improvement in gas efficiency.</p>
@@ -53,6 +56,7 @@
 <p>What will be the most popular way to stake ETH and cryptocurrency in general? Exchanges and custody services are already offering Tezos staking and will likely offer custodial ETH staking.</p>
 <p>What kind of DeFi products and services will launch to suit the needs of ETH 2.0? For example, <a href="https://www.rocketpool.net/">Rocket Pool</a>&nbsp;is arguably the most popular decentralized staking pool in development. Learn more about the changes coming soon with Ethereum 2.0 <a href="https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/#phase-0-beacon-chain">here</a>.</p>
 <p><span style="font-weight: 400;">F</span>ollow us on&nbsp;<a href="https://twitter.com/defipulse">Twitter</a>&nbsp;or join us in&nbsp;<span style="font-weight: 400;">our&nbsp;<a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a>&nbsp;to keep up with the DeFi ecosystem</span></p>
+<p>The post <a rel="nofollow" href="./../../../2019/12/12/4-new-defi-trends-to-watch-out-for-in-2020/index.html">4 New DeFi Trends to Watch Out for in 2020</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BTC2x-FLI &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 May 2021 19:37:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Index Investing in a Decentralized World</title>
+		<link>./../../../2021/05/11/btc2x-fli/index.html</link>
+		
+		<dc:creator><![CDATA[Yule Andrade]]></dc:creator>
+		<pubDate>Tue, 11 May 2021 19:37:34 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[BTC2x-FLI]]></category>
+		<category><![CDATA[flexible leverage index]]></category>
+		<category><![CDATA[fli]]></category>
+		<category><![CDATA[index]]></category>
+		<category><![CDATA[index-coop]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9254</guid>
+
+					<description><![CDATA[<p>Following its stated goal to establish standards that the community can stand behind, DeFi Pulse (through Pulse Inc) has developed...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/11/btc2x-fli/index.html">Index Investing in a Decentralized World</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Following its stated goal to establish standards that the community can stand behind, <a href="https://defipulse.com/" target="_blank" rel="noreferrer noopener">DeFi Pulse</a> (through <a rel="noreferrer noopener" href="https://pulse.inc/" target="_blank">Pulse Inc</a>) has developed different methodologies to tackle the market&#8217;s increased interest in tokenized indices, which are spreading wildly across DeFi and becoming more and more popular every day.</p>
+
+
+
+<p><strong><strong>Today, the second product of the FLI series, <a href="https://pulseinc.medium.com/flexible-leverage-index-btc2x-fli-launch-755605f45468">the Bitcoin Flexible Leverage Index (BTC2x-FLI), was introduced</a>, and we want to expand into how it works and the story of how it was designed.</strong></strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="879" height="242" src="./../../../wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-16.15.25-1.png" alt="" class="wp-image-9269" srcset="./../../../wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-16.15.25-1.png 879w, ./../../../wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-16.15.25-1-300x83.png 300w, ./../../../wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-16.15.25-1-768x211.png 768w, ./../../../wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-16.15.25-1-585x161.png 585w" sizes="(max-width: 879px) 100vw, 879px" /></figure>
+
+
+
+<h2>Index tokens: what are they?</h2>
+
+
+
+<p>Index tokens are similar to TradFi&#8217;s ETFs and ETNs, collective investment funds that seek to track the performance of a benchmark index but offer several advantages over these more traditional instruments, especially for new entrants. Index tokens can also be attractive to passive participants with a lack of time or knowledge of a specific strategy or market.</p>
+
+
+
+<p>Besides keeping track of a specific market, index tokens can also represent structured financial products with sophisticated strategies. The <a href="https://www.pulse.inc/flexible-leverage-index" target="_blank" rel="noreferrer noopener">Flexible Leverage Index (FLI)</a> is a prime example, tokenizing a collateralized debt position in a single ERC-20 token to allow investors to have leveraged exposure in one click. While users today enjoy the stress-free leverage FLI’s strategy provides, it took several years for the concept of FLI to come to fruition.</p>
+
+
+
+<h2>The birth of the FLI methodology</h2>
+
+
+
+<p>Ten years before co-founding DeFi Pulse, <a rel="noreferrer noopener" href="https://www.linkedin.com/in/scott-lewis-2a554430/" target="_blank">Scott Lewis</a> used to work for the global trading and technology firm Susquehanna International Group where, as a derivatives trader, he developed the best strategies to find profitable trades. While working there, he first envisioned the design of the FLI methodology, even though TradFi was not fertile ground to quickly develop these kinds of financial products. </p>
+
+
+
+<p>In Scott&#8217;s words:&nbsp;</p>
+
+
+
+<blockquote class="wp-block-quote"><p><em>“I was using autoregressive models in some of my derivative tradings, and I realized that an index in which the leverage automatically regressed to a target leverage ratio would greatly reduce the product’s rebalancing needs.”</em></p></blockquote>
+
+
+
+<p>The usual way to get leverage in the DeFi space is by understanding and executing a complex series of steps. First, investors need to provide collateral to a given protocol and withdraw debt. Afterward, this debt has to be allocated to that same protocol or a different one, and, depending on the strategy and the amount of required leverage, these steps have to be repeated multiple times. Throughout this process, investors need to continuously monitor the market to ensure they don’t get liquidated. The FLI methodology delegates all the above steps to the issuer, offering the investor a leveraged position with targeted exposure to an asset in the form of an ERC-20 token.</p>
+
+
+
+<p>The TradFi approach to leveraged ETFs also has other inefficiencies, as Scott’s points out:</p>
+
+
+
+<blockquote class="wp-block-quote"><p><em>“Leverage products frequently track an index that returns the exact leverage ratio each 24 hours period. This inflexibility results in some of these products having to buy and sell a significant amount of assets each and every day. All this trading can create bad returns for the users of these products.”</em></p></blockquote>
+
+
+
+<p>Even though the FLI methodology targets a 2x leverage ratio, it uses a tolerance range and an algorithm that reduces rebalancing needs by order of magnitude, thereby increasing the gas efficiency, which translates into direct <strong>savings by the holder</strong>.</p>
+
+
+
+<h2>The Bitcoin Flexible Leverage Index (BTC2x-FLI)</h2>
+
+
+
+<p><strong>BTC2x-FLI</strong>, released today, targets 2x exposure to WBTC price. That means that its price is expected to fluctuate double that of WBTC on average. In other words, if WBTC rises 10% in price, BTC2x-FLI is designed to go up by 20%.&nbsp;</p>
+
+
+
+<p>We hope that <strong>BTC2x-FLI </strong>as an improved solution for DeFi investors is able to fill a niche in the market as large as its predecessor. ETH2x-FLI has seen explosive growth and achieved a market cap of more than $100M just seven weeks after launching.&nbsp;</p>
+
+
+
+<p><strong>ETH2x &#8211; FLI Trading Volume and Market Capitalization</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="277" src="./../../../wp-content/uploads/2021/05/ETHFLI-1024x277.png" alt="" class="wp-image-9274" srcset="./../../../wp-content/uploads/2021/05/ETHFLI-1024x277.png 1024w, ./../../../wp-content/uploads/2021/05/ETHFLI-300x81.png 300w, ./../../../wp-content/uploads/2021/05/ETHFLI-768x208.png 768w, ./../../../wp-content/uploads/2021/05/ETHFLI-1536x416.png 1536w, ./../../../wp-content/uploads/2021/05/ETHFLI-585x159.png 585w, ./../../../wp-content/uploads/2021/05/ETHFLI.png 1823w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>Source: https://duneanalytics.com/jdcook/Index-Coop</em></figcaption></figure></div>
+
+
+
+<p>You can find out more about the <strong><a rel="noreferrer noopener" href="https://pulseinc.medium.com/flexible-leverage-index-btc2x-fli-launch-755605f45468" target="_blank">BTC2x-FLI specifications here</a>.</strong>&nbsp;</p>
+
+
+
+<h2>Closing thoughts</h2>
+
+
+
+<p>From a far-off dream to a powerful tool improving on traditional markets, the emergence of index tokens shows how much the DeFi ecosystem has evolved in the last year and a half. FLI is only possible thanks to a maturing DeFi ecosystem; its sophisticated strategy crafted into a simple user experience stands as a testament to what&#8217;s possible through our collaborative innovation as an industry. This is one of the many reasons why we’re so excited to be launching more indexes in the FLI series. Learn more about BTC 2x FLI today or view the <a href="https://www.pulse.inc/flexible-leverage-index" target="_blank" rel="noreferrer noopener">FLI methodology here</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/11/btc2x-fli/index.html">Index Investing in a Decentralized World</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

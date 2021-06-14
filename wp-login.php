@@ -3,13 +3,13 @@
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Log In &lsaquo; Defi Pulse test &#8212; WordPress</title>
-	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
+	<meta name="robots" content="index, noindex, follow">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="dashicons-css" href="./wp-includes/css/dashicons.min.css?ver=5.7.1" type="text/css" media="all">
-<link rel="stylesheet" id="buttons-css" href="./wp-includes/css/buttons.min.css?ver=5.7.1" type="text/css" media="all">
-<link rel="stylesheet" id="forms-css" href="./wp-admin/css/forms.min.css?ver=5.7.1" type="text/css" media="all">
-<link rel="stylesheet" id="l10n-css" href="./wp-admin/css/l10n.min.css?ver=5.7.1" type="text/css" media="all">
-<link rel="stylesheet" id="login-css" href="./wp-admin/css/login.min.css?ver=5.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="./wp-includes/css/dashicons.min.css?ver=5.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="buttons-css" href="./wp-includes/css/buttons.min.css?ver=5.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="forms-css" href="./wp-admin/css/forms.min.css?ver=5.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="l10n-css" href="./wp-admin/css/l10n.min.css?ver=5.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="login-css" href="./wp-admin/css/login.min.css?ver=5.7.2" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 		</head>
@@ -82,17 +82,17 @@ var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", { "locale_data": { "messages": { "": {} } } } );
 </script>
-<script type="text/javascript" src="./wp-admin/js/password-strength-meter.min.js?ver=5.7.1" id="password-strength-meter-js"></script>
+<script type="text/javascript" src="./wp-admin/js/password-strength-meter.min.js?ver=5.7.2" id="password-strength-meter-js"></script>
 <script type="text/javascript" src="./wp-includes/js/underscore.min.js?ver=1.8.3" id="underscore-js"></script>
 <script type="text/javascript" id="wp-util-js-extra">
 /* <![CDATA[ */
 var _wpUtilSettings = {"ajax":{"url":"\/wordpress\/wp-admin\/admin-ajax.php"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="./wp-includes/js/wp-util.min.js?ver=5.7.1" id="wp-util-js"></script>
+<script type="text/javascript" src="./wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"e8f8a06dc5"};
+var userProfileL10n = {"user_id":"0","nonce":"8a6fa2a4b1"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
@@ -102,7 +102,7 @@ var userProfileL10n = {"user_id":"0","nonce":"e8f8a06dc5"};
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", { "locale_data": { "messages": { "": {} } } } );
 </script>
-<script type="text/javascript" src="./wp-admin/js/user-profile.min.js?ver=5.7.1" id="user-profile-js"></script>
+<script type="text/javascript" src="./wp-admin/js/user-profile.min.js?ver=5.7.2" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
 	</html>

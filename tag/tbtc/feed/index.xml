@@ -12,20 +12,20 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 May 2021 00:51:32 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 22 Dec 2020 19:50:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Introducing Bitcoin at Work</title>
 		<link>./../../../2020/12/22/introducing-bitcoin-at-work/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Tue, 22 Dec 2020 14:50:15 +0000</pubDate>
-				<category><![CDATA[New Features]]></category>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Tue, 22 Dec 2020 19:50:15 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[acbtc]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[bch]]></category>
@@ -46,13 +46,15 @@
 		<category><![CDATA[WBTC]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8726</guid>
 
-					<description><![CDATA[Over the course of 2020, more than 140,000 BTC entered the DeFi ecosystem. With so many different alternatives for Bitcoin...]]></description>
+					<description><![CDATA[<p>Over the course of 2020, more than 140,000 BTC entered the DeFi ecosystem. With so many different alternatives for Bitcoin...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/12/22/introducing-bitcoin-at-work/index.html">Introducing Bitcoin at Work</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Over the course of 2020, more than 140,000 BTC entered the DeFi ecosystem. With so many different alternatives for Bitcoin tokens, it only makes sense to break it out into its own page to provide more detailed metrics. We&#8217;re excited to introduce a new page highlighting the use of Bitcoin in the DeFi ecosystem. <a href="http://defipulse.com/btc">Bitcoin at Work</a> measures the total amount of BTC being utilized within decentralized finance (DeFi).</p>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="http://defipulse.com/btc"><img loading="lazy" src="./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-1024x1024.png" alt="" class="wp-image-8793" width="512" height="512" srcset="./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-1024x1024.png 1024w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-300x300.png 300w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-150x150.png 150w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-768x768.png 768w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1.png 1080w" sizes="(max-width: 512px) 100vw, 512px" /></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="http://defipulse.com/btc"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/12/btc-at-work-thumb-1-1024x1024.png" alt="" class="wp-image-8793" width="512" height="512" srcset="./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-1024x1024.png 1024w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-300x300.png 300w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-150x150.png 150w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-768x768.png 768w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1.png 1080w" sizes="(max-width: 512px) 100vw, 512px" /></a></figure></div>
 
 
 
@@ -60,7 +62,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/12/btc-logo-board03-1024x512.png" alt="" class="wp-image-8785" width="768" height="384" srcset="./../../../wp-content/uploads/2020/12/btc-logo-board03-1024x512.png 1024w, ./../../../wp-content/uploads/2020/12/btc-logo-board03-300x150.png 300w, ./../../../wp-content/uploads/2020/12/btc-logo-board03-768x384.png 768w, ./../../../wp-content/uploads/2020/12/btc-logo-board03.png 1500w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/12/btc-logo-board03-1024x512.png" alt="" class="wp-image-8785" width="768" height="384" srcset="./../../../wp-content/uploads/2020/12/btc-logo-board03-1024x512.png 1024w, ./../../../wp-content/uploads/2020/12/btc-logo-board03-300x150.png 300w, ./../../../wp-content/uploads/2020/12/btc-logo-board03-768x384.png 768w, ./../../../wp-content/uploads/2020/12/btc-logo-board03.png 1500w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
 
 
 
@@ -77,6 +79,7 @@
 
 
 <p>Special thanks to all the teams for working with us! Be sure to check out the new page and explore the <a href="http://defipulse.com/btc">Bitcoin at Work</a> metrics for yourself. And if you’re interested in joining the DeFi Pulse Leaderboard, please check out this <a href="https://defipulse.com/blog/how-to-join-the-defi-pulse-leaderboard/">step-by-step guide.</a></p>
+<p>The post <a rel="nofollow" href="./../../../2020/12/22/introducing-bitcoin-at-work/index.html">Introducing Bitcoin at Work</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -86,7 +89,7 @@
 		<title>What is tBTC?</title>
 		<link>./../../../2019/08/20/what-is-tbtc/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Tue, 20 Aug 2019 12:42:04 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Explainers]]></category>
@@ -98,9 +101,11 @@
 		<category><![CDATA[tBTC]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7514</guid>
 
-					<description><![CDATA[tBTC is an ERC-20 token that&#8217;s trustlessly backed by and redeemable for Bitcoin (BTC). In other words, it&#8217;s a way...]]></description>
+					<description><![CDATA[<p>tBTC is an ERC-20 token that&#8217;s trustlessly backed by and redeemable for Bitcoin (BTC). In other words, it&#8217;s a way...</p>
+<p>The post <a rel="nofollow" href="./../../../2019/08/20/what-is-tbtc/index.html">What is tBTC?</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>tBTC is an ERC-20 token that&#8217;s trustlessly backed by and redeemable for Bitcoin (BTC). In other words, it&#8217;s a way for users to deposit their Bitcoin and mint Bitcoin tokens on Ethereum without a middleman or KYC.</p>
-<p><figure id="attachment_7522" aria-describedby="caption-attachment-7522" style="width: 930px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-7522 size-full" src="./../../../wp-content/uploads/2019/08/tbtc-homepage.jpg" alt="" width="930" height="500"><figcaption id="caption-attachment-7522" class="wp-caption-text">A screenshot of tBTC&#8217;s <a href="https://tbtc.network/" target="_blank" rel="noopener noreferrer">homepage</a></figcaption></figure></p>
+<p><figure id="attachment_7522" aria-describedby="caption-attachment-7522" style="width: 930px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-7522 size-full" src="https://defipulse.com/blog/wp-content/uploads/2019/08/tbtc-homepage.jpg" alt="" width="930" height="500"><figcaption id="caption-attachment-7522" class="wp-caption-text">A screenshot of tBTC&#8217;s <a href="https://tbtc.network/" target="_blank" rel="noopener noreferrer">homepage</a></figcaption></figure></p>
 <h2>How does tBTC work?</h2>
 <p>If you&#8217;re familiar with MakerDAO and how DAI is created, you might recognize some of the mechanics used to make tBTC possible. For example, tBTC relies on price feeds, bonds, and arbitrage opportunities to keep the system running honestly.</p>
 <p>In a nutshell, users wishing to mint tBTC deposit Bitcoin into an address trustlessly created and controlled by a group of bonded&nbsp;<em>signers.</em>&nbsp;The bonds keep the system participants honest by incentivizing good behavior and punishing dishonesty.&nbsp;Currently, deposits are only possible in fixed-sized&nbsp;<em>lots</em>&nbsp;of 1 Bitcoin. And, all signer bonds are denominated in ETH.</p>
@@ -122,6 +127,7 @@
 <p>Ethereum&#8217;s known for being the leading programmable blockchain with a wildly active developer community. Effectively tokenizing BTC without a middleman opens up a world of possibilities for users and developers alike.</p>
 <p>tBTC makes it possible for Bitcoin holders to tap into Ethereum&#8217;s growing <a href="https://defipulse.com/defi-list">list</a> of <a href="https://defipulse.com/blog/defi-on-ethereum/">decentralized finance</a> (DeFi) DApps. For example, smart contract developers could integrate tBTC into their DApps as collateral. Thus, enabling Bitcoin holders to be able to borrow against their BTC. Or, even something as simple as Bitcoin can now be trustlessly listed on <a href="https://defipulse.com/blog/best-decentralized-exchanges-dexes/">decentralized exchanges</a>&nbsp;(DEXes).</p>
 <p><span style="font-weight: 400;">Still have questions about tBTC? Come talk with us on&nbsp;<a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a>&nbsp;or Twitter&nbsp;<a href="https://twitter.com/defipulse" target="_blank" rel="noopener noreferrer">@DefiPulse</a>.</span></p>
+<p>The post <a rel="nofollow" href="./../../../2019/08/20/what-is-tbtc/index.html">What is tBTC?</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>polygon &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 03 Jun 2021 17:14:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>AMA with Polygon’s Head of DeFi Hamzah Khan</title>
+		<link>./../../../2021/06/03/ama-with-polygon-hamzah-khan/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Thu, 03 Jun 2021 17:14:04 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[layer 2]]></category>
+		<category><![CDATA[polygon]]></category>
+		<category><![CDATA[scaling]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9373</guid>
+
+					<description><![CDATA[<p>This AMA session with Hamzah Khan, Polygon’s Head of DeFi, occurred on May 28th, 2021. The following is a transcription...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/06/03/ama-with-polygon-hamzah-khan/index.html">AMA with Polygon’s Head of DeFi Hamzah Khan</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/06/Polygon_social-1024x576.png" alt="" class="wp-image-9376" srcset="./../../../wp-content/uploads/2021/06/Polygon_social-1024x576.png 1024w, ./../../../wp-content/uploads/2021/06/Polygon_social-300x169.png 300w, ./../../../wp-content/uploads/2021/06/Polygon_social-768x432.png 768w, ./../../../wp-content/uploads/2021/06/Polygon_social-585x329.png 585w, ./../../../wp-content/uploads/2021/06/Polygon_social.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>This AMA session with Hamzah Khan, <a href="http://defipulse.com/polygon">Polygon</a>’s Head of DeFi, occurred on May 28th, 2021. The following is a transcription of the live from DeFi Pulse’s AMA Discord channel. To participate in future AMAs, please join our <a href="https://discord.gg/Gx4TCTk">Discord</a> and follow us on <a href="https://twitter.com/defipulse">Twitter</a>.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p><strong>Chaz Schmidt:</strong> <em>Hello @Hamzah and welcome everyone! Thanks for joining us today.</em></p>
+
+
+
+<p><em>Hamzah will be answering the questions we&#8217;ve collected from the community throughout the week. Shout out to all of you who submitted questions!</em></p>
+
+
+
+<p><strong>How are you today Hamzah?</strong></p>
+
+
+
+<p><strong>Hamzah Khan:</strong> I am good, thanks for having me guys, Real pleasure being with one of the most respected communities across all of DeFi.&nbsp;<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p><strong>CS:</strong> <em>The pleasure is all ours. Hamzah is Head of DeFi at Polygon for those who may be unfamiliar.</em></p>
+
+
+
+<p><em>Let&#8217;s dive right into the questions:</em> <strong>Can you give a brief intro to Polygon (formerly Matic Network) for the audience?</strong></p>
+
+
+
+<p><strong>Hamzah:</strong> Polygon is an Ethereum scaling solution with a suite of projects including the Plasma and PoS chain. Ton of DeFi, NFT and Gaming activites happening on all and we are happy to scale ETH with our unique, battle tested and production ready chains.</p>
+
+
+
+<p><strong>CS:</strong> <em>Polygon has become very popular indeed.&nbsp;</em></p>
+
+
+
+<p><em>Community members wanted to know: </em><strong>What’s the difference between Proof of Stake (PoS) Bridge and the Plasma Bridge?</strong></p>
+
+
+
+<p><strong>Hamzah: </strong>Definitely &#8211; PoS and Plasma are different security standards that support different assets right now. PoS &#8211; Proof of Stake validated by our 100 validators currently on ETH mainnet which share (not completely) its security. Plasma is another L2 scaling solution popular back in 2018, also supports MATIC tokens (because they were the first ones on the chain) and has 7 days withdrawl time (trx finality) &#8211; inherits completely from ETH&#8217;s security.</p>
+
+
+
+<p><strong>CS: </strong><em>Thanks for that thorough answer. You actually touched on a question we received on Twitter this week:</em> <strong>Why might a DApp prefer a sidechain over a standalone rollup solution?</strong></p>
+
+
+
+<p><strong>Hamzah:</strong>&nbsp; Definitely happy to provide more clarity on this, I have multiple reasons &#8211;</p>
+
+
+
+<p>1. Battle tested &#8211; Polygon PoS and Plasma chains have been production ready for more than a year with increasing decentralization and optimizations in checkpointing to ETH whilst maintaining a decent UX in exit times. Gratefully we havent seen any malcious activity or failure of the network till now. The community completely understands the EVM friendly nature of the chain and can quickly deploy (unlike porting period of months on some other solutons).</p>
+
+
+
+<p>2. Spectrum of decentralization &#8211; Our PoS commit chain is not the most decentralized solution out there and we are aware of it. To improve on this front we have increased validators from 80 to 100 in less than 2 months and continuing to do so more in the future. On the decntrlzn spectrum, we are in between rollups and pure sidechains, but this solution is live and moving closely towards gradual decentralization like addition of multisigs and eventual timelock governance</p>
+
+
+
+<p>3. gas fees &#8211; Community IMO is overestimating the gas fees reduction on some of these rollups. They are significantly centralized on the L2 side as some of them will start with a single operator and no clear roadmap to decentralize. On the gas fees because they send all trxs to ETH mainnet and pushing proofs on-chain will congest ETH more and the gas fees on these L2s will atleast be single digit dollars if not more.&nbsp;</p>
+
+
+
+<p>This is fine for &#8220;whales&#8221; and &#8220;shrimps&#8221; but not the retail that #DeFiForAll Polygon is trying to include. So we are very well positioned in that sense not just for DeFi but others too.</p>
+
+
+
+<p>I hope that answers a few of the doubts.&nbsp;<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p><strong>CS:</strong> <em>You make excellent points regarding Matic Network, its history, and more importantly where it is headed.</em></p>
+
+
+
+<p><em>I for one was excited to see the </em><a href="https://blog.polygon.technology/announcing-polygon-sdk-the-gateway-to-multi-chain-ethereum-8ad580ec387"><em>Polygon SDK announcement</em></a><em> earlier this week.&nbsp;</em></p>
+
+
+
+<p><em>Speaking of the future&#8230;. </em><strong>What will the competitive landscape for scaling solution protocols look like in the future &#8211; let&#8217;s say 5 years (e.g. consolidation or growth)? </strong><em>Though feel free to adjust the time frame as you see fit.</em></p>
+
+
+
+<p><strong>Hamzah:</strong> I think it&#8217;s super growth time for L2s as that&#8217;s the way DeFi scales to a million users. We believe it won&#8217;t be a winner takes all market &#8211; Ethereum hosts a vast variety of applications and application specific L2 solutions might also come up, and that would be very interesting. As a matter of fact, SDK caters exactly that avenue.</p>
+
+
+
+<p><strong>CS: Can you elaborate a bit on what the SDK means for Polygon and the wider ecosystem?</strong></p>
+
+
+
+<p><strong>Hamzah:</strong> It means Ethereum can finally be a multi-chain system &#8211; in an increasingly fragmented space it will become hard to scale on specific L2s. Polygon with the suite of shared security and standalone chains brings a modularity that we have seen by AWS in Web2. Projects can use OR, ZK, Standalone or even Enterprise solution chains as per their use case.</p>
+
+
+
+<p><strong>CS: </strong><em>That&#8217;s really cool sounding. We’re running a bit short on time, but I believe we have time for one more question.</em></p>
+
+
+
+<p><strong>What area or solution that is not currently being worked on do you Hamzah think is the most important for the Ethereum ecosystem?</strong></p>
+
+
+
+<p><strong>Hamzah:</strong> Learning from other L1s and incorporating some of their best practices. Ethereum became what it is today by challenging the status quo of Bitcoin community. But if we remain maximalists in this sense and not willing to adapt it will become difficult for us to compete with other L1s in the not-so-distant future.</p>
+
+
+
+<p>Not sure if the community will hate me for saying this or not, but yeah my 2 cents. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f61b.png" alt="😛" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p><strong>CS:</strong> <em>I think anyone can appreciate honesty. Especially if it comes with good intentions.</em></p>
+
+
+
+<p><em>Thank you for making time in your busy schedule to be with us.</em> <strong>Do you have any else you’d like to share before we wrap things up?</strong></p>
+
+
+
+<p><strong>Hamzah:</strong> Nope, thanks a ton for having me.&nbsp;<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p><strong>CS:</strong> <em>Well thanks again for coming Hamzah. We know you have to go, but we appreciate you coming today</em></p>
+
+
+
+<p><em>And thank you all for attending today!</em></p>
+
+
+
+<p><em>See you next time for another intriguing AMA.</em></p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p>Follow us on <a href="https://twitter.com/defipulse">Twitter</a> to hear about the latest AMA and check out <a href="https://polygon.technology/">Polygon</a> to learn more about the potential of a multi-chain future enabled by Polygon SDK.<em><br><br>Disclosure: This post is paid promotion; We’ve partnered with Polygon to help educate and inform the community about Polygon&#8217;s scaling technology. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/06/03/ama-with-polygon-hamzah-khan/index.html">AMA with Polygon’s Head of DeFi Hamzah Khan</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Slingshot &#8211; A Next Generation Decentralized Trading Platform</title>
+		<link>./../../../2021/05/12/slingshot-polygon/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Wed, 12 May 2021 17:03:51 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[dex aggregator]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[polygon]]></category>
+		<category><![CDATA[slingshot]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9214</guid>
+
+					<description><![CDATA[<p>Did you know that the combination of how the Earth’s gravity warps spacetime and the speed at which a satellite...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/12/slingshot-polygon/index.html">Slingshot &#8211; A Next Generation Decentralized Trading Platform</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Did you know that the combination of how the Earth’s gravity warps spacetime and the speed at which a satellite travels effectively allows satellites to time travel into the future nanoseconds at time? If you wanted to time travel, theoretically you’d need two things: a massive black hole and and an incredibly fast spacecraft.&nbsp;</p>
+
+
+
+<p>Many have described DeFi as a liquidity black hole, sucking in anything that comes near it. And now, there’s a craft capable of speeds fast enough to <em>slingshot</em> us into the future. <a href="https://app.slingshot.finance/"><strong>Slingshot</strong></a><strong> is a next generation decentralized trading platform which aggregates the top liquidity sources in order to give traders like you the best prices, speed and execution on trades.&nbsp;</strong></p>
+
+
+
+<p>In late February, Slingshot launched its closed beta with a unique way for users to earn their invite. The first 100 players to complete the race, a sci-fi themed browser game, won access to the beta and NFT prizes for having the best speedrun times. One player even finished the race so quickly they were <a href="https://twitter.com/AgentProtocol/status/1365828515489345537">accused of being a robot</a>. While a race may seem odd, it was arguably the perfect primer for the futuristic look and feel of Slingshot’s smooth trading interface.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://slingshot.finance/"><img loading="lazy" width="443" height="46" src="./../../../wp-content/uploads/2021/05/slingshot-logo.png" alt="" class="wp-image-9291" srcset="./../../../wp-content/uploads/2021/05/slingshot-logo.png 443w, ./../../../wp-content/uploads/2021/05/slingshot-logo-300x31.png 300w" sizes="(max-width: 443px) 100vw, 443px" /></a></figure></div>
+
+
+
+<p>You can now try it for yourself today because <a href="https://app.slingshot.finance/"><strong>Slingshot</strong></a><strong> is live on Polygon</strong>. Slingshot chose to launch their first Liquidity Zone on Polygon because it fit with their mission to provide traders with the best trading experience.</p>
+
+
+
+<h2>Slingshot is tailored for a next level trading experience</h2>
+
+
+
+<p>To quote its early <a href="https://twitter.com/i/status/1329235851813953537">teaser</a> video, Slingshot wants you to “fall in love with DeFi all over again.” And to be honest, the video game-like UI/UX of Slingshot is rather alluring. Between the live price chart, trade history, scrolling price ticker, and all the flashes of red and green when token prices update, you feel like you’re behind the console of a trading machine.</p>
+
+
+
+<p>Speedrunning was indeed an apt way to introduce users to Slingshot, a trading platform built for speed. The flow of trading on Slingshot is rather intuitive. You can either start by searching for a token to trade using the search bar or click the + sign on the left side to bookmark a token. Next, select whether you want to buy or sell and the amount you want to spend. And voila, Slingshot finds you the best price for your trade aggregated from the top liquidity sources.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://app.slingshot.finance/"><img loading="lazy" width="1024" height="506" src="./../../../wp-content/uploads/2021/05/slingshot-ui-1-1024x506.png" alt="" class="wp-image-9293" srcset="./../../../wp-content/uploads/2021/05/slingshot-ui-1-1024x506.png 1024w, ./../../../wp-content/uploads/2021/05/slingshot-ui-1-300x148.png 300w, ./../../../wp-content/uploads/2021/05/slingshot-ui-1-768x379.png 768w, ./../../../wp-content/uploads/2021/05/slingshot-ui-1-1536x759.png 1536w, ./../../../wp-content/uploads/2021/05/slingshot-ui-1-585x289.png 585w, ./../../../wp-content/uploads/2021/05/slingshot-ui-1.png 1917w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></div>
+
+
+
+<h3>A polished UI with a buttery smooth trade flow</h3>
+
+
+
+<p>When trading bookmarked tokens, this entire process flows smoothly from left to right allowing you to trade incredibly fast, especially on Polygon. While Polygon is the only publicly available Liquidity Zone today, beta users can tell you how awesome it is to seamlessly switch between Liquidity Zones. Slingshot allows you to search for tokens across Liquidity Zones and then filters the list of available tokens according to the Liquidity Zone of the token you selected. So say you’re connected to Ethereum but want to buy MATIC on Polygon. There’s no need to pre-switch your network in Metamask because Slingshot handles this as part of the trade flow. Don’t worry though; you’ll get the chance to see what this is like soon enough.</p>
+
+
+
+<p>The more subtle details in the user interface also really add polish to the entire trading experience. For example, when you hover your mouse over the ticker at the top, it feels as if time slows as the scrolling ticker slows in reaction to your cursor. And when you hover over the chart, the cursor becomes a crosshair which follows the line of the price chart. Every little bit adds up to make trading frictionless and fun again.</p>
+
+
+
+<h2>Test drive the future of trading with Slingshot</h2>
+
+
+
+<p><strong>Slingshot is offering our community members an awesome DFP-themed golden grapes NFT for FREE to celebrate the launch.</strong> To be eligible to receive the NFT, be sure to <a href="https://tinyurl.com/4yz5p8v4">fill out this form</a> with your wallet address.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-1024x576.jpg" alt="" class="wp-image-9301" srcset="./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-300x169.jpg 300w, ./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-768x432.jpg 768w, ./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-1200x675.jpg 1200w, ./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-585x329.jpg 585w, ./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Try <a href="https://slingshot.finance/">Slingshot</a> live on Polygon.</strong> As previously mentioned, Polygon is Slingshot’s first Liquidity Zone available to the public. Be the first to hear about new features and Liquidity Zones by following Slingshot on <a href="https://twitter.com/SlingshotCrypto">Twitter</a> and join the Slingshot community on <a href="https://discord.gg/KnpjtDkaRQ">Discord</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Slingshot to help educate and inform the community about the launch of Slingshot on Polygon. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/12/slingshot-polygon/index.html">Slingshot &#8211; A Next Generation Decentralized Trading Platform</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

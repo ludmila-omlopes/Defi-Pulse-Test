@@ -12,21 +12,23 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 May 2021 00:51:41 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 13 Dec 2020 21:59:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Harvest Finance &#8211; Industrial Automated Yield Farming for All</title>
 		<link>./../../../2020/12/13/harvest-finance-drop/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 13 Dec 2020 16:59:09 +0000</pubDate>
-				<category><![CDATA[Protocol]]></category>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Sun, 13 Dec 2020 21:59:09 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Protocol]]></category>
 		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[aggregator]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[harvest]]></category>
@@ -37,7 +39,9 @@
 		<category><![CDATA[yieldfarming]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8734</guid>
 
-					<description><![CDATA[Yield farming allows projects to bootstrap their communities through incentives created by distributing their protocol’s token, essentially killing two birds...]]></description>
+					<description><![CDATA[<p>Yield farming allows projects to bootstrap their communities through incentives created by distributing their protocol’s token, essentially killing two birds...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/12/13/harvest-finance-drop/index.html">Harvest Finance &#8211; Industrial Automated Yield Farming for All</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Yield farming allows projects to bootstrap their communities through incentives created by distributing their protocol’s token, essentially killing two birds with one stone. While these farming opportunities are open to all participants, making the most of these opportunities requires a certain amount of capital and expertise. And nowadays, yield farming has practically become a full-time job.</p>
 
@@ -123,7 +127,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1024x1024.jpeg" alt="" class="wp-image-8759" width="512" height="512" srcset="./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1024x1024.jpeg 1024w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-300x300.jpeg 300w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-150x150.jpeg 150w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-768x768.jpeg 768w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1536x1536.jpeg 1536w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-2048x2048.jpeg 2048w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1568x1568.jpeg 1568w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption>Artwork from Harvest community member <a href="https://twitter.com/stulmtuno4273/status/1330292559277682693/photo/3">Sumire</a></figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/12/farmer-chad-snow1-1-1024x1024.jpeg" alt="" class="wp-image-8759" width="512" height="512" srcset="./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1024x1024.jpeg 1024w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-300x300.jpeg 300w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-150x150.jpeg 150w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-768x768.jpeg 768w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1536x1536.jpeg 1536w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-2048x2048.jpeg 2048w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1568x1568.jpeg 1568w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption>Artwork from Harvest community member <a href="https://twitter.com/stulmtuno4273/status/1330292559277682693/photo/3">Sumire</a></figcaption></figure></div>
 
 
 
@@ -152,6 +156,7 @@
 
 
 <p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Harvest to help educate and inform the community about the Harvest Cooperative. </em><em>DeFi Pulse received FARM tokens as part of its payment. </em><em>As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2020/12/13/harvest-finance-drop/index.html">Harvest Finance &#8211; Industrial Automated Yield Farming for All</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -161,7 +166,7 @@
 		<title>Rari Capital V2: A Yield Maximizing Robo-Advisor for Any Risk Appetite</title>
 		<link>./../../../2020/10/19/rari-capital-v2/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Mon, 19 Oct 2020 13:59:29 +0000</pubDate>
 				<category><![CDATA[Protocol]]></category>
 		<category><![CDATA[aggregator]]></category>
@@ -172,7 +177,9 @@
 		<category><![CDATA[yieldfarming]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8580</guid>
 
-					<description><![CDATA[As any yield farmer can tell you, chasing higher yields can be a risky endeavour and in most cases is...]]></description>
+					<description><![CDATA[<p>As any yield farmer can tell you, chasing higher yields can be a risky endeavour and in most cases is...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/10/19/rari-capital-v2/index.html">Rari Capital V2: A Yield Maximizing Robo-Advisor for Any Risk Appetite</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>As any yield farmer can tell you, chasing higher yields can be a risky endeavour and in most cases is not a sustainable strategy for the average user. It’s all too easy to get caught up in hype and be blinded by outrageous yields. If you aren’t careful or are simply unaware of risks such as hidden backdoors in unaudited smart contracts, it becomes increasingly possible that you could get burned. Getting exploited, “rug pulled”, and otherwise losing your investment is devastating. This sort of risk is intolerable for most investors. Although, that doesn’t mean those same investors aren’t out to maximize their yields; They simply want to strike the right balance of risk versus reward. This is exactly what <a href="https://www.rari.capital/">Rari Capital</a> aims to offer users: a way to maximize DeFi returns while minimizing risks. <strong>Rari Capital V2, launching October 20th, 2020, has even more to offer than its predecessor.<br></strong><br>Rari Capital is a robo-advisor for DeFi which optimizes for the highest possible yield. Rari Capital&#8217;s ‘DeRisking as a Service’ approach is largely what sets them apart from the pack. Armed with the experience of having co-founded Ambo (later acquired by MyCrypto), the Rari team has experienced first-hand the value of earning the community’s trust. So when they set out to build a protocol that anyone can use to maximize returns in DeFi, risk management and transparency were top priorities. If you haven’t already, we recommend checking out <a href="https://defipulse.com/blog/rari-capital/">our coverage of Rari Capital V1’s guarded launch</a>.<br><br>The Rari team has been busy since we last checked in with them developing features and integrations, perfecting new strategies, and preparing for the<strong> </strong>launch of Rari Capital V2.</p>
 
@@ -271,6 +278,7 @@
 
 
 <p><strong><em>Disclosure: This post is part a promotional series; We’ve partnered with Rari Capital to help educate and inform the community about the launch of Rari Capital V2. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></strong></p>
+<p>The post <a rel="nofollow" href="./../../../2020/10/19/rari-capital-v2/index.html">Rari Capital V2: A Yield Maximizing Robo-Advisor for Any Risk Appetite</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -280,12 +288,11 @@
 		<title>Build Sustainable DApps with your own X Blaster with Custom Fees</title>
 		<link>./../../../2020/05/18/build-sustainable-dapps-with-your-own-x-blaster-with-custom-fees/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Mon, 18 May 2020 14:16:08 +0000</pubDate>
-				<category><![CDATA[Developer Docs]]></category>
+				<category><![CDATA[Community]]></category>
 		<category><![CDATA[DEX]]></category>
 		<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[New Features]]></category>
 		<category><![CDATA[aggregator]]></category>
 		<category><![CDATA[developer tools]]></category>
 		<category><![CDATA[Dex.Ag]]></category>
@@ -297,7 +304,9 @@
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8256</guid>
 
-					<description><![CDATA[TLDR: Integrating DEX.AG&#8217;s X Blaster with custom fees into your platform provides your users or smart contract with convenient native...]]></description>
+					<description><![CDATA[<p>TLDR: Integrating DEX.AG&#8217;s X Blaster with custom fees into your platform provides your users or smart contract with convenient native...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/05/18/build-sustainable-dapps-with-your-own-x-blaster-with-custom-fees/index.html">Build Sustainable DApps with your own X Blaster with Custom Fees</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p><em><strong>TLDR: </strong><a href="https://docs.dex.ag/proxy-contract">Integrating DEX.AG&#8217;s X Blaster with custom fees</a> into your platform provides your users or smart contract with convenient native liquidity while allowing you to build a sustainable business model.</em></p>
 
@@ -392,6 +401,7 @@
 
 
 <p>Give your users what they want and get your own X Blaster today! Head over to our <a href="https://docs.dex.ag/proxy-contract">API/SDK documention</a> to get started.<br></p>
+<p>The post <a rel="nofollow" href="./../../../2020/05/18/build-sustainable-dapps-with-your-own-x-blaster-with-custom-fees/index.html">Build Sustainable DApps with your own X Blaster with Custom Fees</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

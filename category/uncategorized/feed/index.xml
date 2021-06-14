@@ -12,117 +12,142 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 19 Apr 2021 07:30:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 May 2021 19:37:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
-		<title>How to join the DeFi Pulse Leaderboard</title>
-		<link>./../../../2021/04/19/how-to-join-the-defi-pulse-leaderboard/index.html</link>
+		<title>Index Investing in a Decentralized World</title>
+		<link>./../../../2021/05/11/btc2x-fli/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Mon, 19 Apr 2021 07:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[Yule Andrade]]></dc:creator>
+		<pubDate>Tue, 11 May 2021 19:37:34 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://defipulse.com/blog/?p=8591</guid>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[BTC2x-FLI]]></category>
+		<category><![CDATA[flexible leverage index]]></category>
+		<category><![CDATA[fli]]></category>
+		<category><![CDATA[index]]></category>
+		<category><![CDATA[index-coop]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9254</guid>
 
-					<description><![CDATA[DeFi and the greater crypto ecosystem are experiencing an explosion in 2020. TVL has grown more than 10x since March,...]]></description>
+					<description><![CDATA[<p>Following its stated goal to establish standards that the community can stand behind, DeFi Pulse (through Pulse Inc) has developed...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/11/btc2x-fli/index.html">Index Investing in a Decentralized World</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<p>DeFi and the greater crypto ecosystem are experiencing an explosion in 2020. TVL has grown more than 10x since March, new projects with novel distribution models and incentive mechanisms are launched week after week. The yield farming craze has stress-tested all the major DeFi protocols in the past four months, and the industry as a whole is going through a phase of extraordinary growth.</p>
+<p>Following its stated goal to establish standards that the community can stand behind, <a href="https://defipulse.com/" target="_blank" rel="noreferrer noopener">DeFi Pulse</a> (through <a rel="noreferrer noopener" href="https://pulse.inc/" target="_blank">Pulse Inc</a>) has developed different methodologies to tackle the market&#8217;s increased interest in tokenized indices, which are spreading wildly across DeFi and becoming more and more popular every day.</p>
 
 
 
-<p>The ecosystem moves at breakneck speed and so we must as well. To get started, we want to clarify how projects can partner with DeFi Pulse to join the DeFi Pulse Leaderboard.&nbsp;</p>
+<p><strong><strong>Today, the second product of the FLI series, <a href="https://pulseinc.medium.com/flexible-leverage-index-btc2x-fli-launch-755605f45468">the Bitcoin Flexible Leverage Index (BTC2x-FLI), was introduced</a>, and we want to expand into how it works and the story of how it was designed.</strong></strong></p>
 
 
 
-<h2>Here is a step by step guide to the process&nbsp;</h2>
+<figure class="wp-block-image size-large"><img loading="lazy" width="879" height="242" src="./../../../wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-16.15.25-1.png" alt="" class="wp-image-9269" srcset="./../../../wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-16.15.25-1.png 879w, ./../../../wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-16.15.25-1-300x83.png 300w, ./../../../wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-16.15.25-1-768x211.png 768w, ./../../../wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-16.15.25-1-585x161.png 585w" sizes="(max-width: 879px) 100vw, 879px" /></figure>
 
 
 
-<h3><br><strong>1 &#8211; Find out if your project is a good fit on DeFi Pulse.</strong></h3>
+<h2>Index tokens: what are they?</h2>
 
 
 
-<p><br>Please check the following list and find out if this sounds like the project you’re building.</p>
+<p>Index tokens are similar to TradFi&#8217;s ETFs and ETNs, collective investment funds that seek to track the performance of a benchmark index but offer several advantages over these more traditional instruments, especially for new entrants. Index tokens can also be attractive to passive participants with a lack of time or knowledge of a specific strategy or market.</p>
 
 
 
-<ol><li>Your project is a financial application that uses blockchain infrastructure.<br><br></li><li>The blockchain infrastructure your project is built on is sufficiently decentralized such as Ethereum.<br><br></li><li>Your project locks crypto assets in the protocol’s smart contracts to provide the market with financial products that produce economic activity<br><br></li><li>You have formal audits for your protocol, with a reputable audit firm or sufficient audits from reputable members of the DeFi community.<br><br></li><li>If there are admin keys privileges with your protocol, there is a time lock in place and infinite minting has been disabled.</li></ol>
+<p>Besides keeping track of a specific market, index tokens can also represent structured financial products with sophisticated strategies. The <a href="https://www.pulse.inc/flexible-leverage-index" target="_blank" rel="noreferrer noopener">Flexible Leverage Index (FLI)</a> is a prime example, tokenizing a collateralized debt position in a single ERC-20 token to allow investors to have leveraged exposure in one click. While users today enjoy the stress-free leverage FLI’s strategy provides, it took several years for the concept of FLI to come to fruition.</p>
 
 
 
-<h3><strong>2 &#8211; Once you make sure that your project is a fit on DeFi Pulse, you can go ahead and start the onboarding process to the DeFi Pulse Leaderboard!</strong></h3>
+<h2>The birth of the FLI methodology</h2>
 
 
 
-<p><br><em>Please keep in mind that the onboarding process is split in two different phases and additional diligence/review will be done throughout the application process:</em></p>
+<p>Ten years before co-founding DeFi Pulse, <a rel="noreferrer noopener" href="https://www.linkedin.com/in/scott-lewis-2a554430/" target="_blank">Scott Lewis</a> used to work for the global trading and technology firm Susquehanna International Group where, as a derivatives trader, he developed the best strategies to find profitable trades. While working there, he first envisioned the design of the FLI methodology, even though TradFi was not fertile ground to quickly develop these kinds of financial products. </p>
 
 
 
-<ul><li>Submit your project to be featured on the <a href="https://defipulse.com/defi-list">DeFi List</a>.<br></li><li>Technical integration to DeFi Pulse.<br><br></li></ul>
+<p>In Scott&#8217;s words:&nbsp;</p>
 
 
 
-<h4><strong>Submit your project to be featured on the DeFi List</strong><br><br></h4>
+<blockquote class="wp-block-quote"><p><em>“I was using autoregressive models in some of my derivative tradings, and I realized that an index in which the leverage automatically regressed to a target leverage ratio would greatly reduce the product’s rebalancing needs.”</em></p></blockquote>
 
 
 
-<ol><li><strong>Your project needs to add a link to DeFi Pulse on its website.</strong><br><br><ol style="list-style:lower-alpha"><li>Check out these great examples by <a href="https://cream.finance/">Cream.Finance</a> (home page), <a href="https://akropolis.io/">Akropolis</a> (right hand bar) &amp; <a href="https://balancer.finance/">Balancer</a> (bottom of the web page).&nbsp;<br><br>You can <a href="https://drive.google.com/drive/u/2/folders/1jV4fM0Wlgid9zizQL7_Buua1W1nRBTa0">download the DeFi Pulse logo here.</a></li></ol></li></ol>
+<p>The usual way to get leverage in the DeFi space is by understanding and executing a complex series of steps. First, investors need to provide collateral to a given protocol and withdraw debt. Afterward, this debt has to be allocated to that same protocol or a different one, and, depending on the strategy and the amount of required leverage, these steps have to be repeated multiple times. Throughout this process, investors need to continuously monitor the market to ensure they don’t get liquidated. The FLI methodology delegates all the above steps to the issuer, offering the investor a leveraged position with targeted exposure to an asset in the form of an ERC-20 token.</p>
 
 
 
-<ol start="2"><li><strong>Submit your project’s details to be featured on the <a href="https://defipulse.com/defi-list">DeFi List.</a></strong><a href="https://defipulse.com/defi-list"><br></a><br><ol style="list-style:lower-alpha"><li>Fill out the <a href="https://concourseopen.typeform.com/to/fLufMQ?defipulse=xxxxx">DeFi List form here</a>.</li></ol></li></ol>
+<p>The TradFi approach to leveraged ETFs also has other inefficiencies, as Scott’s points out:</p>
 
 
 
-<ol start="3"><li><strong>The DeFi Pulse team will review your project’s application</strong><br><br><ol style="list-style:lower-alpha"><li>If accepted, the project will be added to the DeFi Pulse List.<br><br>Please keep in mind that the DeFi Pulse List is updated regularly on a two week cycle.<br><br></li></ol></li></ol>
+<blockquote class="wp-block-quote"><p><em>“Leverage products frequently track an index that returns the exact leverage ratio each 24 hours period. This inflexibility results in some of these products having to buy and sell a significant amount of assets each and every day. All this trading can create bad returns for the users of these products.”</em></p></blockquote>
 
 
 
-<h4><strong>Once your project is accepted to the DeFi List, it becomes eligible to be added to the DeFi Pulse Leaderboard.</strong> <em>Please keep in mind that additional diligence/review will be done before a project can be added to the leaderboard:</em><br><br></h4>
+<p>Even though the FLI methodology targets a 2x leverage ratio, it uses a tolerance range and an algorithm that reduces rebalancing needs by order of magnitude, thereby increasing the gas efficiency, which translates into direct <strong>savings by the holder</strong>.</p>
 
 
 
-<ol start="4"><li><strong>Once your project is accepted on the DeFi List, a DeFi Pulse team member will get in touch with your team via email, Discord, or Telegram. If your project is ready to begin the process of being added to the DeFi Pulse Leaderboard, the next step will be:</strong><br><br><ol style="list-style:lower-alpha"><li>A DeFi Pulse team member will create a partner channel for your project in <a href="https://discord.com/invite/mzDxADE">Concourse’s Discord server</a> and validate your project&#8217;s proposed framework to count TVL provided on the DeFi List TypeForm from Step 2, with a member of your team.<br><br><br></li></ol></li><li><strong>Your project will be provided with an adapter SDK key, a TypeForm to submit your project’s static content for the project page, and instructions in the Discord partner channel which will allow you to begin work on your project’s adapter.&nbsp;<br></strong><br><ol style="list-style:lower-alpha"><li>You can find more information on how to work on the adapter, here: <a href="https://github.com/ConcourseOpen/DeFi-Pulse-Adapters">Adapter Github Repo</a>.<br><br></li></ol></li></ol>
+<h2>The Bitcoin Flexible Leverage Index (BTC2x-FLI)</h2>
 
 
 
-<ol start="6"><li><strong>Once the adapter is ready, &nbsp;your team will <a href="https://github.com/ConcourseOpen/DeFi-Pulse-Adapters">create a pull request for your project’s adapter</a> and contact DFP on the partner channel.<br></strong><br></li><li><strong>DeFi Pulse Team will review both the TVL adapter and the provided static content.</strong><br><br><ol style="list-style:lower-alpha"><li>The content will be staged for review and monitored for a minimum of 24 hours to ensure that the adapter is working and that the data is accurate.<br><br></li></ol></li><li><strong>Your team will receive a staging link to check the displayed information.</strong><br><br></li><li><strong>Once cleared, your project is ready to be added to the DeFi Pulse Leaderboard Page! <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong><br><br></li></ol>
+<p><strong>BTC2x-FLI</strong>, released today, targets 2x exposure to WBTC price. That means that its price is expected to fluctuate double that of WBTC on average. In other words, if WBTC rises 10% in price, BTC2x-FLI is designed to go up by 20%.&nbsp;</p>
 
 
 
-<p><strong>Special Notes&nbsp;</strong></p>
+<p>We hope that <strong>BTC2x-FLI </strong>as an improved solution for DeFi investors is able to fill a niche in the market as large as its predecessor. ETH2x-FLI has seen explosive growth and achieved a market cap of more than $100M just seven weeks after launching.&nbsp;</p>
 
 
 
-<ul><li>The requirement to link to DeFi Pulse on the website can be waived in certain situations, for example in cases such as Fair Launches or DAO projects where a community vote is required to change or update the frontend development.<br></li></ul>
+<p><strong>ETH2x &#8211; FLI Trading Volume and Market Capitalization</strong></p>
 
 
 
-<h5>If you have any questions, please come chat with us in our <a href="https://discord.gg/Gx4TCTk">Discord</a>.</h5>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="277" src="./../../../wp-content/uploads/2021/05/ETHFLI-1024x277.png" alt="" class="wp-image-9274" srcset="./../../../wp-content/uploads/2021/05/ETHFLI-1024x277.png 1024w, ./../../../wp-content/uploads/2021/05/ETHFLI-300x81.png 300w, ./../../../wp-content/uploads/2021/05/ETHFLI-768x208.png 768w, ./../../../wp-content/uploads/2021/05/ETHFLI-1536x416.png 1536w, ./../../../wp-content/uploads/2021/05/ETHFLI-585x159.png 585w, ./../../../wp-content/uploads/2021/05/ETHFLI.png 1823w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>Source: https://duneanalytics.com/jdcook/Index-Coop</em></figcaption></figure></div>
+
+
+
+<p>You can find out more about the <strong><a rel="noreferrer noopener" href="https://pulseinc.medium.com/flexible-leverage-index-btc2x-fli-launch-755605f45468" target="_blank">BTC2x-FLI specifications here</a>.</strong>&nbsp;</p>
+
+
+
+<h2>Closing thoughts</h2>
+
+
+
+<p>From a far-off dream to a powerful tool improving on traditional markets, the emergence of index tokens shows how much the DeFi ecosystem has evolved in the last year and a half. FLI is only possible thanks to a maturing DeFi ecosystem; its sophisticated strategy crafted into a simple user experience stands as a testament to what&#8217;s possible through our collaborative innovation as an industry. This is one of the many reasons why we’re so excited to be launching more indexes in the FLI series. Learn more about BTC 2x FLI today or view the <a href="https://www.pulse.inc/flexible-leverage-index" target="_blank" rel="noreferrer noopener">FLI methodology here</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/11/btc2x-fli/index.html">Index Investing in a Decentralized World</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Founder Fireside Chat with Ryan Garner of Tracer</title>
-		<link>./../../../2021/04/09/founder-fireside-chat-with-ryan-garner-of-tracer/index.html</link>
+		<title>Founder Fireside Chat with Nour Haridy of Inverse Finance</title>
+		<link>./../../../2021/05/07/founder-fireside-chat-with-nour-haridy-of-inverse-finance/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Fri, 09 Apr 2021 14:56:20 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[lionsmane]]></category>
-		<category><![CDATA[tracer]]></category>
-		<category><![CDATA[tracerdao]]></category>
-		<guid isPermaLink="false">https://defipulse.com/blog/?p=9088</guid>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Fri, 07 May 2021 14:16:24 +0000</pubDate>
+				<category><![CDATA[Founder Fireside Chats]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[inverse]]></category>
+		<category><![CDATA[inverse-finance]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9159</guid>
 
-					<description><![CDATA[The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...]]></description>
+					<description><![CDATA[<p>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/07/founder-fireside-chat-with-nour-haridy-of-inverse-finance/index.html">Founder Fireside Chat with Nour Haridy of Inverse Finance</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Tracer-Header.png" alt="" class="wp-image-9089" width="1024" height="512" srcset="./../../../wp-content/uploads/2021/03/Tracer-Header.png 1024w, ./../../../wp-content/uploads/2021/03/Tracer-Header-300x150.png 300w, ./../../../wp-content/uploads/2021/03/Tracer-Header-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/inverse_blog_header.png" alt="" class="wp-image-9165" width="1024" height="512" srcset="./../../../wp-content/uploads/2021/04/inverse_blog_header.png 1024w, ./../../../wp-content/uploads/2021/04/inverse_blog_header-300x150.png 300w, ./../../../wp-content/uploads/2021/04/inverse_blog_header-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -130,83 +155,63 @@
 
 
 
-<p class="has-medium-font-size">Welcome back! This week we had the opportunity to chat with Ryan Garner, Ex-Augur architect, whose dev team <a href="https://lionsmane.dev/">Lion&#8217;s Mane</a> is partnering with <a href="https://tracer.finance/">Tracer DAO</a> to build innovative financial tools for the future of finance.</p>
+<p class="has-medium-font-size">This week in this installment in our Founder Fireside Chat series, we talked with Nour Haridy, Founder of <a href="https://defipulse.com/inverse">Inverse Finance</a>, about not settling for the conventional approach.</p>
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q1-1.png" alt="" class="wp-image-9026" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q1.png" alt="" class="wp-image-9026" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q1.png 1200w, ./../../../wp-content/uploads/2021/03/Q1-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q1-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q1-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
-<p class="has-medium-font-size">We are building a protocol for creating financial protocols. We refer to this financial protocol generator as the Tracer Factory. While a few existing platforms allow holders of their governance token to vote on what the developers do next including creating new financial protocols, Tracer is fundamentally different. The Tracer Factory allows anyone to create their own financial protocol with the rules they desire and install it into the Factory. </p>
+<p class="has-medium-font-size">I&#8217;m one of many others building Inverse DAO and its ecosystem of DeFi products. I&#8217;d say what sets us apart from others is that we tend to try unconventional solutions to difficult problems. </p>
 
 
 
-<p class="has-medium-font-size">Additionally, the deployment of new financial contracts does not require any developer skills, and is free except for the unavoidable transaction fee. Because Tracer’s Factory is a metaprotocol that is free to use, it is a gift to the world granting broad access to financial tools of equal and better quality than all existing platforms, with reduced overhead cost. This decimates the ability of existing platforms to rent seek. Additionally, we are different in our commitment to decentralisation. </p>
+<p class="has-medium-font-size">For example, we started off by launching a non-tradable governance token and seized free riders tokens in order to increase governance participation. We combined money markets, stablecoins and synthetic assets into a single protocol (Anchor) in an attempt to increase the capital efficiency of all these products together. </p>
 
 
 
-<p class="has-medium-font-size">For Tracer,<strong> governance is not an afterthought that comes years after launch like most products, nor is it simply a way for stakers to signal what they request the core developers to do</strong>. Tracer is fully autonomous and decentralised from genesis, and control over governance was claimed by random community members. This governance has the power to start or stop paying any development team and those teams have no control over the Tracer project any more than these pseudonymous governors allow. </p>
+<p class="has-medium-font-size">Regarding smart contract risk, we resorted to public community reviews as an alternative to the corporate auditing industry. Basically, we&#8217;re about trying new things and having fun.</p>
 
 
 
-<p class="has-medium-font-size">Governance will vote to expand the capability of the Factory and fund the development of user interfaces and growth of the ecosystem. Because Tracer has not received funding, there are no angel investors pressuring Tracer to rent-seek or to have any part of the system be proprietary.</p>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+<p class="has-medium-font-size">Security. No point trusting your assets to a blockchain that has a track record of being insecure (e.g. Ethereum Classic).</p>
 
 
 
-<p class="has-medium-font-size">If it were only possible to have a single peer-to-peer protocol, that protocol would ideally have security equal to the value it secures while being as decentralised as possible while being barely affordable for the average user due to limited scalability. </p>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/Q6.png" alt="" class="wp-image-9134" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/04/Q6.png 1200w, ./../../../wp-content/uploads/2021/04/Q6-300x55.png 300w, ./../../../wp-content/uploads/2021/04/Q6-1024x188.png 1024w, ./../../../wp-content/uploads/2021/04/Q6-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
-<p class="has-medium-font-size">However, this question is based on a false trilemma by implying that such a choice is up to peer-to-peer protocol developers. This choice belongs to users, and their varied preferences will eventually result in many protocols each tailored to the users needs with all protocols efficiently bridged together. </p>
+<p class="has-medium-font-size">I wouldn&#8217;t consider myself an expert on the matter, but I&#8217;d say that it helps to have a strong common interest. </p>
 
 
 
-<p class="has-medium-font-size"><strong>We hope that one day such a question will be irrelevant to ask a developer of a protocol.</strong> To that end we are developing a protocol factory; one that allows community members to create custom financial protocols without approval, effort, or funding that can each handle this trilemma in their own way. </p>
+<p class="has-medium-font-size">In the case of DeFi protocols, that can be a protocol that the community wants to work together to grow.</p>
 
 
 
-<p class="has-medium-font-size">Additionally, each of these financial protocols will be compatible with an array of distributed ledgers that likewise handle this trilemma in ways the users prefer.</p>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q3.png" alt="" class="wp-image-9031" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q3.png 1200w, ./../../../wp-content/uploads/2021/03/Q3-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q3-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q3-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q3-1.png" alt="" class="wp-image-9031" width="1200" height="220"/></figure>
+<p class="has-medium-font-size"><strong>Many DeFi protocols seem to try to replicate products from TradFi which results in products that inherit the same inefficiencies. </strong></p>
 
 
 
-<p class="has-medium-font-size"><strong>Insurance.</strong> The ability for users of DeFi to lose a small percent of their holdings per year in exchange for <strong>being guaranteed they will not lose their locked funds to protocol failure or system exploits will allow a lot more capital to flow into the fringes of DeFi</strong> where there are more experimental and dangerous ideas, that have a greater chance of creating fundamental and powerful innovation.</p>
+<p class="has-medium-font-size">In my opinion, <strong>synthetic assets are very under-explored</strong> and are our best chance at creating entirely new financial products that resemble nothing we&#8217;ve seen before.</p>
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q4-1.png" alt="" class="wp-image-9032" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q4.png" alt="" class="wp-image-9032" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q4.png 1200w, ./../../../wp-content/uploads/2021/03/Q4-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q4-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q4-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
-<p class="has-medium-font-size"><strong>When you look closely, many DeFi projects are a jumble of copied assumptions, code, and methodologies that were never looked at closely from first principles. </strong>When a project is first to market but makes inefficient code, unoptimised formulas, overly cautious design decisions and has system, accounting and operating procedures that are not intuitive…. but seems to be functioning, its surprising how virtually all other DeFi projects will just copy these things with a “if it works, don’t fix it” mentality. </p>
-
-
-
-<p class="has-medium-font-size">As a development team, Lion’s Mane has been tempted by this way of thinking, but in each case, have been better off changing our mind, backtracking and spending more time. While the creators of existing projects may be experts in their field, we believe in the words of Richard Feynman: “I define science another way: Science is the belief in the ignorance of experts&#8221;. </p>
-
-
-
-<p class="has-medium-font-size"><strong>The more innovative something is, the more it strikes at the fundamentals and questions first principles. </strong>These are especially important when you are trying to generalise a protocol that others have managed to rig together for a specific use case.</p>
-
-
-
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="664" src="./../../../wp-content/uploads/2021/04/elon-doge-1-1024x664.png" alt="" class="wp-image-9118" srcset="./../../../wp-content/uploads/2021/04/elon-doge-1-1024x664.png 1024w, ./../../../wp-content/uploads/2021/04/elon-doge-1-300x195.png 300w, ./../../../wp-content/uploads/2021/04/elon-doge-1-768x498.png 768w, ./../../../wp-content/uploads/2021/04/elon-doge-1.png 1300w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p class="has-medium-font-size">This meme sent DOGE up more than 5x and is now causing the SEC to investigate if it is illegal to tweet a picture of a dog LOL.</p>
+<p class="has-medium-font-size">The biggest competitive edge in this space is not having a life.</p>
 
 
 
@@ -214,11 +219,8 @@
 
 
 
-<p class="has-medium-font-size">Thank you to Ryan for taking the time to speak with us. You can find Ryan on Twitter at&nbsp;<a href="https://twitter.com/imkharn">@imkharn</a>. You can learn more about <a href="https://lionsmane.dev/">Lion&#8217;s Mane</a> and <a href="https://tracer.finance/">Tracer</a> by following their respective Twitters at&nbsp;<a href="https://twitter.com/lionsmane_eth">@lionsmane_eth</a> and <a href="https://twitter.com/tracer_finance">@tracer_finance</a>. There&#8217;s also <a href="https://discord.gg/vmVphbCG">Tracer&#8217;s Discord</a> for those looking to jump in the action.</p>
-
-
-
-<p class="has-medium-font-size">And&#8230; <strong>Thank you for reading.&nbsp;</strong>We’d love to hear your thoughts on the series like, for example, which DeFi founders you’d like to see highlighted in the future.</p>
+<p class="has-medium-font-size">While we at DeFi Pulse can&#8217;t recommend not having a life, we would like to take a moment to thank you for reading. And thank you Nour for joining us. You can follow <a href="https://twitter.com/nourharidy">Nour</a> and <a href="https://inverse.finance/">Inverse Finance</a> on <a href="https://twitter.com/InverseFinance">Twitter</a> for more. </p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/07/founder-fireside-chat-with-nour-haridy-of-inverse-finance/index.html">Founder Fireside Chat with Nour Haridy of Inverse Finance</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -228,16 +230,18 @@
 		<title>Founder Fireside Chat with Mervyn Chng of Unagii</title>
 		<link>./../../../2021/04/02/founder-fireside-chat-with-mervyn-chng-of-unagii/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Fri, 02 Apr 2021 19:15:25 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[unagii]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=9083</guid>
 
-					<description><![CDATA[The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...]]></description>
+					<description><![CDATA[<p>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/04/02/founder-fireside-chat-with-mervyn-chng-of-unagii/index.html">Founder Fireside Chat with Mervyn Chng of Unagii</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/04/Unagii-Header.png" alt="" class="wp-image-9101" width="1032" height="520" srcset="./../../../wp-content/uploads/2021/04/Unagii-Header.png 1032w, ./../../../wp-content/uploads/2021/04/Unagii-Header-300x151.png 300w, ./../../../wp-content/uploads/2021/04/Unagii-Header-1024x516.png 1024w, ./../../../wp-content/uploads/2021/04/Unagii-Header-768x387.png 768w" sizes="(max-width: 1032px) 100vw, 1032px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/Unagii-Header.png" alt="" class="wp-image-9101" width="1032" height="520" srcset="./../../../wp-content/uploads/2021/04/Unagii-Header.png 1032w, ./../../../wp-content/uploads/2021/04/Unagii-Header-300x151.png 300w, ./../../../wp-content/uploads/2021/04/Unagii-Header-1024x516.png 1024w, ./../../../wp-content/uploads/2021/04/Unagii-Header-768x387.png 768w" sizes="(max-width: 1032px) 100vw, 1032px" /></figure>
 
 
 
@@ -249,7 +253,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q1-1.png" alt="" class="wp-image-9026" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q1.png" alt="" class="wp-image-9026" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q1.png 1200w, ./../../../wp-content/uploads/2021/03/Q1-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q1-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q1-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -261,7 +265,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -277,7 +281,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q3-1.png" alt="" class="wp-image-9031" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q3.png" alt="" class="wp-image-9031" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q3.png 1200w, ./../../../wp-content/uploads/2021/03/Q3-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q3-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q3-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -289,7 +293,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q4-1.png" alt="" class="wp-image-9032" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q4.png" alt="" class="wp-image-9032" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q4.png 1200w, ./../../../wp-content/uploads/2021/03/Q4-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q4-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q4-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -301,7 +305,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -309,7 +313,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/04/bell-curve-1024x576.jpg" alt="" class="wp-image-9098" srcset="./../../../wp-content/uploads/2021/04/bell-curve-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/04/bell-curve-300x169.jpg 300w, ./../../../wp-content/uploads/2021/04/bell-curve-768x432.jpg 768w, ./../../../wp-content/uploads/2021/04/bell-curve-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/04/bell-curve-1568x882.jpg 1568w, ./../../../wp-content/uploads/2021/04/bell-curve.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="https://defipulse.com/blog/wp-content/uploads/2021/04/bell-curve-1024x576.jpg" alt="" class="wp-image-9098" srcset="./../../../wp-content/uploads/2021/04/bell-curve-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/04/bell-curve-300x169.jpg 300w, ./../../../wp-content/uploads/2021/04/bell-curve-768x432.jpg 768w, ./../../../wp-content/uploads/2021/04/bell-curve-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/04/bell-curve-1568x882.jpg 1568w, ./../../../wp-content/uploads/2021/04/bell-curve.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -326,6 +330,7 @@
 
 
 <p class="has-medium-font-size"><strong>Thank you for reading. </strong>We&#8217;d love to hear your thoughts on the series like, for example, which DeFi founders you&#8217;d like to see highlighted in the future.</p>
+<p>The post <a rel="nofollow" href="./../../../2021/04/02/founder-fireside-chat-with-mervyn-chng-of-unagii/index.html">Founder Fireside Chat with Mervyn Chng of Unagii</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -335,7 +340,7 @@
 		<title>DODO and Proactive Market Making (PMM)</title>
 		<link>./../../../2021/03/29/dodo-and-proactive-market-making/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Mon, 29 Mar 2021 13:00:48 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[DEX]]></category>
@@ -345,13 +350,15 @@
 		<category><![CDATA[PMM]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=9048</guid>
 
-					<description><![CDATA[DODO is a decentralized exchange (DEX) platform powered by a unique Proactive Market Making (PMM) algorithm. DODO’s PMM algorithm was...]]></description>
+					<description><![CDATA[<p>DODO is a decentralized exchange (DEX) platform powered by a unique Proactive Market Making (PMM) algorithm. DODO’s PMM algorithm was...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/03/29/dodo-and-proactive-market-making/index.html">DODO and Proactive Market Making (PMM)</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>DODO is a decentralized exchange (DEX) platform powered by a unique Proactive Market Making (PMM) algorithm. <a href="https://dodoex.io/">DODO</a>’s PMM algorithm was developed entirely in-house by the DODO team iterating on the design of Automated Market Makers (AMMs) to improve capital efficiency, reduce impermanent loss, and minimize slippage for traders. Inspired by their previous work on DDEX, the DODO team set out to abstract the proactive market making concepts popular on order book-based exchanges into a permissionless on-chain liquidity protocol.</p>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://dodoex.io/"><img loading="lazy" width="1024" height="375" src="./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-1024x375.png" alt="" class="wp-image-9050" srcset="./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-1024x375.png 1024w, ./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-300x110.png 300w, ./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-768x282.png 768w, ./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-1536x563.png 1536w, ./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-2048x751.png 2048w, ./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-1568x575.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://dodoex.io/"><img src="https://defipulse.com/blog/wp-content/uploads/2021/03/LOGO-DODO_τö╗µ¥┐-1-1024x375.png" alt="" class="wp-image-9050"/></a></figure>
 
 
 
@@ -412,6 +419,7 @@
 
 
 <p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Partner Program; We’ve partnered with DODO to help educate and inform the community about DODO’s PMM technology. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/03/29/dodo-and-proactive-market-making/index.html">DODO and Proactive Market Making (PMM)</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -421,7 +429,7 @@
 		<title>Founder Fireside Chat with Eric Chen of Injective Protocol</title>
 		<link>./../../../2021/03/26/founder-fireside-chat-with-eric-chen-from-injective-protocol/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Fri, 26 Mar 2021 19:42:10 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[ama]]></category>
@@ -431,9 +439,11 @@
 		<category><![CDATA[interview]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8990</guid>
 
-					<description><![CDATA[The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...]]></description>
+					<description><![CDATA[<p>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/03/26/founder-fireside-chat-with-eric-chen-from-injective-protocol/index.html">Founder Fireside Chat with Eric Chen of Injective Protocol</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Injective-Header-1-2.png" alt="" class="wp-image-9029" width="1024" height="512"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Injective-Header-1.png" alt="" class="wp-image-9029" width="1024" height="512"/></figure>
 
 
 
@@ -445,7 +455,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q1-1.png" alt="" class="wp-image-9026" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q1.png" alt="" class="wp-image-9026" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q1.png 1200w, ./../../../wp-content/uploads/2021/03/Q1-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q1-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q1-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -457,7 +467,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -465,7 +475,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q3-1.png" alt="" class="wp-image-9031" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q3.png" alt="" class="wp-image-9031" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q3.png 1200w, ./../../../wp-content/uploads/2021/03/Q3-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q3-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q3-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -473,7 +483,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q4-1.png" alt="" class="wp-image-9032" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q4.png" alt="" class="wp-image-9032" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q4.png 1200w, ./../../../wp-content/uploads/2021/03/Q4-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q4-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q4-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -481,7 +491,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -498,827 +508,608 @@
 
 
 <p class="has-medium-font-size"><strong>Thank you for reading. </strong>We&#8217;d love to hear your thoughts on the series like, for example, which DeFi founders you&#8217;d like to see highlighted in the future.</p>
+<p>The post <a rel="nofollow" href="./../../../2021/03/26/founder-fireside-chat-with-eric-chen-from-injective-protocol/index.html">Founder Fireside Chat with Eric Chen of Injective Protocol</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>DEXTF &#8211; Permissionless, Oracle-less Asset Management for Everyone</title>
-		<link>./../../../2020/11/01/dextf/index.html</link>
+		<title>Reflexer &#8211; Crypto-Native Stability Built for DeFi</title>
+		<link>./../../../2021/02/21/reflexer/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 01 Nov 2020 20:00:07 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[Assets]]></category>
-		<category><![CDATA[DeFi]]></category>
-		<category><![CDATA[ETF]]></category>
-		<category><![CDATA[fund]]></category>
-		<category><![CDATA[token]]></category>
-		<category><![CDATA[trading]]></category>
-		<guid isPermaLink="false">https://defipulse.com/blog/?p=8640</guid>
-
-					<description><![CDATA[DeFi projects exist on a spectrum of decentralization. Trustlessness is at the heart of decentralization. But the word ‘trustlessness’ in...]]></description>
-										<content:encoded><![CDATA[
-<p>DeFi projects exist on a spectrum of decentralization. Trustlessness is at the heart of decentralization. But the word ‘trustlessness’ in itself is almost an oxymoron because trust is almost never eliminated from the equation but instead is simply shifted from one counterparty to another. The goal is to minimize the required trust in the pursuit of trustlessness. Even our most trustless examples of smart contracts still require a certain amount of trust that the blockchain infrastructure it is built on will continue to function properly. Additionally, there are internal economic and smart contract security risks in DeFi platforms themselves. Looking beyond that, DeFi platforms face external risks like composability with other protocols and even further out is oracle integrity and off-chain infrastructure.&nbsp;</p>
-
-
-
-<p>Adding complexity typically comes with a wider attack surface for smart contracts. Many recent hacks have been caused by oracle manipulation. By simplifying the process of non-custodial asset management, you’re able to limit the attack surface of the average user. This is the guiding principle of DEXTF, permissionless non-custodial oracle-less fund management infrastructure. <a href="http://dextf.com/">DEXTF</a> enables digital-native funds where two parties, the portfolio manager and the investor, which are mutually distrusting of each other can cryptographically verify the status of the funds and enforce their rights directly through a digital wallet.</p>
-
-
-
-<h1>What is DEXTF?</h1>
-
-
-
-<p>DEXTF is an asset management protocol that allows anyone to create, mint, and redeem XTF funds. At present, DEXTF <a href="https://docs.dextf.com/documentation/faq/supported-tokens">supports 44 different assets</a> and funds are soft-limited to 10 tokens although this limit can be changed. The ticker symbol and asset weights are determined by the fund manager when creating the fund. Each XTF fund is an ERC20 token with its own address and contract allowing users to hold, trade, redeem and utilize XTF fund tokens like any other token.</p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-medium is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/11/DEXTF-logo-300x288.png" alt="" class="wp-image-8694" width="300" height="288" srcset="./../../../wp-content/uploads/2020/11/DEXTF-logo-300x288.png 300w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-1024x985.png 1024w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-768x738.png 768w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-1536x1477.png 1536w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-2048x1969.png 2048w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-1568x1508.png 1568w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
-
-
-
-<h1>What makes DEXTF unique?</h1>
-
-
-
-<p>The DEXTF team spotted a gap in the DeFi ETF space for an easy, accessible way for anyone to create and manage funds in DeFi. They sought to create simple and efficient asset management infrastructure that followed the team’s philosophy that only the bare minimum of logic should be on chain. DEXTF does not rely on oracles. The risk of manipulation present in complex oracle or rebalancing mechanisms tends to result in the use of admin keys in order to respond in a timely manner to attacks or exploits. The DEXTF team is skeptical that any protocol with these mechanisms can truly eliminate the need for these admin keys and subsequently the risk of capture these keys pose to the protocol. With DEXTF, there are no oracles to manipulate that can be used to steal or drain the fund; XTFs can only be minted with or redeemed for their underlying weight of tokens.&nbsp;</p>
-
-
-
-<p>DEXTF simply provides a permissionless way to mint new XTF tokens and relies solely on arbitrage and market forces for fund pricing. While only so much logic can be programmed into a smart contract, a community of properly incentivized stakeholders can be the strongest and smartest solution to many problems. Ultimately, reducing ETFs to their simplest form makes XTFs simpler to utilize in a way that is reminiscent of the highly modular design philosophy of UNIX. DEXTF can almost be thought of as a trust-minimized set of building blocks that creates economic incentives and opportunities for the community to be rewarded for taking up each role in the ecosystem.</p>
-
-
-
-<h1>How the DEXTF ecosystem functions</h1>
-
-
-
-<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/10/streamline-icon-coin-jigsaw-2@140x140-1.png" alt="" class="wp-image-8649" width="140" height="140"/></figure></div>
-
-
-
-<p>Let’s break down the four roles in the DEXTF ecosystem to understand how they fit together to create highly liquid XTF token funds that are redeemable for their underlying assets. Investors, fund managers, and liquidity providers are eligible to receive ecosystem rewards for participating but we’ll cover that more later on. The team is also planning to add rewards for arbitrageurs.</p>
-
-
-
-<h2>Investors</h2>
-
-
-
-<p>Those looking to invest in XTF fund tokens can buy existing fund tokens listed on decentralized exchanges like Uniswap. Alternatively, you can mint more XTF fund tokens by providing the underlying tokens although this costs more in gas fees. If you do not have them already, you can purchase the required tokens from Kyber right inside the <a href="https://dapp.dextf.com/">DEXTF interface</a> after selecting your desired fund. I recommend taking a look at DEXTF’s <a href="https://drive.google.com/file/d/1nU7ZrFqjWlPT1AYbdx4mYcT84wLy8jmv/view">video tutorials</a> to see how the fund investment process works.</p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://dapp.dextf.com/"><img loading="lazy" src="./../../../wp-content/uploads/2020/10/Selection_450-1-1024x576.jpg" alt="" class="wp-image-8662" width="768" height="432"/></a></figure></div>
-
-
-
-<h2>Fund Managers</h2>
-
-
-
-<p>The process of creating XTF funds is designed to be simple and self-service. The idea is to promote decentralization by giving anyone the ability to freely and easily <a href="https://dapp.dextf.com/">create funds with idle tokens</a>.&nbsp;</p>
-
-
-
-<p><strong>Anyone can create a fund in 4 easy steps:</strong></p>
-
-
-
-<ol><li>Click the ‘Create Fund’ button and select your fund’s name and ticker symbol</li><li>Select which assets to include in your fund and the weight of each asset</li><li>Assign a risk rating and add a description to your fund</li><li>Finally, launch your fund on the blockchain</li></ol>
-
-
-
-<p>Yet again, I recommend taking a look at DEXTF’s <a href="https://drive.google.com/file/d/1nU7ZrFqjWlPT1AYbdx4mYcT84wLy8jmv/view">video tutorials</a> to see for yourself how it works.</p>
-
-
-
-<p>As of this writing, fund managers are currently able to choose from <a href="https://docs.dextf.com/documentation/faq/supported-tokens">44 different assets</a> with a soft limit of 10 assets wrapped around a single XTF token fund (this limit can be changed) but the DEXTF team plans to gradually expand the list of supported assets. You’ll even be able to create a fund consisting of other XTF fund tokens eventually. The DEXTF team also plans to continue adding new features like fund management fees and new asset types including real world assets such as equity, debt, and options.</p>
-
-
-
-<h2>Liquidity Providers</h2>
-
-
-
-<p>In order for new investors to be able to purchase XTF funds from a DEX, existing XTF fund token holders must provide liquidity. Fund managers and investors can take newly minted XTF tokens and create a pool on Uniswap to earn trading fees and liquidity mining rewards. Liquidity providers are important for ensuring smaller investors can efficiently enter and exit XTF funds while arbitrageurs are able to effectively take advantage of opportunities to drive XTF fund prices in the market.</p>
-
-
-
-<h2>Arbitrageurs</h2>
-
-
-
-<p>As previously mentioned, DEXTF’s oracle-less design relies on market forces to fairly price XTF funds. When the price of an XTF fund token differs from the value of its underlying assets, it’s up to arbitrageurs to seize the opportunity, balancing out price inefficiencies in the market. For example, an arbitrageur that spots an XTF token that is overvalued on Uniswap can provide the underlying tokens to mint and sell new XTF tokens. This action rewards the arbitrageur with profit for keeping the XTF fund properly priced and also pays trading fees to the pool’s liquidity providers. Arbitrageurs are vital to the DEXTF ecosystem because they indirectly provide price information to the protocol through their actions which eliminates the need for the oracle. To reward their participation, DEXTF is planning to provide ecosystem rewards to arbitrageurs soon.</p>
-
-
-
-<h1>DEXTF Governance Token and Ecosystem Rewards</h1>
-
-
-
-<p>DEXTF is an ERC20 token created to govern the DEXTF protocol. DEXTF tokens can be used to vote on proposals for potential protocol changes including the adjustment of system parameters like management fee factors or interest rate algorithms. DEXTF holders may also delegate their voting power to another address or delegate who may propose, vote on, and execute proposals on their behalf.</p>
-
-
-
-<p>Additionally, the distribution of DEXTF tokens has been designed to reward network participants for performance, liquidity, volume and other interesting metrics in an effort to increase adoption of the DEXTF Dapp and XTF token funds.</p>
-
-
-
-<p><img loading="lazy" src="https://lh6.googleusercontent.com/hVAdkELzRHVejxtxsGI9rRL0GfjKZbQq9IA2jpw2sV-1fR-7CyNr4OdJ7ODtftRPn4QBzRHmTdkhqIQ2UuIunExFcexO9S9p4tzIPIINxjDDcQ1zaDEaO2KpbBsYUsD0hme14Grc" width="624" height="348"></p>
-
-
-
-<h2>DEXTF Rewards</h2>
-
-
-
-<p>DEXTF Rewards fall into three categories: Monthly Incentive Program (for Fund Managers and Investors), Milestone-based Incentive Program (for Fund Managers) and Liquidity Mining Incentive Program (for any user). These rewards are to be distributed over a 5 year period to encourage long-term adoption.<br><br>Users are eligible to receive DEXTF rewards for performing the following actions:</p>
-
-
-
-<h3>Launch a new XTF fund token&nbsp;</h3>
-
-
-
-<p>You can receive DEXTF tokens for launching new XTF fund tokens by selecting the underlying assets and relative weights. 17,000,000 DEXTF tokens or 17% of the total supply is reserved for monthly incentives for being one of the top funds, top new funds, and top performing new funds.</p>
-
-
-
-<p>5,000,000 DEXTF or 5% of the total supply is set aside for Milestone Incentives, more specifically for the first funds to cross certain milestones. Learn more details about <a href="https://medium.com/dextf/intro-to-dextf-tokenomics-and-governance-aa0b620d959d">DEXTF incentives</a>.</p>
-
-
-
-<p>It’s worth noting that when you take your idle tokens and launch your own fund, you’re competing to win a ratio of DEXTF rewards relative to the total. You can find the list of supported tokens <a href="https://docs.dextf.com/documentation/faq/supported-tokens">here</a>.</p>
-
-
-
-<h3>Minting of XTF fund tokens</h3>
-
-
-
-<p>You can receive DEXTF tokens for either minting XTF fund tokens via in kind contribution of the underlyings or through KyberSwap (except for tokens that are currently not supported by Kyber itself in which case a link to Paraswap will be provided to secure the missing tokens). 3,000,000 DEXTF or 3% of the total supply is set aside for Investors’ Monthly Incentives. The top 20 investors are eligible to receive a share of these rewards each month.</p>
-
-
-
-<h3>Liquidity Mining</h3>
-
-
-
-<p>You can receive DEXTF tokens for providing liquidity to the whitelisted Uniswap pools with XTF pairings. Out of the total  25,000,000 of all DEXTF tokens reserved for liquidity miners, 30% of it are reserved for the DEXTF/ETH pool LPs while the remaining 70% or 17,500,000 DEXTF are distributed across all other pools proportionally to the size of each pool in USDT terms. You can contact the DEXTF team at <a href="mailto:request@dextf.com">requests@dextf.com</a> to request a pool be whitelisted.</p>
-
-
-
-<h3>Distribution Schedule</h3>
-
-
-
-<div class="wp-block-image"><figure class="alignleft size-large"><img loading="lazy" width="140" height="140" src="./../../../wp-content/uploads/2020/10/streamline-icon-hourglass-coins@140x140.png" alt="" class="wp-image-8653"/></figure></div>
-
-
-
-<p>Monthly Incentive Program rewards are streamed daily to a unique smart contract, starting from the end of term plus 1 day. Terms start on 15th of the month and ends on the 14th of following month. DEXTF liquidity mining rewards are streamed every block. Reward tokens are claimable in full only after 30 days. Liquidity providers receive a 10% bonus reward in DEXTF for staying for the full term.</p>
-
-
-
-<p>For example, let’s say you started providing liquidity on November 15th and continued to do so for one month (so until December 14th), then you would only fully receive the rewards for that month of providing liquidity until January 15th, 2021.</p>
-
-
-
-<p>See here for the <a href="https://medium.com/dextf/liquidity-mining-program-update-bca33057befe">latest update regarding the liquidity mining program</a>.</p>
-
-
-
-<h1>What’s next for DEXTF?</h1>
-
-
-
-<div class="wp-block-image"><figure class="alignright size-large"><img src="./../../../wp-content/uploads/2020/10/streamline-icon-saving-increase-2@140x140-1.png" alt="" class="wp-image-8651"/></figure></div>
-
-
-
-<p><a href="https://medium.com/dextf/what-are-structured-tokens-introducing-dexsts-b87474cba078">Decentralized Structured Tokens</a> (DEXSTs) are hybrid tokens with adjustable risk-return profiles, better suited to express non-linear market views. DEXSTs can utilize yield generating assets, derivatives, synthetics, and options from many different DeFi projects. Incorporating these sophisticated assets allows DEXSTs to take advantage of more opportunities in the market and allows their creators to adjust the risk-return profile to cater to a variety of market views.&nbsp;</p>
-
-
-
-<h2>Capital Protected Structured Token (CPST)</h2>
-
-
-
-<p>The first Decentralized Structured Token (DEXST) is a <a href="https://medium.com/dextf/what-are-structured-tokens-introducing-dexsts-b87474cba078">Capital Protected Structured Token (CPST)</a> for ETH.&nbsp; As the name implies, Capital Protected Structured Tokens attempt to protect you from potential downside to your capital, ETH in this case, while maintaining exposure to the potential upside. CPSTs can be designed to be anti-fragile, suitable for any market conditions potentially performing best when the market is volatile in a range-bound market.</p>
-
-
-
-<p class="has-text-align-center"> <img class="wp-image-8660" style="width: 140px;" src="./../../../wp-content/uploads/2020/10/streamline-icon-bear-market-1@140x140-1.png" alt=""><img class="wp-image-8659" style="width: 140px;" src="./../../../wp-content/uploads/2020/10/streamline-icon-bull-market-1@140x140-1.png" alt=""></p>
-
-
-
-<p>The first iteration of CPST was launched in late September 2020. In the time since, the DEXTF team has worked with Opyn and UMA to incorporate feedback from the first iteration to co-build the next iteration of the primitive which could generate sustainable liquidity making it attractive to buyers. New CPSTs will be using UMA’s Zero-Coupon Bonds, a longer maturity version of the yield dollar, and a longer maturity Opyn call option with June 2021 expiry. The idea is to create a floor value of sorts for the underlying ETH but still allow investors to participate in any upside. So if you’re bullish but don’t want to remain fully exposed, CPSTs offer an efficient way to invest.</p>
-
-
-
-<h1>Closing Thoughts</h1>
-
-
-
-<p>The DEXTF team has built simple yet sophisticated fund management infrastructure that anyone can take advantage of to manage their portfolio. The permissionless and oracle-less design of DEXTF makes it highly scalable and resistant to capture or manipulation. DEXTF is also working in partnership with many prominent members of the DeFi community such as Opyn, UMA, Kyber, Ren Alliance, Set Protocol, and so many more to expand their already flexible set of components. All the necessary components and incentives are there for any community member to build or participate in an efficient ecosystem around digital-native funds and be rewarded for doing so.</p>
-
-
-
-<p>What are you waiting for? Go explore <a href="https://dapp.dextf.com/">DEXTF’s interface</a> and scroll through the existing funds. Try making your own fund. If you’d like a guided tour, <a href="https://drive.google.com/file/d/1nU7ZrFqjWlPT1AYbdx4mYcT84wLy8jmv/view">check out these video tutorials</a> which teach you how to create a fund, invest in funds, and redeem funds for their underlying assets. To keep up with everything happening in the DEXTF community, jump with your preferred platform <a href="https://discord.gg/vdvhVZx">Discord</a>, <a href="https://mobile.twitter.com/dextfprotocol">Twitter</a>, <a href="https://medium.com/@DEXTF">Medium</a>, <a href="https://t.me/dextfprotocol">Telegram</a>.</p>
-
-
-
-<p><strong><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with DEXTF to help educate and inform the community about the DEXTF Ecosystem. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></strong></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>3F Mutual &#8211; Collective Insurance Against MakerDAO Risks</title>
-		<link>./../../../2020/10/25/3f-mutual/index.html</link>
-		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 25 Oct 2020 20:13:35 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[dai]]></category>
-		<category><![CDATA[DeFi]]></category>
-		<category><![CDATA[finance]]></category>
-		<category><![CDATA[hakka]]></category>
-		<category><![CDATA[insurance]]></category>
-		<category><![CDATA[maker]]></category>
-		<category><![CDATA[MakerDAO]]></category>
-		<guid isPermaLink="false">https://defipulse.com/blog/?p=8632</guid>
-
-					<description><![CDATA[As you likely already know, MakerDAO’s DAI is a decentralized stablecoin pegged to $1 and backed by many different collateral...]]></description>
-										<content:encoded><![CDATA[
-<p>As you likely already know, MakerDAO’s DAI is a decentralized stablecoin pegged to $1 and backed by many different collateral types. Historically, there has been high demand for DAI causing it to rise above it’s $1 peg at times. To encourage the necessary inflation to bring DAI back down to $1, MakerDAO can add more collateral types and raise the total amount of DAI that can be minted from existing collateral types. While these changes do tend to bring DAI back on peg, they also add new risk parameters and complexity to the system. Some community members have raised concerns that these risks could compound over time, increasing the odds that DAI could become undercollateralized in a crisis and MakerDAO may be forced to trigger an emergency shutdown. If MakerDAO were to ever collapse, it would send ripples through the DeFi ecosystem due to the widespread use of DAI. <a href="https://hakka.finance/">Hakka Finance</a> built <a href="https://3fmutual.com/">3F Mutual</a> for this very reason so users could hedge against this economic risk with lower premiums and better market-making mechanisms.</p>
-
-
-
-<p>Hakka Finance is an engineering team from Taiwan who have been building in the DeFi space since mid-2019. Currently, their two major products are 3F Mutual and <a href="http://blackholeswap.com/">BlackHoleSwap</a> (more on them in a bit), but the team has a history of building cool DeFi projects. The Hakka Finance team were finalists of the Kyber DeFi Virtual Hackathon in September 2019 with their <a href="https://devpost.com/software/crypto-structured-fund">Crypto Structure Fund</a> and also previously built <a href="https://github.com/Robin-and-friends/tCDP">a fungible version of CDPs</a> as well as <a href="https://hakka.finance/">other interesting projects</a>. Their stated goal is to build products that “allow users to pursue financial sovereignty.” The team plans to keep building until they’ve established a mature ecosystem of exceptional DeFi products controlled and governed by the community of HAKKA token holders. But before we dive too far into HAKKA, let’s explore their flagship product 3F Mutual to understand more about the Hakka Finance ecosystem.</p>
-
-
-
-<h2>How does 3F Mutual work?</h2>
-
-
-
-<p>Third Floor Mutual or <a href="https://3fmutual.com/">3F Mutual</a> is a rainy day fund designed to act as collective insurance against the risk of MakerDAO collapsing. You can purchase insurance from 3F Mutual to hedge against the economic risk of MakerDAO which can be claimed if the MakerDAO Emergency Shutdown Module is activated while your insurance is still active.</p>
-
-
-
-<figure class="wp-block-image is-resized"><img loading="lazy" src="https://lh4.googleusercontent.com/D8VdEmKGHRdMvmH1PHp_ubO_KDnh1sd5Y688yISWn6P0IdBDwFIUcmowxdS2Y3taKCsrv25e3MqDptbNttByMd3W5Zc2Dk3TULp_lshAD_VKTP-7CArx2t2YNg5sSNGbPyvP_Chn" alt="" width="555" height="239"/></figure>
-
-
-
-<p>3F Mutual uses an automated market maker (AMM) design which allows users to purchase insurance underwritten by 3F Mutual’s fund pool at any time. In a nutshell, there are three roles involved in 3F’s design: underwriters, insurance buyers, and insurance agents. Underwriters provide capital to 3F Mutual and earn dividends proportional to their share of the pool. As the name implies, insurance buyers pay insurance fees to receive coverage for a limited time. Insurance agents, as you may have guessed, refer new users to 3F and collect a referral bonus for doing so.<br></p>
-
-
-
-<p>One key aspect of 3F’s design is that the insurance fees paid by insurance buyers becomes the pool used to compensate insurance buyers in the event MakerDAO’s emergency shutdown is activated. Additionally, underwriters receive dividends in the form of 15% of all insurance fees paid to the pool. When you buy insurance, you receive both insured units and shares of the pool. Shares, unlike units, never expire and entitle the holder to receive underwriter dividends. In this way, you’re acting as both an insurance buyer and an underwriter for the pool. You can even choose to buy 0-day insurance at the base price effectively purchasing shares with no insurance included.</p>
-
-
-
-<figure class="wp-block-image is-resized"><img loading="lazy" src="https://lh6.googleusercontent.com/z08QP8psDlG5YMzrNtqtwqo_ab6c-PgOmZjUMDVcTkpHHcsQoU8FvJsRRIhiQyTlDYsaif24q0q7pxd7E_n9T1TidSMt0XH7T23YYZS79UCNj1leVbwUROhoa9hHKv-Kfo8NCnmt" alt="" width="437" height="118"/></figure>
-
-
-
-<p>Every time you buy insurance from 3F you pay insurance fees based on the number of insurance units and how many days of coverage you want. The fee you pay when buying insurance is multiplied by a rate set to 100% per insured day with a 1% depreciation. In other words, you can get a discount if you buy longer insurance coverage. You can only buy a maximum of 100 days of coverage.</p>
-
-
-
-<h3>Insurance Agents</h3>
-
-
-
-<p>3F Mutual features insurance agents which allows users to earn referral fees. Anyone can spend 0.01 ETH to register a unique name in 3F Mutual to become the insurance agent. Agents can build a personal profile with a profile picture and opening statement powered by 3BOX and IPFS. Agents receive a bonus for every insurance purchase made with their referral link. Bonuses increase with more referrals in a tiered system. Learn more about <a href="https://3fmutual.hostedwiki.co/pages/In-depth%20tutorials">3F’s insurance agent system</a>.</p>
-
-
-
-<h2>3F Mutual incentivizes early participation</h2>
-
-
-
-<p>If MakerDAO’s emergency shutdown is activated, the total amount you’re eligible to claim is based on your number of active insurance units versus the total number of active units. When your units / coverage expires, you still keep your shares of the pool as an underwriter. With each new unit of insurance purchased, the base price per insurance unit rises and more fees are paid to the pool. As the pool continues to grow, 3F is able to provide larger amounts of insurance capacity which in turn further increases revenue. This positive cycle rewards early participants due to the fact that shares never expire.&nbsp;</p>
-
-
-
-<p>Imagine you’re an early insurance buyer, you’d pay a smaller base price per unit/share than a future buyer and even after your insurance expires you’d continue to earn dividends as an underwriter. And since you receive the same number of shares as you do units purchased (even if you choose 0 days of coverage), the optimal strategy is to purchase short-term insurance in the early stages of 3F Mutual to maximize your dividends and then purchase more coverage right before MakerDAO would trigger an emergency shutdown. Of course, no one can predict if or when MakerDAO might trigger it with 100% accuracy. That’s why 3F can be thought of like a rainy day fund which produces dividends during sunny days.</p>
-
-
-
-<p>Since its launch in mid-September 2020, 3F Mutual has already gotten a fair bit of traction. At the time of writing, there are currently ~1879 ETH in the pool, 5738929 total shares, 4519 active insurances, and 780 agents.</p>
-
-
-
-<h2>How are 3F Mutual insurance fees distributed?</h2>
-
-
-
-<figure class="wp-block-table"><table><tbody><tr><td><strong>Destination</strong></td><td><strong>Percentage</strong></td><td><strong>Side note</strong></td></tr><tr><td>Dividends</td><td>15%</td><td>Equally distribute to all shareholders</td></tr><tr><td>IIP</td><td>10%</td><td>Reserve for Insurance Improvement Proposals</td></tr><tr><td>External</td><td>20%</td><td>Allocate to insurance agent (0~16%) and vault</td></tr><tr><td>Pool</td><td>55%</td><td>Compensations for MakerDAO Emergency Shutdown</td></tr></tbody></table></figure>
-
-
-
-<p><br>We already covered dividends, agent bonuses, and the pool of funds set aside for compensation, but that 10% for Insurance Improvement Proposals (IIP) is where 3F Mutual fits into the wider HAKKA ecosystem. This IIP reserve is held with 3F Mutual’s vault and is governed by HAKKA token holders. HAKKA holders vote on IIPs to determine how best to develop, maintain, or upgrade 3F Mutual’s protocol through Hakka Finance’s governance system.</p>
-
-
-
-<h1>Hakka Ecosystem</h1>
-
-
-
-<p>Hakka Finance aims to be a decentralized autonomous organization (DAO), distributing HAKKA tokens to its community members in order to decentralize governance. HAKKA tokens were originally sold to cover the team’s development costs when the market turned bearish in 2019. At present, 60% of all HAKKA tokens are being distributed to the community via liquidity mining and other incentive programs.<br><img loading="lazy" alt="Image for post" src="https://lh4.googleusercontent.com/5jQMvll3P79uGBSIMdCtxMrM7JBL4TJd1RvAdsXxeCeIJEpW8Tf9Riztbcr0Gb_-RtNdnIAm2kybrG4RF1EiV8uV6YTZ5mZuAICdzBz2I_McbpQbqijM85zrhqurCnwc78dZLDPI" width="624" height="307"><br>The Hakka Finance team is committed to transparency providing the community with a <a href="https://medium.com/hakkafinance/hakka-finance-transparency-report-e75f025507dc">Transparency Report</a> and <a href="https://hakka-finance.gitbook.io/hakka-wiki/governance/governance-roadmap">Hakka’s governance roadmap</a>. In an <a href="https://medium.com/hakkafinance/financial-statements-of-hakka-finance-646674369a3d">updated financial statement from Sept. 2020</a>, Hakka Finance mentions that a significant portion of the total supply was burned and locking / vesting schedules were extended.</p>
-
-
-
-<p>HAKKA token holders <a href="https://beta-gov.hakka.finance/#/">govern various parameters in Hakka Finance</a> products, like the IIP reserves mentioned. HAKKA governance also determines when to add <a href="https://medium.com/hakkafinance/hakka-reward-pools-v8-af51937ac068">new liquidity mining incentives</a>. Users can <a href="https://rewards.hakka.finance/pools">earn HAKKA tokens</a> by providing liquidity for purchasing insurance on 3F Mutual in addition to providing liquidity for HAKKA and BlackHoleSwap, Hakka Finance’s stablecoin DEX.&nbsp;</p>
-
-
-
-<h1>BlackHoleSwap</h1>
-
-
-
-<p>Created in July 2020, <a href="http://blackholeswap.com/">BlackHoleSwap</a> is a decentralized stablecoin exchange that can process transactions far exceeding its existing liquidity by tapping into lending protocols. BlackHoleSwap’s name is inspired by its goal to have the deepest liquidity in the universe. BlackHoleSwap leverages excess supply to borrow the necessary stablecoin when reserves are inadequate to perform a swap, lowering slippage and maximizing capital utilization. This adds what the Hakka team refers to as “virtual liquidity” to popular AMM models like Uniswap. Given the same amount of “real reserves,” BlackHoleSwap produces less slippage than many other DEXes and can even have “real reserves” as little as 0.<br><img loading="lazy" src="https://lh5.googleusercontent.com/ZXhfK-ufRY_SwGojTSU8VDd2FkG2_PK2cLAihGZ-Hma5QTDuOOb1qcbAvLJ-HMwHBIRcg1XlaBenbzBbdnG8LXRLGdOYroRQpn3k0Vn8EzZ9VamOGY1KSklDXL58qnpRgFyk1TO_" width="624" height="391"></p>
-
-
-
-<p>And because it is integrated with Compound, BlackHoleSwap can even mine COMP for the pool producing extra profit for liquidity providers. To learn more about the technical details behind BlackHoleSwap, I recommend you read the wiki found <a href="https://hakka-finance.gitbook.io/hakka-wiki/hakka-products/black-hole-swap-bhs">here</a>.</p>
-
-
-
-<h1>Closing Thoughts</h1>
-
-
-
-<p>Between <a href="https://3fmutual.com/">3F Mutual</a> and <a href="https://blackholeswap.com/swap">BlackHoleSwap</a>, the Hakka team has built interesting products with innovative features uniquely catered to the DeFi space. I’d argue they live up to their catch phrase of “Warped Spacetime with Crypto Native Primitives” because some of their features are a bit mind-bending. Given their track record, I’ll be eagerly awaiting whatever comes next from Hakka Finance. To stay on top of all the different products Hakka Finance is cooking up, check out <a href="https://hakka.finance/">their website</a> and follow them on <a href="https://twitter.com/hakkafinance">Twitter</a>.&nbsp;</p>
-
-
-
-<p><strong><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Hakka Finance to help educate and inform the community about 3F Mutual and the Hakka Ecosystem. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></strong></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>ACO &#8211; A Non-Custodial Options Protocol Built for DeFi</title>
-		<link>./../../../2020/08/09/aco/index.html</link>
-		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 09 Aug 2020 14:58:53 +0000</pubDate>
-				<category><![CDATA[Derivatives]]></category>
-		<category><![CDATA[Ecosystem]]></category>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Sun, 21 Feb 2021 19:55:00 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Explainers]]></category>
 		<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[aco]]></category>
-		<category><![CDATA[auctus]]></category>
+		<category><![CDATA[dai]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<category><![CDATA[RAI]]></category>
+		<category><![CDATA[reflex index]]></category>
+		<category><![CDATA[reflexer]]></category>
+		<category><![CDATA[sai]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8906</guid>
+
+					<description><![CDATA[<p>The average person would describe cryptocurrency as highly volatile. And while this is true for many, there are coins designed...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/02/21/reflexer/index.html">Reflexer &#8211; Crypto-Native Stability Built for DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The average person would describe cryptocurrency as highly volatile. And while this is true for many, there are coins designed to reduce volatility or stability commonly referred to as stablecoins. Stablecoins, particularly those pegged to the US Dollar, have dramatically risen in popularity thanks to the utility they provide to users and smart contracts alike. Users tend to gravitate to the narrative of USD pegged stablecoins as a familiar unit of account. However, history has shown that stablecoins pegged to the value of a specific asset or basket of assets don’t always hold their peg. And when they do go off peg, it can quickly diminish the reputation of a stablecoin built on the premise of always being $1.&nbsp;</p>
+
+
+
+<p>Limiting a stablecoin to always equaling $1 also limits the mechanisms available to a community to bring the stablecoin back on peg. This can lead to added complexity like introducing new collateral types and subsequently undesired risk in lieu of what many would argue is the simpler mechanism: negative interest rates. In the end, many stablecoins resort to centralized custodians to hold USD in a bank somewhere or governance systems that require lots of participation to maintain relative stability.&nbsp;</p>
+
+
+
+<p>Reflexer’s RAI returns crypto to its roots drawing inspiration from the early days of stablecoins to offer crypto-native stability. RAI is an ETH backed, non pegged stable asset known as a reflex index whose monetary policy is managed by an on-chain, autonomous controller. <a href="http://pubads.g.doubleclick.net/gampad/clk?id=5626157429&amp;iu=/22134506417">Reflexer</a> launched on mainnet on Feb 17, 2021.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=5626157429&amp;iu=/22134506417"><img loading="lazy" width="1000" height="562" src="https://defipulse.com/blog/wp-content/uploads/2021/02/reflexer_banner_youtube2__1_.png" alt="" class="wp-image-8909" srcset="./../../../wp-content/uploads/2021/02/reflexer_banner_youtube2__1_.png 1000w, ./../../../wp-content/uploads/2021/02/reflexer_banner_youtube2__1_-300x169.png 300w, ./../../../wp-content/uploads/2021/02/reflexer_banner_youtube2__1_-768x432.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></figure>
+
+
+
+<h3>RAI allows you to trustlessly leverage your ETH</h3>
+
+
+
+<p>For reasons we’ll cover in the next section, the function of RAI may be familiar to those with an understanding of MakerDAO’s DAI. DeFi users can borrow RAI via Reflexer by depositing ETH as collateral into what’s called a Safe. Borrowed RAI is subject to an interest rate referred to as the borrow rate. Safes must maintain a minimum collateral ratio of 145%. If a Safe position fails to maintain this collateral ratio, the Safe will incur a liquidation penalty and the protocol will sell collateral to keepers at a discounted rate to cover the debt. Note: there’s also a minimum amount of RAI that must be generated by a Safe. This ensures that in the event of liquidation the Safe has enough collateral to cover its debt and the necessary gas costs and incentives for keepers necessary to liquidate the position.&nbsp;</p>
+
+
+
+<p>RAI boils down to this: a volatility-reduced representation of ETH. It’s designed to float similar to other currencies and not be pegged to anything. Reflexer relies on a set of protocol parameters including borrowing power and market price to determine the price RAI can be redeemed for (more on this in a bit). RAI was launched with a starting redemption price of $3.14. From this point on, RAI will continue to float while it is managed by the protocol’s on-chain controller. Actually, there’s a chance it never returns to its original redemption price at all. Market forces and Reflexer protocol user incentives influence where the redemption price of RAI floats to. At the time of writing, there are 766 active safes and 24,755,216 RAI in total. You can view the current market price, redemption price, and borrow rate along with other RAI stats <a href="https://stats.reflexer.finance/">here</a>.</p>
+
+
+
+<h2>Inspired by the original Dai Purple Paper</h2>
+
+
+
+<p>Some of you may recall that the original concept of the DAI stablecoin system outlined in the “Dai Purple Paper” back in February 2018 included negative interest rates. In fact, DAI wasn’t always meant to equal $1 at all. DAI was meant to have a redemption price that would float, producing low volatility but driven by the market.</p>
+
+
+
+<p>Reflexer’s RAI aims to fill this void by borrowing many of the concepts from the Dai Purple Paper. Reflex indexes like RAI are designed to reduce volatility, shielding users against major and sudden moves in the market like the<a href="https://defipulse.com/blog/defi-status-report-black-thursday/"> events witnessed on Black Thursday</a>. On a technical level, <a href="https://docs.reflexer.finance/">the system behind RAI</a> is a modified fork of multi-collateral DAI with a few distinct changes. Some of these changes include autonomous feedback mechanisms that control user incentives, simplified variable names, more flexible collateral auctions, long term bounded&nbsp; governance, optional Safe insurance and more. While DAI may have strayed from its early vision leaving its hypothesis untested, Reflexer’s mainnet demo Proto RAI illustrated how an asset can create stability without a peg, relying solely on market forces and redemption price float.&nbsp;</p>
+
+
+
+<p>The Proto RAI (PRAI) demo ran for nearly 3 months before being shut down on January 25, 2021. More than $612K worth of ETH was deposited into the demo to mint almost 52K PRAI; PRAI’s redemption price started at $2.015 and then floated between $1.937 and $2.06. During this same time period, ETH increased by 350% going from about $400 to $1400. Doing the math, this means PRAI’s redemption price fluctuated less than 4%, demonstrating how Reflexer’s reflex indexes can be a more stable representation of its collateral.</p>
+
+
+
+<h2>How exactly do reflex indexes create stability without pegs?</h2>
+
+
+
+<p>The money god wills it so. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f5ff.png" alt="🗿" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Or at least that’s the meme the Reflexer community has adopted to refer to the set of on-chain, autonomous controllers that control RAI’s monetary policy. At this point, I think it helps to reiterate that RAI is not a pegged stablecoin, because its redemption price floats. But to fully understand what this means we need to define a few terms key pertaining to reflex indexes:</p>
+
+
+
+<p><strong>Redemption price</strong><br>Redemption price is the price that the protocol wants RAI to have on the secondary market (e.g on Uniswap or Sushiswap). The redemption price is used by Safe users to mint RAI against ETH and it is also used during Global Settlement in order to allow both Safe and RAI users to redeem collateral from the system. The redemption price almost always floats and it does not target any specific peg. <em>[insert Pennywise meme of your choice here]</em></p>
+
+
+
+<p><strong>Market price</strong><br>This one&#8217;s a little self-explanatory. This is the price that RAI is traded at on the secondary market.</p>
+
+
+
+<p><strong>Redemption rate</strong><br>This is the rate at which RAI is being devalued or revalued. The process of devaluing/revaluing RAI consists in the redemption rate changing the redemption price.</p>
+
+
+
+<p><strong>Global settlement</strong><br>Settlement refers to the process of shutting down a reflex index and allowing both Safe and RAI users to redeem collateral from the system. Settlement uses the redemption price (not the market price) to calculate how much collateral can be redeemed by each user.</p>
+
+
+
+<p><strong>Borrowing power</strong><br>Borrowing power is how many reflex indexes like RAI can be borrowed against one unit of collateral. Each time the system receives a price feed update for its accepted collateral types, the feed data is divided by the redemption price and then divided again by the liquidation ratio in order to calculate the borrowing power. So for example, if ETH’s price is 100 USD, the liquidation ratio is 145%, and the current index redemption price is 1 USD, the borrowing power for ETH is approximately equal to 100 / 1 / 1.45 = 68.96 USD.</p>
+
+
+
+<h3>Let’s dive into a few examples to see what RAI looks like in practice:</h3>
+
+
+
+<p>When the market price of RAI is greater than the redemption price for a sustained period of time, the redemption rate becomes negative. A negative redemption rate lowers the redemption price. This results in users’ borrowing power being increased as RAI becomes cheaper inside the protocol. The redemption price continues to lower until the market price reaches it. In other words, this process creates a strong incentive for users to sell their RAI or even leverage their collateral to generate more sooner rather than later.</p>
+
+
+
+<p>Now, imagine this process in reverse. When the market price of RAI falls below the redemption price for a long enough period of time, the redemption rate becomes positive. This in turn lowers users’ borrowing power which then causes more users to buy RAI to pay down debt or buy it with the expectation that the market price will follow the redemption price. Likewise, this process continues until the difference between the market and redemption price is reduced to 0.</p>
+
+
+
+<p>There are a few interesting caveats to Reflexer worth noting including the fact that the system’s desired steady state may not reduce the redemption rate to 0%. There may be a non-zero redemption rate where the redemption price and market price remain relatively close to one another. Additionally, the system can collect stability fees even when the redemption rate is negative. When a reflex index is being repriced because of the redemption rate, the amount of stability fees collected (denominated in the reflex index) doesn’t change.</p>
+
+
+
+<h2>Reflexer’s Ungovernance</h2>
+
+
+
+<p>If you haven’t picked up on it yet, Reflexer protocol highly prioritizes trustlessness and in pursuit of that end: governance minimization. Reflexer has laid out a multi-stage process at the end of which governance will not control or be able to upgrade most core contracts and many Reflexer protocol parameters will be set autonomously by other external contracts. Before this process could begin, the following conditions would need to be met first:</p>
+
+
+
+<ul><li>Governance must not add or plan to add any more collateral types</li><li>All infrastructure for governance minimization must have been audited and tested in production</li><li>Finally, the system must accrue enough surplus in its main treasury so that it can afford to pay for oracle, PID, state management etc costs for at least 6 months.</li></ul>
+
+
+
+<p>The list of components to which can be minimized and automated to varying degrees is far too long for us to cover here, but please refer to <a href="https://docs.reflexer.finance/ungovernance/governance-minimization-guide">Reflexer’s Governance Minimization Guide</a> to learn more. A key takeaway is that the first of 3 Governance Minimization Levels is expected to be reached within 14 months after launch (approx. April 2022).</p>
+
+
+
+<p><strong>What does this mean for the average user?</strong> The behavior of RAI and other reflex indexes will be more predictable with defined parameters. Furthermore, developers looking to incorporate reflex indexes into their protocol or smart contract will be able to trust that its behavior won’t change undesirably.</p>
+
+
+
+<h2>Interesting possibilities enabled by reflex indexes</h2>
+
+
+
+<p>Reflexer’s redemption rate mechanism when put in the hands of DeFi developers could be utilized in all sorts of ways. A prime example being a unique money market design that takes advantage of RAI’s changing redemption rate to offer users better interest rates or speculate on the expected market price of RAI in the future. When viewed as an intrinsic interest rate for RAI, you can start to see how the redemption rate can be incorporated into a whole range of products and services from options to portfolio management strategies. Yield aggregators in particular would benefit from unfiltered access to borrowing power allowing them to remove deposit caps or simply be more capital efficient. RAI’s low volatility also lends itself well to being used as collateral for synthetic asset tokens.</p>
+
+
+
+<h2>Closing thoughts</h2>
+
+
+
+<p>Reflexer offers crypto-native stability while taking an approach previously left unexplored by the DeFi ecosystem. RAI answers the call for an ETH-backed asset with low volatility which many DeFi users have been calling for since the transition away from single-collateral DAI. Beyond individual users, Reflexer’s goal towards “ungoverned,” unfiltered access to borrowing power could prove to be a useful resource to future DeFi protocols. You could say these are uncharted waters in what might be a blue ocean.</p>
+
+
+
+<p><a href="https://discord.com/channels/@me/667142017171849216/813065575466795008">Reflexer</a> went live on mainnet on February 17, 2021. Got a question or just itching to discuss the future of RAI? Join the discussion happening in the Reflexer community <a href="https://discord.gg/83t3xKT">Discord</a> or follow <a href="https://twitter.com/reflexerfinance">Reflexer on Twitter</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Reflexer to help educate and inform the community about reflex indexes. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/02/21/reflexer/index.html">Reflexer &#8211; Crypto-Native Stability Built for DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Introducing Bitcoin at Work</title>
+		<link>./../../../2020/12/22/introducing-bitcoin-at-work/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Tue, 22 Dec 2020 19:50:15 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[acbtc]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[bch]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[btc++]]></category>
 		<category><![CDATA[decentralized finance]]></category>
 		<category><![CDATA[DeFi]]></category>
 		<category><![CDATA[derivatives]]></category>
-		<category><![CDATA[options]]></category>
-		<category><![CDATA[options trading]]></category>
-		<guid isPermaLink="false">https://defipulse.com/blog/?p=8441</guid>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[hbtc]]></category>
+		<category><![CDATA[imbtc]]></category>
+		<category><![CDATA[pbtc]]></category>
+		<category><![CDATA[renbtc]]></category>
+		<category><![CDATA[sbtc]]></category>
+		<category><![CDATA[tBTC]]></category>
+		<category><![CDATA[token]]></category>
+		<category><![CDATA[WBTC]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8726</guid>
 
-					<description><![CDATA[The DeFi ecosystem is growing at a breathtaking pace. Unsurprisingly, staying on top of everything in the space is becoming...]]></description>
+					<description><![CDATA[<p>Over the course of 2020, more than 140,000 BTC entered the DeFi ecosystem. With so many different alternatives for Bitcoin...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/12/22/introducing-bitcoin-at-work/index.html">Introducing Bitcoin at Work</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<p>The DeFi ecosystem is growing at a breathtaking pace. Unsurprisingly, staying on top of everything in the space is becoming practically impossible. DeFi is becoming increasingly sophisticated each day as the building blocks or rather money legos fall into place. Most people can tell you the basics of spot and margin trading, but I&#8217;ve started to see more and more people admit they know are unfamiliar with options trading. And, that&#8217;s okay because as many will tell you being a fan of DeFi often times means being a student. We&#8217;ve teamed up with folks behind ACO to explore how options fit into DeFi and how you might take advantage of options in your trading strategy. <a href="https://aco.finance/">ACO</a> is a decentralized non-custodial options protocol created by <a href="https://auctus.org/">Auctus</a>.</p>
+<p>Over the course of 2020, more than 140,000 BTC entered the DeFi ecosystem. With so many different alternatives for Bitcoin tokens, it only makes sense to break it out into its own page to provide more detailed metrics. We&#8217;re excited to introduce a new page highlighting the use of Bitcoin in the DeFi ecosystem. <a href="http://defipulse.com/btc">Bitcoin at Work</a> measures the total amount of BTC being utilized within decentralized finance (DeFi).</p>
 
 
 
-<h2>What is an option?</h2>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="http://defipulse.com/btc"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/12/btc-at-work-thumb-1-1024x1024.png" alt="" class="wp-image-8793" width="512" height="512" srcset="./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-1024x1024.png 1024w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-300x300.png 300w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-150x150.png 150w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-768x768.png 768w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1.png 1080w" sizes="(max-width: 512px) 100vw, 512px" /></a></figure></div>
 
 
 
-<p>If you&#8217;re not familiar with the term, <a href="https://www.investopedia.com/terms/o/option.asp">options</a> are financial derivatives that offers the option contract holder the opportunity to buy or sell an asset for a specific strike price within a specific time period. In other words, a &#8220;call option&#8221; contract gives you the <em>option</em> to buy an asset at a given price before it expires by &#8220;exercising the option&#8221; as it&#8217;s called. A &#8220;put option&#8221; allows you to exercise the contract and sell at the strike price before the expiration date. Options are different from simply purchasing the underlying asset because you only pay the contract premium initially until you exercise the contract, allowing traders to hedge risks or trade with more leverage at a lower capital cost.</p>
+<p>We worked with 10 different teams from all across our industry to bring you a wide variety of BTC token metrics. <strong>The following BTC tokens will be included at launch:&nbsp;WBTC, RENBTC, HBTC, sBTC, tBTC, imBTC, oBTC, acBTC, pBTC, and BTC++.</strong></p>
 
 
 
-<p>This is what makes options different from spot trading or even future contracts: you have no obligation to exercise the contract thus buying/selling the underlying asset. If the trade wouldn&#8217;t be in your favor, you can simply let the option contract expire and only be out the premium you paid to purchase the contract. On the flipside, the individual who wrote that option contract earns that premium if it expires without being exercised.</p>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/12/btc-logo-board03-1024x512.png" alt="" class="wp-image-8785" width="768" height="384" srcset="./../../../wp-content/uploads/2020/12/btc-logo-board03-1024x512.png 1024w, ./../../../wp-content/uploads/2020/12/btc-logo-board03-300x150.png 300w, ./../../../wp-content/uploads/2020/12/btc-logo-board03-768x384.png 768w, ./../../../wp-content/uploads/2020/12/btc-logo-board03.png 1500w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
 
 
 
-<h2>What is ACO?</h2>
+<p>As you might have noticed, WBTC has been moved to this new page and its TVL is no longer included in the TVL metrics found on our homepage. WBTC was originally added to the leaderboard at a time when it was practically the only tokenized BTC utilized in DeFi, but given the current landscape we now think it is a better fit for the Bitcoin at Work leaderboard.</p>
 
 
 
-<div class="wp-block-image"><figure class="alignright size-medium"><a href="https://aco.finance/"><img loading="lazy" width="300" height="300" src="./../../../wp-content/uploads/2020/08/aco-300x300.png" alt="" class="wp-image-8453" srcset="./../../../wp-content/uploads/2020/08/aco-300x300.png 300w, ./../../../wp-content/uploads/2020/08/aco-1024x1024.png 1024w, ./../../../wp-content/uploads/2020/08/aco-150x150.png 150w, ./../../../wp-content/uploads/2020/08/aco-768x768.png 768w, ./../../../wp-content/uploads/2020/08/aco.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure></div>
+<p>We know that not every BTC token is quite the same. Each one has its own method of minting and redeeming and varying degrees of centralization ranging from custodial to fully decentralized.<strong> </strong><br><strong>We broke down each BTC token into four types to better distinguish their different qualities:<br></strong><br><strong>Decentralized</strong> &#8211; a BTC token backed by BTC held within a fully decentralized protocol<br><br><strong>Custodial</strong> &#8211; a BTC token backed by BTC held in custody by a third party<br><br><strong>Synthetic</strong> &#8211; a token which follows the price of Bitcoin but is not directly backed by BTC<br><br><strong>Hybrid</strong> &#8211; a BTC token backed by BTC held within an open protocol transitioning towards decentralization</p>
 
 
 
-<p>ACO is a decentralized non-custodial options protocol that allows users to trustlessly trade, mint, and exercise call and put options. ACO protocol tokenizes put and call options contracts creating ERC20 tokens which you can send, trade, or even integrate ACO Tokens into other DeFi projects. Each ACO token option has its own smart contract programmed with the terms of the option contract. Additionally, these terms are also included in the ticker symbol of the ACO token.</p>
+<p>Aside from recognizing the hard work and growth of this sector, we hope the metrics and information included in this new page will help DeFi users discover new possibilities and make more informed decisions.&nbsp;</p>
 
 
 
-<p>ACO tokens’ symbols consists of four parts:</p>
-
-
-
-<ol><li class="">Symbol of the underlying asset</li><li class="">Strike price &amp; Strike Asset</li><li class="">Option type, either P or C, for put or call</li><li class="">Expiration</li></ol>
-
-
-
-<p>Take for example: <strong>ACO ETH-200USDC-C-26JUN20-0800UTC</strong></p>
-
-
-
-<p>The above symbol represents a call option on ETH, expiring on 26 June 2020 08:00 UTC, with a strike price of 200 USDC.</p>
-
-
-
-<p>Auctus, the team behind ACO, has deployed an interface <a href="https://aco.finance/">ACO.finance </a>that allows you to mint, manage and trade ACO tokens (which powered by 0x protocol). ACO Protocol and the interface have been <a href="https://blog.openzeppelin.com/aco-protocol-audit/">audited by OpenZepplin</a>. More on ACO protocol in a bit, but first let&#8217;s explore some of the ways ACO option tokens are utilized by DeFi users.</p>
-
-
-
-<h2>How do I trade options in DeFi?</h2>
-
-
-
-<p>Now at this point, I&#8217;m sure you&#8217;re itching to see how you might take advantage of options. Let&#8217;s take a moment and break down a few situations where options could be a useful tool in your trading strategy. </p>
-
-
-
-<h3>Use Call Options to speculate on rising ETH prices</h3>
-
-
-
-<p>If you expect the price of ETH to rise, you can purchase ETH call options to take advantage of leverage, gaining positive exposure to ETH with less money than outright purchasing ETH at spot prices.</p>
-
-
-
-<p>Let’s assume ETH is currently trading for $400. You could buy 100 ETH for a total of $40,000  and be completely exposed to the price of ETH. Or, you could buy 100 ETH calls with a $400 strike price for $8.00 and have a similar exposure but do so with only $800 ($8 X 100 = 800).</p>
-
-
-
-<p>I&#8217;m sure you can see how this is advantageous. If the price goes up as you expect, you&#8217;ll be able to break even at $408 (the strike price $400 + the $8 premium). However if the price of ETH goes sideways or falls, you might be able to sell the option for a loss (less of a premium) or you can simply let your contract expire without exercising it and only be out the money you spent on the premium.</p>
-
-
-
-<h3>Use Put Options to hedge against declining ETH prices without limiting your exposure</h3>
-
-
-
-<p>If you aren&#8217;t confident in the market and want to protect yourself ETH&#8217;s price falling, you can purchase ETH put options to hedge your bets without selling your ETH or losing your potential upside if the price rises. You can think of ETH put options as a form of insurance which costs you a premium to cover potential losses.</p>
-
-
-
-<p>If ETH is currently trading at $380 and you want to protect yourself against it falling below $360 but don&#8217;t want to sell your 100 ETH quite yet. You could buy 100 put options with a $360 strike price for $4 and pay $400 to have the ability to sell your 100 ETH at $360 if the price of ETH were to drop before your options expire.</p>
-
-
-
-<p>Options tend to give you more time to make a decision when compared to stop orders which are final once filled. Unlike a stop order, you can always wait to see if the price rebounds in your favor.</p>
-
-
-
-<h2>Earn income by writing options on ACO</h2>
-
-
-
-<p>As previously mentioned, you can write options contracts and potentially earn a premium on any unexercised contracts. Needless to say, signing a contract to buy or sell an asset comes with its risks. As a writer of an option, you may be obligated to sell your underlying asset at the strike price if the holder exercises the contract. We urge you as always to do your own research and to take into account these considerations before writing/minting your first option.</p>
-
-
-
-<h3>Write ETH Call Options to earn income on your ETH</h3>
-
-
-
-<p>Say you have ETH that you&#8217;re willing to part with for the right price. Using options, you can receive money today for your willingness to sell your ETH at a higher price.</p>
-
-
-
-<p>Say ETH is at $380, you could mint and sell 100 ETH call options with a $420 strike price at a $9 premium and collect $900 on your willingness to sell your ETH. If things go sideways or your option expires before being exercised, you get to pocket the premium and keep your ETH. Of course, you&#8217;re still exposed to the price of ETH and will be obligated to sell the your ETH at the strike price if your option contract is exercised by the holder.</p>
-
-
-
-<p>There a plenty of factors to it for sure but I think you can see how in right situation writing ETH call options could be a way to capitalize on a sideways or bear market.</p>
-
-
-
-<h3>Write Put Options to earn income on your USDC</h3>
-
-
-
-<p>Do you have USDC on the side waiting to buy ETH at a price below the current? You could earn a little extra income by writing and selling ETH put options. </p>
-
-
-
-<p>Let’s assume ETH is currently trading for $380. You would like to buy 200 ETH if it drops to $300. You could write 200 ETH puts with a $300 strike at $4 and collect $800 on your willingness to buy 200 ETH at $300. Unlike setting a limit order, options let you collect money today for being willing to assume the obligation of buying ETH at the strike price.</p>
-
-
-
-<p>By using this strategy, you can generate additional returns in your stablecoin holdings by collecting a premium for your willingness to be obligated to buy a ETH at a price that is below current price.</p>
-
-
-
-<h2>ACO Protocol and its use of money legos</h2>
-
-
-
-<p>Many aspects of their design make ACO Option Tokens a nice addition to existing money legos, but its the team&#8217;s use of existing money legos to create new functionality that I found the most fascinating.</p>
-
-
-
-<h3>Flash Exercise</h3>
-
-
-
-<p>This is by far one of the coolest parts of ACO. ACO has a feature called &#8220;flash exercise&#8221; which, as its name eludes to, allows you to cover the cost of exercising your ACO options using Uniswap V2 flash swaps leaving you with the remaining profits. Uniswap V2 flash swaps let you withdraw tokens from Uniswap&#8217;s reserves as long as you pay back the tokens in the same transaction. ACO&#8217;s flash exercise makes use of this by withdrawing the tokens necessary to exercise your options contract and then repaying the withdrawn tokens by swapping the underlying asset all in one transaction.</p>
-
-
-
-<p><em>Net Profit = Number of Options * (( Uniswap Price &#8211; Strike Price ) / Uniswap Price )</em></p>
-
-
-
-<p><strong>Essentially, you can always exercise profitable options contracts in one transaction even if you don&#8217;t have the funds available to buy/sell the asset before expiration. </strong>This opens the door for traders who might want to greater exposure with less funds.</p>
-
-
-
-<h3>Governance</h3>
-
-
-
-<p>Currently, the ACO protocol allows a single address to modify parameters, create new options series, add new strike assets and change the template for tokens that will be created in the future. The admin key which controls this address is currently administered by the Auctus team. However, the team plans to ultimately transition control to holders of their AUC token. Once launched, the governance dashboard and system which will allow AUC holders to decide which assets should be supported by the protocol and what fee percentage should be charged and used to buy back and burn AUC.</p>
-
-
-
-<p>One key aspects of the current design which you may have noticed is that these parameters only affect future ACO option tokens. <strong>The protocol&#8217;s admin key has no ability to affect existing tokens</strong>, only you have access to your funds and all contracts are exercised in a non-custodial fashion.</p>
-
-
-
-<h3>Coming up on the roadmap &#8211; YFI, Chainlink, and more</h3>
-
-
-
-<p>YFI put and call options will be added to ACO within the next few weeks. Options will open the door for new strategies for the yearn.finance community. Auctus eventually plans to release an ACO OTC platform allowing users to trade customized options p2p, allowing greater variations of strike prices and expiration dates.</p>
-
-
-
-<p>One of the next crucial components for ACO as a platform is the addition of an automated market maker (AMM) for ACO tokens. The AMM would provide option contract holders, whether it be a trader or a smart contract, with constant on-chain liquidity for ACO Tokens. </p>
-
-
-
-<p>To further improve decentralization, the team is also looking to create volatility oracles with Chainlink.</p>
-
-
-
-<h2>Concluding thoughts</h2>
-
-
-
-<p>Watching DeFi mature has been exhilarating. As each building block is produced, you can see some things like options coming from a mile away. But, I can tell you I didn&#8217;t see something like flash exercise coming. It really goes to show how innovations build on one another so quickly in this space.</p>
-
-
-
-<p>Thanks for reading! We hope you learned a thing or two. We encourage you to go check out <a href="https://aco.finance/">ACO.finance</a> and the slick options trading platform they have built there. You can also learn more by <a href="https://docs.aco.finance/">reading the docs</a> or <a href="https://discord.gg/9JqeMxs">joining the Auctus Discord</a>.</p>
-
-
-
-<p><em>Disclosure: This post is part our DeFi Pulse Drops promotional series; We&#8217;ve been paid by ACO to inform readers about why one might use options and about their decentralized non-custodial options platform. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>Special thanks to all the teams for working with us! Be sure to check out the new page and explore the <a href="http://defipulse.com/btc">Bitcoin at Work</a> metrics for yourself. And if you’re interested in joining the DeFi Pulse Leaderboard, please check out this <a href="https://defipulse.com/blog/how-to-join-the-defi-pulse-leaderboard/">step-by-step guide.</a></p>
+<p>The post <a rel="nofollow" href="./../../../2020/12/22/introducing-bitcoin-at-work/index.html">Introducing Bitcoin at Work</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Rari Capital &#8211; A Yield-Maximizing Robo-Advisor that Takes Risk Management Seriously</title>
-		<link>./../../../2020/07/27/rari-capital/index.html</link>
+		<title>Harvest Finance &#8211; Industrial Automated Yield Farming for All</title>
+		<link>./../../../2020/12/13/harvest-finance-drop/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Mon, 27 Jul 2020 17:18:55 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[lending]]></category>
-		<category><![CDATA[rari]]></category>
-		<category><![CDATA[rari capital]]></category>
-		<guid isPermaLink="false">https://defipulse.com/blog/?p=8419</guid>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Sun, 13 Dec 2020 21:59:09 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[aggregator]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[harvest]]></category>
+		<category><![CDATA[harvest finance]]></category>
+		<category><![CDATA[harvest-finance]]></category>
+		<category><![CDATA[yield]]></category>
+		<category><![CDATA[yield farming]]></category>
+		<category><![CDATA[yieldfarming]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8734</guid>
 
-					<description><![CDATA[With many in DeFi wildly chasing yield nowadays, Rari Capital has uniquely positioned themselves by approaching things from a different...]]></description>
+					<description><![CDATA[<p>Yield farming allows projects to bootstrap their communities through incentives created by distributing their protocol’s token, essentially killing two birds...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/12/13/harvest-finance-drop/index.html">Harvest Finance &#8211; Industrial Automated Yield Farming for All</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<p>With many in DeFi wildly chasing yield nowadays, Rari Capital has uniquely positioned themselves by approaching things from a different angle. Rari Capital&#8217;s goal is to build the smartest stable robo-advisor in the industry with one simple purpose: optimize for the highest return in a way that attempts to minimize user risks. While they may not be the first robo-advisor in the market, it&#8217;s the Rari Capital team&#8217;s focus on growing the platform and deploying new strategies in a way that manages risks that sets them apart.</p>
+<p>Yield farming allows projects to bootstrap their communities through incentives created by distributing their protocol’s token, essentially killing two birds with one stone. While these farming opportunities are open to all participants, making the most of these opportunities requires a certain amount of capital and expertise. And nowadays, yield farming has practically become a full-time job.</p>
 
 
 
-<p>Having been working in stealth mode for a few months, Rari Capital 1.0 launched on July 14th, 2020. Anyone can <a href="https://app.rari.capital/">deposit assets into Rari Fund and generate yield</a> through a combination of lending DAI and USDC to dYdX as well as DAI, USDC, and USDT to Compound. On top of that, the fund earns additional returns by strategically swapping between stablecoins and through protocol rewards like COMP, which are liquidated and distributed to Rari Fund Token (RFT) holders every 3 days. Rari&#8217;s current strategy is generating +18% APY for Rari users at the moment. That said, Rari plans to iterate with new strategies every month. The team boasts intense review processes for each strategy taking into account potential risks, maintenance, and profits of course. As of now, Rari Capital has received a short-form audit from Quantstamp. In general, the Rari Capital team seems particularly attentive to the needs of their users even recently offering to cover gas fees for first time user deposits of at least $250.</p>
+<p>Harvest Finance set out to make life easier for farmers big and small. It allows users to farm as a collective to achieve the best risk-adjusted rate for a given asset. Launched on September 1st, 2020 in the midst of the yield farming craze with the slogan, “Bread for the People”, <a href="https://harvest.finance/">Harvest Finance</a> has gone on to become one of the largest yield aggregators with a vibrant community from all over the world. With farming having become the new norm, using a yield aggregator like Harvest Finance is like using a tractor instead of a manual plow; it’ll take less effort and ultimately be more efficient.</p>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.rari.capital/index.html"><img loading="lazy" width="1024" height="512" src="./../../../wp-content/uploads/2020/07/rari-twitter-thumb.jpg" alt="" class="wp-image-8436" srcset="./../../../wp-content/uploads/2020/07/rari-twitter-thumb.jpg 1024w, ./../../../wp-content/uploads/2020/07/rari-twitter-thumb-300x150.jpg 300w, ./../../../wp-content/uploads/2020/07/rari-twitter-thumb-768x384.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<h2>Farming at Scale with Harvest Finance</h2>
 
 
 
-<h2>Rari Capital&#8217;s robo-advisor optimizes returns with a focus on risk-management</h2>
+<p>If you’re new to farming, it seems rather simple. Typically, you deposit a token, stablecoin, or liquidity pool token into a farm to earn tokens at a variable APR. You could simply deposit your assets and come back later to harvest your yield, but you’d be missing out. Manually harvesting and compounding your yields to achieve a higher APY means covering all the gas costs involved. For smaller farmers, the gas costs involved in this process can really start to eat into your returns. Not to mention, you’d need to meticulously calculate and track your APY in order to make sure it was even worth your time or the opportunity cost.</p>
 
 
 
-<p>The Rari Capital team comes from a variety of backgrounds including working for MyCrypto, an industry-leading wallet which prides itself on improving user safety. And as such, they&#8217;ve witnessed countless people putting themselves and their funds in risky situations to earn a higher return. You can see how this naturally led Rari team members to want to build a better way for users like yourself to earn returns in DeFi.</p>
+<p>When a user deposits assets into Harvest to farm, they receive fTokens (i.e. fUSDC) which represent a yield-bearing version of the asset. fTokens can be redeemed for the underlying asset at any time. Depositors receive 70% of the profits generated from farming via Harvest as well as FARM token rewards. The remaining 30% is sent to a protocol token buyback and profit sharing program, but more on that later. As the first yield aggregator to adopt a performance-based fee structure, Harvest never charged a withdraw fee as others did. I know what you’re thinking: Why would I give up 30% of my profits when I can farm by myself?</p>
 
 
 
-<h3>How it works in a nutshell</h3>
+<p>Farming as a collective comes with its advantages compared to going it alone. It can be helpful to think of it as “farming at scale” to reduce operational costs and improve efficiency. If you opted to farm with Harvest Finance in the scenario above, your deposit would automatically compound for a higher APY when possible. Best of all, Harvest covers the gas costs associated with executing farming strategies and compounding deposits. The advantages of Harvest’s collective farming and FARM token design don’t end there though.</p>
 
 
 
-<p>When you deposit assets into Rari Fund, you mint Rari Fund Tokens (RFT) equivalent to your deposit and <a href="https://app.rari.capital/">begin earning interest</a> (currently around 18% APY at the time of writing this). As described before, Rari Fund generates yield through a combination of lending protocols, strategic stablecoin rebalancing, and protocol rewards such as COMP. The value of RFT is equivalent to the stablecoins held by Rari Fund plus any yield generated. These RFT tokens are then burned when you go to withdraw your holdings.</p>
+<h3>FARM token aligns stakeholders of the Harvest Cooperative</h3>
 
 
 
-<p>Rari Capital charges a 20% performance fee on the interest generated by Rari Fund. As stated on their homepage: &#8220;The more money you make, the more money we make. We want you to win and our algorithms make sure that you do.&#8221; This model seems to fit Rari well because it creates a direct incentive for the Rari Capital team to manage the fund in a safe and productive manner.</p>
+<p>The goal of the Harvest Cooperative is to become the world’s largest farming cooperative making the latest yield farming techniques accessible to anyone, even those who are currently underbanked. In order to achieve this goal, the farmers of the Harvest Cooperative pool together resources to earn profits and create additional utility and value for its community of Harvest stakeholders.&nbsp;</p>
 
 
 
-<h3>&#8220;DeRisking as a Service&#8221;</h3>
+<p>At the heart of the Harvest Cooperative is Harvest’s FARM token which incentivizes participation, governs Harvest Finance, and allows users to benefit from the performance of the platform. At launch, FARM started with an initial supply of 0. Harvest Finance bootstrapped its community completely by offering FARM token rewards to depositors and liquidity providers. Only 690,420 FARM will be minted over 4 years with a current emission rate of 4.4% per week. At the time of writing, roughly 50% of FARM tokens have been minted so far. FARM tokens are distributed as follows: 70% of FARM tokens go to depositors and liquidity pool providers, 10% of tokens are vested over 4 years to the Operational Treasury to pay for additional development and promotion, and finally 20% are vested over 4 years to the Development Team.&nbsp;</p>
 
 
 
-<p>Rari Capital is transparent with its users about <a href="https://www.rari.capital/current.html">how the platform works</a> and <a href="https://www.rari.capital/risks.html">the risks involved</a>.</p>
+<figure class="wp-block-image"><img src="https://lh4.googleusercontent.com/H1p0SHH5s-9KmMUH4gDeF9w8yCqiNUNQzmpZGzpi5t8G4JalzDe6hdhUK9jk8CBhafbgqyrasyWkHZ7mQ4_hdYKZfGA-uXMtyZHe2Ewl-oYfZ2JaJ62axGOef2RMRDKOFxfw0hhl" alt=""/></figure>
 
 
 
-<p>Rari Capital&#8217;s approach might be described as a guarded launch attempting to establish a product-market fit of &#8220;DeRisking as a Service&#8221; as <a href="https://medium.com/electric-capital/derisking-defi-guarded-launches-2600ce730e0a">outlined by Ken Deeter of Electric Capital</a>. The concept of a guarded launch is based on the canary deployment process used by big tech companies to deploy new code to a small portion of their userbase, gradually expanding to everyone. Start small, lowering the stakes and then increase risks in a controlled manner.</p>
+<h4>FARM Buybacks and Profit Sharing Pool</h4>
 
 
 
-<p>The key to &#8220;DeRisking as a Service&#8221; is to build a foundation of trust to scale into the future. You allow users to interact with your product in a limited capacity. As things go well, users and devs gain confidence in the product and so risk controls can slowly be relaxed to allow the platform to grow. It boils down to if you as a user trust that a service is safe, you&#8217;re more likely to recommend it to a friend or even entrust it with more of your hard-earned money. I&#8217;m sure you can see how this approach likely appeals to DeFi users with a low appetite for risk.</p>
+<p>As previously mentioned, 30% of all the profits generated by Harvest are converted to USDC and used to buy FARM tokens off the market. These FARM tokens are then distributed to Harvest Cooperative members with FARM tokens staked in Harvest’s Profit Sharing Pool. FARM buybacks create natural demand for FARM and are fueled purely by how much profit Harvest is able to generate for its users. The idea is that everyone in the Harvest Cooperative from farmers earning token incentives to the initiatives funded by the Operational Treasury benefit when the value of FARM increases further aligning the different Harvest stakeholders.</p>
 
 
 
-<p>As part of its guarded launch, Rari Capital currently limits user deposits to $350. Additionally, Rari&#8217;s initial strategy attempts to reduce risks by also limiting asset types to only DAI, USDC, and USDT as well as reducing code complexity by interacting with only trusted protocols. Rari&#8217;s smart contracts are also controlled by a multi-signature wallet which requires the signatures from 3 out of 5 keys to upgrade. While some aspects of Rari&#8217;s design such as its rebalancer remain centralized, the team is sure to inform users of this and has a clear focus on risk-management and security.</p>
+<h3>Harvest Cooperative is able to steer growth and adoption together</h3>
 
 
 
-<h2>Concluding thoughts</h2>
+<p>The Harvest Cooperative is incentivized to make changes that help the platform grow. Unlike an individual farmer, the Harvest Cooperative has a budget of sorts which it can use to collectively pay for things. FARM holders can create and vote on proposals for new strategies, protocol changes, or even initiatives to be funded by the Operational Treasury. This allows the Harvest Cooperative to stay on top of the latest yield farming strategies. Harvest was the first yield aggregator to release a farming strategy for SWRV, UNI, and Idle Finance. The treasury can also be used to incentivize users to participate in more profitable farms for the Cooperative. The Harvest community also makes use of the treasury to fund programs like creativity contests, bounties programs, and prizes for developer challenges which we’ll cover a bit more later on.</p>
 
 
 
-<p>I fully expect Rari Capital to find a product-market fit among risk-averse users who still want exposure to sophisticated lending and yield farming strategies in DeFi. Rari Capital offers a convenient and measured approach to earning returns on idle funds and its evolving strategy will enable passive yield farming strategies from trusted protocols for many users. I look forward to seeing what protocols will be integrated in the future; a recent Twitter poll indicated the community was interested in integrating Aave next.</p>
+<h3>Farming as a collective offers additional forms of risk mitigation</h3>
 
 
 
-<p><strong>Give <a href="https://app.rari.capital/">Rari Capital</a> a try today! Rari is currently covering gas fees for first-time user deposits of at least $250.</strong> All deposits made this week will directly support our work here at DeFi Pulse. Thanks for reading and for your continued support.</p>
+<p>Not only can pooling resources fund the development of new strategies, it also can be used to make farming <a href="https://farm.chainwiki.dev/en/security">more sustainable through test suites</a>, ongoing <a href="https://github.com/harvest-finance/harvest/tree/master/audits">audits</a> and <a href="https://immunefi.com/bounty/harvest/">security bug bounties</a>.</p>
 
 
 
-<p><em>Disclosure: This post is part a promotional series; We&#8217;ve partnered with Rari Capital to spread the word about their risk-minimizing robo-advisor. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<h4>GRAIN reparations after USDC/USDT vaults exploited</h4>
+
+
+
+<p>On October 26, 2020, an attacker was able to use a flash loan to <a href="https://medium.com/harvest-finance/harvest-flashloan-economic-attack-post-mortem-3cf900d65217">steal 12.5% of funds from Harvest&#8217;s USDC and USDT vaults via an exploit</a>, resulting in a shared loss of $33.8M. The Harvest Community <a href="https://snapshot.page/#/farm/proposal/QmYF62qGaqyHAXt88Hmxise6CFaSWxnTmi5VedZ3VX8Zy2">voted to provide reparations to those affected by the exploit</a> in the form of an <a href="https://medium.com/harvest-finance/announcing-the-grain-claims-portal-20dd12c4f631">IOU token known as GRAIN</a>. Those affected were able to<a href="https://claim.harvest.finance/"> claim their share</a> of the $2.48M returned by the attacker as well as GRAIN tokens. Each week 0.5% of the total FARM emissions are sent to reparation pools, GRAIN buyback and FARM/GRAIN liquidity pool, up to the amount lost in the attack. Creating an incentivized FARM/GRAIN pool creates the liquidity necessary to support the buyback program and allows GRAIN holders to receive more FARM rewards for staking their liquidity as well. For those curious, <a href="https://duneanalytics.com/0xBoxer/-grain">this dashboard</a> has some interesting stats regarding the amount of GRAIN claimed. Solo farmers are often forced to accept losses due to attacks, but as you can see collective farming with an on-going revenue stream offers potential ways to remedy situations such as this.</p>
+
+
+
+<h2>Harvest Cooperative has a strong sense of identity</h2>
+
+
+
+<p>Even though Harvest community members are from all around the world (with a notable presence in the Chinese DeFi community), Harvest Cooperative has a strong identity and incentive structure that is welcoming of all. Harvest has previously affirmed their belief that financial inclusion is important for everyone, especially the unbanked and the underbanked. An understated benefit of farming together is that Harvest Cooperative is able express their values and give back to the community as a collective.&nbsp;</p>
+
+
+
+<p>From the start, Harvest Finance community has had an appreciation for memes as made evident by their Farmer Chad logo. Anyone who keeps up with DeFi on Twitter has probably seen countless memes of Farmer Chad. This is no coincidence; In the spirit of its #BreadForThePeople slogan, Harvest frequently hosts creativity contests where users are rewarded for their creative contributions to Harvest Cooperative. <a href="https://medium.com/harvest-finance/harvest-finance-farm-arts-creativity-contest-round-4-festive-edition-3ba3e5843da2">The most recent Creativity Competition</a>’s theme is “Celebrating the Festive Season”. The cool part about these competitions is that it allows those without the capital necessary to farm to benefit from Harvest Cooperative’s success.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/12/farmer-chad-snow1-1-1024x1024.jpeg" alt="" class="wp-image-8759" width="512" height="512" srcset="./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1024x1024.jpeg 1024w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-300x300.jpeg 300w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-150x150.jpeg 150w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-768x768.jpeg 768w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1536x1536.jpeg 1536w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-2048x2048.jpeg 2048w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1568x1568.jpeg 1568w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption>Artwork from Harvest community member <a href="https://twitter.com/stulmtuno4273/status/1330292559277682693/photo/3">Sumire</a></figcaption></figure></div>
+
+
+
+<p>Developers will also find they are warmly welcomed in the Harvest community. Harvest hosts developer contests and has <a href="https://gitcoin.co/issue/harvest-finance/harvest/15/100024325">bounty programs</a> to reward developers who want to contribute to the Harvest Finance ecosystem. For those interested, head over to the <a href="https://discord.gg/ayKVET52z6">Harvest Discord</a>’s #dev channel and introduce yourself.</p>
+
+
+
+<p>The Harvest Cooperative also expresses their support for the wider community by giving back to programs like Gitcoin Grants which supports future builders. Harvest <a href="https://harvestfinance.medium.com/week-14-updates-building-today-funding-the-builders-of-tomorrow-74c5ea8575f6">announced on December 1, 2020</a> that it would be partnering with Gitcoin to launch a $500k grant matching pool in the latest Gitcoin Grants Round 8.&nbsp;</p>
+
+
+
+<h2>Partnerships with Harvest Cooperative</h2>
+
+
+
+<p>Harvest also likes to drive engagement through community partnerships and collaborations that present unique opportunities for Harvest Cooperative members to earn rewards in the form of tokens, NFTs, and more. For example, Harvest <a href="https://medium.com/harvest-finance/harvest-apy-vision-partnership-be80f577b18?source=collection_home---6------4-----------------------">will be giving away a total of 80 APYCHADPRO NFTs</a> that grants 90 days of access to the PRO edition of liquidity pool tracker APY.vision to Harvest Cooperative members staking in the Uniswap FARM/USDC liquidity pool. Another example being 88mph’s <a href="https://medium.com/88mphapp/88mph-x-harvest-degen-challenge-over-6k-in-prizes-94979f3a5fa9">recently announced</a> 2-week ‘Degen Challenge’ in collaboration with Harvest which encourages participants to build something creative combining 88mph’s fixed-yield pools or floating-rate bonds with Harvest’s vaults. Last but not least, Harvest <a href="https://badgerdao.medium.com/harvest-finance-joins-the-league-of-badger-builders-551031da69a1">collaborated with Bitcoin-focused BadgerDAO</a> to help launch Badger DAO’s Harvest SuperSett vault. Harvest community members <a href="https://twitter.com/BadgerDAO/status/1334921775013109761">were also eligible to receive</a> at least 20 BADGER during the launch of Badger token.</p>
+
+
+
+<h2>Closing thoughts</h2>
+
+
+
+<p>With yield farming practically being a full-time job, Harvest Finance has quickly become one of the leading yield aggregators in DeFi. It’s effective use of incentive structures aims to create a positive feedback loop that benefits all stakeholders of the Harvest Cooperative, ultimately forming a strong sense of community. If this farming experience interests you, <a href="https://harvest.finance/">go explore the opportunities available on Harvest Finance</a>. Or, join the Harvest <a href="https://discord.gg/ayKVET52z6">discord</a> to get to know the Harvest community for yourself. Thanks for reading.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Harvest to help educate and inform the community about the Harvest Cooperative. </em><em>DeFi Pulse received FARM tokens as part of its payment. </em><em>As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2020/12/13/harvest-finance-drop/index.html">Harvest Finance &#8211; Industrial Automated Yield Farming for All</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>MCDEX &#8211; 10x Perpetual Contracts Powered by Order Book/AMM Hybrid</title>
-		<link>./../../../2020/06/28/mcdex/index.html</link>
+		<title>DeversiFi &#8211; A high-speed trading platform capable of 9000 TPS</title>
+		<link>./../../../2020/11/29/deversifi-nectar-beehive-v1/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 28 Jun 2020 15:29:36 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Sun, 29 Nov 2020 19:00:03 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[decentralized exchange]]></category>
 		<category><![CDATA[DeFi]]></category>
-		<category><![CDATA[derivatives]]></category>
-		<category><![CDATA[leverage]]></category>
-		<category><![CDATA[mcdex]]></category>
-		<category><![CDATA[perpetual]]></category>
-		<category><![CDATA[perpetuals]]></category>
-		<category><![CDATA[trading]]></category>
-		<guid isPermaLink="false">https://defipulse.com/blog/?p=8310</guid>
+		<category><![CDATA[deversifi]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[NEC]]></category>
+		<category><![CDATA[nectar]]></category>
+		<category><![CDATA[token]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8715</guid>
 
-					<description><![CDATA[DeFi has been on fire lately. Following the space has been absolutely riveting. We&#8217;ve got another sneak peek of an...]]></description>
+					<description><![CDATA[<p>Let’s face it&#8230; In the heat of the moment when it matters most you want to be using the fastest,...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/29/deversifi-nectar-beehive-v1/index.html">DeversiFi &#8211; A high-speed trading platform capable of 9000 TPS</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<p>DeFi has been on fire lately. Following the space has been absolutely riveting. We&#8217;ve got another sneak peek of an interesting DeFi protocol for you today. The folks over at MCDEX have taken decentralized perpetual contracts and combined them with a hybrid on-chain AMM/off-chain order book in their recent upgrade MCDEX V2. </p>
+<p>Let’s face it&#8230; In the heat of the moment when it matters most you want to be using the fastest, cheapest way to execute that critical trade. And when you trade on most DEXes, network congestion and the subsequent high gas fees impact your performance. Pay too low of a gas price and you’ll be stuck waiting around, sometimes only to have your transaction revert. So, your other option is to crank up the gas price and pay gas fees which add up over time, eating into your profits.&nbsp;</p>
 
 
 
-<p><strong>MCDEX&#8217;s first decentralized perpetual contract ETH-PERP launching Monday June 29th, 2020</strong> makes full use of this hybrid model to enable users to <a href="https://mcdex.io/trade?invite_code=052t01">trade ETH/USD perpetual contracts with up to 10x leverage</a> and no expiration. Additionally, MCDEX has recently proposed a new AMM price formula which enables lower slippage, better capital efficiency, and near 0 impermanent loss for liquidity providers.</p>
+<p>These limitations can lead to a less-than-desirable experience for traders, especially those coming from centralized exchanges. Over the past few years, countless hours of research have gone into creating layer 2 technologies that allow DeFi applications like DEXes to scale far beyond what’s possible on layer 1. DeversiFi has made it their mission to provide a professional trading platform for traders as the first exchange on Ethereum to adopt StarkWare’s Validium Rollups Layer 2 scaling technology.&nbsp;</p>
 
 
 
-<h2>What is MCDEX?</h2>
+<h2>DeversiFi in a nutshell</h2>
 
 
 
-<p>Before we dive into the tech, I think it is useful to understand what inspired MCDEX. The team that built MCDEX is a team from China formerly involved in PoW mining. They saw the potential in DeFi and decided to build products that make investing in DeFi easier to continue contributing to the ecosystem as the industry transitions to ETH2.0. Personally, I think the team&#8217;s foresight is readily apparent in many of their designs. So without further ado, let&#8217;s dive into it.</p>
+<p><a href="https://www.deversifi.com/"><strong>DeversiFi</strong></a><strong> is a self-custodial layer 2 DEX capable of processing up to 9000 transactions per second by utilizing zero-knowledge transaction batching technology. </strong>The next chapter for DeversiFi and the Nectar ecosystem begins soon with the launch of Nectar Beehive V1, a liquidity mining initiative designed to further bootstrap the Nectar community and produce sustainable, long-term liquidity for the NEC ecosystem.</p>
 
 
 
-<p><a href="https://mcdex.io/trade?invite_code=052t01">MCDEX</a> is a decentralized derivatives exchange for traders to long/short efficiently and securely. MCDEX is built on the Mai Protocol V2. Fun fact: the name Mai is actually a pun made with the pinyin for two Chinese characters măi &#8220;买&#8221; meaning buy and mài &#8220;卖&#8221; meaning sell.&nbsp;Funny enough, that&#8217;s exactly what the Mai Protocol does: reduce the complexity of trading decentralized perpetual contracts down to just buy or sell. Historically, decentralized derivatives required many steps; MCDEX eliminates the extra step, streamlining the process and making it more approachable to new users. Additionally, security audits for MCDEX’s Mai Protocol V2 and perpetual contracts have been completed by OpenZeppelin and ConSensys Diligence.</p>
+<h1>The Evolution of DeversiFi</h1>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="728" height="376" src="./../../../wp-content/uploads/2020/06/mai2-arch.png" alt="" class="wp-image-8313" srcset="./../../../wp-content/uploads/2020/06/mai2-arch.png 728w, ./../../../wp-content/uploads/2020/06/mai2-arch-300x155.png 300w" sizes="(max-width: 728px) 100vw, 728px" /><figcaption>hybrid architecture of Mai Protocol V2</figcaption></figure>
+<p>When you hear the term ‘liquidity mining’ you probably think of fly-by-night food token farms, however NEC, the token of the DeversiFi ecosystem, is in a category of its own. DeversiFi and the Nectar ecosystem have been pioneers of <a href="https://blog.deversifi.com/introducing-the-nectar-token-58ba40e5419a/">liquidity mining in the DeFi space since 2017</a> and are backed by notable partners such as ParaFi Capital, D1 Ventures, BR Capital, StarkWare, Bitfinex, ConsenSys, and Infura.&nbsp;</p>
 
 
 
-<p>As previously mentioned, what makes MCDEX unique is its combination of perpetual contracts with an off-chain order book / on-chain AMM hybrid. This hybrid model gives traders the best of both worlds. The off-chain order book provides traders with the look and feel of a centralized exchange while the AMM provides reliable on-chain liquidity. </p>
+<p>Originally <a href="https://www.bitfinex.com/posts/279">incubated by Bitfinex</a> (now fully independent), DeversiFi began as Ethfinex Trustless, a decentralized exchange with a hybrid infrastructure with deep-liquidity from aggregated order books which access liquidity from exchanges like Bitfinex. <a href="https://blog.deversifi.com/introducing-the-nectar-token-58ba40e5419a/">Nectar (NEC) was introduced in 2017</a> as one of the first liquidity mining tokens as a way to reward Ethfinex users with a stake in the future development, governance and success of the platform. Ethfinex eventually closed its doors in August 2019 leaving behind 17000 ETH which was entrusted to NEC holders via the Nectar DAO, or NecDAO for short.&nbsp;</p>
 
 
 
-<p>There&#8217;s a sort of symbiosis between the two; the order book offers efficient liquidity but tends to be a bit more centralized whereas the AMM&#8217;s liquidity is always available to both traders and other smart contracts on-chain. This opens up a world of possibilities for these perpetual contracts to be used in the wider DeFi ecosystem.</p>
+<h1>Piecing together DeversiFi, NEC, and NecDAO</h1>
 
 
 
-<p>Introducing the AMM to MCDEX not only provided reliable on-chain liquidity, it also enabled a key feature of perpetual contracts: funding rate. In a nutshell, the funding rate&#8217;s purpose is to balance out long or short orders in times of high demand to maintain an accurate index price. So naturally, the funding rate is dynamically adjusted by the protocol in response market demand.  For example, when the funding rate is positive it means long position holders pay to fund short positions (short position holders). This incentivizes users to take up the short side of the trade effectively balancing demand for both sides.</p>
+<p>Nectar’s original purpose was to incentivize liquidity on Ethfinex offering 50% of the centralized exchange’s trading fees. But after Ethfinex closed its doors, the remaining 17,000 ETH was passed onto the Nectar DAO and <a href="https://nectar.community/whitepaper">the role of NEC tokens has since expanded</a> to become the governance and utility token of the Nectar and DeversiFi ecosystem. The primary goal of Nectar is to grow the world’s largest community of decentralized exchange users. NEC tokens can be staked to earn reputation and become a voting member of NecDAO. Learn more about <a href="https://nectar.community/dao">Nectar DAO</a>.</p>
 
 
 
-<p>This is where the AMM and off-chain order book work so nicely together. The funding rate needs to be derived on-chain to be sufficiently decentralized but on-chain trading isn&#8217;t always ideal for traders. Liquidity and trading activity will naturally gravitate towards the efficiency of the off-chain order book, but arbitrage opportunities between the order book and AMM improve the AMM&#8217;s liquidity and earn more fees for liquidity providers. Not to mention, many of you will be happy to hear ETH-PERP takes advantage of Chainlink&#8217;s ETH/USD Price Reference Contract live on the Ethereum mainnet as its index price feed.</p>
+<p>NEC is deflationary with the supply being reduced over time through a buy-and-burn model. Each week, up to 50% of the revenue from DeversiFi trading fees (based on daily trading volumes) are used to purchase NEC tokens through an open and transparent auction mechanism. These NEC tokens are then burned reducing the total supply.</p>
 
 
 
-<h2>Trade ETH-PERP with up to 10x leverage</h2>
+<p>DeversiFi offers unique trading fee discounts to NEC token holders. On top of the trading fee discounts DeversiFi users receive based on their 30d trading volume, Nectar holders will soon be entitled to additional discounts of up to 20% depending on the average amount of Nectar tokens that they hold (and have locked inside DeversiFi) for the past 30 days. For example, if a trader expects to do 10 million USD of trading volume every 30 days, buying and holding 100,000 NEC could save them ~$4000 in fees per 30 days.</p>
 
 
 
-<p>MCDEX is set to launch ETH-PERP trading on Monday June 29, 2020. Get a <a href="https://mcdex.io/trade?invite_code=052t01">sneak peek</a> at the interface today.</p>
+<p>You can see how DeversiFi and NecDAO have a symbiotic relationship. The more users trade on DeversiFi, the more NEC tokens are burned, the more valuable NEC becomes, the greater the value of the potential discounts NEC holders can receive. NecDAO and NEC holders benefit from generating proposals which improve DeversiFi and attract more trading volume. DeversiFi, in turn, has a dedicated community of NEC stakeholders that boost trading volumes and generally promote their platform.</p>
 
 
 
-<p>MCDEX&#8217;s trading interface was designed to be intuitive with a familiar look and feel for experienced traders yet simple enough for new users. I liked how all the info I needed was laid out in the interface; I found the Etherscan links for contract and asset addresses particularly helpful.</p>
+<h1>Introducing Beehive, Nectar’s new liquidity mining initiative<img loading="lazy" src="https://lh5.googleusercontent.com/AEwu1MgeUK5S0tl0uXQodikfIOanlcWYVuse6Q0MkTmU9aiFDKMarX9s6vMtzaK1eXFSeyBU7p17Q0aAKtFmA6dYlSWSIR3tU3XV-KAkfWxi51od7v-bKYvk7AIGsIhGKiMsljo1" width="624" height="324"></h1>
 
 
 
-<p>Traders will appreciate the performance of MCDEX&#8217;s order book interface. With its speed, efficiency, and support for features like limit orders you might find yourself surprised you aren&#8217;t trading on a centralized exchange.</p>
+<p>Nectar Beehive V1 is a new community bootstrapping and liquidity mining initiative for the DeversiFi ecosystem that returns NEC to its roots of rewarding market makers.</p>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://mcdex.io/trade?invite_code=052t01"><img loading="lazy" width="1024" height="613" src="./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-1024x613.jpg" alt="" class="wp-image-8337" srcset="./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-1024x613.jpg 1024w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-300x180.jpg 300w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-768x460.jpg 768w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39.jpg 1270w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Order book trading interface</figcaption></figure></div>
+<p>Nectar Beehive will allow liquidity providers to stake their tokens and earn NEC and BAL token rewards, offering multipliers up to 2x for those who also trade on DeversiFi. Of course, APY varies and is subject to many factors such as the price of NEC tokens and total participation in Nectar Beehive. Inspired by other popular liquidity mining initiatives, NEC rewards will be&nbsp; vested for 1 year, limiting sell pressure on the market and producing a sustainable source of liquidity for NEC.&nbsp;</p>
 
 
 
-<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/06/1_l9B7vSmVvIYYPa6ZgwCNqQ-1024x500.png" alt="" class="wp-image-8317"/><figcaption>AMM interface</figcaption></figure>
+<p>Nectar Beehive V1 officially launches on Tuesday December 1st, 2020. All the need-to-know details will be communicated in their <a href="https://discord.gg/GMtnTZeHpr">Discord</a> and <a href="https://twitter.com/deversifi">Twitter</a>. UPDATE: <a href="https://blog.deversifi.com/nectar-liquidity-mining/">Learn more about Nectar Beehive V1</a>.</p>
 
 
 
-<p></p>
+<h1>DeversiFi offers a fast, smooth trading experience</h1>
 
 
 
-<p>If you&#8217;re familiar with other popular perpetual contract exchanges like BitMEX, it&#8217;ll take no time at all to get settled in. Head over to <a href="https://mcdex.io/trade?invite_code=052t01">MCDEX</a> and explore it for yourself. </p>
+<p>We recommend you <a href="https://www.deversifi.com/">experience it for yourself</a> to see how it compares to what you’ve come to expect from a DEX or even centralized exchanges. DeversiFi have recently added Hermez Network token offering a 10% kickback to the first 100 users who trade HEZ (<a href="https://blog.deversifi.com/hez-token-now-available-on-deversifi/">details here</a>). In the run-up to Nectar Beehive, various new token pairs will be added allowing Beehivers to trade their favourite tokens while earning NEC.</p>
 
 
 
-<h2>Looking towards the future</h2>
+<h2>High throughput and deep liquidity</h2>
 
 
 
-<p>Many aspects of MCDEX&#8217;s design illustrate the team&#8217;s willingness to learn from battle-tested concepts in DeFi and desire to contribute the ecosystem&#8217;s long-term success. Take for example, 1% out of the 2.5% liquidation penalty automatically goes to an insurance fund. You can find more info about MCDEX&#8217;s roadmap in<a href="https://mcdex.io/references/#/en/white-paper"> the whitepaper</a>.</p>
+<p>Why are rollups so cool? I’m glad you asked. I’m not going to get into all the technical details of how zkSTARKs or Validium rollups work. But in a nutshell, they allow DeversiFi to offer a super fast layer 2 experience while still rooting all security in layer 1, in this case the Ethereum blockchain. DeversiFi was the first DEX to utilize StarkWare’s transaction batching technology StarkEx which processes and settles trades at extremely high speeds (approx. 9,000 tps).</p>
 
 
 
-<h3>Structured funds enable new strategies for even inexperienced DeFi users</h3>
+<p>DeversiFi’s hybrid infrastructure features allows traders to tap into deep liquidity from aggregated order books including Bitfinex, resulting in self-custodial access to the best prices.</p>
 
 
 
-<p>Trading perpetual contracts isn&#8217;t everyone&#8217;s cup of tea but that doesn&#8217;t mean they won&#8217;t be able to get in on the action. While perpetual contracts are MCDEX&#8217;s first product, the team plans to release structured trading funds for various risk preferences. This creates the opportunity for even inexperienced traders to take part in perpetual contract trading.</p>
+<h2>Gas-Free trading</h2>
 
 
 
-<p>Structured funds on MCDEX will allow anyone to deposit assets and automatically trade perpetual contracts with a robotic or human-managed fund strategy. This creates the opportunity for MCDEX users to expose themselves to many different strategies and potentially maximize their profits. Not to mention, fundholders will be eligible for liquidity mining incentives&#8230;</p>
+<p>No one likes paying high gas fees. They always seem to spike when you need to make an important trade. This typically happens because many traders are competing to “outbid” other traders to be included in the next block. <strong>DeversiFi users enjoy gas-free trading with instant finality</strong> thanks to its Validium rollups. Trades are processed in batches and securely submitted back to the Ethereum blockchain where customers’ funds are held. There is never any danger of trades being rolled back and rooting the transactions on-chain ensures customers would be able to withdraw their funds in the unlikely case where DeversiFi or StarkWare go offline.</p>
 
 
 
-<h3>MCB token and Liquidity Mining</h3>
+<p>Gas fees are only required to lock and unlock tokens; this is because these interactions take place with DeversiFi’s smart contract on layer 1.</p>
 
 
 
-<p>MCDEX plans to launch a native token (tentatively in Q3 2020) called MCB token to align its stakeholders, a portion of which will be distributed through liquidity mining to incentivize users to invest in funds. Once launched, MCB tokens will be distributed to the funds based on their net asset value at a fixed amount per day. This should effectively incentivize users to invest in the funds that perform the best whether they be a social or automated funds. Put simply, the better a fund performs, the faster its net asset value grows, the more MCB tokens fundholders are rewarded. Social fund managers will even receive a cut of the MCB they earn for fundholders.</p>
+<h2>Privacy-by-default</h2>
 
 
 
-<p><strong>Initial distribution of MCB tokens</strong></p>
+<p>Don’t leak that sweet sweet alpha. Validium rollups is one of the only layer 2 technologies on the market that enables private transactions. Privacy let’s you make the most of opportunities in the market without exposing your strategy to the public blockchain where it can be monitored and reverse-engineered. And while leaking alpha is bad, your data potentially falling into more nefarious hands is worse.</p>
 
 
 
-<ol><li>25% to founding team and early investors</li><li>25% to MCDEX Foundation for token sale to cover expenses such as development, audits, market makers, marketing, etc. </li><li>50% to user incentives with a limit up to 5% per year.</li></ol>
+<p>Don’t underestimate the value of privacy when it comes to DeFi. Although the community is small now, DeFi is likely to grow into a wider mainstream market where bad actors may increasingly look to take advantage of personal data stored forever on the blockchain. As the saying goes: An ounce of prevention is worth a pound of cure.</p>
 
 
 
-<p>That limit of 5% a year stuck out to me as something interested because it means that user incentives are planned for a minimum of 10 years. This fits well into MCDEX&#8217;s roadmap to add more user incentives and eventually enable on-chain governance run by MCB token holders. </p>
+<h1>DeversiFi’s roadmap aims to uniquely position the platform for the future</h1>
 
 
 
-<p><strong>Trading competition</strong></p>
+<figure class="wp-block-image"><img src="https://lh3.googleusercontent.com/21xwQM4KCgKndacOHO9kIz_maga7Vzgs9-iIixBnsvt8iOB_yU7gblPBPY6sGC83NiaVwveE3PPmh-F10UeJ83-PPpop0dwIcGnn9LYmSeEGhGxWFR9btYjQRgp4Lr7g7rUpbL_C" alt=""/></figure>
 
 
 
-<p>To celebrate the launch of their ETH-PERP smart contract, MCDEX is holding a trading competition with prizes up to $2500 + 2500MCB. The competition will begin on June 29th, 2020 from 12:00 pm UTC, and will close on July 13, 2020, at 12:00 pm UTC. More details can be found <a href="https://mcdex.io/competition">here</a>.</p>
+<p><a href="https://blog.deversifi.com/deversifi-public-roadmap/"></a></p>
 
 
 
-<h3>Concluding thoughts</h3>
+<p>Composability between platforms is the major game changer of DeFi. Within the next few months, DeFi is likely to experience an explosive growth in the number of protocols available on layer 1 in addition to the new and existing services migrating to layer 2. DeversiFi’s hybrid architecture and history of adaptation makes it uniquely situated to capitalize on the potential composability between layer 1 and layer 2 platforms as well as the opportunities that arise from bridging decentralized and centralized services like CEXs/DEXs.</p>
 
 
 
-<p>Ultimately, I find it very encouraging how MCDEX seems to understand the necessity of balancing ease of use, efficiency, decentralization and sustainability when designing smart contract systems. On a personal note, I enjoyed poking through Mai Protocol V2 to write this article because it reminds me again how we&#8217;re truly on the cutting edge here in DeFi.</p>
+<p>Let’s discuss some features coming up on DeversiFi’s roadmap. Head <a href="https://blog.deversifi.com/deversifi-public-roadmap/">here</a> for a full public roadmap.</p>
 
 
 
-<p><strong>We highly recommend you check out MCDEX and see for yourself how the order book enables a smooth and efficient trading experience. Stay tuned for more details regarding MCB liquidity mining.</strong> In the mean time, click here to <a href="https://mcdex.io/trade?invite_code=052t01">head over to MCDEX and get started trading perpetual contracts</a> today.</p>
+<h2>Rapid Withdrawals and DeversiFi EARN</h2>
 
 
 
-<p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve partnered with MCDEX to inform the community about their protocol. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express as part of a DeFi Pulse Drop are our own. </em></p>
+<p>I haven’t met a person yet who enjoys the agony that is waiting for a withdrawal from an&nbsp; exchange. Previously, DeversiFi users would be required to wait until another batch of transactions is submitted to the blockchain in order to withdraw their funds. This can sometimes take a few hours depending on network congestion. With new rapid withdrawal functionality, DeversiFi users will be able to withdraw instantly, paying a fee and essentially “borrowing” liquidity from the DeversiFi EARN pool. Users can provide liquidity to DeversiFi EARN to earn fees for enabling rapid withdrawals. Both parties benefit from the arrangement: liquidity providers earn passive returns and traders have the option to skip the wait for a convenience fee.&nbsp;</p>
+
+
+
+<h2>Conditional transfers open the door for enhanced composability</h2>
+
+
+
+<p>Beyond fast withdrawals, conditional transfers open the door to many new possibilities and arbitrage opportunities for DeversiFi users. This upgrade would allow users to withdraw to new or different addresses, deposit from one address directly into their DeversiFi trading account, and it can even allow traders to make custom transactions directly interacting with other DeFi protocols on layer 1.&nbsp;</p>
+
+
+
+<p>You can imagine how this lowers the opportunity cost of holding funds in DeversiFi. DeversiFi users benefit from being positioned to effectively seize potential opportunities across centralized and decentralized layer 1 and layer 2 DEXes, improving the overall efficiency of the market.</p>
+
+
+
+<h2>Exploring synergies between DeFi and centralized services</h2>
+
+
+
+<p>DeversiFi has been exploring a number of things that would further enhance DeversiFi’s hybrid architecture including zero-knowledge KYC and several regulatory licenses that would allow them to provide regulated products such as derivatives and leverage to even traders based out of the United States.</p>
+
+
+
+<h1>Closing Thoughts</h1>
+
+
+
+<p>DeversiFi has put a lot of time and effort into building a very uniquely situated trading platform. When you put all the pieces together, it’s easy to see DeversiFi and the Nectar community are dedicated to building a platform that is sustainable with long-term goals. Experience what layer 2 has to offer today by trading on <a href="https://www.deversifi.com/">DeversiFi</a>. And don’t forget to mark your calendar for the launch of <a href="https://beehive.nectar.community/#/beehive">Beehive</a>! Thanks for reading.&nbsp;</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with DeversiFi to help educate and inform the community about the DeversiFi and the Nectar Ecosystem. DeFi Pulse received NEC tokens as part of its payment. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em> </p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/29/deversifi-nectar-beehive-v1/index.html">DeversiFi &#8211; A high-speed trading platform capable of 9000 TPS</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DPI November Rebalance and DeFi Pulse Index Construction, Version 0.2</title>
+		<link>./../../../2020/11/27/dpi-november-rebalance-and-defi-pulse-index-construction-version-0-2/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Fri, 27 Nov 2020 20:16:55 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[defi pulse index]]></category>
+		<category><![CDATA[dpi]]></category>
+		<category><![CDATA[index]]></category>
+		<category><![CDATA[index-coop]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8712</guid>
+
+					<description><![CDATA[<p>The DeFi Pulse Index is a digital asset index designed to track tokens’ performance within the Decentralized Finance industry. The...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/27/dpi-november-rebalance-and-defi-pulse-index-construction-version-0-2/index.html">DPI November Rebalance and DeFi Pulse Index Construction, Version 0.2</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The DeFi Pulse Index is a digital asset index designed to track tokens’ performance within the Decentralized Finance industry. The index is weighted based on the value of each token’s circulating supply. <strong>As part of our </strong><strong>commitment to the ongoing maintenance and development of the DeFi Pulse Index, we are transitioning from v0.1 of our methodology to </strong><a href="https://pulse.inc/"><strong>DeFi Pulse Index Construction, Version 0.2</strong></a><strong>. </strong>Version 0.2 introduces a change to the inclusion criteria that tokens must have a circulating supply minimum that is 7.5% or higher to ensure tokens have sufficient liquidity.</p>
+
+
+
+<p>As outlined in v0.2 of its methodology, the DeFi Pulse Index is maintained in two phases: the Determination Phase and the Reconstitution Phase. The Determination Phase takes place during the third week of the month. During this phase, the circulating supply of each token currently included in DPI is determined. Any tokens eligible for addition or removal from DPI are also determined during this phase. Finally, new index weights, additions and deletions are incorporated into the index during the monthly Reconstitution Phase on the first business day of the month.&nbsp;</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh4.googleusercontent.com/07lr3Mkjtia8YKBoRCK7EuNm-z7c1LeZGef7gYtaGwHPVUu08o8uVwLrzN18lpvzIQWp96t-vQXeD3qjAU-05oo4M17GzpHOdR6Ja6dMtmGZurhwFiUXP9hhIHFLhjsp4q7H__0c" alt=""/></figure>
+
+
+
+<p>DeFi tokens require adequate liquidity to be included in DPI. During our assessment, we found REP to have inconsistent liquidity. Liquidity is fractured across REP V1 and V2. As part of this month’s maintenance of DPI, REP will be removed from the DeFi Pulse Index as it does not meet the liquidity requirements for inclusion at this time. For information regarding inclusion criteria, see <a href="https://pulse.inc/">the DeFi Pulse Index Construction, Version 0.2.</a></p>
+
+
+
+<p>In addition to the removal of REP, DPI has decreased its weighted allocations in MKR, YFI, KNC, REN, and LRC. DPI has increased its weighted allocation of COMP, SNX, AAVE, and BAL. <strong>DPI will be rebalanced as part of the Reconstitution Phase on December 1, 2020.</strong> You can also view more information about DPI and its underlying tokens on <a href="https://www.indexcoop.com/dpi">here</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/27/dpi-november-rebalance-and-defi-pulse-index-construction-version-0-2/index.html">DPI November Rebalance and DeFi Pulse Index Construction, Version 0.2</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -18,12 +18,12 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>DODO and Proactive Market Making (PMM)</title>
 		<link>./../../../2021/03/29/dodo-and-proactive-market-making/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Mon, 29 Mar 2021 13:00:48 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[DEX]]></category>
@@ -33,13 +33,15 @@
 		<category><![CDATA[PMM]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=9048</guid>
 
-					<description><![CDATA[DODO is a decentralized exchange (DEX) platform powered by a unique Proactive Market Making (PMM) algorithm. DODO’s PMM algorithm was...]]></description>
+					<description><![CDATA[<p>DODO is a decentralized exchange (DEX) platform powered by a unique Proactive Market Making (PMM) algorithm. DODO’s PMM algorithm was...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/03/29/dodo-and-proactive-market-making/index.html">DODO and Proactive Market Making (PMM)</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>DODO is a decentralized exchange (DEX) platform powered by a unique Proactive Market Making (PMM) algorithm. <a href="https://dodoex.io/">DODO</a>’s PMM algorithm was developed entirely in-house by the DODO team iterating on the design of Automated Market Makers (AMMs) to improve capital efficiency, reduce impermanent loss, and minimize slippage for traders. Inspired by their previous work on DDEX, the DODO team set out to abstract the proactive market making concepts popular on order book-based exchanges into a permissionless on-chain liquidity protocol.</p>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://dodoex.io/"><img loading="lazy" width="1024" height="375" src="./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-1024x375.png" alt="" class="wp-image-9050" srcset="./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-1024x375.png 1024w, ./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-300x110.png 300w, ./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-768x282.png 768w, ./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-1536x563.png 1536w, ./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-2048x751.png 2048w, ./../../../wp-content/uploads/2021/03/logo-dodo_iaaauaya_-1-1568x575.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://dodoex.io/"><img src="https://defipulse.com/blog/wp-content/uploads/2021/03/LOGO-DODO_τö╗µ¥┐-1-1024x375.png" alt="" class="wp-image-9050"/></a></figure>
 
 
 
@@ -100,6 +102,7 @@
 
 
 <p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Partner Program; We’ve partnered with DODO to help educate and inform the community about DODO’s PMM technology. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/03/29/dodo-and-proactive-market-making/index.html">DODO and Proactive Market Making (PMM)</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

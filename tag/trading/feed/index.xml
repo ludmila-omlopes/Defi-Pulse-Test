@@ -12,18 +12,309 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 May 2021 19:07:12 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 May 2021 17:03:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>Slingshot &#8211; A Next Generation Decentralized Trading Platform</title>
+		<link>./../../../2021/05/12/slingshot-polygon/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Wed, 12 May 2021 17:03:51 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[dex aggregator]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[polygon]]></category>
+		<category><![CDATA[slingshot]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9214</guid>
+
+					<description><![CDATA[<p>Did you know that the combination of how the Earth’s gravity warps spacetime and the speed at which a satellite...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/12/slingshot-polygon/index.html">Slingshot &#8211; A Next Generation Decentralized Trading Platform</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Did you know that the combination of how the Earth’s gravity warps spacetime and the speed at which a satellite travels effectively allows satellites to time travel into the future nanoseconds at time? If you wanted to time travel, theoretically you’d need two things: a massive black hole and and an incredibly fast spacecraft.&nbsp;</p>
+
+
+
+<p>Many have described DeFi as a liquidity black hole, sucking in anything that comes near it. And now, there’s a craft capable of speeds fast enough to <em>slingshot</em> us into the future. <a href="https://app.slingshot.finance/"><strong>Slingshot</strong></a><strong> is a next generation decentralized trading platform which aggregates the top liquidity sources in order to give traders like you the best prices, speed and execution on trades.&nbsp;</strong></p>
+
+
+
+<p>In late February, Slingshot launched its closed beta with a unique way for users to earn their invite. The first 100 players to complete the race, a sci-fi themed browser game, won access to the beta and NFT prizes for having the best speedrun times. One player even finished the race so quickly they were <a href="https://twitter.com/AgentProtocol/status/1365828515489345537">accused of being a robot</a>. While a race may seem odd, it was arguably the perfect primer for the futuristic look and feel of Slingshot’s smooth trading interface.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://slingshot.finance/"><img loading="lazy" width="443" height="46" src="./../../../wp-content/uploads/2021/05/slingshot-logo.png" alt="" class="wp-image-9291" srcset="./../../../wp-content/uploads/2021/05/slingshot-logo.png 443w, ./../../../wp-content/uploads/2021/05/slingshot-logo-300x31.png 300w" sizes="(max-width: 443px) 100vw, 443px" /></a></figure></div>
+
+
+
+<p>You can now try it for yourself today because <a href="https://app.slingshot.finance/"><strong>Slingshot</strong></a><strong> is live on Polygon</strong>. Slingshot chose to launch their first Liquidity Zone on Polygon because it fit with their mission to provide traders with the best trading experience.</p>
+
+
+
+<h2>Slingshot is tailored for a next level trading experience</h2>
+
+
+
+<p>To quote its early <a href="https://twitter.com/i/status/1329235851813953537">teaser</a> video, Slingshot wants you to “fall in love with DeFi all over again.” And to be honest, the video game-like UI/UX of Slingshot is rather alluring. Between the live price chart, trade history, scrolling price ticker, and all the flashes of red and green when token prices update, you feel like you’re behind the console of a trading machine.</p>
+
+
+
+<p>Speedrunning was indeed an apt way to introduce users to Slingshot, a trading platform built for speed. The flow of trading on Slingshot is rather intuitive. You can either start by searching for a token to trade using the search bar or click the + sign on the left side to bookmark a token. Next, select whether you want to buy or sell and the amount you want to spend. And voila, Slingshot finds you the best price for your trade aggregated from the top liquidity sources.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://app.slingshot.finance/"><img loading="lazy" width="1024" height="506" src="./../../../wp-content/uploads/2021/05/slingshot-ui-1-1024x506.png" alt="" class="wp-image-9293" srcset="./../../../wp-content/uploads/2021/05/slingshot-ui-1-1024x506.png 1024w, ./../../../wp-content/uploads/2021/05/slingshot-ui-1-300x148.png 300w, ./../../../wp-content/uploads/2021/05/slingshot-ui-1-768x379.png 768w, ./../../../wp-content/uploads/2021/05/slingshot-ui-1-1536x759.png 1536w, ./../../../wp-content/uploads/2021/05/slingshot-ui-1-585x289.png 585w, ./../../../wp-content/uploads/2021/05/slingshot-ui-1.png 1917w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></div>
+
+
+
+<h3>A polished UI with a buttery smooth trade flow</h3>
+
+
+
+<p>When trading bookmarked tokens, this entire process flows smoothly from left to right allowing you to trade incredibly fast, especially on Polygon. While Polygon is the only publicly available Liquidity Zone today, beta users can tell you how awesome it is to seamlessly switch between Liquidity Zones. Slingshot allows you to search for tokens across Liquidity Zones and then filters the list of available tokens according to the Liquidity Zone of the token you selected. So say you’re connected to Ethereum but want to buy MATIC on Polygon. There’s no need to pre-switch your network in Metamask because Slingshot handles this as part of the trade flow. Don’t worry though; you’ll get the chance to see what this is like soon enough.</p>
+
+
+
+<p>The more subtle details in the user interface also really add polish to the entire trading experience. For example, when you hover your mouse over the ticker at the top, it feels as if time slows as the scrolling ticker slows in reaction to your cursor. And when you hover over the chart, the cursor becomes a crosshair which follows the line of the price chart. Every little bit adds up to make trading frictionless and fun again.</p>
+
+
+
+<h2>Test drive the future of trading with Slingshot</h2>
+
+
+
+<p><strong>Slingshot is offering our community members an awesome DFP-themed golden grapes NFT for FREE to celebrate the launch.</strong> To be eligible to receive the NFT, be sure to <a href="https://tinyurl.com/4yz5p8v4">fill out this form</a> with your wallet address.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-1024x576.jpg" alt="" class="wp-image-9301" srcset="./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-300x169.jpg 300w, ./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-768x432.jpg 768w, ./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-1200x675.jpg 1200w, ./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT-585x329.jpg 585w, ./../../../wp-content/uploads/2021/05/dfp-gold-grapeNFT.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Try <a href="https://slingshot.finance/">Slingshot</a> live on Polygon.</strong> As previously mentioned, Polygon is Slingshot’s first Liquidity Zone available to the public. Be the first to hear about new features and Liquidity Zones by following Slingshot on <a href="https://twitter.com/SlingshotCrypto">Twitter</a> and join the Slingshot community on <a href="https://discord.gg/KnpjtDkaRQ">Discord</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Slingshot to help educate and inform the community about the launch of Slingshot on Polygon. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/12/slingshot-polygon/index.html">Slingshot &#8211; A Next Generation Decentralized Trading Platform</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AMA with Slingshot CEO Clinton Bembry Jr.</title>
+		<link>./../../../2021/05/12/ama-with-slingshot-ceo-clinton-bembry-jr/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Wed, 12 May 2021 16:49:56 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[ama]]></category>
+		<category><![CDATA[dex aggregator]]></category>
+		<category><![CDATA[Dex.Ag]]></category>
+		<category><![CDATA[dexag]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[slingshot]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9278</guid>
+
+					<description><![CDATA[<p>This AMA session with Slingshot CEO Clinton Bembry Jr. occurred on May 7th, 2021. The following is a transcription of...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/12/ama-with-slingshot-ceo-clinton-bembry-jr/index.html">AMA with Slingshot CEO Clinton Bembry Jr.</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/05/Slingshot-ama-1024x576.png" alt="" class="wp-image-9279"/></figure>
+
+
+
+<p>This AMA session with Slingshot CEO Clinton Bembry Jr. occurred on May 7th, 2021. The following is a transcription of the live from DeFi Pulse’s AMA Discord channel. To participate in future AMAs, please join our <a href="https://discord.gg/Gx4TCTk">Discord</a> and follow us on <a href="https://twitter.com/defipulse">Twitter</a>.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p><strong>Chaz Schmidt:<em> </em></strong><em>Hello and welcome @everyone! Thank you for joining us today for an AMA with Clinton Bembry Jr., CEO of Slingshot ( @Clinton | Slingshot ).&nbsp;</em></p>
+
+
+
+<p><em>The AMA will last around 30 minutes and will be made available shortly after for those who could not attend.</em></p>
+
+
+
+<p><em>Clinton will be answering the questions we&#8217;ve collected from the community throughout the week. A special thanks to those of you who submitted questions for today&#8217;s AMA.</em><strong><em><br></em></strong><strong><em><br></em></strong><strong>How&#8217;s it going Clinton?</strong></p>
+
+
+
+<p><strong>Clinton Bembry Jr.:</strong> Hey Chaz! doing well, hbu?</p>
+
+
+
+<p><strong>CS: </strong><em>Not too shabby. Thanks everyone for showing up for the AMA. Let&#8217;s start off with a rather easy question&#8230;</em></p>
+
+
+
+<p><strong>What is Slingshot?</strong></p>
+
+
+
+<p><strong>Clinton:</strong> sweet, Slingshot is a decentralized trading platform that aggregates liquidity across DEX protocols (like uniswap, sushiswap, curve, etc.) to offer user sthe best prices on their trades. We place a huge emphasis on user-experience and aim to offer the ultimate trading experience for both DeFi natives and newcomers to crypto!</p>
+
+
+
+<p><strong>CS: </strong><em>This next one comes from the Slingshot Discord where folks are clamoring for more details on Slingshot ever since your initial teaser earlier this year.</em></p>
+
+
+
+<p><strong>What will separate Slingshot from all other DEXes already operating? Uniswap, SushiSwap, LinkSwap, DODO, etc.</strong><br><br><strong>Clinton:</strong> so Slingshot itself isn&#8217;t a DEX, we plug our liquidity engine into other DEXes like uniswap and sushiswap etc</p>
+
+
+
+<p>By aggregating liquidity and splitting orders between other DEXes we are able to offer much better prices than if you were to trade on an individual DEX<br><br>Slingshot isn&#8217;t just about the best prices, but also unparalleled user-experience</p>
+
+
+
+<p><strong>CS: </strong><em>I know for many DeFi users fees can be a big factor when it comes to user experience.</em><br><br><strong>How does Slingshot plan to support trading on layer 2 or multiple chains?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>definitely, many people (myself included) got priced out of trading on Ethereum L1</p>
+
+
+
+<p>At launch we will suport trading on Polygon, which is an Ethereum L2/sidechain. The tx fee on Polygon for a trade is as low as $0.0002, compared to Ethereum which can be a $100+ fee per trade</p>
+
+
+
+<p>At Slingshot we&#8217;re all about pricing people back into DeFi <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p><strong>CS:</strong><em> Sounds good to me. I like low fees. I saw in your Discord that Closed Beta users have been able to use Slingshot on Polygon already.</em></p>
+
+
+
+<p><strong>What has been the most useful feedback from the closed beta so far?</strong></p>
+
+
+
+<p><strong>Clinton:</strong> Our polygon support is a result of the feedback we received from our earliest beta users. Due to high fees they were being forced to turn back to the world centralized trading. We began working on L2 support immediately and shipped it a few weeks later.</p>
+
+
+
+<p>other than that &#8211; it&#8217;s been very helpful in general to hear which features users want to see to aid in their trading flows</p>
+
+
+
+<p><strong>CS: </strong><em>That actually leads straight into my next question which is:</em><strong> What features of Slingshot are you most excited for the public to see?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>aside from the lightning fast L2 trading + unbeatable prices, i&#8217;m personally excited for people to experience all of the real-time, on-chain data we pump through our platform.</p>
+
+
+
+<p>Every time a block get&#8217;s mined we parse all trading activity and surface it to our users and it makes for a visceral experience!</p>
+
+
+
+<p>oh also &#8211; our price charts are custom made and look really cool :sunglasses:</p>
+
+
+
+<p><strong>CS: </strong><em>I can attest to this personally. I&#8217;ve gotten a chance to test Slingshot in the beta and I found myself getting lost in it like it is a game. The flow from seeing a price change on the ticker, clicking it to select the token, and executing the trade was incredible. A community member wanted to know more about the sci-fi browser game that Slingshot produced where players could win their way into the beta.</em><strong> In their words, &#8220;What was the point of the game?&#8221; And, will other aspects of Slingshot involve gamification?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>the point of the game was&nbsp; to announce our closed-beta and bootstrap an initial user-base, while also having some fun while we build the future of finance!<br><br>I mean, how else are you supposed to announce a beta?</p>
+
+
+
+<p><strong>CS: </strong><em>Solid point haha</em><br><br><em>And it was fun. One player was even so fast they were accused of being a robot</em> <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f916.png" alt="🤖" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p><strong>Clinton: </strong>haha yes, a bit of a speed-running competition broke out! as far as I could tell, they were all legit, no bots!</p>
+
+
+
+<p><strong>CS: </strong><em>We&#8217;re reaching near the end now and it&#8217;s been super interesting so far. If you&#8217;re up for it Clinton, we have a couple more of questions before we let you go</em></p>
+
+
+
+<p><strong>Clinton: </strong>Of course!<br><br><strong>CS: </strong><em>I think the audience would get angry if I didn&#8217;t ask the obvious: </em><strong>When launch?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>soon <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> bahaha<br>forreal though &#8211; very soon<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p><strong>CS: </strong><em>We&#8217;ll accept that answer.</em><br><br><strong>Clinton: </strong>we want to get Slingshout out publicly for everyone to use ASAP</p>
+
+
+
+<p><strong>CS: </strong><em>I think that&#8217;s about all the questions we have time for.&nbsp;</em></p>
+
+
+
+<p><em>Thank you for joining us Clinton. I know I for one am excited for Slingshot to go live.</em></p>
+
+
+
+<p><strong>Clinton: </strong>awesome, thanks for having me!</p>
+
+
+
+<p>quick plug &#8211; we&#8217;re hiring for a lot of roles at Slingshot. If you&#8217;re interested in helping us build the future of trading, <a href="https://slingshot-finance.homerun.co/">check out our job postings here</a>.</p>
+
+
+
+<p><strong>CS: </strong><em>Haha yes. Be sure to reach out if you fit those roles lol</em></p>
+
+
+
+<p><strong>Anything else you&#8217;d like to add before we go?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>that&#8217;s all from me!</p>
+
+
+
+<p><strong>CS: </strong><em>Well it was a pleasure talking with you</em></p>
+
+
+
+<p><em>Thank you everyone for attending! I hope your curiosities were satisfied.</em></p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p>Follow us on <a href="https://twitter.com/defipulse">Twitter</a> to hear about the latest AMA and don’t forget to keep your eyes on Slingshot for the true answer to the question: when launch?<em><br></em><em><br></em><em>Disclosure: This post is paid promotion; We’ve partnered with Slingshot to help educate and inform the community about Slingshot’s decentralized trading platform. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/12/ama-with-slingshot-ceo-clinton-bembry-jr/index.html">AMA with Slingshot CEO Clinton Bembry Jr.</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>DexGuru &#8211; Real-time Data, Analytics and Trading for AMMs in One Place</title>
 		<link>./../../../2021/04/20/dexguru/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Tue, 20 Apr 2021 13:03:31 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Explainers]]></category>
@@ -35,7 +326,9 @@
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=9142</guid>
 
-					<description><![CDATA[The origin of the Sanskrit word guru is said to be based on the syllables gu (गु) and ru (रु),...]]></description>
+					<description><![CDATA[<p>The origin of the Sanskrit word guru is said to be based on the syllables gu (गु) and ru (रु),...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/04/20/dexguru/index.html">DexGuru &#8211; Real-time Data, Analytics and Trading for AMMs in One Place</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>The origin of the Sanskrit word <em>guru</em> is said to be based on the syllables<em> gu</em> (गु) and <em>ru</em> (रु), which stand for darkness and &#8220;light that dispels it.&#8221; Gurus cast out the darkness of ignorance with the light of their wisdom. To become a guru, you must be able to take in your surroundings to gain perspective and glean greater wisdom. DexGuru wants to be your guide lighting the way through the dark forest. <a href="https://dex.guru/">DexGuru</a> harmonizes permissionless, real-time data and analytics of every on-chain market in a single UI capable of trading across DEXes.</p>
 
@@ -49,7 +342,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="https://dex.guru/"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/04/dexguru-ui-1024x576.png" alt="" class="wp-image-9147" srcset="./../../../wp-content/uploads/2021/04/dexguru-ui-1024x576.png 1024w, ./../../../wp-content/uploads/2021/04/dexguru-ui-300x169.png 300w, ./../../../wp-content/uploads/2021/04/dexguru-ui-768x432.png 768w, ./../../../wp-content/uploads/2021/04/dexguru-ui-1536x864.png 1536w, ./../../../wp-content/uploads/2021/04/dexguru-ui-1568x882.png 1568w, ./../../../wp-content/uploads/2021/04/dexguru-ui.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://dex.guru/"><img loading="lazy" width="1024" height="576" src="https://defipulse.com/blog/wp-content/uploads/2021/04/dexguru-ui-1024x576.png" alt="" class="wp-image-9147" srcset="./../../../wp-content/uploads/2021/04/dexguru-ui-1024x576.png 1024w, ./../../../wp-content/uploads/2021/04/dexguru-ui-300x169.png 300w, ./../../../wp-content/uploads/2021/04/dexguru-ui-768x432.png 768w, ./../../../wp-content/uploads/2021/04/dexguru-ui-1536x864.png 1536w, ./../../../wp-content/uploads/2021/04/dexguru-ui-1568x882.png 1568w, ./../../../wp-content/uploads/2021/04/dexguru-ui.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -77,7 +370,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="345" height="342" src="./../../../wp-content/uploads/2021/04/image.png" alt="" class="wp-image-9150" srcset="./../../../wp-content/uploads/2021/04/image.png 345w, ./../../../wp-content/uploads/2021/04/image-300x297.png 300w, ./../../../wp-content/uploads/2021/04/image-150x150.png 150w" sizes="(max-width: 345px) 100vw, 345px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="345" height="342" src="https://defipulse.com/blog/wp-content/uploads/2021/04/image.png" alt="" class="wp-image-9150" srcset="./../../../wp-content/uploads/2021/04/image.png 345w, ./../../../wp-content/uploads/2021/04/image-300x297.png 300w, ./../../../wp-content/uploads/2021/04/image-150x150.png 150w" sizes="(max-width: 345px) 100vw, 345px" /></figure>
 
 
 
@@ -102,6 +395,7 @@
 
 
 <p><strong><em>Disclosure: This post is part a promotional series; We’ve partnered with DexGuru to help educate and inform the community about its on-chain market data and trading tools. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></strong></p>
+<p>The post <a rel="nofollow" href="./../../../2021/04/20/dexguru/index.html">DexGuru &#8211; Real-time Data, Analytics and Trading for AMMs in One Place</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -111,9 +405,10 @@
 		<title>SIREN &#8211; Decentralized Options For Sophisticated Traders</title>
 		<link>./../../../2021/03/01/siren/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Mon, 01 Mar 2021 21:19:51 +0000</pubDate>
-				<category><![CDATA[Ecosystem]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Explainers]]></category>
 		<category><![CDATA[Protocol]]></category>
 		<category><![CDATA[amm]]></category>
@@ -124,7 +419,9 @@
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8929</guid>
 
-					<description><![CDATA[Options trading has become more popular than ever now that anyone can trade from anywhere with a few taps. The...]]></description>
+					<description><![CDATA[<p>Options trading has become more popular than ever now that anyone can trade from anywhere with a few taps. The...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/03/01/siren/index.html">SIREN &#8211; Decentralized Options For Sophisticated Traders</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Options trading has become more popular than ever now that anyone can trade from anywhere with a few taps. The barriers to entry have been lowered improving accessibility for the average joe. In case you don’t know, options are financial primitives that give a trader the choice (or the <em>option</em>) to buy or sell an asset at a predetermined strike price at some point in the future. Traders can utilize options to hedge against potential price changes or to speculate on the future price of an asset. As DeFi matures, on-chain financial primitives like options become the building blocks for even more sophisticated financial instruments.</p>
 
@@ -134,7 +431,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/03/siren-1000x500-1-1.jpg" alt="" class="wp-image-8932"/></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1000" height="500" src="https://defipulse.com/blog/wp-content/uploads/2021/03/siren-1000x500-1.jpg" alt="" class="wp-image-8932" srcset="./../../../wp-content/uploads/2021/03/siren-1000x500-1.jpg 1000w, ./../../../wp-content/uploads/2021/03/siren-1000x500-1-300x150.jpg 300w, ./../../../wp-content/uploads/2021/03/siren-1000x500-1-768x384.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -283,6 +580,7 @@
 
 
 <p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with SIREN to help educate and inform the community about Siren Markets. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/03/01/siren/index.html">SIREN &#8211; Decentralized Options For Sophisticated Traders</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -292,9 +590,10 @@
 		<title>Hegic Protocol &#8211; On-chain Options Trading Protocol</title>
 		<link>./../../../2020/11/28/hegic-protocol-on-chain-options-trading-protocol/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Infoguild]]></dc:creator>
 		<pubDate>Sat, 28 Nov 2020 17:35:13 +0000</pubDate>
-				<category><![CDATA[Protocol]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Protocol]]></category>
 		<category><![CDATA[Trading]]></category>
 		<category><![CDATA[derivatives]]></category>
 		<category><![CDATA[hegic]]></category>
@@ -304,7 +603,9 @@
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8721</guid>
 
-					<description><![CDATA[During DeFi’s most innovative and exciting year, a new kind of trading experience has exploded onto the scene. Hegic is...]]></description>
+					<description><![CDATA[<p>During DeFi’s most innovative and exciting year, a new kind of trading experience has exploded onto the scene. Hegic is...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/28/hegic-protocol-on-chain-options-trading-protocol/index.html">Hegic Protocol &#8211; On-chain Options Trading Protocol</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>During DeFi’s most innovative and exciting year, a new kind of trading experience has exploded onto the scene. <a href="https://www.hegic.co/">Hegic</a> is an on-chain, non-custodial platform for options trading, launched by the enigmatic Molly Wintermute. The platform has grown significantly in recent months, after its <a href="https://decrypt.co/35038/hegics-molly-wintermute-im-paying-a-high-price-for-the-mainnet-first-approach-to-building">inauspicious start </a>in April. The first iteration suffered from buggy code, which required Wintermute to return almost $50,000 in locked funds to users. Since then, Hegic has been running smoothly, and volume has <a href="https://www.hegic.co/analytics">rapidly grown</a>. It is poised to become one of the key players in the crypto trading ecosystem.</p>
 
@@ -331,6 +632,7 @@
 
 
 <p>Hegic&nbsp;is one of the more complicated DeFi protocols on the market today. It involves a lot more levers and cranks than discussed here, including a bonding curve that controls the new supply of Hegic. To learn more about Hegic, you can check out <a href="https://hegic.gitbook.io/start/">Hegic&#8217;s documentation</a>. You can also try it out for yourself; All you need is an Ethereum wallet. The protocol does not require KYC or account verification. Hegic is proving to be a worthy rival for Deribit, although they are likely to grow in unison given the unique advantages that each provide. Hopefully, there will be plenty of opportunities for arbitrage between the two platforms headed into the future.</p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/28/hegic-protocol-on-chain-options-trading-protocol/index.html">Hegic Protocol &#8211; On-chain Options Trading Protocol</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -340,7 +642,7 @@
 		<title>DEXTF &#8211; Permissionless, Oracle-less Asset Management for Everyone</title>
 		<link>./../../../2020/11/01/dextf/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Sun, 01 Nov 2020 20:00:07 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[Assets]]></category>
@@ -351,7 +653,9 @@
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8640</guid>
 
-					<description><![CDATA[DeFi projects exist on a spectrum of decentralization. Trustlessness is at the heart of decentralization. But the word ‘trustlessness’ in...]]></description>
+					<description><![CDATA[<p>DeFi projects exist on a spectrum of decentralization. Trustlessness is at the heart of decentralization. But the word ‘trustlessness’ in...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/01/dextf/index.html">DEXTF &#8211; Permissionless, Oracle-less Asset Management for Everyone</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>DeFi projects exist on a spectrum of decentralization. Trustlessness is at the heart of decentralization. But the word ‘trustlessness’ in itself is almost an oxymoron because trust is almost never eliminated from the equation but instead is simply shifted from one counterparty to another. The goal is to minimize the required trust in the pursuit of trustlessness. Even our most trustless examples of smart contracts still require a certain amount of trust that the blockchain infrastructure it is built on will continue to function properly. Additionally, there are internal economic and smart contract security risks in DeFi platforms themselves. Looking beyond that, DeFi platforms face external risks like composability with other protocols and even further out is oracle integrity and off-chain infrastructure.&nbsp;</p>
 
@@ -369,7 +673,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-medium is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/11/DEXTF-logo-300x288.png" alt="" class="wp-image-8694" width="300" height="288" srcset="./../../../wp-content/uploads/2020/11/DEXTF-logo-300x288.png 300w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-1024x985.png 1024w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-768x738.png 768w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-1536x1477.png 1536w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-2048x1969.png 2048w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-1568x1508.png 1568w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-medium is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/11/DEXTF-logo-300x288.png" alt="" class="wp-image-8694" width="300" height="288" srcset="./../../../wp-content/uploads/2020/11/DEXTF-logo-300x288.png 300w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-1024x985.png 1024w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-768x738.png 768w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-1536x1477.png 1536w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-2048x1969.png 2048w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-1568x1508.png 1568w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
 
 
 
@@ -389,7 +693,7 @@
 
 
 
-<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/10/streamline-icon-coin-jigsaw-2@140x140-1.png" alt="" class="wp-image-8649" width="140" height="140"/></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/10/streamline-icon-coin-jigsaw-2@140x140.png" alt="" class="wp-image-8649" width="140" height="140"/></figure></div>
 
 
 
@@ -405,7 +709,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://dapp.dextf.com/"><img loading="lazy" src="./../../../wp-content/uploads/2020/10/Selection_450-1-1024x576.jpg" alt="" class="wp-image-8662" width="768" height="432"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://dapp.dextf.com/"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/10/Selection_450-1024x576.jpg" alt="" class="wp-image-8662" width="768" height="432" srcset="./../../../wp-content/uploads/2020/10/Selection_450-1024x576.jpg 1024w, ./../../../wp-content/uploads/2020/10/Selection_450-300x169.jpg 300w, ./../../../wp-content/uploads/2020/10/Selection_450-768x432.jpg 768w, ./../../../wp-content/uploads/2020/10/Selection_450.jpg 1333w" sizes="(max-width: 768px) 100vw, 768px" /></a></figure></div>
 
 
 
@@ -509,7 +813,7 @@
 
 
 
-<div class="wp-block-image"><figure class="alignleft size-large"><img loading="lazy" width="140" height="140" src="./../../../wp-content/uploads/2020/10/streamline-icon-hourglass-coins@140x140.png" alt="" class="wp-image-8653"/></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-large"><img loading="lazy" width="140" height="140" src="https://defipulse.com/blog/wp-content/uploads/2020/10/streamline-icon-hourglass-coins@140x140.png" alt="" class="wp-image-8653"/></figure></div>
 
 
 
@@ -529,7 +833,7 @@
 
 
 
-<div class="wp-block-image"><figure class="alignright size-large"><img src="./../../../wp-content/uploads/2020/10/streamline-icon-saving-increase-2@140x140-1.png" alt="" class="wp-image-8651"/></figure></div>
+<div class="wp-block-image"><figure class="alignright size-large"><img loading="lazy" width="140" height="140" src="https://defipulse.com/blog/wp-content/uploads/2020/10/streamline-icon-saving-increase-2@140x140.png" alt="" class="wp-image-8651"/></figure></div>
 
 
 
@@ -545,7 +849,7 @@
 
 
 
-<p class="has-text-align-center"> <img class="wp-image-8660" style="width: 140px;" src="./../../../wp-content/uploads/2020/10/streamline-icon-bear-market-1@140x140-1.png" alt=""><img class="wp-image-8659" style="width: 140px;" src="./../../../wp-content/uploads/2020/10/streamline-icon-bull-market-1@140x140-1.png" alt=""></p>
+<p class="has-text-align-center"> <img loading="lazy" width="140" height="140" class="wp-image-8660" style="width: 140px;" src="https://defipulse.com/blog/wp-content/uploads/2020/10/streamline-icon-bear-market-1@140x140.png" alt=""><img loading="lazy" width="140" height="140" class="wp-image-8659" style="width: 140px;" src="https://defipulse.com/blog/wp-content/uploads/2020/10/streamline-icon-bull-market-1@140x140.png" alt=""></p>
 
 
 
@@ -566,6 +870,7 @@
 
 
 <p><strong><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with DEXTF to help educate and inform the community about the DEXTF Ecosystem. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></strong></p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/01/dextf/index.html">DEXTF &#8211; Permissionless, Oracle-less Asset Management for Everyone</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -575,7 +880,7 @@
 		<title>MCDEX &#8211; 10x Perpetual Contracts Powered by Order Book/AMM Hybrid</title>
 		<link>./../../../2020/06/28/mcdex/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Sun, 28 Jun 2020 15:29:36 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[DeFi]]></category>
@@ -587,7 +892,9 @@
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8310</guid>
 
-					<description><![CDATA[DeFi has been on fire lately. Following the space has been absolutely riveting. We&#8217;ve got another sneak peek of an...]]></description>
+					<description><![CDATA[<p>DeFi has been on fire lately. Following the space has been absolutely riveting. We&#8217;ve got another sneak peek of an...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/06/28/mcdex/index.html">MCDEX &#8211; 10x Perpetual Contracts Powered by Order Book/AMM Hybrid</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>DeFi has been on fire lately. Following the space has been absolutely riveting. We&#8217;ve got another sneak peek of an interesting DeFi protocol for you today. The folks over at MCDEX have taken decentralized perpetual contracts and combined them with a hybrid on-chain AMM/off-chain order book in their recent upgrade MCDEX V2. </p>
 
@@ -609,7 +916,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="728" height="376" src="./../../../wp-content/uploads/2020/06/mai2-arch.png" alt="" class="wp-image-8313" srcset="./../../../wp-content/uploads/2020/06/mai2-arch.png 728w, ./../../../wp-content/uploads/2020/06/mai2-arch-300x155.png 300w" sizes="(max-width: 728px) 100vw, 728px" /><figcaption>hybrid architecture of Mai Protocol V2</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="728" height="376" src="https://defipulse.com/blog/wp-content/uploads/2020/06/mai2-arch.png" alt="" class="wp-image-8313" srcset="./../../../wp-content/uploads/2020/06/mai2-arch.png 728w, ./../../../wp-content/uploads/2020/06/mai2-arch-300x155.png 300w" sizes="(max-width: 728px) 100vw, 728px" /><figcaption>hybrid architecture of Mai Protocol V2</figcaption></figure>
 
 
 
@@ -645,11 +952,11 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://mcdex.io/trade?invite_code=052t01"><img loading="lazy" width="1024" height="613" src="./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-1024x613.jpg" alt="" class="wp-image-8337" srcset="./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-1024x613.jpg 1024w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-300x180.jpg 300w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-768x460.jpg 768w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39.jpg 1270w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Order book trading interface</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://mcdex.io/trade?invite_code=052t01"><img loading="lazy" width="1024" height="613" src="https://defipulse.com/blog/wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-1024x613.jpg" alt="" class="wp-image-8337" srcset="./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-1024x613.jpg 1024w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-300x180.jpg 300w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-768x460.jpg 768w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39.jpg 1270w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Order book trading interface</figcaption></figure></div>
 
 
 
-<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/06/1_l9B7vSmVvIYYPa6ZgwCNqQ-1024x500.png" alt="" class="wp-image-8317"/><figcaption>AMM interface</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://defipulse.com/blog/wp-content/uploads/2020/06/1_l9B7vSmVvIYYPa6ZgwCNqQ-1024x500.png" alt="" class="wp-image-8317"/><figcaption>AMM interface</figcaption></figure>
 
 
 
@@ -722,6 +1029,7 @@
 
 
 <p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve partnered with MCDEX to inform the community about their protocol. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express as part of a DeFi Pulse Drop are our own. </em></p>
+<p>The post <a rel="nofollow" href="./../../../2020/06/28/mcdex/index.html">MCDEX &#8211; 10x Perpetual Contracts Powered by Order Book/AMM Hybrid</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -731,12 +1039,11 @@
 		<title>Build Sustainable DApps with your own X Blaster with Custom Fees</title>
 		<link>./../../../2020/05/18/build-sustainable-dapps-with-your-own-x-blaster-with-custom-fees/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Mon, 18 May 2020 14:16:08 +0000</pubDate>
-				<category><![CDATA[Developer Docs]]></category>
+				<category><![CDATA[Community]]></category>
 		<category><![CDATA[DEX]]></category>
 		<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[New Features]]></category>
 		<category><![CDATA[aggregator]]></category>
 		<category><![CDATA[developer tools]]></category>
 		<category><![CDATA[Dex.Ag]]></category>
@@ -748,7 +1055,9 @@
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8256</guid>
 
-					<description><![CDATA[TLDR: Integrating DEX.AG&#8217;s X Blaster with custom fees into your platform provides your users or smart contract with convenient native...]]></description>
+					<description><![CDATA[<p>TLDR: Integrating DEX.AG&#8217;s X Blaster with custom fees into your platform provides your users or smart contract with convenient native...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/05/18/build-sustainable-dapps-with-your-own-x-blaster-with-custom-fees/index.html">Build Sustainable DApps with your own X Blaster with Custom Fees</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p><em><strong>TLDR: </strong><a href="https://docs.dex.ag/proxy-contract">Integrating DEX.AG&#8217;s X Blaster with custom fees</a> into your platform provides your users or smart contract with convenient native liquidity while allowing you to build a sustainable business model.</em></p>
 
@@ -843,6 +1152,7 @@
 
 
 <p>Give your users what they want and get your own X Blaster today! Head over to our <a href="https://docs.dex.ag/proxy-contract">API/SDK documention</a> to get started.<br></p>
+<p>The post <a rel="nofollow" href="./../../../2020/05/18/build-sustainable-dapps-with-your-own-x-blaster-with-custom-fees/index.html">Build Sustainable DApps with your own X Blaster with Custom Fees</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -852,10 +1162,12 @@
 		<title>DeFi Dive: TokenTax &#8211; DeFi crypto tax calculator and cryptocurrency accounting firm</title>
 		<link>./../../../2020/02/18/defi-dive-tokentax/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2020 11:29:58 +0000</pubDate>
-				<category><![CDATA[Ecosystem]]></category>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Tue, 18 Feb 2020 16:29:58 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[ERC20]]></category>
 		<category><![CDATA[Ethereum]]></category>
 		<category><![CDATA[lending]]></category>
@@ -866,9 +1178,11 @@
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7972</guid>
 
-					<description><![CDATA[Alex Miles, co-founder of TokenTax, discusses his quest to ease the crypto community&#8217;s DeFi tax woes. How did you get...]]></description>
+					<description><![CDATA[<p>Alex Miles, co-founder of TokenTax, discusses his quest to ease the crypto community&#8217;s DeFi tax woes. How did you get...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/02/18/defi-dive-tokentax/index.html">DeFi Dive: TokenTax &#8211; DeFi crypto tax calculator and cryptocurrency accounting firm</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb.png" alt="" class="wp-image-7974" width="1024" height="512" srcset="./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb.png 1024w, ./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb-300x150.png 300w, ./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/02/defidive-tokentax-social_thumb.png" alt="" class="wp-image-7974" width="1024" height="512" srcset="./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb.png 1024w, ./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb-300x150.png 300w, ./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -949,6 +1263,7 @@
 
 
 <p>Also follow me on Twitter! <a href="https://twitter.com/milesalex">https://twitter.com/milesalex</a></p>
+<p>The post <a rel="nofollow" href="./../../../2020/02/18/defi-dive-tokentax/index.html">DeFi Dive: TokenTax &#8211; DeFi crypto tax calculator and cryptocurrency accounting firm</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -958,7 +1273,7 @@
 		<title>Top 3 Most Popular Cryptocurrency Margin Trading Platforms in DeFi</title>
 		<link>./../../../2019/10/03/top-3-most-popular-cryptocurrency-margin-trading-platforms-in-defi/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Thu, 03 Oct 2019 19:07:35 +0000</pubDate>
 				<category><![CDATA[Explainers]]></category>
 		<category><![CDATA[Technology]]></category>
@@ -972,132 +1287,30 @@
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7650</guid>
 
-					<description><![CDATA[Margin trading is extremely popular in the cryptocurrency markets. In the past, traders used to rely on centralized exchanges to...]]></description>
+					<description><![CDATA[<p>Margin trading is extremely popular in the cryptocurrency markets. In the past, traders used to rely on centralized exchanges to...</p>
+<p>The post <a rel="nofollow" href="./../../../2019/10/03/top-3-most-popular-cryptocurrency-margin-trading-platforms-in-defi/index.html">Top 3 Most Popular Cryptocurrency Margin Trading Platforms in DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>Margin trading is extremely popular in the cryptocurrency markets. In the past, traders used to rely on centralized exchanges to trade using leverage. But recently, <a href="https://defipulse.com/blog/what-is-a-dapp/">DApps</a> that provide this kind of trading have become some of the most popular services in <a href="https://defipulse.com/blog/what-is-defi/">DeFi</a>.</p>
 <h1>What is margin trading?</h1>
-<p>Margin trading is a method of trading using borrowed funds allowing you further leverage your existing assets. <strong>Margin trading comes with higher risks than normal trading.</strong>&nbsp;Because while it does offer the potential to amplify your gains, it can also amplify losses incurred through trading. In traditional finance, brokers typically provide the funds necessary to open a leveraged position. In DeFi, margin traders borrow cryptocurrencies from decentralized lending protocols powered by smart contracts. Lenders<a href="https://defipulse.com/income"> earn interest rates anywhere from 5-20%</a> for lending their tokens to borrowers like margin traders.</p>
+<p>Margin trading is a method of trading using borrowed funds allowing you further leverage your existing assets. <strong>Margin trading comes with higher risks than normal trading.</strong> Because while it does offer the potential to amplify your gains, it can also amplify losses incurred through trading. In traditional finance, brokers typically provide the funds necessary to open a leveraged position. In DeFi, margin traders borrow cryptocurrencies from decentralized lending protocols powered by smart contracts. Lenders<a href="https://defipulse.com/income"> earn interest rates anywhere from 5-20%</a> for lending their tokens to borrowers like margin traders.</p>
 <h3>How does it work?</h3>
 <p>When you open a margin trade, you select your desired amount of leverage and lock in funds (sometimes referred to as collateral) worth a portion of your total order, also known as your margin. Leverage in this case refers to ratio of borrowed assets to the value of your margin. For example, if you opened a margin trade with 3x leverage worth $3,000, you&#8217;d be required to lock in $1,000 worth of collateral.</p>
 <p>Margin trading positions can either by long or short. Opening a long position means you believe that the price will go up. Whereas, opening a short position, also known as shorting, means you believe the price of the asset your trading will go down.</p>
 <p>To new traders with little collateral, margin trading can be very appealing because it gives you access to more capital. However, you should be aware that trading with leverage multiplies your profits <em>and your losses</em>, meaning that <strong>you should never risk more than you&#8217;re willing to lose</strong>. If the value of your margin falls or the price does not go the way you predicted and your trade becomes over-leveraged, your margin trade can be liquidated and your collateral can be sold to repay the assets you borrowed plus interest.</p>
 <h1>Top Margin Trading Platforms in DeFi</h1>
 <p>DeFi margin trading platforms are built using smart contracts which enforce trading rules and facilitate the loans between lenders and borrowers, or rather margin traders in this case. When you margin trading cryptocurrency on any of these platforms, you will pay interest on any assets that you borrow. Potential leverage and borrowing interest rates vary from platform to platform. And, the interest you pay is subject to fluctuation depending on the platform&#8217;s available supply and demand for loans.</p>
-<h3><img loading="lazy" class="alignnone size-large wp-image-7661" src="./../../../wp-content/uploads/2019/10/Selection_225-1024x504.jpg" alt="" width="640" height="315" srcset="./../../../wp-content/uploads/2019/10/Selection_225-1024x504.jpg 1024w, ./../../../wp-content/uploads/2019/10/Selection_225-300x148.jpg 300w, ./../../../wp-content/uploads/2019/10/Selection_225-768x378.jpg 768w, ./../../../wp-content/uploads/2019/10/Selection_225-1536x756.jpg 1536w, ./../../../wp-content/uploads/2019/10/Selection_225-1568x772.jpg 1568w, ./../../../wp-content/uploads/2019/10/Selection_225.jpg 1918w" sizes="(max-width: 640px) 100vw, 640px" /></h3>
+<h3><img loading="lazy" class="alignnone size-large wp-image-7661" src="https://defipulse.com/blog/wp-content/uploads/2019/10/Selection_225-1024x504.jpg" alt="" width="640" height="315" srcset="./../../../wp-content/uploads/2019/10/Selection_225-1024x504.jpg 1024w, ./../../../wp-content/uploads/2019/10/Selection_225-300x148.jpg 300w, ./../../../wp-content/uploads/2019/10/Selection_225-768x378.jpg 768w, ./../../../wp-content/uploads/2019/10/Selection_225-1536x756.jpg 1536w, ./../../../wp-content/uploads/2019/10/Selection_225-1568x772.jpg 1568w, ./../../../wp-content/uploads/2019/10/Selection_225.jpg 1918w" sizes="(max-width: 640px) 100vw, 640px" /></h3>
 <h3>dYdX</h3>
-<p><a href="https://dydx.exchange/">dYdX</a>&nbsp;is a non-custodial trading platform geared toward experienced traders which offers trades with up to 5x leverage on longs and 4x leverage on shorts. dYdX is the largest margin trading platform in DeFi with <a href="https://defipulse.com/dydx">over $23 million worth of assets locked</a> into its smart contracts. The following pairs are currently available to trade on dYdX: ETH-DAI, ETH-USDC, and DAI-USDC.</p>
-<h3><img loading="lazy" class="alignnone size-large wp-image-7662" src="./../../../wp-content/uploads/2019/10/Selection_223-1024x509.jpg" alt="" width="640" height="318" srcset="./../../../wp-content/uploads/2019/10/Selection_223-1024x509.jpg 1024w, ./../../../wp-content/uploads/2019/10/Selection_223-300x149.jpg 300w, ./../../../wp-content/uploads/2019/10/Selection_223-768x382.jpg 768w, ./../../../wp-content/uploads/2019/10/Selection_223-1536x763.jpg 1536w, ./../../../wp-content/uploads/2019/10/Selection_223-1568x779.jpg 1568w, ./../../../wp-content/uploads/2019/10/Selection_223.jpg 1902w" sizes="(max-width: 640px) 100vw, 640px" /></h3>
+<p><a href="https://dydx.exchange/">dYdX</a> is a non-custodial trading platform geared toward experienced traders which offers trades with up to 5x leverage on longs and 4x leverage on shorts. dYdX is the largest margin trading platform in DeFi with <a href="https://defipulse.com/dydx">over $23 million worth of assets locked</a> into its smart contracts. The following pairs are currently available to trade on dYdX: ETH-DAI, ETH-USDC, and DAI-USDC.</p>
+<h3><img loading="lazy" class="alignnone size-large wp-image-7662" src="https://defipulse.com/blog/wp-content/uploads/2019/10/Selection_223-1024x509.jpg" alt="" width="640" height="318" srcset="./../../../wp-content/uploads/2019/10/Selection_223-1024x509.jpg 1024w, ./../../../wp-content/uploads/2019/10/Selection_223-300x149.jpg 300w, ./../../../wp-content/uploads/2019/10/Selection_223-768x382.jpg 768w, ./../../../wp-content/uploads/2019/10/Selection_223-1536x763.jpg 1536w, ./../../../wp-content/uploads/2019/10/Selection_223-1568x779.jpg 1568w, ./../../../wp-content/uploads/2019/10/Selection_223.jpg 1902w" sizes="(max-width: 640px) 100vw, 640px" /></h3>
 <h3>Fulcrum</h3>
 <p><a href="https://fulcrum.trade/#/">Fulcrum</a> is non-custodial margin trading platform built using the bZx protocol and Kyber Network. When you open a position, the smart contract takes out a loan from bZx on your behalf which is then swapped for the token you selected. Fulcrum allows you to long or short with up to 4x leverage and supports ETH, DAI, WBTC, LINK, ZRX, REP and KNC tokens.</p>
-<h3><img loading="lazy" class="alignnone size-large wp-image-7663" src="./../../../wp-content/uploads/2019/10/Selection_224-1024x510.jpg" alt="" width="640" height="319" srcset="./../../../wp-content/uploads/2019/10/Selection_224-1024x510.jpg 1024w, ./../../../wp-content/uploads/2019/10/Selection_224-300x150.jpg 300w, ./../../../wp-content/uploads/2019/10/Selection_224-768x383.jpg 768w, ./../../../wp-content/uploads/2019/10/Selection_224-1536x766.jpg 1536w, ./../../../wp-content/uploads/2019/10/Selection_224-1568x782.jpg 1568w, ./../../../wp-content/uploads/2019/10/Selection_224.jpg 1904w" sizes="(max-width: 640px) 100vw, 640px" /></h3>
+<h3><img loading="lazy" class="alignnone size-large wp-image-7663" src="https://defipulse.com/blog/wp-content/uploads/2019/10/Selection_224-1024x510.jpg" alt="" width="640" height="319" srcset="./../../../wp-content/uploads/2019/10/Selection_224-1024x510.jpg 1024w, ./../../../wp-content/uploads/2019/10/Selection_224-300x150.jpg 300w, ./../../../wp-content/uploads/2019/10/Selection_224-768x383.jpg 768w, ./../../../wp-content/uploads/2019/10/Selection_224-1536x766.jpg 1536w, ./../../../wp-content/uploads/2019/10/Selection_224-1568x782.jpg 1568w, ./../../../wp-content/uploads/2019/10/Selection_224.jpg 1904w" sizes="(max-width: 640px) 100vw, 640px" /></h3>
 <h3>Nuo Network</h3>
-<p><a href="https://nuo.network/">Nuo Network</a> is the second largest margin trading platform in DeFi with <a href="https://defipulse.com/nuo-network">$10.6 million worth of assets currently locked</a> in its smart contracts. Using its debt reserves and Kyber Network to swap tokens, margin traders can open positions with up to x3 leverage. Traders can long or short ETH, WBTC, LINK, MKR, DAI, REP, ZRX, BAT, KNC, and USDT across four base pairs: USDC, DAI, WBTC, and ETH.</p>
+<p>Nuo Network is the second largest margin trading platform in DeFi with <a href="https://defipulse.com/nuo-network">$10.6 million worth of assets currently locked</a> in its smart contracts. Using its debt reserves and Kyber Network to swap tokens, margin traders can open positions with up to x3 leverage. Traders can long or short ETH, WBTC, LINK, MKR, DAI, REP, ZRX, BAT, KNC, and USDT across four base pairs: USDC, DAI, WBTC, and ETH.</p>
 <p><strong>Remember, margin trading can be extremely risky. So be sure to use caution, never risk more than you&#8217;re willing to lose, and to do your own research!</strong></p>
-<p><span style="font-weight: 400;">For more information about DeFi, follow us on <a href="https://twitter.com/defipulse">Twitter</a> or come chat us in our&nbsp;<a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord.</a></span></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>What is DeFi?</title>
-		<link>./../../../2019/09/03/what-is-defi/index.html</link>
-		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Tue, 03 Sep 2019 16:54:04 +0000</pubDate>
-				<category><![CDATA[Explainers]]></category>
-		<category><![CDATA[Learn]]></category>
-		<category><![CDATA[decentralized exchange]]></category>
-		<category><![CDATA[decentralized finance]]></category>
-		<category><![CDATA[DeFi]]></category>
-		<category><![CDATA[DEX]]></category>
-		<category><![CDATA[investing]]></category>
-		<category><![CDATA[trading]]></category>
-		<guid isPermaLink="false">https://defipulse.com/blog/?p=7552</guid>
-
-					<description><![CDATA[DeFi is an abbreviation of the phrase decentralized finance which generally refers to the digital assets and financial smart contracts,...]]></description>
-										<content:encoded><![CDATA[<p>DeFi is an abbreviation of the phrase <strong>decentralized finance</strong> which generally refers to the digital assets and financial smart contracts, protocols, and decentralized applications (DApps) built on Ethereum. In simpler terms, it&#8217;s financial software built on the blockchain that can be pieced together like Money Legos.</p>
-<p>To get a feel for the products and services that exist in the Ethereum DeFi ecosystem, you can check out our <a href="https://defipulse.com/">DeFi rankings</a> which tracks the current value locked into popular DeFi smart contracts.</p>
-<p>Computers have disrupted nearly every industry over the years. Each innovation builds on the previous one, and digital products and services become more sophisticated. Through technology, we&#8217;ve catered the world to fit our needs. From digital assistants to home automation, programs now affect many aspects of your daily life. So why would money be any different?</p>
-<h2>What is decentralized finance and who is it for?</h2>
-<p>To better understand DeFi, we should first take a look at how traditional finance came about. Although it sometimes feels like money has always been around, that&#8217;s simply not the case.</p>
-<p>Humans originally bartered for the goods and services. But as human societies formed and developed, so did our economies. We invented currency to make exchanging things of value easier. Subsequently, currency helped usher in new innovations and higher levels of economic productivity. However, progress didn&#8217;t come without its cost.</p>
-<p>Historically, central authorities such as governments have issued the currencies that underpin our economies. Central banks and institutions were expected to carefully manage and regulate the supply of currency in circulation. As the size and complexity of our economies grew, these central authorities gained more power as more people placed trust in them.</p>
-<p>You trust your government to not print more money overnight. You trust your bank to safely store your money. And, when it comes to investing, you trust your assets to a financial adviser. By handing control of your money over to others, you hope to earn a profit. But the sad truth about our current financial system is that the power that comes along with this trust isn&#8217;t always rewarded.</p>
-<p>We often have very little say in how corporations handle our investments, or even how our governments manage the economy. And in most cases, investors only receive a fraction of the returns generated from the risks taken by these central authorities.</p>
-<h4>DeFi is trying to build something different</h4>
-<p>Decentralized finance aims to create a financial system that&#8217;s open to everyone and minimizes one&#8217;s need to trust and rely on central authorities. Technologies like the internet, cryptography, and blockchain give us the tools to collectively build and control a financial system without the need for central authorities.</p>
-<p>There&#8217;s a saying in the blockchain space: &#8220;Don&#8217;t trust, verify.&#8221; Because with a blockchain network, you as an individual can verify any and every transaction that occurs on the blockchain.</p>
-<h3>DeFi allows everyone to take charge of their financial well-being</h3>
-<p>Almost all DeFi applications are built on the Ethereum blockchain, the world&#8217;s most popular programmable blockchain. Ethereum is a blockchain network that maintains a shared ledger of digital value. Instead of a central authority, the participants that comprise the network control the issuance of ether (ETH), the network’s native cryptocurrency, in a decentralized manner.</p>
-<p>Developers can program applications on Ethereum that can create, store, and manage digital assets, also called tokens, on the blockchain. These are called <strong>smart contracts </strong>or <strong>decentralized applications (DApps)</strong>. They’re contracts or agreements enforced by the Ethereum blockchain. Or rather, applications or scripts that run only as programmed on the Ethereum network. You can build complex irreversible agreements without the need for a middle man.</p>
-<p>Decentralized finance has the opportunity to bring about a more resilient and transparent financial system. Anyone with an internet connection is able to access and interact with smart contracts built on the Ethereum blockchain. Many smart contracts are built to be open-source and interoperable with existing smart contracts. So, users can verify the smart contracts&#8217; code and choose which services work best for them.</p>
-<h4>What are some examples of popular DeFi applications?</h4>
-<p>There are <a href="https://defipulse.com/blog/defi-on-ethereum/">many different DeFi products and services</a>, some of which you may find familiar to existing financial services but with a decentralized twist.</p>
-<p>Arguably, the most popular and fasting growing sector of DeFi is borrowing and lending platforms. Similar to a bank, users deposit money and earn interest from other users borrowing their assets. However, in this case the assets are digital and smart contracts connect the lenders to borrowers, enforce the terms of the loans, and distribute the interest. And it all happens without the need to trust one another or middleman bank. And, by cutting out the middleman, lenders can <a href="https://www.defipulse.com/income">earn higher returns</a> and more clearly understand the risks thanks to the transparency blockchain provides.</p>
-<p>Tokens called stablecoins are also important to the DeFi ecosystem. You may be under the impression that all cryptocurrency is volatile. However, stablecoins are tokens designed to hold a specific value and are typically pegged to fiat currency like the US dollar. For example, DAI is a stablecoin pegged to USD and backed by ether (ETH). For every DAI, there is $1.50 of ETH locked into the <a href="http://makerdao.com/">MakerDAO</a> smart contract as collateral.</p>
-<p>Another type of popular DeFi application is what&#8217;s called a <a href="https://defipulse.com/blog/what-is-a-decentralized-exchange/">decentralized exchange</a>, or DEX for short. DEXes are cryptocurrency exchanges that use smart contracts to enforce the trading rules, execute trades, and securely handle funds when necessary. When you <a href="https://defipulse.com/blog/how-to-trade-on-a-dex/">trade on a DEX</a>, there is no exchange operator, no sign-ups, no identity verification, or withdrawal fees.</p>
-<h3>DeFi is like smart money Legos</h3>
-<p>With Legos, you start out with a bunch of small bricks. It&#8217;s up to you how you piece together the Lego bricks to build something new. The same is true about smart contracts. With each new project, product, or service launched on Ethereum, you have one more money Lego in your collection. And by piecing together existing components of DeFi, you can combine, modify, or create powerful new finance tools out of these money legos.</p>
-<p><a href="https://defipulse.com/blog/what-is-cdai/">cDAI</a> is a perfect example of money Legos in action. <a href="http://compound.finance/">Compound</a> is a money market or, in other words, a lending service on Ethereum. When you supply DAI to Compound, you receive cDAI tokens which represent both your DAI in Compound and any interest you&#8217;ve earned from lending. Since cDAI is a token, you can send, receive, or even use cDAI in other smart contracts. Money Legos in action: ETH into MakerDAO to mint DAI tokens, DAI being supplied to Compound, cDAI tokens can be used in other DApps.</p>
-<p>For example, you can <a href="https://defipulse.com/blog/best-decentralized-exchanges-dexes/">swap ETH for cDAI on a DEX</a> and instantly start earning interest for just holding cDAI. And because you choose how you interact with smart contracts on the blockchain, you can use a <a href="https://ethgasstation.info/blog/why-dex-ag/">DEX aggregator</a> like <a href="https://dex.ag/">DEX.AG</a> to compare and trade at the best prices across all the popular DEXes, all within seconds.</p>
-<h3>*Decentralization may vary</h3>
-<p>There are varying degrees of decentralization when it comes to DeFi services. Because the truth is, not everything can be or needs to be fully decentralized.</p>
-<p>As previously mentioned, stablecoins are popular in DeFi. But, not all stablecoins are as decentralized as DAI. Many of them are actually tokens representing fiat currency deposits. For example, for every USDC token, there is 1 USD being held in a bank somewhere. You can theoretically &#8220;tokenize&#8221; or create a token to represent any real world asset. This is where things become a little less black and white, because while you can trade, send, and receive these tokens on the blockchain, you cannot completely eliminate the need to physically manage or redeem the real world asset.</p>
-<p>Take for example, purchasing a home on the blockchain. Say someone tokenizes the deed to their home, places it on a decentralized exchange, and you buy it. Without the proper legal setup and the law on your side, you cannot simply force this person from their home regardless if you own the digital version. As it currently stands, you&#8217;d need to fall back on the court system of your home country to settle the dispute.</p>
-<p>In short, there are limitations to the technology and sometimes the lines of DeFi begin to blur. In due time, laws will adapt to the changing financial landscape and DeFi&#8217;s place in the world will become clearer. That being said, one thing is clear: DeFi is here to stay.</p>
-<h2><a href="https://defipulse.com/"><img loading="lazy" class="alignnone wp-image-7558 size-full" src="./../../../wp-content/uploads/2019/09/defipulse-chart01-1.jpg" alt="" width="599" height="316" /></a></h2>
-<h2>DeFi isn&#8217;t stopping anytime soon</h2>
-<p>If you believe the future has digital money, then <a href="https://defipulse.com/defi-list">come explore</a> what DeFi has to offer. At the time of writing this, the entire decentralized finance market is <a href="https://defipulse.com/">worth $494.6M</a>. Ethereum has become the blockchain of choice for <a href="https://entethalliance.org/members/" target="_blank" rel="noopener noreferrer">many companies</a> to build their financial products. And more and more DeFi applications are built every day.</p>
-<p><span style="font-weight: 400;">Want to learn more about DeFi? Follow us on Twitter <a href="https://twitter.com/defipulse" target="_blank" rel="noopener noreferrer">@DefiPulse</a> or come chat with us on <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord.</a></span></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Best Decentralized Exchanges (DEXes)</title>
-		<link>./../../../2019/08/05/best-decentralized-exchanges-dexes/index.html</link>
-		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Mon, 05 Aug 2019 12:52:57 +0000</pubDate>
-				<category><![CDATA[DEX]]></category>
-		<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[Exchanges]]></category>
-		<category><![CDATA[Explainers]]></category>
-		<category><![CDATA[Trading]]></category>
-		<category><![CDATA[decentralized exchanges]]></category>
-		<category><![CDATA[DEXes]]></category>
-		<category><![CDATA[ETH]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[trading]]></category>
-		<guid isPermaLink="false">https://defipulse.com/blog/?p=7446</guid>
-
-					<description><![CDATA[In the past, users had to rely on centralized exchanges to trade their cryptocurrency. But, things have come a long...]]></description>
-										<content:encoded><![CDATA[<p>In the past, users had to rely on centralized exchanges to trade their cryptocurrency. But, things have come a long way since then and you have other options. And, nowadays decentralized exchanges provide users with a competitive alternative.</p>
-<h3>Not sure what decentralized exchanges are?</h3>
-<p>It&#8217;s okay if you&#8217;re unfamilar with what decentralized exchanges are. Here&#8217;s a helpful explainer you can read to learn <a href="/blog/what-is-a-decentralized-exchange/">what a DEX is</a>.</p>
-<p>Now that you&#8217;ve got a grasp of the basics, let&#8217;s move onto a few examples. We&#8217;ve put together a list of some innovative and popular DEXes that people like to use in the Ethereum community.</p>
-<h3><img loading="lazy" class="wp-image-7455 size-thumbnail alignleft" src="/blog/wp-content/uploads/2019/08/uniswaplogo-150x150.jpg" alt="" width="150" height="150" srcset="./../../../wp-content/uploads/2019/08/uniswaplogo-150x150.jpg 150w, ./../../../wp-content/uploads/2019/08/uniswaplogo-300x300.jpg 300w, ./../../../wp-content/uploads/2019/08/uniswaplogo.jpg 400w" sizes="(max-width: 150px) 100vw, 150px" /></h3>
-<h3>Uniswap</h3>
-<p>Funded by an Ethereum Foundation grant and launched in November 2018, Uniswap is one of the most popular decentralized exchanges and is known for its wide selection of trading pairs. Uniswap&#8217;s code is open source and it has no investor tokens.</p>
-<p>Uniswap&#8217;s smart contract let&#8217;s you swap ETH or ERC-20 tokens on-chain by pooling liquidity. Each swap is charged a 0.03% liquidity fee which is added to the pool incentivizing users to contribute equal parts ETH and ERC-20.</p>
-<h3><img loading="lazy" class="wp-image-7457 size-thumbnail alignleft" src="/blog/wp-content/uploads/2019/08/kyberswaplogo-150x150.jpg" alt="" width="150" height="150" srcset="./../../../wp-content/uploads/2019/08/kyberswaplogo-150x150.jpg 150w, ./../../../wp-content/uploads/2019/08/kyberswaplogo-300x300.jpg 300w, ./../../../wp-content/uploads/2019/08/kyberswaplogo.jpg 400w" sizes="(max-width: 150px) 100vw, 150px" /></h3>
-<h3>KyberSwap</h3>
-<p>KyberSwap&#8217;s a DEX that allows users to swap tokens, powered by the Kyber Network. Kyber Network, a liquidity protocol which aggregates liquidity reserves, held an ICO for its KNC token in late Q3 2017. Kyber Network Crystal (KNC) tokens have a variety of uses on the Kyber Network.</p>
-<p>For example, each swap performed on the Kyber Network require the fees to be paid in KNC which is then burned. Paying your fees in KNC gives you a discount. Otherwise, the smart contract swaps part of your payment for the KNC to pay the fee. KNC&#8217;s also needed to open your own liquidity reserve to earn on the Kyber Network.</p>
-<p>KyberSwap recently added the option to place limit order trades. No deposit is required and you receive a 50% discount on the 0.1% fee when you pay in KNC.</p>
-<h3><img loading="lazy" class="wp-image-7456 size-thumbnail alignleft" src="/blog/wp-content/uploads/2019/08/radarrelaylogo-150x150.jpg" alt="" width="150" height="150" srcset="./../../../wp-content/uploads/2019/08/radarrelaylogo-150x150.jpg 150w, ./../../../wp-content/uploads/2019/08/radarrelaylogo.jpg 269w" sizes="(max-width: 150px) 100vw, 150px" /></h3>
-<h3>Radar Relay</h3>
-<p>Radar Relay is the most popular 0x protocol relayer. With the 0x trading protocol, users submit signed trade order. Users&#8217; orders are kept in orderbooks off-chain and eventually all trades settle on-chain.</p>
-<p>Those who keep orderbooks are called relayers because they relay signed orders off-chain. When the order is taken off the book, the other party signs the pre-signed order transaction. And then, the transaction&#8217;s submitted and the funds transfer from their wallets.</p>
-<p>And, one of the best parts is that there are no sign-ups, deposits, and currently no fees. Radar Relay offers an experience more reminiscent of traditional exchanges. There&#8217;s no fees to place limit orders; Only trades that take orders off the books, or taker orders.</p>
-<p><img loading="lazy" class="wp-image-7176 size-thumbnail alignleft" src="/blog/wp-content/uploads/2019/01/dex.ag-logo-150x150.jpg" alt="Dex.Ag" width="150" height="150" srcset="./../../../wp-content/uploads/2019/01/dex.ag-logo-150x150.jpg 150w, ./../../../wp-content/uploads/2019/01/dex.ag-logo-300x300.jpg 300w, ./../../../wp-content/uploads/2019/01/dex.ag-logo.jpg 400w" sizes="(max-width: 150px) 100vw, 150px" /></p>
-<h3>DEX.AG</h3>
-<p><a href="https://dex.ag/">DEX.AG</a> is a free site that searches over 10 of the most popular DEXes for the best price, saving you time and money. Instead of having to run around to each individual site, DEX.AG scans Uniswap, Kyberswap, Radar Relay, Eth2Dai, and loads more DEXes for the best price for your trade.</p>
-<p>Simply, enter the token and quantity of what you&#8217;re looking to buy or sell and DEX.AG finds you the best deal. And if you hit the &#8216;Buy Now&#8217; button, DEX.AG will walk you through completing your trade via MetaMask or your web3 browser wallet.</p>
-<p>And best of all, you and your trade are interacting directly with the DEX&#8217;s smart contract. So, there are no additional fees on top of fee of your selected exchange.</p>
-<h3>Thanks for reading</h3>
-<p>Good luck finding the right decentralized exchange for you. And if you have any questions, we&#8217;re here to help in our Discord.</p>
+<p><span style="font-weight: 400;">For more information about DeFi, follow us on <a href="https://twitter.com/defipulse">Twitter</a> or come chat us in our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord.</a></span></p>
+<p>The post <a rel="nofollow" href="./../../../2019/10/03/top-3-most-popular-cryptocurrency-margin-trading-platforms-in-defi/index.html">Top 3 Most Popular Cryptocurrency Margin Trading Platforms in DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

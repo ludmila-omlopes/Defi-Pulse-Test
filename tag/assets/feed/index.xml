@@ -12,27 +12,236 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 May 2021 18:55:09 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 May 2021 19:37:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>Index Investing in a Decentralized World</title>
+		<link>./../../../2021/05/11/btc2x-fli/index.html</link>
+		
+		<dc:creator><![CDATA[Yule Andrade]]></dc:creator>
+		<pubDate>Tue, 11 May 2021 19:37:34 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[BTC2x-FLI]]></category>
+		<category><![CDATA[flexible leverage index]]></category>
+		<category><![CDATA[fli]]></category>
+		<category><![CDATA[index]]></category>
+		<category><![CDATA[index-coop]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9254</guid>
+
+					<description><![CDATA[<p>Following its stated goal to establish standards that the community can stand behind, DeFi Pulse (through Pulse Inc) has developed...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/11/btc2x-fli/index.html">Index Investing in a Decentralized World</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Following its stated goal to establish standards that the community can stand behind, <a href="https://defipulse.com/" target="_blank" rel="noreferrer noopener">DeFi Pulse</a> (through <a rel="noreferrer noopener" href="https://pulse.inc/" target="_blank">Pulse Inc</a>) has developed different methodologies to tackle the market&#8217;s increased interest in tokenized indices, which are spreading wildly across DeFi and becoming more and more popular every day.</p>
+
+
+
+<p><strong><strong>Today, the second product of the FLI series, <a href="https://pulseinc.medium.com/flexible-leverage-index-btc2x-fli-launch-755605f45468">the Bitcoin Flexible Leverage Index (BTC2x-FLI), was introduced</a>, and we want to expand into how it works and the story of how it was designed.</strong></strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="879" height="242" src="./../../../wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-16.15.25-1.png" alt="" class="wp-image-9269" srcset="./../../../wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-16.15.25-1.png 879w, ./../../../wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-16.15.25-1-300x83.png 300w, ./../../../wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-16.15.25-1-768x211.png 768w, ./../../../wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-16.15.25-1-585x161.png 585w" sizes="(max-width: 879px) 100vw, 879px" /></figure>
+
+
+
+<h2>Index tokens: what are they?</h2>
+
+
+
+<p>Index tokens are similar to TradFi&#8217;s ETFs and ETNs, collective investment funds that seek to track the performance of a benchmark index but offer several advantages over these more traditional instruments, especially for new entrants. Index tokens can also be attractive to passive participants with a lack of time or knowledge of a specific strategy or market.</p>
+
+
+
+<p>Besides keeping track of a specific market, index tokens can also represent structured financial products with sophisticated strategies. The <a href="https://www.pulse.inc/flexible-leverage-index" target="_blank" rel="noreferrer noopener">Flexible Leverage Index (FLI)</a> is a prime example, tokenizing a collateralized debt position in a single ERC-20 token to allow investors to have leveraged exposure in one click. While users today enjoy the stress-free leverage FLI’s strategy provides, it took several years for the concept of FLI to come to fruition.</p>
+
+
+
+<h2>The birth of the FLI methodology</h2>
+
+
+
+<p>Ten years before co-founding DeFi Pulse, <a rel="noreferrer noopener" href="https://www.linkedin.com/in/scott-lewis-2a554430/" target="_blank">Scott Lewis</a> used to work for the global trading and technology firm Susquehanna International Group where, as a derivatives trader, he developed the best strategies to find profitable trades. While working there, he first envisioned the design of the FLI methodology, even though TradFi was not fertile ground to quickly develop these kinds of financial products. </p>
+
+
+
+<p>In Scott&#8217;s words:&nbsp;</p>
+
+
+
+<blockquote class="wp-block-quote"><p><em>“I was using autoregressive models in some of my derivative tradings, and I realized that an index in which the leverage automatically regressed to a target leverage ratio would greatly reduce the product’s rebalancing needs.”</em></p></blockquote>
+
+
+
+<p>The usual way to get leverage in the DeFi space is by understanding and executing a complex series of steps. First, investors need to provide collateral to a given protocol and withdraw debt. Afterward, this debt has to be allocated to that same protocol or a different one, and, depending on the strategy and the amount of required leverage, these steps have to be repeated multiple times. Throughout this process, investors need to continuously monitor the market to ensure they don’t get liquidated. The FLI methodology delegates all the above steps to the issuer, offering the investor a leveraged position with targeted exposure to an asset in the form of an ERC-20 token.</p>
+
+
+
+<p>The TradFi approach to leveraged ETFs also has other inefficiencies, as Scott’s points out:</p>
+
+
+
+<blockquote class="wp-block-quote"><p><em>“Leverage products frequently track an index that returns the exact leverage ratio each 24 hours period. This inflexibility results in some of these products having to buy and sell a significant amount of assets each and every day. All this trading can create bad returns for the users of these products.”</em></p></blockquote>
+
+
+
+<p>Even though the FLI methodology targets a 2x leverage ratio, it uses a tolerance range and an algorithm that reduces rebalancing needs by order of magnitude, thereby increasing the gas efficiency, which translates into direct <strong>savings by the holder</strong>.</p>
+
+
+
+<h2>The Bitcoin Flexible Leverage Index (BTC2x-FLI)</h2>
+
+
+
+<p><strong>BTC2x-FLI</strong>, released today, targets 2x exposure to WBTC price. That means that its price is expected to fluctuate double that of WBTC on average. In other words, if WBTC rises 10% in price, BTC2x-FLI is designed to go up by 20%.&nbsp;</p>
+
+
+
+<p>We hope that <strong>BTC2x-FLI </strong>as an improved solution for DeFi investors is able to fill a niche in the market as large as its predecessor. ETH2x-FLI has seen explosive growth and achieved a market cap of more than $100M just seven weeks after launching.&nbsp;</p>
+
+
+
+<p><strong>ETH2x &#8211; FLI Trading Volume and Market Capitalization</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="277" src="./../../../wp-content/uploads/2021/05/ETHFLI-1024x277.png" alt="" class="wp-image-9274" srcset="./../../../wp-content/uploads/2021/05/ETHFLI-1024x277.png 1024w, ./../../../wp-content/uploads/2021/05/ETHFLI-300x81.png 300w, ./../../../wp-content/uploads/2021/05/ETHFLI-768x208.png 768w, ./../../../wp-content/uploads/2021/05/ETHFLI-1536x416.png 1536w, ./../../../wp-content/uploads/2021/05/ETHFLI-585x159.png 585w, ./../../../wp-content/uploads/2021/05/ETHFLI.png 1823w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>Source: https://duneanalytics.com/jdcook/Index-Coop</em></figcaption></figure></div>
+
+
+
+<p>You can find out more about the <strong><a rel="noreferrer noopener" href="https://pulseinc.medium.com/flexible-leverage-index-btc2x-fli-launch-755605f45468" target="_blank">BTC2x-FLI specifications here</a>.</strong>&nbsp;</p>
+
+
+
+<h2>Closing thoughts</h2>
+
+
+
+<p>From a far-off dream to a powerful tool improving on traditional markets, the emergence of index tokens shows how much the DeFi ecosystem has evolved in the last year and a half. FLI is only possible thanks to a maturing DeFi ecosystem; its sophisticated strategy crafted into a simple user experience stands as a testament to what&#8217;s possible through our collaborative innovation as an industry. This is one of the many reasons why we’re so excited to be launching more indexes in the FLI series. Learn more about BTC 2x FLI today or view the <a href="https://www.pulse.inc/flexible-leverage-index" target="_blank" rel="noreferrer noopener">FLI methodology here</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/11/btc2x-fli/index.html">Index Investing in a Decentralized World</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Founder Fireside Chat with Nour Haridy of Inverse Finance</title>
+		<link>./../../../2021/05/07/founder-fireside-chat-with-nour-haridy-of-inverse-finance/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Fri, 07 May 2021 14:16:24 +0000</pubDate>
+				<category><![CDATA[Founder Fireside Chats]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Assets]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[inverse]]></category>
+		<category><![CDATA[inverse-finance]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9159</guid>
+
+					<description><![CDATA[<p>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/07/founder-fireside-chat-with-nour-haridy-of-inverse-finance/index.html">Founder Fireside Chat with Nour Haridy of Inverse Finance</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/inverse_blog_header.png" alt="" class="wp-image-9165" width="1024" height="512" srcset="./../../../wp-content/uploads/2021/04/inverse_blog_header.png 1024w, ./../../../wp-content/uploads/2021/04/inverse_blog_header-300x150.png 300w, ./../../../wp-content/uploads/2021/04/inverse_blog_header-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-medium-font-size"><em>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity to better understand their perspective and what drives them to build their vision.</em></p>
+
+
+
+<p class="has-medium-font-size">This week in this installment in our Founder Fireside Chat series, we talked with Nour Haridy, Founder of <a href="https://defipulse.com/inverse">Inverse Finance</a>, about not settling for the conventional approach.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q1.png" alt="" class="wp-image-9026" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q1.png 1200w, ./../../../wp-content/uploads/2021/03/Q1-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q1-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q1-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">I&#8217;m one of many others building Inverse DAO and its ecosystem of DeFi products. I&#8217;d say what sets us apart from others is that we tend to try unconventional solutions to difficult problems. </p>
+
+
+
+<p class="has-medium-font-size">For example, we started off by launching a non-tradable governance token and seized free riders tokens in order to increase governance participation. We combined money markets, stablecoins and synthetic assets into a single protocol (Anchor) in an attempt to increase the capital efficiency of all these products together. </p>
+
+
+
+<p class="has-medium-font-size">Regarding smart contract risk, we resorted to public community reviews as an alternative to the corporate auditing industry. Basically, we&#8217;re about trying new things and having fun.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">Security. No point trusting your assets to a blockchain that has a track record of being insecure (e.g. Ethereum Classic).</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/Q6.png" alt="" class="wp-image-9134" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/04/Q6.png 1200w, ./../../../wp-content/uploads/2021/04/Q6-300x55.png 300w, ./../../../wp-content/uploads/2021/04/Q6-1024x188.png 1024w, ./../../../wp-content/uploads/2021/04/Q6-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">I wouldn&#8217;t consider myself an expert on the matter, but I&#8217;d say that it helps to have a strong common interest. </p>
+
+
+
+<p class="has-medium-font-size">In the case of DeFi protocols, that can be a protocol that the community wants to work together to grow.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q3.png" alt="" class="wp-image-9031" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q3.png 1200w, ./../../../wp-content/uploads/2021/03/Q3-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q3-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q3-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size"><strong>Many DeFi protocols seem to try to replicate products from TradFi which results in products that inherit the same inefficiencies. </strong></p>
+
+
+
+<p class="has-medium-font-size">In my opinion, <strong>synthetic assets are very under-explored</strong> and are our best chance at creating entirely new financial products that resemble nothing we&#8217;ve seen before.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q4.png" alt="" class="wp-image-9032" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q4.png 1200w, ./../../../wp-content/uploads/2021/03/Q4-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q4-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q4-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">The biggest competitive edge in this space is not having a life.</p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-very-light-gray-background-color has-very-light-gray-color is-style-wide"/>
+
+
+
+<p class="has-medium-font-size">While we at DeFi Pulse can&#8217;t recommend not having a life, we would like to take a moment to thank you for reading. And thank you Nour for joining us. You can follow <a href="https://twitter.com/nourharidy">Nour</a> and <a href="https://inverse.finance/">Inverse Finance</a> on <a href="https://twitter.com/InverseFinance">Twitter</a> for more. </p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/07/founder-fireside-chat-with-nour-haridy-of-inverse-finance/index.html">Founder Fireside Chat with Nour Haridy of Inverse Finance</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Founder Fireside Chat with Mervyn Chng of Unagii</title>
 		<link>./../../../2021/04/02/founder-fireside-chat-with-mervyn-chng-of-unagii/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Fri, 02 Apr 2021 19:15:25 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[unagii]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=9083</guid>
 
-					<description><![CDATA[The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...]]></description>
+					<description><![CDATA[<p>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/04/02/founder-fireside-chat-with-mervyn-chng-of-unagii/index.html">Founder Fireside Chat with Mervyn Chng of Unagii</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/04/Unagii-Header.png" alt="" class="wp-image-9101" width="1032" height="520" srcset="./../../../wp-content/uploads/2021/04/Unagii-Header.png 1032w, ./../../../wp-content/uploads/2021/04/Unagii-Header-300x151.png 300w, ./../../../wp-content/uploads/2021/04/Unagii-Header-1024x516.png 1024w, ./../../../wp-content/uploads/2021/04/Unagii-Header-768x387.png 768w" sizes="(max-width: 1032px) 100vw, 1032px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/Unagii-Header.png" alt="" class="wp-image-9101" width="1032" height="520" srcset="./../../../wp-content/uploads/2021/04/Unagii-Header.png 1032w, ./../../../wp-content/uploads/2021/04/Unagii-Header-300x151.png 300w, ./../../../wp-content/uploads/2021/04/Unagii-Header-1024x516.png 1024w, ./../../../wp-content/uploads/2021/04/Unagii-Header-768x387.png 768w" sizes="(max-width: 1032px) 100vw, 1032px" /></figure>
 
 
 
@@ -44,7 +253,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q1-1.png" alt="" class="wp-image-9026" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q1.png" alt="" class="wp-image-9026" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q1.png 1200w, ./../../../wp-content/uploads/2021/03/Q1-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q1-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q1-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -56,7 +265,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -72,7 +281,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q3-1.png" alt="" class="wp-image-9031" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q3.png" alt="" class="wp-image-9031" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q3.png 1200w, ./../../../wp-content/uploads/2021/03/Q3-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q3-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q3-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -84,7 +293,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q4-1.png" alt="" class="wp-image-9032" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q4.png" alt="" class="wp-image-9032" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q4.png 1200w, ./../../../wp-content/uploads/2021/03/Q4-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q4-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q4-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -96,7 +305,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -104,7 +313,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/04/bell-curve-1024x576.jpg" alt="" class="wp-image-9098" srcset="./../../../wp-content/uploads/2021/04/bell-curve-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/04/bell-curve-300x169.jpg 300w, ./../../../wp-content/uploads/2021/04/bell-curve-768x432.jpg 768w, ./../../../wp-content/uploads/2021/04/bell-curve-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/04/bell-curve-1568x882.jpg 1568w, ./../../../wp-content/uploads/2021/04/bell-curve.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="https://defipulse.com/blog/wp-content/uploads/2021/04/bell-curve-1024x576.jpg" alt="" class="wp-image-9098" srcset="./../../../wp-content/uploads/2021/04/bell-curve-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/04/bell-curve-300x169.jpg 300w, ./../../../wp-content/uploads/2021/04/bell-curve-768x432.jpg 768w, ./../../../wp-content/uploads/2021/04/bell-curve-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/04/bell-curve-1568x882.jpg 1568w, ./../../../wp-content/uploads/2021/04/bell-curve.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -121,6 +330,7 @@
 
 
 <p class="has-medium-font-size"><strong>Thank you for reading. </strong>We&#8217;d love to hear your thoughts on the series like, for example, which DeFi founders you&#8217;d like to see highlighted in the future.</p>
+<p>The post <a rel="nofollow" href="./../../../2021/04/02/founder-fireside-chat-with-mervyn-chng-of-unagii/index.html">Founder Fireside Chat with Mervyn Chng of Unagii</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -130,11 +340,9 @@
 		<title>Flexible Leverage Index is Live</title>
 		<link>./../../../2021/03/17/flexible-leverage-index/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Wed, 17 Mar 2021 14:27:46 +0000</pubDate>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Wed, 17 Mar 2021 19:27:46 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[New Features]]></category>
-		<category><![CDATA[Pulse Inc]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[ETH2x-FLI]]></category>
 		<category><![CDATA[flexible leverage index]]></category>
@@ -143,13 +351,15 @@
 		<category><![CDATA[index-coop]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8979</guid>
 
-					<description><![CDATA[The Flexible Leverage Index (FLI) lets you leverage a collateralized debt position in a safe and efficient way, by abstracting...]]></description>
+					<description><![CDATA[<p>The Flexible Leverage Index (FLI) lets you leverage a collateralized debt position in a safe and efficient way, by abstracting...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/03/17/flexible-leverage-index/index.html">Flexible Leverage Index is Live</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p><em>The Flexible Leverage Index (FLI) lets you leverage a collateralized debt position in a safe and efficient way, by abstracting its management into a simple index, reproducible by a fully-collateralized ERC20 token built on Set Protocol.</em></p>
 
 
 
-<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/03/fli-pulse-1-1024x512.png" alt="" class="wp-image-8980"/></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="512" src="https://defipulse.com/blog/wp-content/uploads/2021/03/fli-pulse-1024x512.png" alt="" class="wp-image-8980" srcset="./../../../wp-content/uploads/2021/03/fli-pulse-1024x512.png 1024w, ./../../../wp-content/uploads/2021/03/fli-pulse-300x150.png 300w, ./../../../wp-content/uploads/2021/03/fli-pulse-768x384.png 768w, ./../../../wp-content/uploads/2021/03/fli-pulse.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -198,6 +408,7 @@
 
 
 <p><a href="http://Pulse.inc/">Pulse Inc</a> is dedicated to creating and maintaining indices for a decentralized world. Flexible Leverage Indices combine unique index algorithm designs with the latest DeFi innovations to provide market participants with a better alternative to the traditional means of taking on leverage. By providing a safer, more efficient leverage product, we hope to spare DeFi users the expense and tolling stress of maintaining leverage and that horrible feeling of getting liquidated.</p>
+<p>The post <a rel="nofollow" href="./../../../2021/03/17/flexible-leverage-index/index.html">Flexible Leverage Index is Live</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -207,10 +418,9 @@
 		<title>Introducing Cryptodollars</title>
 		<link>./../../../2021/02/23/cryptodollars-stablecoins/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Tue, 23 Feb 2021 19:00:00 +0000</pubDate>
-				<category><![CDATA[New Features]]></category>
-		<category><![CDATA[Technology]]></category>
+				<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[dai]]></category>
 		<category><![CDATA[derivatives]]></category>
@@ -222,7 +432,9 @@
 		<category><![CDATA[usdt]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8898</guid>
 
-					<description><![CDATA[From their inception, the coins or tokens pegged to the US Dollar, commonly referred to as stablecoins, provided a way...]]></description>
+					<description><![CDATA[<p>From their inception, the coins or tokens pegged to the US Dollar, commonly referred to as stablecoins, provided a way...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/02/23/cryptodollars-stablecoins/index.html">Introducing Cryptodollars</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>From their inception, the coins or tokens pegged to the US Dollar, commonly referred to as stablecoins, provided a way for many users to exit positions without exiting crypto. One could make the case that the popularity of tokenized dollars in crypto was a necessary precursor to the DeFi ecosystem we know today. Their liquidity and relative stability enabled new possibilities for smart contracts which ultimately led to the rapid maturity in decentralized financial instruments built on-chain.</p>
 
@@ -232,7 +444,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="defipulse.com/usd"><img loading="lazy" width="574" height="289" src="./../../../wp-content/uploads/2021/02/cryptodollars.png" alt="" class="wp-image-8924" srcset="./../../../wp-content/uploads/2021/02/cryptodollars.png 574w, ./../../../wp-content/uploads/2021/02/cryptodollars-300x151.png 300w" sizes="(max-width: 574px) 100vw, 574px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://defipulse.com/usd"><img loading="lazy" width="574" height="289" src="https://defipulse.com/blog/wp-content/uploads/2021/02/cryptodollars.png" alt="" class="wp-image-8924" srcset="./../../../wp-content/uploads/2021/02/cryptodollars.png 574w, ./../../../wp-content/uploads/2021/02/cryptodollars-300x151.png 300w" sizes="(max-width: 574px) 100vw, 574px" /></a></figure>
 
 
 
@@ -253,6 +465,7 @@
 
 
 <p>Special thanks to all the teams for working with us! Be sure to check out the new <a href="http://defipulse.com/usd">Cryptodollars</a> page. And if you’re interested in joining the DeFi Pulse Leaderboard, please check out this <a href="https://defipulse.com/blog/how-to-join-the-defi-pulse-leaderboard/">step-by-step guide.</a></p>
+<p>The post <a rel="nofollow" href="./../../../2021/02/23/cryptodollars-stablecoins/index.html">Introducing Cryptodollars</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -262,10 +475,10 @@
 		<title>Vesper &#8211; Toward a Sustainable Ecosystem of DeFi Products</title>
 		<link>./../../../2021/02/14/vesper/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Sun, 14 Feb 2021 16:57:01 +0000</pubDate>
-				<category><![CDATA[Explainers]]></category>
-		<category><![CDATA[New Features]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Explainers]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[passive income]]></category>
 		<category><![CDATA[vesper]]></category>
@@ -275,7 +488,9 @@
 		<category><![CDATA[yieldfarming]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8870</guid>
 
-					<description><![CDATA[DeFi is a fast moving and highly competitive space. While DeFi may level the playing field by allowing anyone to...]]></description>
+					<description><![CDATA[<p>DeFi is a fast moving and highly competitive space. While DeFi may level the playing field by allowing anyone to...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/02/14/vesper/index.html">Vesper &#8211; Toward a Sustainable Ecosystem of DeFi Products</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>DeFi is a fast moving and highly competitive space. While DeFi may level the playing field by allowing anyone to participate, it still comes with risks and has a steep learning curve. When these factors are combined, it’s easy to see how the average user may feel left behind at times. Built by the team at Bloq, <a href="http://pubads.g.doubleclick.net/gampad/clk?id=5620418823&amp;iu=/22134506417">Vesper Finance</a> attempts to lower the barrier to entry for users by striking a balance between professionalism and DeFi’s dynamism in its products. Vesper’s first product — Vesper Grow, originally introduced as “Holding Pools” — offers users an easier way to passively earn a yield with their tokens, though with several innovations including a <a href="https://medium.com/vesperfinance/inside-vesper-modularity-48e64c810760">modular</a>, <a href="https://medium.com/vesperfinance/inside-vesper-multi-pool-3ea7f7325d39">multi-pool</a> design enabling pools to adapt and transition strategies behind the scenes.&nbsp;</p>
 
@@ -285,7 +500,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=5620418823&amp;iu=/22134506417"><img loading="lazy" width="604" height="179" src="./../../../wp-content/uploads/2021/02/ONoLln5Q.png" alt="" class="wp-image-8888" srcset="./../../../wp-content/uploads/2021/02/ONoLln5Q.png 604w, ./../../../wp-content/uploads/2021/02/ONoLln5Q-300x89.png 300w" sizes="(max-width: 604px) 100vw, 604px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=5620418823&amp;iu=/22134506417"><img loading="lazy" width="604" height="179" src="https://defipulse.com/blog/wp-content/uploads/2021/02/ONoLln5Q.png" alt="" class="wp-image-8888" srcset="./../../../wp-content/uploads/2021/02/ONoLln5Q.png 604w, ./../../../wp-content/uploads/2021/02/ONoLln5Q-300x89.png 300w" sizes="(max-width: 604px) 100vw, 604px" /></a></figure>
 
 
 
@@ -365,7 +580,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-1024x576.png" alt="" class="wp-image-8875" width="768" height="432" srcset="./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-1024x576.png 1024w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-300x169.png 300w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-768x432.png 768w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-1536x864.png 1536w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-2048x1152.png 2048w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-1568x882.png 1568w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-1024x576.png" alt="" class="wp-image-8875" width="768" height="432" srcset="./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-1024x576.png 1024w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-300x169.png 300w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-768x432.png 768w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-1536x864.png 1536w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-2048x1152.png 2048w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-1568x882.png 1568w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
 
 
 
@@ -402,6 +617,7 @@
 
 
 <p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Vesper to help educate and inform the community about Vesper pools. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/02/14/vesper/index.html">Vesper &#8211; Toward a Sustainable Ecosystem of DeFi Products</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -411,9 +627,9 @@
 		<title>Introducing Bitcoin at Work</title>
 		<link>./../../../2020/12/22/introducing-bitcoin-at-work/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Tue, 22 Dec 2020 14:50:15 +0000</pubDate>
-				<category><![CDATA[New Features]]></category>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Tue, 22 Dec 2020 19:50:15 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[acbtc]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[bch]]></category>
@@ -434,13 +650,15 @@
 		<category><![CDATA[WBTC]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8726</guid>
 
-					<description><![CDATA[Over the course of 2020, more than 140,000 BTC entered the DeFi ecosystem. With so many different alternatives for Bitcoin...]]></description>
+					<description><![CDATA[<p>Over the course of 2020, more than 140,000 BTC entered the DeFi ecosystem. With so many different alternatives for Bitcoin...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/12/22/introducing-bitcoin-at-work/index.html">Introducing Bitcoin at Work</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Over the course of 2020, more than 140,000 BTC entered the DeFi ecosystem. With so many different alternatives for Bitcoin tokens, it only makes sense to break it out into its own page to provide more detailed metrics. We&#8217;re excited to introduce a new page highlighting the use of Bitcoin in the DeFi ecosystem. <a href="http://defipulse.com/btc">Bitcoin at Work</a> measures the total amount of BTC being utilized within decentralized finance (DeFi).</p>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="http://defipulse.com/btc"><img loading="lazy" src="./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-1024x1024.png" alt="" class="wp-image-8793" width="512" height="512" srcset="./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-1024x1024.png 1024w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-300x300.png 300w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-150x150.png 150w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-768x768.png 768w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1.png 1080w" sizes="(max-width: 512px) 100vw, 512px" /></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="http://defipulse.com/btc"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/12/btc-at-work-thumb-1-1024x1024.png" alt="" class="wp-image-8793" width="512" height="512" srcset="./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-1024x1024.png 1024w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-300x300.png 300w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-150x150.png 150w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-768x768.png 768w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1.png 1080w" sizes="(max-width: 512px) 100vw, 512px" /></a></figure></div>
 
 
 
@@ -448,7 +666,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/12/btc-logo-board03-1024x512.png" alt="" class="wp-image-8785" width="768" height="384" srcset="./../../../wp-content/uploads/2020/12/btc-logo-board03-1024x512.png 1024w, ./../../../wp-content/uploads/2020/12/btc-logo-board03-300x150.png 300w, ./../../../wp-content/uploads/2020/12/btc-logo-board03-768x384.png 768w, ./../../../wp-content/uploads/2020/12/btc-logo-board03.png 1500w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/12/btc-logo-board03-1024x512.png" alt="" class="wp-image-8785" width="768" height="384" srcset="./../../../wp-content/uploads/2020/12/btc-logo-board03-1024x512.png 1024w, ./../../../wp-content/uploads/2020/12/btc-logo-board03-300x150.png 300w, ./../../../wp-content/uploads/2020/12/btc-logo-board03-768x384.png 768w, ./../../../wp-content/uploads/2020/12/btc-logo-board03.png 1500w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
 
 
 
@@ -465,6 +683,7 @@
 
 
 <p>Special thanks to all the teams for working with us! Be sure to check out the new page and explore the <a href="http://defipulse.com/btc">Bitcoin at Work</a> metrics for yourself. And if you’re interested in joining the DeFi Pulse Leaderboard, please check out this <a href="https://defipulse.com/blog/how-to-join-the-defi-pulse-leaderboard/">step-by-step guide.</a></p>
+<p>The post <a rel="nofollow" href="./../../../2020/12/22/introducing-bitcoin-at-work/index.html">Introducing Bitcoin at Work</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -474,10 +693,12 @@
 		<title>Harvest Finance &#8211; Industrial Automated Yield Farming for All</title>
 		<link>./../../../2020/12/13/harvest-finance-drop/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 13 Dec 2020 16:59:09 +0000</pubDate>
-				<category><![CDATA[Protocol]]></category>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Sun, 13 Dec 2020 21:59:09 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Protocol]]></category>
 		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[aggregator]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[harvest]]></category>
@@ -488,7 +709,9 @@
 		<category><![CDATA[yieldfarming]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8734</guid>
 
-					<description><![CDATA[Yield farming allows projects to bootstrap their communities through incentives created by distributing their protocol’s token, essentially killing two birds...]]></description>
+					<description><![CDATA[<p>Yield farming allows projects to bootstrap their communities through incentives created by distributing their protocol’s token, essentially killing two birds...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/12/13/harvest-finance-drop/index.html">Harvest Finance &#8211; Industrial Automated Yield Farming for All</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Yield farming allows projects to bootstrap their communities through incentives created by distributing their protocol’s token, essentially killing two birds with one stone. While these farming opportunities are open to all participants, making the most of these opportunities requires a certain amount of capital and expertise. And nowadays, yield farming has practically become a full-time job.</p>
 
@@ -574,7 +797,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1024x1024.jpeg" alt="" class="wp-image-8759" width="512" height="512" srcset="./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1024x1024.jpeg 1024w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-300x300.jpeg 300w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-150x150.jpeg 150w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-768x768.jpeg 768w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1536x1536.jpeg 1536w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-2048x2048.jpeg 2048w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1568x1568.jpeg 1568w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption>Artwork from Harvest community member <a href="https://twitter.com/stulmtuno4273/status/1330292559277682693/photo/3">Sumire</a></figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/12/farmer-chad-snow1-1-1024x1024.jpeg" alt="" class="wp-image-8759" width="512" height="512" srcset="./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1024x1024.jpeg 1024w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-300x300.jpeg 300w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-150x150.jpeg 150w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-768x768.jpeg 768w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1536x1536.jpeg 1536w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-2048x2048.jpeg 2048w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1568x1568.jpeg 1568w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption>Artwork from Harvest community member <a href="https://twitter.com/stulmtuno4273/status/1330292559277682693/photo/3">Sumire</a></figcaption></figure></div>
 
 
 
@@ -603,6 +826,7 @@
 
 
 <p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Harvest to help educate and inform the community about the Harvest Cooperative. </em><em>DeFi Pulse received FARM tokens as part of its payment. </em><em>As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2020/12/13/harvest-finance-drop/index.html">Harvest Finance &#8211; Industrial Automated Yield Farming for All</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -612,9 +836,9 @@
 		<title>DPI November Rebalance and DeFi Pulse Index Construction, Version 0.2</title>
 		<link>./../../../2020/11/27/dpi-november-rebalance-and-defi-pulse-index-construction-version-0-2/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Fri, 27 Nov 2020 15:16:55 +0000</pubDate>
-				<category><![CDATA[Pulse Inc]]></category>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Fri, 27 Nov 2020 20:16:55 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[DeFi]]></category>
 		<category><![CDATA[defi pulse index]]></category>
@@ -623,7 +847,9 @@
 		<category><![CDATA[index-coop]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8712</guid>
 
-					<description><![CDATA[The DeFi Pulse Index is a digital asset index designed to track tokens’ performance within the Decentralized Finance industry. The...]]></description>
+					<description><![CDATA[<p>The DeFi Pulse Index is a digital asset index designed to track tokens’ performance within the Decentralized Finance industry. The...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/27/dpi-november-rebalance-and-defi-pulse-index-construction-version-0-2/index.html">DPI November Rebalance and DeFi Pulse Index Construction, Version 0.2</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>The DeFi Pulse Index is a digital asset index designed to track tokens’ performance within the Decentralized Finance industry. The index is weighted based on the value of each token’s circulating supply. <strong>As part of our </strong><strong>commitment to the ongoing maintenance and development of the DeFi Pulse Index, we are transitioning from v0.1 of our methodology to </strong><a href="https://pulse.inc/"><strong>DeFi Pulse Index Construction, Version 0.2</strong></a><strong>. </strong>Version 0.2 introduces a change to the inclusion criteria that tokens must have a circulating supply minimum that is 7.5% or higher to ensure tokens have sufficient liquidity.</p>
 
@@ -642,6 +868,7 @@
 
 
 <p>In addition to the removal of REP, DPI has decreased its weighted allocations in MKR, YFI, KNC, REN, and LRC. DPI has increased its weighted allocation of COMP, SNX, AAVE, and BAL. <strong>DPI will be rebalanced as part of the Reconstitution Phase on December 1, 2020.</strong> You can also view more information about DPI and its underlying tokens on <a href="https://www.indexcoop.com/dpi">here</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/27/dpi-november-rebalance-and-defi-pulse-index-construction-version-0-2/index.html">DPI November Rebalance and DeFi Pulse Index Construction, Version 0.2</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -651,7 +878,7 @@
 		<title>DEXTF &#8211; Permissionless, Oracle-less Asset Management for Everyone</title>
 		<link>./../../../2020/11/01/dextf/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Sun, 01 Nov 2020 20:00:07 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[Assets]]></category>
@@ -662,7 +889,9 @@
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8640</guid>
 
-					<description><![CDATA[DeFi projects exist on a spectrum of decentralization. Trustlessness is at the heart of decentralization. But the word ‘trustlessness’ in...]]></description>
+					<description><![CDATA[<p>DeFi projects exist on a spectrum of decentralization. Trustlessness is at the heart of decentralization. But the word ‘trustlessness’ in...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/01/dextf/index.html">DEXTF &#8211; Permissionless, Oracle-less Asset Management for Everyone</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>DeFi projects exist on a spectrum of decentralization. Trustlessness is at the heart of decentralization. But the word ‘trustlessness’ in itself is almost an oxymoron because trust is almost never eliminated from the equation but instead is simply shifted from one counterparty to another. The goal is to minimize the required trust in the pursuit of trustlessness. Even our most trustless examples of smart contracts still require a certain amount of trust that the blockchain infrastructure it is built on will continue to function properly. Additionally, there are internal economic and smart contract security risks in DeFi platforms themselves. Looking beyond that, DeFi platforms face external risks like composability with other protocols and even further out is oracle integrity and off-chain infrastructure.&nbsp;</p>
 
@@ -680,7 +909,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-medium is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/11/DEXTF-logo-300x288.png" alt="" class="wp-image-8694" width="300" height="288" srcset="./../../../wp-content/uploads/2020/11/DEXTF-logo-300x288.png 300w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-1024x985.png 1024w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-768x738.png 768w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-1536x1477.png 1536w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-2048x1969.png 2048w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-1568x1508.png 1568w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-medium is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/11/DEXTF-logo-300x288.png" alt="" class="wp-image-8694" width="300" height="288" srcset="./../../../wp-content/uploads/2020/11/DEXTF-logo-300x288.png 300w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-1024x985.png 1024w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-768x738.png 768w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-1536x1477.png 1536w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-2048x1969.png 2048w, ./../../../wp-content/uploads/2020/11/DEXTF-logo-1568x1508.png 1568w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
 
 
 
@@ -700,7 +929,7 @@
 
 
 
-<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/10/streamline-icon-coin-jigsaw-2@140x140-1.png" alt="" class="wp-image-8649" width="140" height="140"/></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/10/streamline-icon-coin-jigsaw-2@140x140.png" alt="" class="wp-image-8649" width="140" height="140"/></figure></div>
 
 
 
@@ -716,7 +945,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://dapp.dextf.com/"><img loading="lazy" src="./../../../wp-content/uploads/2020/10/Selection_450-1-1024x576.jpg" alt="" class="wp-image-8662" width="768" height="432"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://dapp.dextf.com/"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/10/Selection_450-1024x576.jpg" alt="" class="wp-image-8662" width="768" height="432" srcset="./../../../wp-content/uploads/2020/10/Selection_450-1024x576.jpg 1024w, ./../../../wp-content/uploads/2020/10/Selection_450-300x169.jpg 300w, ./../../../wp-content/uploads/2020/10/Selection_450-768x432.jpg 768w, ./../../../wp-content/uploads/2020/10/Selection_450.jpg 1333w" sizes="(max-width: 768px) 100vw, 768px" /></a></figure></div>
 
 
 
@@ -820,7 +1049,7 @@
 
 
 
-<div class="wp-block-image"><figure class="alignleft size-large"><img loading="lazy" width="140" height="140" src="./../../../wp-content/uploads/2020/10/streamline-icon-hourglass-coins@140x140.png" alt="" class="wp-image-8653"/></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-large"><img loading="lazy" width="140" height="140" src="https://defipulse.com/blog/wp-content/uploads/2020/10/streamline-icon-hourglass-coins@140x140.png" alt="" class="wp-image-8653"/></figure></div>
 
 
 
@@ -840,7 +1069,7 @@
 
 
 
-<div class="wp-block-image"><figure class="alignright size-large"><img src="./../../../wp-content/uploads/2020/10/streamline-icon-saving-increase-2@140x140-1.png" alt="" class="wp-image-8651"/></figure></div>
+<div class="wp-block-image"><figure class="alignright size-large"><img loading="lazy" width="140" height="140" src="https://defipulse.com/blog/wp-content/uploads/2020/10/streamline-icon-saving-increase-2@140x140.png" alt="" class="wp-image-8651"/></figure></div>
 
 
 
@@ -856,7 +1085,7 @@
 
 
 
-<p class="has-text-align-center"> <img class="wp-image-8660" style="width: 140px;" src="./../../../wp-content/uploads/2020/10/streamline-icon-bear-market-1@140x140-1.png" alt=""><img class="wp-image-8659" style="width: 140px;" src="./../../../wp-content/uploads/2020/10/streamline-icon-bull-market-1@140x140-1.png" alt=""></p>
+<p class="has-text-align-center"> <img loading="lazy" width="140" height="140" class="wp-image-8660" style="width: 140px;" src="https://defipulse.com/blog/wp-content/uploads/2020/10/streamline-icon-bear-market-1@140x140.png" alt=""><img loading="lazy" width="140" height="140" class="wp-image-8659" style="width: 140px;" src="https://defipulse.com/blog/wp-content/uploads/2020/10/streamline-icon-bull-market-1@140x140.png" alt=""></p>
 
 
 
@@ -877,264 +1106,7 @@
 
 
 <p><strong><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with DEXTF to help educate and inform the community about the DEXTF Ecosystem. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></strong></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Lien &#8211; Governance-less ETH Options and Stablecoins</title>
-		<link>./../../../2020/09/05/lien/index.html</link>
-		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sat, 05 Sep 2020 15:12:51 +0000</pubDate>
-				<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Assets]]></category>
-		<category><![CDATA[decentralized finance]]></category>
-		<category><![CDATA[DeFi]]></category>
-		<category><![CDATA[derivatives]]></category>
-		<category><![CDATA[lien]]></category>
-		<category><![CDATA[options]]></category>
-		<category><![CDATA[options trading]]></category>
-		<category><![CDATA[stablecoins]]></category>
-		<guid isPermaLink="false">https://defipulse.com/blog/?p=8535</guid>
-
-					<description><![CDATA[In the background of all the DeFi and yield farming commotion, stablecoins have been booming. DAI, USDC, USDT, and countless...]]></description>
-										<content:encoded><![CDATA[
-<p>In the background of all the DeFi and yield farming commotion, stablecoins have been booming. DAI, USDC, USDT, and countless others have been pouring into DeFi. While it is great to have so many options, each stablecoin has its trade-offs which users must consider. For some, the centralization risk of stablecoins like USDC are simply too great; they desire a stablecoin that is truly decentralized.</p>
-
-
-
-<p><a href="https://lien.finance/">Lien</a>, brought to you by an anonymous team of developers, has a solution for these folks: stablecoins backed by ETH derivatives with &#8220;governance-less&#8221; design which requires no over-collateralization and no manual adjustments to maintain the pegged exchange rate.</p>
-
-
-
-<figure class="wp-block-image size-large"><a href="https://lien.finance/"><img loading="lazy" width="1024" height="341" src="./../../../wp-content/uploads/2020/09/LienBannerWoTagline-1024x341.png" alt="" class="wp-image-8550" srcset="./../../../wp-content/uploads/2020/09/LienBannerWoTagline-1024x341.png 1024w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline-300x100.png 300w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline-768x256.png 768w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
-
-
-
-<h2>Lien Protocol and iDOL</h2>
-
-
-
-<p>Lien Protocol powers a stablecoin called iDOL backed by ETH derivatives which allows it to utilize tranches or &#8220;tranching&#8221; to maintain stability.  iDOL is designed to be insensitive to the fluctuations in the USD price of ETH, minimizing the volatility by having speculators insure the risk. Instead of being directly backed ETH requiring over-collateralization to maintain its peg, iDOL is backed by a basket of bond tokens.</p>
-
-
-
-<p>Lien uses a system where ETH is tranched into two derivative contract tokens: Liquid Bond Token (LBT) and Solid Bond Token (SBT). These two bond tokens are minted at the same time with the same strike price and maturity date. </p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="534" src="./../../../wp-content/uploads/2020/09/Selection_396-1-1024x534.jpg" alt="" class="wp-image-8541" srcset="./../../../wp-content/uploads/2020/09/Selection_396-1-1024x534.jpg 1024w, ./../../../wp-content/uploads/2020/09/Selection_396-1-300x156.jpg 300w, ./../../../wp-content/uploads/2020/09/Selection_396-1-768x400.jpg 768w, ./../../../wp-content/uploads/2020/09/Selection_396-1.jpg 1310w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>Upon maturity, SBT holders receive a fixed dollar amount (if possible) and then any remaining ETH is given to the LBT holder. If the price of ETH upon maturity is lower than the strike price, then the smart contract will pay out the entire ETH to the SBT holder and the LBT holder will receive nothing. In this way, LBT holders take on the brunt of the risk through speculation.</p>
-
-
-
-<h3>Let&#8217;s examine Lien Protocol in action</h3>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="552" src="./../../../wp-content/uploads/2020/09/Selection_397-1024x552.jpg" alt="" class="wp-image-8543" srcset="./../../../wp-content/uploads/2020/09/Selection_397-1024x552.jpg 1024w, ./../../../wp-content/uploads/2020/09/Selection_397-300x162.jpg 300w, ./../../../wp-content/uploads/2020/09/Selection_397-768x414.jpg 768w, ./../../../wp-content/uploads/2020/09/Selection_397.jpg 1034w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>This diagram above can be a bit confusing at first glance but it is simpler than you think once explained. First, you deposit ETH into Lien&#8217;s smart contracts which then splits or &#8220;tranches&#8221; ETH into SBT and LBT that have the same maturity and strike price. The SBT is sent to the iDOL smart contract and used as collateral to mint iDOL. At this point, you hold the LBT and the freshly minted iDOL which can be used and spent like other stablecoins. </p>
-
-
-
-<p>As the maturity date approaches, the SBT is auctioned off for iDOL by the protocol. Once it reaches maturity, the smart contract will pay out to the SBT holder,&nbsp;the dollar amount that the holder is entitled to in ETH. And then, the smart contract pays any remaining ETH to you as the LBT holder. As previously mentioned, LBT holders risk receiving nothing if the price of ETH is below the strike price upon maturity.</p>
-
-
-
-<h3>What makes Lien and iDOL special?</h3>
-
-
-
-<p>Instead of relying on over-collateralization, iDOL is backed by a basket of SBTs, each with their own maturity date, placing the brunt of risk on those speculating on the value of LBTs. As their <a href="https://lien.finance/pdf/iDOLWP_v1.pdf">whitepaper</a> so eloquently puts it: <em>&#8220;The stability of the SBT value is based upon the instability of the LBT value. That is, all the risks related to the price volatility of Ether are undertaken by the LBT holder, which then makes the value of SBT stable. We can think of LBT as a leveraged derivative token, the value of which is associated with Ether but fluctuates much more than Ether.&#8221;</em></p>
-
-
-
-<p>Lien Protocol has placed a buffer of sorts between iDOL holders and the volatility of ETH and the wider market. The system can automatically stabilize the price of SBT and subsequently iDOL at target levels using market forces alone without the need for governance.</p>
-
-
-
-<p>For those bullish on ETH, LBT functions like a call option on ETH that performs as a 2x leveraged ETH token. This allows you to create leveraged long positions by holding LBT. As with call options, you don’t have to worry about margin calls and liquidation during flash crashes.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="700" height="465" src="./../../../wp-content/uploads/2020/09/lien-diagram.png" alt="" class="wp-image-8536" srcset="./../../../wp-content/uploads/2020/09/lien-diagram.png 700w, ./../../../wp-content/uploads/2020/09/lien-diagram-300x199.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
-
-
-
-<h2>Lien FairSwap</h2>
-
-
-
-<p>Lien FairSwap is an AMM DEX which takes inspiration from Uniswap and attempts to mitigate some of the disadvantages of its design. FairSwap has built-in front-running protection which ensures transactions are settled in &#8220;a fair manner&#8221; by taking advantage of a frequent batch auction mechanism. FairSwap doesn&#8217;t process orders one by one and instead batches orders across a few blocks, called an &#8220;exchange box,&#8221; and then clears them all simultaneously.</p>
-
-
-
-<p>FairSwap provides liquidity for iDOL-related derivative tokens like SBT and LBT. Unlike iDOL&#8217;s smart contracts, FairSwap&#8217;s parameters can be modified after launch. To learn more about FairSwap, I recommend you check out the <a href="https://lien.finance/pdf/LienFairSwapWP_v1.pdf">whitepaper</a>.</p>
-
-
-
-<h2>LIEN token</h2>
-
-
-
-<p>As previously mentioned, Lien Protocol is designed to operate autonomously and &#8220;governance-free.&#8221; And so, LIEN token is not your typical governance token. LIEN can be considered a utility token that can be used to receive discounts/rebates on protocol fees. </p>
-
-
-
-<p>The Lien Protocol charges a fee (0.2%) when users mint the iDOL stable coin and when users exchange assets using FairSwap (0.3% &#8211; variable). Fees are collected in ETH or iDOL and are then distributed proportionally to holders of the Lien Token as discounts/rebates at the end of each month. 100% of Lien Protocol fees and 20% of FairSwap fees are attributed to Lien Token holders. <a href="https://medium.com/lien-finance/lien-token-metrics-f9e7bae3e407">See here for more info about LIEN.</a></p>
-
-
-
-<h2>Closing thoughts</h2>
-
-
-
-<p>Each and every week I get the pleasure of diving into new protocols and Lien Protocol did not disappoint. I can easily see how iDOL fulfills many people&#8217;s desire for a stablecoin without centralization or governance risk. I&#8217;d be curious to see down the line if there is an iGBP or iJPY because while iDOL is based on the dollar the system can be applied to other assets with sufficient oracles and market forces.</p>
-
-
-
-<h3>Lien Protocol and FairSwap are live on mainnet</h3>
-
-
-
-<p><strong>Although the Lien team is completely anonymous, special attention has been paid to smart contract security by the Lien team with initial code audits perform by <a href="https://diligence.consensys.net/audits/2020/05/lien-protocol/">ConsenSys Dilligence</a> in May and final code audits performed by <a href="https://certificate.certik.org/reports/lien_finance.pdf">CertiK</a>. </strong>To give you an even better idea of their mindset, the Lien team even imparts users with these wise words in<a href="https://medium.com/lien-finance/lien-apps-go-live-on-ethereum-mainnet-2b16cb28a5bf"> their launch post</a>: &#8220;<em>While audits are extremely important in assessing the validity and security of the code, they do not eliminate risks completely.&#8221;</em></p>
-
-
-
-<p><strong>Lien Protocol and FairSwap are live as of Friday Sept 4th, 2020.</strong> Head over to <a href="https://app.lien.finance/">Lien.finance</a> where you can trade LBT, mint iDOL, bid on SBT auctions, provide liquidity, and more today! </p>
-
-
-
-<p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve been paid by Lien Protocol to inform readers about their platform and iDOL. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>DeFi Dive: RenVM &#8211; interoperability for DeFi</title>
-		<link>./../../../2020/03/03/defi-dive-renvm/index.html</link>
-		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Tue, 03 Mar 2020 14:55:28 +0000</pubDate>
-				<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[Assets]]></category>
-		<category><![CDATA[bch]]></category>
-		<category><![CDATA[Bitcoin]]></category>
-		<category><![CDATA[btc]]></category>
-		<category><![CDATA[DeFi]]></category>
-		<category><![CDATA[ETH]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[interoperability]]></category>
-		<category><![CDATA[ren]]></category>
-		<category><![CDATA[renvm]]></category>
-		<category><![CDATA[zec]]></category>
-		<guid isPermaLink="false">https://defipulse.com/blog/?p=8013</guid>
-
-					<description><![CDATA[In this edition of DeFi Dive, Michael W. Burgess, Ren&#8217;s Head of Operations, discusses their team&#8217;s journey of bringing interoperability...]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="512" src="./../../../wp-content/uploads/2020/03/DeFi-Dive-Social-Media-ren.png" alt="" class="wp-image-8018" srcset="./../../../wp-content/uploads/2020/03/DeFi-Dive-Social-Media-ren.png 1024w, ./../../../wp-content/uploads/2020/03/DeFi-Dive-Social-Media-ren-300x150.png 300w, ./../../../wp-content/uploads/2020/03/DeFi-Dive-Social-Media-ren-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p><strong><em>In this edition of DeFi Dive, Michael W. Burgess, Ren&#8217;s Head of Operations, discusses their team&#8217;s journey of bringing interoperability to DeFi.</em></strong></p>
-
-
-
-<h3>How did you get your start in crypto and what inspired you to build your project, product, or service?</h3>
-
-
-
-<p>I got into crypto early 2017 and one of the most obvious issues at that time was the lack of decentralized interoperability. </p>
-
-
-
-<p>To this day there are lots of solutions out there to trade BTC for ETH/ERC20s/etc but none that embodied the whole point of crypto: trustlessness, permissionless, decentralization, and privacy. </p>
-
-
-
-<p>With RenVM, smart contracts on any blockchain can control tokens on other blockchains, allowing DeFi to leverage the liquidity available anywhere and everywhere. It does all this without compromising trustlessness, permissionless, decentralization, or privacy.</p>
-
-
-
-<h3>What are you building and what sets it apart?</h3>
-
-
-
-<p>In the simplest terms, RenVM brings interoperability to DeFi. </p>
-
-
-
-<p>The advantage over other solutions is its generic interoperability; meaning it works with any blockchain, not just a one-off solution. We already support BTC, BCH, and ZEC; with many more to come. </p>
-
-
-
-<p>You can think of RenVM as a Tesla with over-the-air updates. Anytime we upgrade, add a feature, or new blockchain; applications that utilize RenVM will receive these benefits without lifting a finger. </p>
-
-
-
-<p>Further, RenVM is composable. Meaning it serves as a plug-in for decentralized finance and therefore, any DeFi application can easily incorporate RenVM’s capabilities into their applications and existing smart contracts.</p>
-
-
-
-<h3>Who do you view as the ideal user or customer for your product or service?</h3>
-
-
-
-<p>DeFi Applications such as DEXes, Lending, Leveraging, etc</p>
-
-
-
-<h3>What future event or feature on your roadmap are you most excited for?</h3>
-
-
-
-<p>RenVM Mainnet is right around the corner, so we are working hard to bring it to fruition.</p>
-
-
-
-<h3>Where do you see your project, product, or service fitting into the future of DeFi?</h3>
-
-
-
-<p>With RenVM, a new narrative for the blockchain ecosystem rises. DeFi is no longer constrained, and a world of trustless value transfer exchange (regardless of blockchain) is born. </p>
-
-
-
-<p>Bringing any digital assets to DeFi (Ethereum) regardless of blockchain, will have a profound impact on its dominance and ultimately solidify its role as the world&#8217;s settlement layer. International commerce is built on trust and given the world’s current fragmentation and lack thereof, it is one of the most important trust layer projects in existence today. </p>
-
-
-
-<p>RenVM will help usher in this new paradigm.</p>
-
-
-
-<h3>What’s something in DeFi that you think more people should be paying attention to?</h3>
-
-
-
-<p>The potential of composability is really quite exciting. </p>
-
-
-
-<p>What DeFi will be able to achieve in a year&#8217;s time will dwarf the products traditional finance can offer. This is a really important step in an industry&#8217;s maturation.</p>
-
-
-
-<h3>How can readers learn more about your product/service?</h3>
-
-
-
-<p>Come find us on <a href="http://twitter.com/renprotocol">Twitter</a> and get excited because 2020 will be an exciting time.</p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/01/dextf/index.html">DEXTF &#8211; Permissionless, Oracle-less Asset Management for Everyone</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

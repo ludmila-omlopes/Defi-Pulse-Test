@@ -18,14 +18,15 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>ACO &#8211; A Non-Custodial Options Protocol Built for DeFi</title>
 		<link>./../../../2020/08/09/aco/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Sun, 09 Aug 2020 14:58:53 +0000</pubDate>
-				<category><![CDATA[Derivatives]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Derivatives]]></category>
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[aco]]></category>
@@ -37,7 +38,9 @@
 		<category><![CDATA[options trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8441</guid>
 
-					<description><![CDATA[The DeFi ecosystem is growing at a breathtaking pace. Unsurprisingly, staying on top of everything in the space is becoming...]]></description>
+					<description><![CDATA[<p>The DeFi ecosystem is growing at a breathtaking pace. Unsurprisingly, staying on top of everything in the space is becoming...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/08/09/aco/index.html">ACO &#8211; A Non-Custodial Options Protocol Built for DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>The DeFi ecosystem is growing at a breathtaking pace. Unsurprisingly, staying on top of everything in the space is becoming practically impossible. DeFi is becoming increasingly sophisticated each day as the building blocks or rather money legos fall into place. Most people can tell you the basics of spot and margin trading, but I&#8217;ve started to see more and more people admit they know are unfamiliar with options trading. And, that&#8217;s okay because as many will tell you being a fan of DeFi often times means being a student. We&#8217;ve teamed up with folks behind ACO to explore how options fit into DeFi and how you might take advantage of options in your trading strategy. <a href="https://aco.finance/">ACO</a> is a decentralized non-custodial options protocol created by <a href="https://auctus.org/">Auctus</a>.</p>
 
@@ -59,7 +62,7 @@
 
 
 
-<div class="wp-block-image"><figure class="alignright size-medium"><a href="https://aco.finance/"><img loading="lazy" width="300" height="300" src="./../../../wp-content/uploads/2020/08/aco-300x300.png" alt="" class="wp-image-8453" srcset="./../../../wp-content/uploads/2020/08/aco-300x300.png 300w, ./../../../wp-content/uploads/2020/08/aco-1024x1024.png 1024w, ./../../../wp-content/uploads/2020/08/aco-150x150.png 150w, ./../../../wp-content/uploads/2020/08/aco-768x768.png 768w, ./../../../wp-content/uploads/2020/08/aco.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure></div>
+<div class="wp-block-image"><figure class="alignright size-medium"><a href="https://aco.finance/"><img loading="lazy" width="300" height="300" src="https://defipulse.com/blog/wp-content/uploads/2020/08/aco-300x300.png" alt="" class="wp-image-8453" srcset="./../../../wp-content/uploads/2020/08/aco-300x300.png 300w, ./../../../wp-content/uploads/2020/08/aco-1024x1024.png 1024w, ./../../../wp-content/uploads/2020/08/aco-150x150.png 150w, ./../../../wp-content/uploads/2020/08/aco-768x768.png 768w, ./../../../wp-content/uploads/2020/08/aco.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure></div>
 
 
 
@@ -232,6 +235,7 @@
 
 
 <p><em>Disclosure: This post is part our DeFi Pulse Drops promotional series; We&#8217;ve been paid by ACO to inform readers about why one might use options and about their decentralized non-custodial options platform. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2020/08/09/aco/index.html">ACO &#8211; A Non-Custodial Options Protocol Built for DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

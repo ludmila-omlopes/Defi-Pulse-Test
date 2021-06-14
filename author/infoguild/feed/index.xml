@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Infoguild &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 28 Nov 2020 17:35:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Hegic Protocol &#8211; On-chain Options Trading Protocol</title>
+		<link>./../../../2020/11/28/hegic-protocol-on-chain-options-trading-protocol/index.html</link>
+		
+		<dc:creator><![CDATA[Infoguild]]></dc:creator>
+		<pubDate>Sat, 28 Nov 2020 17:35:13 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Protocol]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[hegic]]></category>
+		<category><![CDATA[options]]></category>
+		<category><![CDATA[options trading]]></category>
+		<category><![CDATA[protocol]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8721</guid>
+
+					<description><![CDATA[<p>During DeFi’s most innovative and exciting year, a new kind of trading experience has exploded onto the scene. Hegic is...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/28/hegic-protocol-on-chain-options-trading-protocol/index.html">Hegic Protocol &#8211; On-chain Options Trading Protocol</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>During DeFi’s most innovative and exciting year, a new kind of trading experience has exploded onto the scene. <a href="https://www.hegic.co/">Hegic</a> is an on-chain, non-custodial platform for options trading, launched by the enigmatic Molly Wintermute. The platform has grown significantly in recent months, after its <a href="https://decrypt.co/35038/hegics-molly-wintermute-im-paying-a-high-price-for-the-mainnet-first-approach-to-building">inauspicious start </a>in April. The first iteration suffered from buggy code, which required Wintermute to return almost $50,000 in locked funds to users. Since then, Hegic has been running smoothly, and volume has <a href="https://www.hegic.co/analytics">rapidly grown</a>. It is poised to become one of the key players in the crypto trading ecosystem.</p>
+
+
+
+<p>Hegic allows users to buy put and call options on ETH and WBTC. Currently, total options volume for WBTC exceeds that of ETH. For those who are unfamiliar with options trading, calls and puts are essentially bets on the future price of assets. Buying a call means you have the right but not the obligation to purchase an asset at a certain price (the “strike price”) for an agreed-upon length of time. You pay a premium to purchase the option. </p>
+
+
+
+<p>Let’s say you buy a call for ETH at $500. The call option expires one month later. If the price of ETH shoots up to $1,000 during this window of time, you can exercise the option for a profit of $500 less the premium cost. Put options work the opposite way. You reserve the right but are not required to sell $ETH at $500 one month later. If ETH plummets to $250 during this time, you can go buy some ETH at market price then turn around and sell it for $500 as agreed. You profit $250 minus the premium you paid. Premium costs depend on the length of the options contract and the “moneyness” of the option (basically, how far the strike price and the actual price deviate at the time of purchase).</p>
+
+
+
+<p>Why would anyone want to use options? Well, for starters, it allows you to trade with leverage and still manage your risk. The beauty of options trading is that traders can use them when they are extremely confident or extremely uncertain, as options can be used as a hedging measure in combination with other trades. The price of a crypto-asset can go parabolic rather quickly. Options allow you to capture all of the upside (or downside) with only the cost of the premium. You are also protected from the asset going <em>against</em> your thesis to an astronomical amount. At worst, you choose not to exercise the option and the only money you’re out is the sunk premium cost. One key aspect of Hegic that experienced traders will need to consider is that the premium is priced in ETH. As the price of ETH fluctuates, the value of the premium also changes, which will impact your P&amp;L.</p>
+
+
+
+<p>To offer a viable trading experience, Hegic requires a deep well of liquidity from which traders can draw. Without sufficient liquidity, traders will be unable to enjoy the same experience provided by centralized exchanges, and liquidity providers will be exposed to even greater counterparty risk when writing contracts. Hegic aims to accomplish this by incentivizing liquidity providers. LPs are called ‘writers’ in the Hegic ecosystem. Writers share the premiums paid in their pools. Hegic also incentivizes liquidity provision with the native HEGIC token. </p>
+
+
+
+<p>Wintermute envisions HEGIC to become a governance token for the protocol at some point in the future, but currently the token is only a requirement for purchasing a staking lot. 888,000 HEGIC buys a staking lot and with it, the right to the protocol’s settlement fees. There is one additional incentive available to writers. By providing liquidity, you are credited with writeBTC or writeETH tokens. These tokens can be staked to earn rHegic token, which is essentially a vested version of HEGIC that can be sold at a hefty discount before the vesting period ends in late 2021.</p>
+
+
+
+<p>Hegic&nbsp;is one of the more complicated DeFi protocols on the market today. It involves a lot more levers and cranks than discussed here, including a bonding curve that controls the new supply of Hegic. To learn more about Hegic, you can check out <a href="https://hegic.gitbook.io/start/">Hegic&#8217;s documentation</a>. You can also try it out for yourself; All you need is an Ethereum wallet. The protocol does not require KYC or account verification. Hegic is proving to be a worthy rival for Deribit, although they are likely to grow in unison given the unique advantages that each provide. Hopefully, there will be plenty of opportunities for arbitrage between the two platforms headed into the future.</p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/28/hegic-protocol-on-chain-options-trading-protocol/index.html">Hegic Protocol &#8211; On-chain Options Trading Protocol</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Vampire Mining and the SushiSwap Saga</title>
+		<link>./../../../2020/09/25/vampire-mining-and-the-sushiswap-saga/index.html</link>
+		
+		<dc:creator><![CDATA[Infoguild]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2020 15:00:00 +0000</pubDate>
+				<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[amm]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[sushi]]></category>
+		<category><![CDATA[sushiswap]]></category>
+		<category><![CDATA[uni]]></category>
+		<category><![CDATA[Uniswap]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8567</guid>
+
+					<description><![CDATA[<p>A vampire attack or “vampire mining” is a new term in DeFi popularized by SushiSwap’s aggressive migration incentives designed to...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/09/25/vampire-mining-and-the-sushiswap-saga/index.html">Vampire Mining and the SushiSwap Saga</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>A vampire attack or “vampire mining” is a new term in DeFi popularized by SushiSwap’s aggressive migration incentives designed to pull liquidity from Uniswap.</p>
+
+
+
+<p>The strategy involves forking an already successful open-source fee-generating protocol, and where opportunities exist, making slight adjustments to better incentivize participants in the new protocol, encouraging the migration of already existing liquidity for essentially the same purpose.</p>
+
+
+
+<p><a href="https://uniswap.org/?gclid=Cj0KCQjwwOz6BRCgARIsAKEG4FVDaI7egyJ4cGSoT7Uc8xLy8Yfd-NFBh3AH8PXuhEGcW3H3pTkesjQaAiAPEALw_wcB">Uniswap</a> made a prime target as it was one of the largest decentralised protocols not to have some sort of governance token or fee distribution token at the time. Uniswap liquidity providers currently share 0.3% fees on all trades made within pools they have provided liquidity to, however the protocol has a <a href="https://uniswap.org/blog/uniswap-v2/">lever</a> that can be pulled that redirects 0.05% (16.7%) of this 0.3% fee into a funding pool supposedly for ecosystem development, though there are concerns from some members of the community that this would likely just line the pockets of Uniswap’s VCs instead.</p>
+
+
+
+<p>Thus <a href="https://sushiswapclassic.org/">SushiSwap</a> was born, an almost direct clone of Uniswap except with an additional protocol related token SUSHI. SUSHI acts as both a governance token and a yield token- always sharing between its holders the 0.05% of fees on trades that Uniswap can divert by activating its lever.</p>
+
+
+
+<p>This change also allows prior liquidity providers to continue to earn fees from the protocol even after withdrawing their liquidity from the SUSHI tokens they’ve earned- strongly rewarding early participants with the aim to bolster its community.&nbsp;</p>
+
+
+
+<p>SushiSwap’s “attack,” as some would call it, hinged on the fact that liquidity providers get Uniswap LP tokens for depositing liquidity in Uniswap’s pool- redeemable for their share of the pool at any time.</p>
+
+
+
+<p>SushiSwap capitalised on this by offering staking contracts where Uniswap LP tokens could be deposited to earn SUSHI tokens. The idea was to have a 2-week early distribution at an enhanced rate where 1000 SUSHI were split between stakers per block to attract a lot of LP tokens, before SushiSwap would mass migrate a tonne of Uniswap’s liquidity into its own pools by redeeming the staked Uniswap LP tokens and swapping staker’s Uniswap LP tokens 1 for 1 with SushiSwap SLP tokens, making them whole again in SushiSwap’s new pools. Trading would then begin and the protocol would continue to emit SUSHI to active liquidity providers at 10% of the early distribution rate.</p>
+
+
+
+<p>SushiSwap’s staking contracts and SUSHI distribution began on August 28th, causing a parabolic rise from about $280m to $1.8B of total value locked (TVL) in Uniswap over 11 days, before the migration occurred a couple of days early on September 8th, causing about $800m of liquidity to be instantly drained to SushiSwap, with Uniswap’s TVL plunging back to ~$400m.</p>
+
+
+
+<p>Interestingly, this is still higher than Uniswap’s TVL prior to SushiSwap. So despite concerns that SushiSwap could have spelled the end for Uniswap, the whole debacle still seems to have been of net benefit to the protocol.</p>
+
+
+
+<p>Another point of debate was whether liquidity providers would remain with SushiSwap once the post-migration rewards fell to 100 SUSHI per block or correct back to the more trusted and time-tested Uniswap.</p>
+
+
+
+<p>Whilst the initial distribution was going on, Chef Nomi (SushiSwap’s anonymous founder) withdrew the entirety of the dev pool- $7m of eth and ~2.5m SUSHI which they sold for ~$6m of Eth on Saturday 5th, making away with around $13m of ETH profit despite early promises not to, causing SUSHI to decline in price and leaving the community in doubt of the future. Chef Nomi however pledged to continue to support the project’s development.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/nFBb9rskxUfBDSK1cJAwaIY7KrYSY2PwNqUUfn4wOTUJ_Hlxie6OCnT1dxIB6Aoq0-Yu01xPABTLPXvs-pQ9wZbAHJHC0X2audCV1IbSbu6dkpwuaLj691e4DAzbwpcUyKnwYqxM" alt=""/></figure>
+
+
+
+<p>A day later they rescinded his commitment and gave control of SushiSwap to the CEO of FTX Sam Bankman-Fried.</p>
+
+
+
+<p>&nbsp;In a final twist, Chef Nomi returned all ~$14m of ETH back to SushiSwap’s treasury on September 11th.</p>
+
+
+
+<p>Since then, the community has successfully migrated liquidity to SushiSwap and continued forward with the project, though with everything going on SUSHI has unsurprisingly seen some significant price volatility.</p>
+
+
+
+<h3>Is this the start of a trend?</h3>
+
+
+
+<p>SushiSwap’s aggressive liquidity migration from Uniswap might have been the first significant example of a “vampire attack”, but it bears considering it will probably not be the last.</p>
+
+
+
+<p>Any protocol where capital is free to leave easily and can be better incentivized to perform a similar function in another protocol is at risk. In particular protocols that are “simpler” in functionality and that rely more on their own smart contracts and platform to provide their service over being highly integrated with other projects (possessing stronger network effects) are at higher risk.</p>
+
+
+
+<p>Uniswap made such a great target precisely because copying the project is largely as simple as copying its smart contracts, and the main requirement for a successful liquidity platform is sufficient liquidity, which as this whole saga has shown can clearly be (at least temporarily) incentivized.</p>
+
+
+
+<p>All done and said, it&#8217;s definitely going to be interesting to watch how SushiSwap and Uniswap continue to co-exist (or not) over the next few months.</p>
+<p>The post <a rel="nofollow" href="./../../../2020/09/25/vampire-mining-and-the-sushiswap-saga/index.html">Vampire Mining and the SushiSwap Saga</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Delphi, a One-Stop Curated Shop for DeFi Yield Farming, Savings &#038; Dollar-Cost Averaging</title>
+		<link>./../../../2020/08/23/delphi/index.html</link>
+		
+		<dc:creator><![CDATA[Infoguild]]></dc:creator>
+		<pubDate>Sun, 23 Aug 2020 16:01:28 +0000</pubDate>
+				<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[akropolis]]></category>
+		<category><![CDATA[dca]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[delphi]]></category>
+		<category><![CDATA[dollar cost average]]></category>
+		<category><![CDATA[farming]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[yield]]></category>
+		<category><![CDATA[yieldfarming]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8468</guid>
+
+					<description><![CDATA[<p>Since the introduction of yield farming two months ago, DeFi has been growing at breakneck speed. Total Value Locked (TVL)...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/08/23/delphi/index.html">Delphi, a One-Stop Curated Shop for DeFi Yield Farming, Savings &#038; Dollar-Cost Averaging</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Since the introduction of yield farming two months ago, DeFi has been growing at breakneck speed. Total Value Locked (TVL) has <a href="https://defipulse.com/">increased 5.6X and reached its all-time high of $6.77B</a>. New protocols, platforms, and new investment opportunities are launched week after week, making it hard to keep up even for the most sophisticated users in the space.&nbsp;</p>
+
+
+
+<p>This exponential growth has made it increasingly complex for users to efficiently select the best yield farming opportunities while reducing their exposure to risks. And it is even harder for inexperienced users who are looking to have exposure to DeFi protocols. These users don&#8217;t know where to start due to the complexity of these systems, and the lack of a single product that can help them make informed decisions without diving into multiple Twitter threads, blog posts, Discord groups, and complicated platforms.</p>
+
+
+
+<p>Here is where <a href="https://delphi.akropolis.io/summary">Delphi</a> comes in.&nbsp;</p>
+
+
+
+<h2><strong>What is Delphi?</strong></h2>
+
+
+
+<p>Delphi is an easy to use platform that allows users to automate their DeFi lives. Their platform offers curated access to different yield farming opportunities across DeFi, by providing non-technical users with a clean and simple UI to help them take advantage of them.</p>
+
+
+
+<p>Through its platform, users have access to different investment options depending on their risk appetite. These options are presented as Savings, Investments, DCA (dollar-cost averaging), and Staking. Delphi is built by the Akropolis team and is the second product after <a href="https://sparta.akropolis.io/">Sparta</a> built on the <a href="https://github.com/akropolisio/akropolisOS">AkropolisOS</a>.</p>
+
+
+
+<p>Only the Savings option is available, but the Investments, DCA, and Staking options will soon go live, as well. For a full view of their releases schedule, you can <a href="https://www.notion.so/b390a85d87124796b0b008b20e6ab38e?v=387bc54a16e34bf2b8f7328b839eebc2">check out Akropolis&#8217;s roadmap here.&nbsp;</a></p>
+
+
+
+<p>The two most exciting options that can be accessed through Delphi are the &#8220;Savings account,&#8221; and “DCA” options:</p>
+
+
+
+<h3><strong>Savings account</strong></h3>
+
+
+
+<p>The Savings account option provides users with a value proposition similar to that of traditional finance products, in which users can access products that offer predictable returns at low costs. The key difference here is that Delphi manages allocations across a wide array of stable coin DeFi pools in different protocols to take advantage of yield farming opportunities. In this way, Delphi offers higher APYs, while canceling volatility and exposure to impermanent loss.</p>
+
+
+
+<h2><strong>DCA&nbsp;</strong></h2>
+
+
+
+<p>The DCA option brings a much-needed feature to the DeFi space that has been traditionally offered by centralized exchanges: <a href="https://www.investopedia.com/terms/d/dollarcostaveraging.asp">dollar-cost averaging</a>. DCA gives users a straightforward way to gain exposure to assets by reducing the impact of volatility on the overall purchases.&nbsp;</p>
+
+
+
+<h2><strong>How does Delphi work?</strong></h2>
+
+
+
+<p>Delphi seeks to lower the barrier to entry for the least experienced DeFi users and be a compelling tool for experienced users at the same time. To achieve that, it offers a straightforward and intuitive interface. The “Savings” &amp; Staking” options will be the first to go live on August 24th. So we will focus on the &#8220;Savings&#8221; option and on how to leverage it to make the most out of your investments.</p>
+
+
+
+<ol><li>First, remember that to use the &#8220;Savings&#8221; option, you must own stablecoins such as DAI, USDC, or sUSD.</li><li>Once you have stable coins in your wallet, go to the <a href="https://delphi.akropolis.io/">Delphi website</a>, click on the right-hand side top corner on the &#8220;App&#8221; button, and connect your wallet when the pop up requests you to do so.</li><li>Once your wallet is connected, you&#8217;ll be ready to start using the &#8220;Savings&#8221; option.</li><li>When clicking on the &#8220;Savings&#8221; option, you will select among one of five pools in which to allocate your stablecoins and create your savings account. Starting tomorrow, you will be able to pick among any of the following pools:<ul><li>Compound DAI pool</li><li>Compound USDC pool</li><li>sUSD Curve pool</li><li>Y Curve</li><li>bUSD Curve pool</li></ul></li></ol>
+
+
+
+<p>Pools have an option called &#8220;View Pool Details,&#8221; where you can click to find out the details about each pool and compare them to decide in which one to invest your savings. &#8220;View Pool Details&#8221; shows the total liquidity and asset weight, daily volume, gas costs, and, most importantly, the pools&#8217; APY and the approximate weekly rewards that will be received in each of the tokens awarded in each pool.&nbsp;</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh4.googleusercontent.com/XfWoxhKABSnqAXAm3oYLetwE8qZ1_1Vf25Nv4Rw_Ux4mplgdxKJIxXLpkpPJUHyvvdAzRV7s8sPYpUE8BNwKAHb3AxCeBFRB3GmOEEiuNTGkg-tfhI83H8nLpC7DLXud9jhxrGLJ" alt=""/></figure>
+
+
+
+<p>Once you make up your mind, you can invest your savings in a single pool by clicking on the &#8220;Allocate&#8221; option in each pool. But you can also diversify among two, three or more pools by clicking on the &#8220;Allocate&#8221; option on the bottom right-hand corner.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh4.googleusercontent.com/wXZBLNX8tVNhz81dJjqiMciJFOaD7PWBw4DIHMzdlChYsIXnJsqZ8Q2dmhbbm4MgmRvx2ESfZbWx0yhfzv1FkSFSSkmVirl7ZCF1OPzZjKLd31bsLVvbd3ts4vpQjobdDOL5ndzy" alt=""/></figure>
+
+
+
+<p>The &#8220;Allocate&#8221; option is one of the coolest features of the Delphi &#8220;Savings&#8221; option. It allows you to diversify your savings by investing in more than one pool by performing one single transaction, at lower costs than making a separate investment in each pool by accessing different protocols.</p>
+
+
+
+<p>As for the Staking, it’s a simple supply of liquidity to the AKRO-only pool at the moment. In the future, this section will be expanded &amp; include Akropolis governance pools for Akropolis products.</p>
+
+
+
+<p><strong>Bonus (coming soon): </strong>with Delphi, you can also rebalance your allocation between pools in one single transaction.</p>
+
+
+
+<p>Finally, once you have allocated your savings in one or more pools, you can track all of your investments by clicking on the &#8220;My Summary&#8221; option, which allows you to track all of your pools, APYs &amp; harvest in one place.</p>
+
+
+
+<h2><strong>Delphi Governance</strong></h2>
+
+
+
+<p>The Delphi platform will be governed by holders of the ADEL governance token, which will be minted over six months after its mainnet launch. In a very similar fashion to YFI, ADEL will not have a pre-sale or pre-mine. It will only be earnt through liquidity provision of stablecoins, AKRO, and other selected tokens and active governance participation, and just 5% will be reserved for development, audits &amp; other costs.</p>
+
+
+
+<p>The most important parameters will be the following:</p>
+
+
+
+<ul><li>ADEL is not just a governance token — it will have a shared claim on Delphi&#8217;s future fees (exit/entry fees, performance fees, exchange referral fees, etc.).</li><li>60,000,000 ADEL will be minted as fixed supply and distributed linearly over six months. Community governance will have the option to amend the ADEL monetary policy to introduce inflation/deflation/elasticity of supply.</li><li>95% goes to active users/LPs, including community rewards [unlocked from week 2].</li><li>5% goes to development, maintenance, and audit.</li><li>A product governance DAO will be created before or shortly after full mainnet launch.</li></ul>
+
+
+
+<p><a href="https://medium.com/akropolis/august-2020-akropolis-monthly-update-part-1-of-n-a51f265073a9">You can learn more about AKRO, Akropolis governance token, and ADEL, in this blog post.</a></p>
+
+
+
+<h2><strong>Concluding thoughts</strong></h2>
+
+
+
+<p>As DeFi continues to grow exponentially and more protocols and platforms continue to launch weekly, complexity across the space will also increase. Even the most sophisticated users will start struggling to keep track of all the different investment opportunities and new systems in this scenario. This is where platforms such as Delphi come in.&nbsp;</p>
+
+
+
+<p>By solving all the complexities in the background and providing a clean UI for any user to easily invest, rebalance, and monitor their allocations, Delphi provides a very compelling value proposition that can make any user comfortable with interacting with DeFi.&nbsp;</p>
+
+
+
+<p>It is also exciting that the governance token distribution that Delphi will pursue puts the users of the protocol first and will allocate 95% of all minted tokens to the community.</p>
+
+
+
+<p>Open your Savings account on Delphi tomorrow, or learn more about them by heading to <a href="https://delphi.akropolis.io/">their website</a>. You can also <a href="https://www.notion.so/b390a85d87124796b0b008b20e6ab38e?v=387bc54a16e34bf2b8f7328b839eebc2">check out their roadmap</a> and be on the lookout for all the upcoming releases.</p>
+
+
+
+<p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve been paid by Delphi to inform readers about their platform and the different options it offers. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2020/08/23/delphi/index.html">Delphi, a One-Stop Curated Shop for DeFi Yield Farming, Savings &#038; Dollar-Cost Averaging</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Yield Farming Frenzy and its Impact on DeFi</title>
+		<link>./../../../2020/07/16/the-yield-farming-frenzy-and-its-impact-on-defi/index.html</link>
+		
+		<dc:creator><![CDATA[Infoguild]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 16:57:34 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[balancer]]></category>
+		<category><![CDATA[Compound]]></category>
+		<category><![CDATA[compound finance]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[liquidity mining]]></category>
+		<category><![CDATA[mcdex]]></category>
+		<category><![CDATA[yield farming]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=8371</guid>
+
+					<description><![CDATA[<p>If you follow DeFi, you’ve probably noticed that the concept of yield farming is everywhere lately. From some of the...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/07/16/the-yield-farming-frenzy-and-its-impact-on-defi/index.html">The Yield Farming Frenzy and its Impact on DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>If you follow DeFi, you’ve probably noticed that the concept of yield farming is everywhere lately. From some of the most original memes in the Ethereum ecosystem to traditional news outlets like Forbes, crop rotation to maximize yield across protocols has become one of the defining activities on DeFi in 2020.</p>
+
+
+
+<h3><strong>So, what is Yield Farming?</strong></h3>
+
+
+
+<p>Yield farming is the act of leveraging different DeFi protocols and products to earn a yield or a return on their assets, in some cases obtaining profits well over 100% APY through a combination of lending interest and token incentives. </p>
+
+
+
+<p>The recent yield farming frenzy made total value Locked (TVL) on DeFi skyrocket to new all-time highs, zooming far past $2B. Yield farming has had a substantial impact on protocols like Compound, Balancer, Curve, MCDEX, and Uniswap V2 just to name a few as DeFi users aim to cash in on the trend. This frenzy has brought some important questions to light. Should short term speculative usage of the Ethereum network be considered an indicator of long term adoption? Is this frenzy only a momentary activity that will lose traction once yields go down? Ultimately, is this the beginning of a new growth cycle for Ethereum?</p>
+
+
+
+<h3><strong>How Did The Yield Farming Frenzy begin?</strong></h3>
+
+
+
+<p>The Yield Farming frenzy started when Compound began the live distribution of COMP, its governance token, on June 14th. Compound reached more than $600M total value locked, and overtook MakerDAO for the first time ever on DeFi Pulse’s leaderboard, making it the #1 protocol in DeFi by this measure in a matter of days. However, COMP appears to have only been the beginning with Balancer having launched their protocol rewards incentive program in May started their live distribution a few days after Compound. Balancer experienced similar exponential growth, adding more than $70M TVL.</p>
+
+
+
+<p>Although the frenzy started with COMP, yield farming has been known and practiced in DeFi for some time now. Synthetix, for example, had introduced the concept of protocol token rewards in exchange for liquidity provision to the sETH/ETH pool on Uniswap V1 in July 2019.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Today marks the end of an era. Right as yield farming is taking off we just finalised a poll on SCCP-29 <a href="https://t.co/bXU07AjQsd">https://t.co/bXU07AjQsd</a>. This was the original yield farming pool for sETH:ETH on Uniswap V1. So as it winds down, let&#39;s take a little trip down memory lane.</p>&mdash; kain.eth (@kaiynne) <a href="https://twitter.com/kaiynne/status/1276417760222797825?ref_src=twsrc%5Etfw">June 26, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Things really started taking off a few hours after COMP began being distributed and users started heavily investing in the USDT market on Compound, the one paying the highest amount of COMP rewards. COMP is distributed on a 50%-50% basis between suppliers and borrowers of a given market, and total rewards are allocated in a proportional way to each market’s yield returns. One of the many strategies that were applied was taking out USDT loans with DAI as collateral and investing them in the corresponding market on Compound. Next, BAT became the most profitable market for COMP farming. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">I just went short on <a href="https://twitter.com/search?q=%24USDT&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$USDT</a> using <a href="https://twitter.com/search?q=%24DAI&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$DAI</a> as collateral on <a href="https://t.co/cnckUC54V0">https://t.co/cnckUC54V0</a> using maximum <a href="https://twitter.com/search?q=%24COMP&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$COMP</a> mining recipe.<br><br>Looks like I&#39;m earning way more than I&#39;m paying interest with the current <a href="https://twitter.com/search?q=%24COMP&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$COMP</a> price hovering around ~$60.<a href="https://twitter.com/hashtag/YOLO?src=hash&amp;ref_src=twsrc%5Etfw">#YOLO</a> <a href="https://t.co/03YGZm0Jui">pic.twitter.com/03YGZm0Jui</a></p>&mdash; Samyak Jain (@smykjain) <a href="https://twitter.com/smykjain/status/1272634332599824390?ref_src=twsrc%5Etfw">June 15, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Compound’s team proposed to update the system’s liquidity incentive one week after COMP distribution went live on June 27th. The proposal looked to discourage an inorganic demand for BAT and other assets since users were concentrating extreme liquidation risks into these markets. The new liquidity incentive proposal was executed on July 2nd. Currently, COMP is distributed proportionally across the markets that borrow more dollars, and not dollars of interest paid. Rewards continue to be distributed on a 50%-50% basis between suppliers and borrowers of a given market. You can read more about <a href="https://compound.comradery.io/post/1762">Compound’s proposal to update the system’s liquidity incentives here.<br><br></a>The liquidity incentive effectively discouraged farmers from leveraging markets such as BAT. And now, yield farmers have ballooned the Compound DAI markets to levels higher than the total DAI in existence.  You can check out <a href="https://compound.finance/markets">the current Compound markets here</a> and <a href="https://compound.finance/governance/comp">COMP distribution here</a>.</p>
+
+
+
+<p>Balancer began its live distribution of BAL on June 23rd, which caused a spike of more than $50M in TVL in a few days. You likely recall our previous DeFi Pulse Drop with <a href="https://defipulse.com/blog/balancer-start-liquidity-mining-and-earn-bal-tokens-today/">Balancer Labs announcing their liquidity incentive program, which allows users to earn BAL on top of pool swap fees</a>. Seventy-five million BAL tokens (75% of fully diluted supply) will be distributed among liquidity providers on a 145K weekly basis.&nbsp;</p>
+
+
+
+<h3><strong>Is this the beginning of a new growth cycle for DeFi?</strong></h3>
+
+
+
+<p>The current Yield Farming frenzy has some resemblances with the ICO frenzy of 2017, in which billions of dollars were invested across many tokens, which ultimately proved to be worthless.<strong> One of the main differences with today’s Governance Tokens is that these are being issued by protocols that <em>already have running products that provide value to the ecosystem</em>, instead of being outright scams.</strong> Even though it’s probable that today’s high yields will face a market correction and be lowered at some point, the current frenzy might still continue for some time. And as we have learned in the past, adoption increases after each frenzy: more users and developers are driven to the ecosystem, and the allocated capital funds the development of new innovations that are later used by a broader ecosystem.</p>
+
+
+
+<p>Are you interested in learning more about Yield Farming strategies? Subscribe to <a href="https://yieldfarmer.substack.com/">DeFi Pulse Farmer</a> to learn fresh yield farming plays and insights on big governance decisions.</p>
+<p>The post <a rel="nofollow" href="./../../../2020/07/16/the-yield-farming-frenzy-and-its-impact-on-defi/index.html">The Yield Farming Frenzy and its Impact on DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

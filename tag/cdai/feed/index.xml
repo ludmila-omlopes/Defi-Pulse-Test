@@ -12,21 +12,23 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 May 2021 19:10:48 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Dec 2019 17:02:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>What is Chai? An Instant DAI Savings Account Powered by Maker</title>
 		<link>./../../../2019/12/16/what-is-chai/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Mon, 16 Dec 2019 12:02:33 +0000</pubDate>
-				<category><![CDATA[Explainers]]></category>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2019 17:02:33 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Explainers]]></category>
 		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[cDai]]></category>
 		<category><![CDATA[chai]]></category>
 		<category><![CDATA[dai]]></category>
@@ -37,8 +39,10 @@
 		<category><![CDATA[MakerDAO]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7830</guid>
 
-					<description><![CDATA[No, we&#8217;re not talking about the beverage. We&#8217;re talking about this new token creating buzz in the Ethereum community lately...]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone wp-image-7832 size-large" src="./../../../wp-content/uploads/2019/12/14271895046_2100131b06_b-1024x622.jpg" alt="chai" width="640" height="389" /></p>
+					<description><![CDATA[<p>No, we&#8217;re not talking about the beverage. We&#8217;re talking about this new token creating buzz in the Ethereum community lately...</p>
+<p>The post <a rel="nofollow" href="./../../../2019/12/16/what-is-chai/index.html">What is Chai? An Instant DAI Savings Account Powered by Maker</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone wp-image-7832 size-large" src="https://defipulse.com/blog/wp-content/uploads/2019/12/14271895046_2100131b06_b-1024x622.jpg" alt="chai" width="640" height="389" /></p>
 <p>No, we&#8217;re not talking about the beverage. We&#8217;re talking about this new token creating buzz in the Ethereum community lately called Chai. CHAI is an ERC20 token that&#8217;s like DAI which earns interest from Maker&#8217;s <a href="https://defipulse.com/blog/dsr-dai-savings-rate/">Dai Savings Rate</a> (DSR), currently 4% as of writing this. It&#8217;s a lot like how <a href="https://defipulse.com/blog/what-is-cdai/">cDAI</a> represents DAI supplied to Compound plus interest. Chai.sol, the token&#8217;s smart contact, deposits your DAI into the DSR and issues you CHAI tokens which can be stored, transferred, traded, and later redeemed for the underlying DAI plus any interest earned. As an added bonus, it&#8217;s also supports gas-less token transfers.</p>
 <p>The <a href="https://github.com/dapphub/chai">project</a>, smart contract, and interface was created by Martin Lundfall, Lucas Vogelsang, and Lev Livnev. Also, Abbey Titcomb made the lovely mug pixel art. Deployed on December 1st, 2019, you can now pay friends, grow your savings, trade, etc. while still earning interest on your DAI.</p>
 <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
@@ -60,6 +64,7 @@
 <h2>Money Legos in action</h2>
 <p>The awesome part thing about DeFi is that smart contracts like Legos can be pieced together in many different ways to create new utility. Similar to cDAI, Chai takes DAI that would normally be locked away and turns them into useful liquid assets. And, it isn&#8217;t the only one to take advantage of Maker&#8217;s Dai Savings Rate contract and it won&#8217;t be the last. For example, there&#8217;s also <a href="https://medium.com/@keydonix/dai-hrd-token-hold-rated-dai-dfd3fe491d83?">DAI-HRD</a> which similarly wraps DAI into the DSR. Another prime example of a project adding utility to DAI is <a href="https://rdai.money/">rDAI</a> which let&#8217;s you redirect the interest generated from your DAI on multiple DeFi platforms. Nothing stops someone from making an interest bearing meta-stablecoin by combining cDAI, Chai, and/or cUSD, etc. The only limit is the imagination of developers in the DeFi community.</p>
 <p><span style="font-weight: 400;">F</span>ollow us on <a href="https://twitter.com/defipulse">Twitter</a> or join us in <span style="font-weight: 400;">our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a> to keep up with the DeFi ecosystem</span></p>
+<p>The post <a rel="nofollow" href="./../../../2019/12/16/what-is-chai/index.html">What is Chai? An Instant DAI Savings Account Powered by Maker</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -69,7 +74,7 @@
 		<title>Zero to DeFi &#8211; A beginner&#8217;s guide to earning passive income via Compound Finance</title>
 		<link>./../../../2019/09/18/zero-to-defi-cdai/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Wed, 18 Sep 2019 14:27:36 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Explainers]]></category>
@@ -89,7 +94,9 @@
 		<category><![CDATA[smart contract]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7464</guid>
 
-					<description><![CDATA[So you keep hearing about Ethereum and DeFi from a co-worker, family member, or friend and want to learn more....]]></description>
+					<description><![CDATA[<p>So you keep hearing about Ethereum and DeFi from a co-worker, family member, or friend and want to learn more....</p>
+<p>The post <a rel="nofollow" href="./../../../2019/09/18/zero-to-defi-cdai/index.html">Zero to DeFi &#8211; A beginner&#8217;s guide to earning passive income via Compound Finance</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>So you keep hearing about Ethereum and DeFi from a co-worker, family member, or friend and want to learn more. It&#8217;s no wonder everyone is talking about DeFi, or rather decentralized finance, when it&#8217;s the fastest growing sector of finance. DeFi applications built on the Ethereum blockchain currently in control of $500 million worth of digital assets. And on top of that, users have historically earned 5-20% interest in DeFi lending platforms. But we&#8217;re getting ahead of ourselves&#8230;</p>
 <p>With so much information out there, it can be hard to make heads or tails of where to begin. So we&#8217;ve put together this guide to help you along as you take your first steps into the exciting new world of Ethereum and decentralized finance, aka DeFi. And by the end of this guide, you&#8217;ll be able to see your money grow every few seconds with a yearly interest higher than any bank will ever offer you. So let&#8217;s get started putting your money to work for you.</p>
 <h1>Getting started</h1>
@@ -121,7 +128,7 @@
 <li><a href="https://www.privacytools.io/">PrivacyTools.io</a></li>
 </ul>
 <p>We&#8217;ll also be thinking to relevant resources throughout this guide.</p>
-<h4><img loading="lazy" class="wp-image-7591 alignleft" src="./../../../wp-content/uploads/2019/09/1200px-Ethereum_logo_2014.svg_-1-150x150.png" alt="" width="200" height="200" /></h4>
+<h4><img loading="lazy" class="wp-image-7591 alignleft" src="https://defipulse.com/blog/wp-content/uploads/2019/09/1200px-Ethereum_logo_2014.svg_-150x150.png" alt="" width="200" height="200" srcset="./../../../wp-content/uploads/2019/09/1200px-Ethereum_logo_2014.svg_-150x150.png 150w, ./../../../wp-content/uploads/2019/09/1200px-Ethereum_logo_2014.svg_-300x300.png 300w, ./../../../wp-content/uploads/2019/09/1200px-Ethereum_logo_2014.svg_-1024x1024.png 1024w, ./../../../wp-content/uploads/2019/09/1200px-Ethereum_logo_2014.svg_-768x768.png 768w, ./../../../wp-content/uploads/2019/09/1200px-Ethereum_logo_2014.svg_-1536x1536.png 1536w, ./../../../wp-content/uploads/2019/09/1200px-Ethereum_logo_2014.svg_-1568x1568.png 1568w, ./../../../wp-content/uploads/2019/09/1200px-Ethereum_logo_2014.svg_.png 2000w" sizes="(max-width: 200px) 100vw, 200px" /></h4>
 <h4>What is Ethereum? What is ether (ETH)?</h4>
 <p>Ethereum is the world’s leading programmable blockchain. Ether (ETH) is the Ethereum network&#8217;s native cryptocurrency. All transactions on the Ethereum network require transaction fees paid in ETH called gas.</p>
 <h4>What is a smart contract? What are tokens?</h4>
@@ -133,7 +140,7 @@
 <h4><b>What is a decentralized exchange?</b></h4>
 <p>A decentralized exchange, or DEX for short, is like a stock exchange run by a smart contract on the Ethereum blockchain. Although both allow you to trade assets, a decentralized exchange trades cryptocurrency only and so does not require a centralized authority to operate.</p>
 <p>DEXes are perfect for trading ETH or tokens on the blockchain without having to rely on a centralized authority like a traditional cryptocurrency exchange. Trading on a DEX reduces some risk because you keep your ETH and tokens in your wallet instead of placing them in someone else&#8217;s control. Trades are made by transacting with the DEX&#8217;s underlying smart contract and the only time your funds leave your account is to execute a trade.</p>
-<h4><b><img loading="lazy" class="size-large wp-image-7587 alignnone" src="./../../../wp-content/uploads/2019/09/maker-logo-1024x288.jpeg" alt="" width="640" height="180" /></b></h4>
+<h4><b><img loading="lazy" class="size-large wp-image-7587 alignnone" src="https://defipulse.com/blog/wp-content/uploads/2019/09/maker-logo-1024x288.jpeg" alt="" width="640" height="180" /></b></h4>
 <h4><b>What is DAI and MakerDAO?</b></h4>
 <p>MakerDAO is a smart contract that let&#8217;s users open Collateralized Debt Positions, or CDPs for short. Users deposit ETH as collateral and are able to mint/borrow a token called DAI. DAI is a stablecoin pegged to the US dollar.</p>
 <p>Borrowers pay an annual interest rate called the stability fee for the opportunity to mint new DAI. And when the debt is repaid, the DAI is burned along with the stability fee owed in Maker&#8217;s token MKR. The stability fee deters users from over-inflating the total supply of DAI.</p>
@@ -142,7 +149,7 @@
 <p>MakerDAO is sort of like a central bank in the sense it issues DAI in charge of keeping DAI stable at ~$1. If the DAI supply increases too much and DAI&#8217;s value falls below $1, the stability fee is increased to encourage CDP holders to pay back their debts.</p>
 <p>Here is where it is important for us to mention that you don&#8217;t have to open a CDP to own DAI. You can simply purchase DAI off of the open market from someone else who opened a CDP. Whoever you bought the DAI from still owes the debt and their collateral remains locked in MakerDAO until the debt is paid. It&#8217;s a lot like how the US dollar used to be back by gold.</p>
 <p>DAI is like a smart version of the US Dollar. While the price of ETH may fluctuate, you can count on DAI to hover around $1. So there&#8217;s a natural demand for DAI because its programability combined with its stability makes it perfect for payments, commerce, games, loans, and many many more use cases and DApps.</p>
-<p><b><img loading="lazy" class="wp-image-7586 alignnone" src="./../../../wp-content/uploads/2019/09/compound-logo-1-1024x248.png" alt="" width="500" height="121" /></b></p>
+<p><b><img loading="lazy" class="wp-image-7586 alignnone" src="https://defipulse.com/blog/wp-content/uploads/2019/09/compound-logo-1024x248.png" alt="" width="500" height="121" srcset="./../../../wp-content/uploads/2019/09/compound-logo-1024x248.png 1024w, ./../../../wp-content/uploads/2019/09/compound-logo-300x73.png 300w, ./../../../wp-content/uploads/2019/09/compound-logo-768x186.png 768w, ./../../../wp-content/uploads/2019/09/compound-logo.png 1100w" sizes="(max-width: 500px) 100vw, 500px" /></b></p>
 <p><b>What is Compound? What is cDAI? Why am I earning interest?</b></p>
 <p>Compound is a smart contract that allows users to borrow and lend tokens. Similar to your bank, Compound lends out your money to borrowers and earn interest over time. But unlike your bank, your interest begins compounding the minute you deposit into Compound&#8217;s smart contract. And since it&#8217;s a smart contract, the rate you earn is higher than traditional banks because there&#8217;s no middleman.</p>
 <p>Similar to MakerDAO, loans are secured through over-collateralization. Borrowers deposit tokens into Compound to increase their &#8220;borrowing power.&#8221; If the borrower&#8217;s borrowing power falls below 0, their collateral is sold to cover the debt. The interest rates on loans is different for each asset and vary based on the demand for that asset.</p>
@@ -175,7 +182,7 @@
 <p>Learn more ways to protect your Coinbase account <a href="https://blog.coinbase.com/a-guide-to-coinbase-account-security-9347ddfabd65">here</a>.</p>
 <h2>2. <b>Install MetaMask and setup your Ethereum wallet</b></h2>
 <p>MetaMask is a web extension that allows you to interact with the Ethereum blockchain and manages the private keys to your Ethereum wallet in-browser.</p>
-<p><a href="https://metamask.io/"><img loading="lazy" class="alignnone wp-image-7584" src="./../../../wp-content/uploads/2019/09/Selection_144-1-300x170.jpg" alt="" width="600" height="341" /></a></p>
+<p><a href="https://metamask.io/"><img loading="lazy" class="alignnone wp-image-7584" src="https://defipulse.com/blog/wp-content/uploads/2019/09/Selection_144-300x170.jpg" alt="" width="600" height="341" srcset="./../../../wp-content/uploads/2019/09/Selection_144-300x170.jpg 300w, ./../../../wp-content/uploads/2019/09/Selection_144-768x436.jpg 768w, ./../../../wp-content/uploads/2019/09/Selection_144.jpg 907w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
 <p>Visit <a href="https://metamask.io/">MetaMask.io</a> and click the orange &#8216;Get Extension&#8217; button This will take you the extension for your browser.  Click the &#8216;Add to Browser&#8217; and &#8216;add&#8217; if a popup appears to install the MetaMask extension to your browser.</p>
 <h4>Setting up your MetaMask account / Ethereum wallet</h4>
 <p>Once installed, you should see a little orange fox icon to the right of your browser&#8217;s address bar. Click this fox icon and then the &#8216;Continue&#8217; button to begin setting up your account.</p>
@@ -193,7 +200,7 @@
 <h2><b>4. Transfer to Coinbase Pro</b></h2>
 <p>Navigate to <a href="https://pro.coinbase.com/">Coinbase Pro</a>, a cryptocurrency exchange run by Coinbase, and login in using your Coinbase login information. These accounts are linked by default and so share the same login.</p>
 <p>Once logged in, click the &#8216;My Wallets&#8217; button in the upper right-hand corner of the page. Then, click &#8216;Deposit&#8217; which will popup a menu where you&#8217;ll select your US Dollar or Euros.</p>
-<p><img loading="lazy" class="alignnone wp-image-7618 size-full" src="./../../../wp-content/uploads/2019/09/Selection_164.jpg" alt="" width="703" height="599" srcset="./../../../wp-content/uploads/2019/09/Selection_164.jpg 703w, ./../../../wp-content/uploads/2019/09/Selection_164-300x256.jpg 300w" sizes="(max-width: 703px) 100vw, 703px" /></p>
+<p><img loading="lazy" class="alignnone wp-image-7618 size-full" src="https://defipulse.com/blog/wp-content/uploads/2019/09/Selection_164.jpg" alt="" width="703" height="599" srcset="./../../../wp-content/uploads/2019/09/Selection_164.jpg 703w, ./../../../wp-content/uploads/2019/09/Selection_164-300x256.jpg 300w" sizes="(max-width: 703px) 100vw, 703px" /></p>
 <p>Select the &#8216;Coinbase Account&#8217; option on the right side. Enter the amount you&#8217;d like to deposit or simply hit &#8216;Max&#8217; and then click the &#8216;Deposit&#8217; button at the bottom of the window. Your funds should transfer instantly unless they are still on hold.</p>
 <h2>5. <b>Convert USD/EUR to DAI</b></h2>
 <h4>Purchasing ETH</h4>
@@ -206,7 +213,7 @@
 <p>Once you&#8217;ve verified the address, enter the amount of ETH to withdraw and click &#8216;Withdraw ETH&#8217; button. You&#8217;ll be prompted to enter the 6 digits from your 2FA app. After you&#8217;re finished, your funds will be sent from Coinbase to your MetaMask wallet momentarily.</p>
 <h4>Swap ETH for DAI</h4>
 <p>Open <a href="https://dex.ag/">DEX.AG</a>, a DEX aggregator or website which searches across the top DEXes to find you the best price for your trade.</p>
-<p><a href="https://dex.ag/"><img loading="lazy" class="alignnone wp-image-7614" src="./../../../wp-content/uploads/2019/09/Selection_162-1-282x300.jpg" alt="" width="700" height="744" /></a></p>
+<p><a href="https://dex.ag/"><img loading="lazy" class="alignnone wp-image-7614" src="https://defipulse.com/blog/wp-content/uploads/2019/09/Selection_162-282x300.jpg" alt="" width="700" height="744" srcset="./../../../wp-content/uploads/2019/09/Selection_162-282x300.jpg 282w, ./../../../wp-content/uploads/2019/09/Selection_162-768x816.jpg 768w, ./../../../wp-content/uploads/2019/09/Selection_162.jpg 861w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
 <p>By default, DEX.AG is set to BUY Dai with ETH. For the purposes of this guide, let&#8217;s switch to SELL ETH for DAI. Next, enter the amount of ETH you&#8217;d like to swap for DAI. You can check your total ETH balance under MetaMask.</p>
 <p><strong>DO NOT</strong> enter your total balance to swap &#8211; You need to keep some ETH to pay for network transaction fees called gas. Your typical transaction will cost you between $0.10 to as high as a few dollars depending on what type of transaction you&#8217;re sending and the network fees at that moment; so keep at least few dollars worth of ETH for this swap and future transactions from your wallet. For reference, at the time of writing this ETH&#8217;s price is currently ~$213 so keeping anywhere between 0.05 and 0.1 ETH in your wallet would more than cover any transaction fees for a while.</p>
 <p>Once you&#8217;ve entered the amount (minus the ETH set aside for gas), click the &#8216;Find Trades&#8217; button. You should see a list of DEXes appear on your screen. Then, click the &#8216;Sell Now&#8217; button on the DEX closest to the top. This will initiate a trade with the DEX you&#8217;ve selected with the details you&#8217;ve previously entered. A MetaMask prompt will appear.</p>
@@ -217,7 +224,7 @@
 <h2>6. Turn DAI into cDAI via Compound Finance</h2>
 <h4>Compare lending rates</h4>
 <p>Normally, I&#8217;d recommend you <a href="https://defipulse.com/income">compare interest rates</a> before choosing a lending service. But for the simplicity&#8217;s sake, we&#8217;ll be teaching you to use the arguably most popular DeFi lending service Compound Finance.</p>
-<h4><a href="https://app.compound.finance/asset/cDAI"><img loading="lazy" class="alignnone wp-image-7617" src="./../../../wp-content/uploads/2019/09/Selection_163-300x273.jpg" alt="" width="725" height="660" srcset="./../../../wp-content/uploads/2019/09/Selection_163-300x273.jpg 300w, ./../../../wp-content/uploads/2019/09/Selection_163-768x699.jpg 768w, ./../../../wp-content/uploads/2019/09/Selection_163.jpg 934w" sizes="(max-width: 725px) 100vw, 725px" /></a></h4>
+<h4><a href="https://app.compound.finance/asset/cDAI"><img loading="lazy" class="alignnone wp-image-7617" src="https://defipulse.com/blog/wp-content/uploads/2019/09/Selection_163-300x273.jpg" alt="" width="725" height="660" srcset="./../../../wp-content/uploads/2019/09/Selection_163-300x273.jpg 300w, ./../../../wp-content/uploads/2019/09/Selection_163-768x699.jpg 768w, ./../../../wp-content/uploads/2019/09/Selection_163.jpg 934w" sizes="(max-width: 725px) 100vw, 725px" /></a></h4>
 <h4>Enable DAI on Compound</h4>
 <p>Navigate to the <a href="https://app.compound.finance/">Compound app</a>. If not prompted, connect your MetaMask wallet by selecting the button in the upper right-hand corner of the page. Select MetaMask and unlock your wallet. Next, select <a href="https://app.compound.finance/asset/cDAI">Dai</a> from the menu and click the green &#8216;Enable DAI&#8217; button. This will pop up an Approve transaction which you&#8217;ll confirm using the same steps as before. To follow the confirmation status of your transaction, open the MetaMask menu, click the pending transaction and click the diagonal arrow on the right.</p>
 <h4>Supply DAI to Compound and begin earning interest</h4>
@@ -252,6 +259,7 @@
 <li><a href="https://docs.ethhub.io/">EthHub</a> &#8211; a community-sourced information hub for learning about Ethereum</li>
 </ul>
 <p><span style="font-weight: 400;">Do you still have questions or just want to stay up-to-date with the world of DeFi? Follow us on Twitter <a href="https://twitter.com/defipulse" target="_blank" rel="noopener noreferrer">@DefiPulse</a> or come chat us on <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord.</a></span></p>
+<p>The post <a rel="nofollow" href="./../../../2019/09/18/zero-to-defi-cdai/index.html">Zero to DeFi &#8211; A beginner&#8217;s guide to earning passive income via Compound Finance</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -261,10 +269,9 @@
 		<title>What is cDai?</title>
 		<link>./../../../2019/06/20/what-is-cdai/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Thu, 20 Jun 2019 13:57:14 +0000</pubDate>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Thu, 20 Jun 2019 18:57:14 +0000</pubDate>
 				<category><![CDATA[Explainers]]></category>
-		<category><![CDATA[Learn]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Trading]]></category>
 		<category><![CDATA[cDai]]></category>
@@ -274,11 +281,13 @@
 		<category><![CDATA[lending]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7323</guid>
 
-					<description><![CDATA[cDai is like an instant Dai savings account Lending is one of the most popular ways in DeFi to earn...]]></description>
+					<description><![CDATA[<p>cDai is like an instant Dai savings account Lending is one of the most popular ways in DeFi to earn...</p>
+<p>The post <a rel="nofollow" href="./../../../2019/06/20/what-is-cdai/index.html">What is cDai?</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<h2></h2>
 <h2><img loading="lazy" class="wp-image-7337 aligncenter" src="/blog/wp-content/uploads/2019/06/cdai-1.png" alt="cdai = Compound + Dai" width="700" height="350" srcset="./../../../wp-content/uploads/2019/06/cdai-1.png 1000w, ./../../../wp-content/uploads/2019/06/cdai-1-300x150.png 300w, ./../../../wp-content/uploads/2019/06/cdai-1-768x384.png 768w" sizes="(max-width: 700px) 100vw, 700px" /></h2>
 <h3>cDai is like an instant Dai savings account</h3>
-<p>Lending is one of the most popular ways in DeFi to earn interest. But did you know it just got easier than ever? As you may know, <a href="https://defipulse.com/compound'">Compound</a>, a money market protocol, allows you to earn a variable interest rate in return for supplying tokens that other users can borrow. The protocol recently upgraded to v2, which includes a big development that everyone&#8217;s talking about: the addition of Compound tokens, or <em>cTokens</em>, including cDai, cETH, and more.</p>
+<p>Lending is one of the most popular ways in DeFi to earn interest. But did you know it just got easier than ever? As you may know, <a href="https://defipulse.com/compound">Compound</a>, a money market protocol, allows you to earn a variable interest rate in return for supplying tokens that other users can borrow. The protocol recently upgraded to v2, which includes a big development that everyone&#8217;s talking about: the addition of Compound tokens, or <em>cTokens</em>, including cDai, cETH, and more.</p>
 <p>Previously, Compound used a single smart contract for all assets. With the upgrade, each token on Compound has its own contract, called an <em>asset gateway</em>. That&#8217;s a big deal, because now when you deposit tokens into Compound, you get cTokens &#8211; ERC20 tokens that represent your lending or supply balance and the interest it has accrued.</p>
 <p>So how does that work exactly?</p>
 <h3>Let&#8217;s look at an example</h3>
@@ -290,6 +299,7 @@
 <p>The perfect example of this new interoperability is the <a href="https://defipulse.com/uniswap">Uniswap</a> Dai-to-cDai liquidity pool. Users (and smart contracts) can swap their Dai or any token for that matter into cTokens to take advantage of Compound&#8217;s interest-based exchange rate. And compared to simply holding Dai, pooling cDai earns you interest while also exposing you to trading fees on Uniswap.</p>
 <p><strong>You can try it right now</strong>: start earning interest by swapping any token for cDai in seconds with <a href="http://cDAI.io/">cDAI.io</a>.</p>
 <p>We&#8217;re excited to see what other unique and creative ways the community will take advantage of cTokens. Tell us what you think about cDai &#8211; or any other DeFi stuff &#8211; on <a href="https://twitter.com/defipulse/">Twitter</a> or in the Concourse <a href="https://discord.gg/S4zZG6H">Discord</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../2019/06/20/what-is-cdai/index.html">What is cDai?</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -12,22 +12,20 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 May 2021 18:55:09 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Mar 2021 19:27:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Flexible Leverage Index is Live</title>
 		<link>./../../../2021/03/17/flexible-leverage-index/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Wed, 17 Mar 2021 14:27:46 +0000</pubDate>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Wed, 17 Mar 2021 19:27:46 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[New Features]]></category>
-		<category><![CDATA[Pulse Inc]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[ETH2x-FLI]]></category>
 		<category><![CDATA[flexible leverage index]]></category>
@@ -36,13 +34,15 @@
 		<category><![CDATA[index-coop]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8979</guid>
 
-					<description><![CDATA[The Flexible Leverage Index (FLI) lets you leverage a collateralized debt position in a safe and efficient way, by abstracting...]]></description>
+					<description><![CDATA[<p>The Flexible Leverage Index (FLI) lets you leverage a collateralized debt position in a safe and efficient way, by abstracting...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/03/17/flexible-leverage-index/index.html">Flexible Leverage Index is Live</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p><em>The Flexible Leverage Index (FLI) lets you leverage a collateralized debt position in a safe and efficient way, by abstracting its management into a simple index, reproducible by a fully-collateralized ERC20 token built on Set Protocol.</em></p>
 
 
 
-<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/03/fli-pulse-1-1024x512.png" alt="" class="wp-image-8980"/></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="512" src="https://defipulse.com/blog/wp-content/uploads/2021/03/fli-pulse-1024x512.png" alt="" class="wp-image-8980" srcset="./../../../wp-content/uploads/2021/03/fli-pulse-1024x512.png 1024w, ./../../../wp-content/uploads/2021/03/fli-pulse-300x150.png 300w, ./../../../wp-content/uploads/2021/03/fli-pulse-768x384.png 768w, ./../../../wp-content/uploads/2021/03/fli-pulse.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -91,6 +91,7 @@
 
 
 <p><a href="http://Pulse.inc/">Pulse Inc</a> is dedicated to creating and maintaining indices for a decentralized world. Flexible Leverage Indices combine unique index algorithm designs with the latest DeFi innovations to provide market participants with a better alternative to the traditional means of taking on leverage. By providing a safer, more efficient leverage product, we hope to spare DeFi users the expense and tolling stress of maintaining leverage and that horrible feeling of getting liquidated.</p>
+<p>The post <a rel="nofollow" href="./../../../2021/03/17/flexible-leverage-index/index.html">Flexible Leverage Index is Live</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

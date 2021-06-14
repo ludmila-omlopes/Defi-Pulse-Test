@@ -12,23 +12,221 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 09 May 2021 23:41:43 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 May 2021 16:49:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>AMA with Slingshot CEO Clinton Bembry Jr.</title>
+		<link>./../../../2021/05/12/ama-with-slingshot-ceo-clinton-bembry-jr/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Wed, 12 May 2021 16:49:56 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[ama]]></category>
+		<category><![CDATA[dex aggregator]]></category>
+		<category><![CDATA[Dex.Ag]]></category>
+		<category><![CDATA[dexag]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[slingshot]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9278</guid>
+
+					<description><![CDATA[<p>This AMA session with Slingshot CEO Clinton Bembry Jr. occurred on May 7th, 2021. The following is a transcription of...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/12/ama-with-slingshot-ceo-clinton-bembry-jr/index.html">AMA with Slingshot CEO Clinton Bembry Jr.</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/05/Slingshot-ama-1024x576.png" alt="" class="wp-image-9279"/></figure>
+
+
+
+<p>This AMA session with Slingshot CEO Clinton Bembry Jr. occurred on May 7th, 2021. The following is a transcription of the live from DeFi Pulse’s AMA Discord channel. To participate in future AMAs, please join our <a href="https://discord.gg/Gx4TCTk">Discord</a> and follow us on <a href="https://twitter.com/defipulse">Twitter</a>.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p><strong>Chaz Schmidt:<em> </em></strong><em>Hello and welcome @everyone! Thank you for joining us today for an AMA with Clinton Bembry Jr., CEO of Slingshot ( @Clinton | Slingshot ).&nbsp;</em></p>
+
+
+
+<p><em>The AMA will last around 30 minutes and will be made available shortly after for those who could not attend.</em></p>
+
+
+
+<p><em>Clinton will be answering the questions we&#8217;ve collected from the community throughout the week. A special thanks to those of you who submitted questions for today&#8217;s AMA.</em><strong><em><br></em></strong><strong><em><br></em></strong><strong>How&#8217;s it going Clinton?</strong></p>
+
+
+
+<p><strong>Clinton Bembry Jr.:</strong> Hey Chaz! doing well, hbu?</p>
+
+
+
+<p><strong>CS: </strong><em>Not too shabby. Thanks everyone for showing up for the AMA. Let&#8217;s start off with a rather easy question&#8230;</em></p>
+
+
+
+<p><strong>What is Slingshot?</strong></p>
+
+
+
+<p><strong>Clinton:</strong> sweet, Slingshot is a decentralized trading platform that aggregates liquidity across DEX protocols (like uniswap, sushiswap, curve, etc.) to offer user sthe best prices on their trades. We place a huge emphasis on user-experience and aim to offer the ultimate trading experience for both DeFi natives and newcomers to crypto!</p>
+
+
+
+<p><strong>CS: </strong><em>This next one comes from the Slingshot Discord where folks are clamoring for more details on Slingshot ever since your initial teaser earlier this year.</em></p>
+
+
+
+<p><strong>What will separate Slingshot from all other DEXes already operating? Uniswap, SushiSwap, LinkSwap, DODO, etc.</strong><br><br><strong>Clinton:</strong> so Slingshot itself isn&#8217;t a DEX, we plug our liquidity engine into other DEXes like uniswap and sushiswap etc</p>
+
+
+
+<p>By aggregating liquidity and splitting orders between other DEXes we are able to offer much better prices than if you were to trade on an individual DEX<br><br>Slingshot isn&#8217;t just about the best prices, but also unparalleled user-experience</p>
+
+
+
+<p><strong>CS: </strong><em>I know for many DeFi users fees can be a big factor when it comes to user experience.</em><br><br><strong>How does Slingshot plan to support trading on layer 2 or multiple chains?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>definitely, many people (myself included) got priced out of trading on Ethereum L1</p>
+
+
+
+<p>At launch we will suport trading on Polygon, which is an Ethereum L2/sidechain. The tx fee on Polygon for a trade is as low as $0.0002, compared to Ethereum which can be a $100+ fee per trade</p>
+
+
+
+<p>At Slingshot we&#8217;re all about pricing people back into DeFi <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p><strong>CS:</strong><em> Sounds good to me. I like low fees. I saw in your Discord that Closed Beta users have been able to use Slingshot on Polygon already.</em></p>
+
+
+
+<p><strong>What has been the most useful feedback from the closed beta so far?</strong></p>
+
+
+
+<p><strong>Clinton:</strong> Our polygon support is a result of the feedback we received from our earliest beta users. Due to high fees they were being forced to turn back to the world centralized trading. We began working on L2 support immediately and shipped it a few weeks later.</p>
+
+
+
+<p>other than that &#8211; it&#8217;s been very helpful in general to hear which features users want to see to aid in their trading flows</p>
+
+
+
+<p><strong>CS: </strong><em>That actually leads straight into my next question which is:</em><strong> What features of Slingshot are you most excited for the public to see?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>aside from the lightning fast L2 trading + unbeatable prices, i&#8217;m personally excited for people to experience all of the real-time, on-chain data we pump through our platform.</p>
+
+
+
+<p>Every time a block get&#8217;s mined we parse all trading activity and surface it to our users and it makes for a visceral experience!</p>
+
+
+
+<p>oh also &#8211; our price charts are custom made and look really cool :sunglasses:</p>
+
+
+
+<p><strong>CS: </strong><em>I can attest to this personally. I&#8217;ve gotten a chance to test Slingshot in the beta and I found myself getting lost in it like it is a game. The flow from seeing a price change on the ticker, clicking it to select the token, and executing the trade was incredible. A community member wanted to know more about the sci-fi browser game that Slingshot produced where players could win their way into the beta.</em><strong> In their words, &#8220;What was the point of the game?&#8221; And, will other aspects of Slingshot involve gamification?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>the point of the game was&nbsp; to announce our closed-beta and bootstrap an initial user-base, while also having some fun while we build the future of finance!<br><br>I mean, how else are you supposed to announce a beta?</p>
+
+
+
+<p><strong>CS: </strong><em>Solid point haha</em><br><br><em>And it was fun. One player was even so fast they were accused of being a robot</em> <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f916.png" alt="🤖" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p><strong>Clinton: </strong>haha yes, a bit of a speed-running competition broke out! as far as I could tell, they were all legit, no bots!</p>
+
+
+
+<p><strong>CS: </strong><em>We&#8217;re reaching near the end now and it&#8217;s been super interesting so far. If you&#8217;re up for it Clinton, we have a couple more of questions before we let you go</em></p>
+
+
+
+<p><strong>Clinton: </strong>Of course!<br><br><strong>CS: </strong><em>I think the audience would get angry if I didn&#8217;t ask the obvious: </em><strong>When launch?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>soon <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> bahaha<br>forreal though &#8211; very soon<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p><strong>CS: </strong><em>We&#8217;ll accept that answer.</em><br><br><strong>Clinton: </strong>we want to get Slingshout out publicly for everyone to use ASAP</p>
+
+
+
+<p><strong>CS: </strong><em>I think that&#8217;s about all the questions we have time for.&nbsp;</em></p>
+
+
+
+<p><em>Thank you for joining us Clinton. I know I for one am excited for Slingshot to go live.</em></p>
+
+
+
+<p><strong>Clinton: </strong>awesome, thanks for having me!</p>
+
+
+
+<p>quick plug &#8211; we&#8217;re hiring for a lot of roles at Slingshot. If you&#8217;re interested in helping us build the future of trading, <a href="https://slingshot-finance.homerun.co/">check out our job postings here</a>.</p>
+
+
+
+<p><strong>CS: </strong><em>Haha yes. Be sure to reach out if you fit those roles lol</em></p>
+
+
+
+<p><strong>Anything else you&#8217;d like to add before we go?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>that&#8217;s all from me!</p>
+
+
+
+<p><strong>CS: </strong><em>Well it was a pleasure talking with you</em></p>
+
+
+
+<p><em>Thank you everyone for attending! I hope your curiosities were satisfied.</em></p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p>Follow us on <a href="https://twitter.com/defipulse">Twitter</a> to hear about the latest AMA and don’t forget to keep your eyes on Slingshot for the true answer to the question: when launch?<em><br></em><em><br></em><em>Disclosure: This post is paid promotion; We’ve partnered with Slingshot to help educate and inform the community about Slingshot’s decentralized trading platform. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/12/ama-with-slingshot-ceo-clinton-bembry-jr/index.html">AMA with Slingshot CEO Clinton Bembry Jr.</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Build Sustainable DApps with your own X Blaster with Custom Fees</title>
 		<link>./../../../2020/05/18/build-sustainable-dapps-with-your-own-x-blaster-with-custom-fees/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Mon, 18 May 2020 14:16:08 +0000</pubDate>
-				<category><![CDATA[Developer Docs]]></category>
+				<category><![CDATA[Community]]></category>
 		<category><![CDATA[DEX]]></category>
 		<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[New Features]]></category>
 		<category><![CDATA[aggregator]]></category>
 		<category><![CDATA[developer tools]]></category>
 		<category><![CDATA[Dex.Ag]]></category>
@@ -40,7 +238,9 @@
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8256</guid>
 
-					<description><![CDATA[TLDR: Integrating DEX.AG&#8217;s X Blaster with custom fees into your platform provides your users or smart contract with convenient native...]]></description>
+					<description><![CDATA[<p>TLDR: Integrating DEX.AG&#8217;s X Blaster with custom fees into your platform provides your users or smart contract with convenient native...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/05/18/build-sustainable-dapps-with-your-own-x-blaster-with-custom-fees/index.html">Build Sustainable DApps with your own X Blaster with Custom Fees</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p><em><strong>TLDR: </strong><a href="https://docs.dex.ag/proxy-contract">Integrating DEX.AG&#8217;s X Blaster with custom fees</a> into your platform provides your users or smart contract with convenient native liquidity while allowing you to build a sustainable business model.</em></p>
 
@@ -135,6 +335,7 @@
 
 
 <p>Give your users what they want and get your own X Blaster today! Head over to our <a href="https://docs.dex.ag/proxy-contract">API/SDK documention</a> to get started.<br></p>
+<p>The post <a rel="nofollow" href="./../../../2020/05/18/build-sustainable-dapps-with-your-own-x-blaster-with-custom-fees/index.html">Build Sustainable DApps with your own X Blaster with Custom Fees</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -144,10 +345,10 @@
 		<title>How to make money on DeFi (Hint: It&#8217;s not hard.)</title>
 		<link>./../../../2019/11/01/how-to-make-money-on-defi/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Fri, 01 Nov 2019 14:04:52 +0000</pubDate>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Fri, 01 Nov 2019 19:04:52 +0000</pubDate>
 				<category><![CDATA[DEX]]></category>
-		<category><![CDATA[Exchanges]]></category>
+		<category><![CDATA[Exchange]]></category>
 		<category><![CDATA[Explainers]]></category>
 		<category><![CDATA[Trading]]></category>
 		<category><![CDATA[Compound]]></category>
@@ -159,7 +360,9 @@
 		<category><![CDATA[lending]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7709</guid>
 
-					<description><![CDATA[Decentralized finance (DeFi) is changing the way people interact with their money.  However, we know it can be a lot...]]></description>
+					<description><![CDATA[<p>Decentralized finance (DeFi) is changing the way people interact with their money.  However, we know it can be a lot...</p>
+<p>The post <a rel="nofollow" href="./../../../2019/11/01/how-to-make-money-on-defi/index.html">How to make money on DeFi (Hint: It&#8217;s not hard.)</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>Decentralized finance (DeFi) is changing the way people interact with their money.  However, we know it can be a lot to take in. Don&#8217;t worry, because we&#8217;ve put together this quick guide to give you jump start.</p>
 <h2>Start making money on DeFi in 4 steps</h2>
 <p>If you&#8217;re familiar with Ethereum, these steps will only take a few minutes. And when it&#8217;s all said and done, you&#8217;ll be earning interest in DAI every block. <em><strong>However if you&#8217;re completely new to Ethereum,</strong></em> you may instead want to check out <strong><a href="https://defipulse.com/blog/zero-to-defi-cdai/">Zero to DeFi</a></strong>, a beginner&#8217;s guide which breaks down the entire process of getting a wallet, acquiring ETH, and lending out your DAI.</p>
@@ -167,15 +370,16 @@
 <p>As the saying goes, if you don&#8217;t hold the private keys to the wallet, then they aren&#8217;t your coins. So, be sure to perform these steps from a wallet that you hold the private keys to. And, don&#8217;t forget to keep them backed up somewhere safe.</p>
 <h3>2. Head to <a href="https://dex.ag/">DEX.AG</a> and sell most of that ETH for DAI</h3>
 <p><a href="http://DEX.AG/">DEX.AG</a> is a decentralized exchange or DEX aggregator that gets you the best price available from several of the most popular DEXes. It even splits your trade across multiple DEXes if it improves the price, all in one transaction. <strong>Make sure to leave a little ETH leftover for <a href="https://ethgasstation.info/blog/what-is-gas/">gas fees</a>.</strong></p>
-<h3><a href="https://dex.ag/"><img loading="lazy" class="alignnone wp-image-7722" src="./../../../wp-content/uploads/2019/11/Selection_300.jpg" alt="" width="600" height="600" srcset="./../../../wp-content/uploads/2019/11/Selection_300.jpg 1000w, ./../../../wp-content/uploads/2019/11/Selection_300-300x300.jpg 300w, ./../../../wp-content/uploads/2019/11/Selection_300-150x150.jpg 150w, ./../../../wp-content/uploads/2019/11/Selection_300-768x768.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" /></a></h3>
+<h3><a href="https://dex.ag/"><img loading="lazy" class="alignnone wp-image-7722" src="https://defipulse.com/blog/wp-content/uploads/2019/11/Selection_300.jpg" alt="" width="600" height="600" srcset="./../../../wp-content/uploads/2019/11/Selection_300.jpg 1000w, ./../../../wp-content/uploads/2019/11/Selection_300-300x300.jpg 300w, ./../../../wp-content/uploads/2019/11/Selection_300-150x150.jpg 150w, ./../../../wp-content/uploads/2019/11/Selection_300-768x768.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" /></a></h3>
 <h3>3. Go to DeFi Pulse&#8217;s <a href="https://defipulse.com/income">Earn Income page</a></h3>
 <p>DeFi Pulse is a site where you can find the latest analytics and rankings of DeFi protocols. The DeFi Pulse <a href="https://defipulse.com/income">Earn Income page</a> compares the interest rates you can earn from DeFi lending protocols.</p>
-<p><a href="https://defipulse.com/income"><img loading="lazy" class="alignnone wp-image-7715" src="./../../../wp-content/uploads/2019/11/Selection_295-260x300.jpg" alt="" width="600" height="693" srcset="./../../../wp-content/uploads/2019/11/Selection_295-260x300.jpg 260w, ./../../../wp-content/uploads/2019/11/Selection_295-886x1024.jpg 886w, ./../../../wp-content/uploads/2019/11/Selection_295-768x887.jpg 768w, ./../../../wp-content/uploads/2019/11/Selection_295.jpg 934w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<p><a href="https://defipulse.com/income"><img loading="lazy" class="alignnone wp-image-7715" src="https://defipulse.com/blog/wp-content/uploads/2019/11/Selection_295-260x300.jpg" alt="" width="600" height="693" srcset="./../../../wp-content/uploads/2019/11/Selection_295-260x300.jpg 260w, ./../../../wp-content/uploads/2019/11/Selection_295-886x1024.jpg 886w, ./../../../wp-content/uploads/2019/11/Selection_295-768x887.jpg 768w, ./../../../wp-content/uploads/2019/11/Selection_295.jpg 934w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
 <h3>4. Pick a lending protocol, and start earning interest</h3>
 <p>Enter the asset and amount you wish to lend to find which lending protocol has the best interest rate. Pick a protocol and click the &#8216;Next&#8217; button which will redirect you to that app/service. Compound finance is currently the most popular lending protocol. Follow the app&#8217;s instructions to begin lending out your DAI and start earning interest.</p>
 <h3>And then later, when you&#8217;re ready to cash out&#8230;</h3>
 <p>Head back to the lending protocol you chose and use your private key to unlock the DAI plus interest generated whenever you want. There&#8217;s no &#8220;lock-in&#8221; period or time you have to wait before earning interest. Your DAI is earning interest every block until you choose to stop.</p>
 <p><em>Still have questions? </em>Come chat us in our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a> and stay up-to-date on the world of DeFi by following us on <a href="https://twitter.com/defipulse">Twitter.</a></p>
+<p>The post <a rel="nofollow" href="./../../../2019/11/01/how-to-make-money-on-defi/index.html">How to make money on DeFi (Hint: It&#8217;s not hard.)</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

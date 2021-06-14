@@ -18,14 +18,15 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>The DeFi Pulse Registry &#8212; If DeFi is safe, DeFi will survive.</title>
 		<link>./../../../2020/03/23/the-defi-pulse-registry/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Tue, 24 Mar 2020 00:34:14 +0000</pubDate>
-				<category><![CDATA[Ecosystem]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[DeFi]]></category>
 		<category><![CDATA[defi pulse]]></category>
 		<category><![CDATA[gitcoin]]></category>
@@ -35,7 +36,9 @@
 		<category><![CDATA[risk analysis]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8074</guid>
 
-					<description><![CDATA[It&#8217;s been a wild ride watching decentralized finance grow alongside the DeFi Pulse community. From every celebratory tweet about climbing...]]></description>
+					<description><![CDATA[<p>It&#8217;s been a wild ride watching decentralized finance grow alongside the DeFi Pulse community. From every celebratory tweet about climbing...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/03/23/the-defi-pulse-registry/index.html">The DeFi Pulse Registry &#8212; If DeFi is safe, DeFi will survive.</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>It&#8217;s been a wild ride watching decentralized finance grow alongside the DeFi Pulse community. From every celebratory tweet about climbing up a rank on our leaderboard to the palpable buzz around new listings, we&#8217;ve been blown away with how the community has adopted our metrics and relied on us as a resource for DeFi. We&#8217;ve always prided ourselves on the quality data and transparency we could help bring to DeFi.</p>
 
@@ -53,7 +56,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/03/DeFi-Pulse-Adapter-Logo-board-1024x1024.png" alt="" class="wp-image-8085" width="512" height="512" srcset="./../../../wp-content/uploads/2020/03/DeFi-Pulse-Adapter-Logo-board-1024x1024.png 1024w, ./../../../wp-content/uploads/2020/03/DeFi-Pulse-Adapter-Logo-board-300x300.png 300w, ./../../../wp-content/uploads/2020/03/DeFi-Pulse-Adapter-Logo-board-150x150.png 150w, ./../../../wp-content/uploads/2020/03/DeFi-Pulse-Adapter-Logo-board-768x768.png 768w, ./../../../wp-content/uploads/2020/03/DeFi-Pulse-Adapter-Logo-board-1536x1536.png 1536w, ./../../../wp-content/uploads/2020/03/DeFi-Pulse-Adapter-Logo-board-1568x1568.png 1568w, ./../../../wp-content/uploads/2020/03/DeFi-Pulse-Adapter-Logo-board.png 2000w" sizes="(max-width: 512px) 100vw, 512px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/03/DeFi-Pulse-Adapter-Logo-board-1024x1024.png" alt="" class="wp-image-8085" width="512" height="512" srcset="./../../../wp-content/uploads/2020/03/DeFi-Pulse-Adapter-Logo-board-1024x1024.png 1024w, ./../../../wp-content/uploads/2020/03/DeFi-Pulse-Adapter-Logo-board-300x300.png 300w, ./../../../wp-content/uploads/2020/03/DeFi-Pulse-Adapter-Logo-board-150x150.png 150w, ./../../../wp-content/uploads/2020/03/DeFi-Pulse-Adapter-Logo-board-768x768.png 768w, ./../../../wp-content/uploads/2020/03/DeFi-Pulse-Adapter-Logo-board-1536x1536.png 1536w, ./../../../wp-content/uploads/2020/03/DeFi-Pulse-Adapter-Logo-board-1568x1568.png 1568w, ./../../../wp-content/uploads/2020/03/DeFi-Pulse-Adapter-Logo-board.png 2000w" sizes="(max-width: 512px) 100vw, 512px" /></figure></div>
 
 
 
@@ -69,7 +72,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="588" height="304" src="./../../../wp-content/uploads/2020/03/Selection_999083.png" alt="" class="wp-image-8084" srcset="./../../../wp-content/uploads/2020/03/Selection_999083.png 588w, ./../../../wp-content/uploads/2020/03/Selection_999083-300x155.png 300w" sizes="(max-width: 588px) 100vw, 588px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="588" height="304" src="https://defipulse.com/blog/wp-content/uploads/2020/03/Selection_999083.png" alt="" class="wp-image-8084" srcset="./../../../wp-content/uploads/2020/03/Selection_999083.png 588w, ./../../../wp-content/uploads/2020/03/Selection_999083-300x155.png 300w" sizes="(max-width: 588px) 100vw, 588px" /></figure></div>
 
 
 
@@ -97,7 +100,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://gitcoin.co/grants/552/defi-pulse-registry?tab=description"><img loading="lazy" src="./../../../wp-content/uploads/2020/03/Selection_999085.png" alt="" class="wp-image-8097" width="393" height="478" srcset="./../../../wp-content/uploads/2020/03/Selection_999085.png 524w, ./../../../wp-content/uploads/2020/03/Selection_999085-247x300.png 247w" sizes="(max-width: 393px) 100vw, 393px" /></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://gitcoin.co/grants/552/defi-pulse-registry?tab=description"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/03/Selection_999085.png" alt="" class="wp-image-8097" width="393" height="478" srcset="./../../../wp-content/uploads/2020/03/Selection_999085.png 524w, ./../../../wp-content/uploads/2020/03/Selection_999085-247x300.png 247w" sizes="(max-width: 393px) 100vw, 393px" /></a></figure></div>
 
 
 
@@ -106,6 +109,7 @@
 
 
 <p>If you have any questions, don&#8217;t hesitate to reach out to us on <a href="http://twitter.com/defipulse">Twitter</a> or join the discussion in our <a href="http://t.me/defipulse">Telegram</a> or <a href="https://discord.gg/Gx4TCTk">Discord</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../2020/03/23/the-defi-pulse-registry/index.html">The DeFi Pulse Registry &#8212; If DeFi is safe, DeFi will survive.</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

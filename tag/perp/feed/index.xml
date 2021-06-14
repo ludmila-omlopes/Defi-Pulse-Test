@@ -12,23 +12,24 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 May 2021 01:24:47 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 30 Aug 2020 16:18:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Perpetual Protocol &#8211; 20x Leverage Perpetuals Never Limited by Available Liquidity</title>
 		<link>./../../../2020/08/30/perpetual-protocol/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 30 Aug 2020 11:18:11 +0000</pubDate>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Sun, 30 Aug 2020 16:18:11 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Exchanges]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[derivatives]]></category>
 		<category><![CDATA[futures]]></category>
 		<category><![CDATA[perp]]></category>
@@ -37,7 +38,9 @@
 		<category><![CDATA[vamm]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8489</guid>
 
-					<description><![CDATA[Innovation happens at a head-spinning pace in decentralized finance. As the ecosystem continues to stack up brick after brick, our...]]></description>
+					<description><![CDATA[<p>Innovation happens at a head-spinning pace in decentralized finance. As the ecosystem continues to stack up brick after brick, our...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/08/30/perpetual-protocol/index.html">Perpetual Protocol &#8211; 20x Leverage Perpetuals Never Limited by Available Liquidity</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Innovation happens at a head-spinning pace in decentralized finance. As the ecosystem continues to stack up brick after brick, our capabilities reach new heights and knock down old barriers. The protocol I have the pleasure of introducing to you in this week&#8217;s DeFi Pulse Drop has its eyes set on disrupting the existing futures and derivatives market by offering innovations that lower the barrier to entry for even low liquidity futures.</p>
 
@@ -47,7 +50,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="https://perp.fi/"><img loading="lazy" width="700" height="179" src="./../../../wp-content/uploads/2020/08/1_1wIKLnIokys0kmlCyynzTg.png" alt="" class="wp-image-8506" srcset="./../../../wp-content/uploads/2020/08/1_1wIKLnIokys0kmlCyynzTg.png 700w, ./../../../wp-content/uploads/2020/08/1_1wIKLnIokys0kmlCyynzTg-300x77.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://perp.fi/"><img loading="lazy" width="700" height="179" src="https://defipulse.com/blog/wp-content/uploads/2020/08/1_1wIKLnIokys0kmlCyynzTg.png" alt="" class="wp-image-8506" srcset="./../../../wp-content/uploads/2020/08/1_1wIKLnIokys0kmlCyynzTg.png 700w, ./../../../wp-content/uploads/2020/08/1_1wIKLnIokys0kmlCyynzTg-300x77.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></figure>
 
 
 
@@ -67,7 +70,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1920" height="1080" src="./../../../wp-content/uploads/2020/08/perpetual-protocol-vammGIF-1.gif" alt="" class="wp-image-8500"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1920" height="1080" src="https://defipulse.com/blog/wp-content/uploads/2020/08/perpetual-protocol-vammGIF-1.gif" alt="" class="wp-image-8500"/></figure>
 
 
 
@@ -83,7 +86,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="614" height="68" src="./../../../wp-content/uploads/2020/08/9830363769d701def459c9d411726a64fae37ffb.png" alt="" class="wp-image-8496" srcset="./../../../wp-content/uploads/2020/08/9830363769d701def459c9d411726a64fae37ffb.png 614w, ./../../../wp-content/uploads/2020/08/9830363769d701def459c9d411726a64fae37ffb-300x33.png 300w" sizes="(max-width: 614px) 100vw, 614px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="614" height="68" src="https://defipulse.com/blog/wp-content/uploads/2020/08/9830363769d701def459c9d411726a64fae37ffb.png" alt="" class="wp-image-8496" srcset="./../../../wp-content/uploads/2020/08/9830363769d701def459c9d411726a64fae37ffb.png 614w, ./../../../wp-content/uploads/2020/08/9830363769d701def459c9d411726a64fae37ffb-300x33.png 300w" sizes="(max-width: 614px) 100vw, 614px" /></figure>
 
 
 
@@ -167,7 +170,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="371" src="./../../../wp-content/uploads/2020/08/perp-distribution.png" alt="" class="wp-image-8491" srcset="./../../../wp-content/uploads/2020/08/perp-distribution.png 600w, ./../../../wp-content/uploads/2020/08/perp-distribution-300x186.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="371" src="https://defipulse.com/blog/wp-content/uploads/2020/08/perp-distribution.png" alt="" class="wp-image-8491" srcset="./../../../wp-content/uploads/2020/08/perp-distribution.png 600w, ./../../../wp-content/uploads/2020/08/perp-distribution-300x186.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
 
 
 
@@ -192,6 +195,7 @@
 
 
 <p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve been paid by Perpetual Protocol to inform readers about their platform and perpetual contracts. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2020/08/30/perpetual-protocol/index.html">Perpetual Protocol &#8211; 20x Leverage Perpetuals Never Limited by Available Liquidity</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

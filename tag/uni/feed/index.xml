@@ -12,21 +12,22 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 May 2021 00:52:40 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 25 Sep 2020 15:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Vampire Mining and the SushiSwap Saga</title>
 		<link>./../../../2020/09/25/vampire-mining-and-the-sushiswap-saga/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Fri, 25 Sep 2020 10:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Infoguild]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2020 15:00:00 +0000</pubDate>
 				<category><![CDATA[DEX]]></category>
 		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[amm]]></category>
 		<category><![CDATA[DEXes]]></category>
 		<category><![CDATA[sushi]]></category>
@@ -35,7 +36,9 @@
 		<category><![CDATA[Uniswap]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8567</guid>
 
-					<description><![CDATA[A vampire attack or “vampire mining” is a new term in DeFi popularized by SushiSwap’s aggressive migration incentives designed to...]]></description>
+					<description><![CDATA[<p>A vampire attack or “vampire mining” is a new term in DeFi popularized by SushiSwap’s aggressive migration incentives designed to...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/09/25/vampire-mining-and-the-sushiswap-saga/index.html">Vampire Mining and the SushiSwap Saga</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>A vampire attack or “vampire mining” is a new term in DeFi popularized by SushiSwap’s aggressive migration incentives designed to pull liquidity from Uniswap.</p>
 
@@ -114,6 +117,7 @@
 
 
 <p>All done and said, it&#8217;s definitely going to be interesting to watch how SushiSwap and Uniswap continue to co-exist (or not) over the next few months.</p>
+<p>The post <a rel="nofollow" href="./../../../2020/09/25/vampire-mining-and-the-sushiswap-saga/index.html">Vampire Mining and the SushiSwap Saga</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

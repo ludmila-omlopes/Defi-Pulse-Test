@@ -12,21 +12,23 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 May 2021 01:25:55 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Dec 2019 17:02:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>What is Chai? An Instant DAI Savings Account Powered by Maker</title>
 		<link>./../../../2019/12/16/what-is-chai/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Mon, 16 Dec 2019 12:02:33 +0000</pubDate>
-				<category><![CDATA[Explainers]]></category>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2019 17:02:33 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Explainers]]></category>
 		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[cDai]]></category>
 		<category><![CDATA[chai]]></category>
 		<category><![CDATA[dai]]></category>
@@ -37,8 +39,10 @@
 		<category><![CDATA[MakerDAO]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7830</guid>
 
-					<description><![CDATA[No, we&#8217;re not talking about the beverage. We&#8217;re talking about this new token creating buzz in the Ethereum community lately...]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone wp-image-7832 size-large" src="./../../../wp-content/uploads/2019/12/14271895046_2100131b06_b-1024x622.jpg" alt="chai" width="640" height="389" /></p>
+					<description><![CDATA[<p>No, we&#8217;re not talking about the beverage. We&#8217;re talking about this new token creating buzz in the Ethereum community lately...</p>
+<p>The post <a rel="nofollow" href="./../../../2019/12/16/what-is-chai/index.html">What is Chai? An Instant DAI Savings Account Powered by Maker</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone wp-image-7832 size-large" src="https://defipulse.com/blog/wp-content/uploads/2019/12/14271895046_2100131b06_b-1024x622.jpg" alt="chai" width="640" height="389" /></p>
 <p>No, we&#8217;re not talking about the beverage. We&#8217;re talking about this new token creating buzz in the Ethereum community lately called Chai. CHAI is an ERC20 token that&#8217;s like DAI which earns interest from Maker&#8217;s <a href="https://defipulse.com/blog/dsr-dai-savings-rate/">Dai Savings Rate</a> (DSR), currently 4% as of writing this. It&#8217;s a lot like how <a href="https://defipulse.com/blog/what-is-cdai/">cDAI</a> represents DAI supplied to Compound plus interest. Chai.sol, the token&#8217;s smart contact, deposits your DAI into the DSR and issues you CHAI tokens which can be stored, transferred, traded, and later redeemed for the underlying DAI plus any interest earned. As an added bonus, it&#8217;s also supports gas-less token transfers.</p>
 <p>The <a href="https://github.com/dapphub/chai">project</a>, smart contract, and interface was created by Martin Lundfall, Lucas Vogelsang, and Lev Livnev. Also, Abbey Titcomb made the lovely mug pixel art. Deployed on December 1st, 2019, you can now pay friends, grow your savings, trade, etc. while still earning interest on your DAI.</p>
 <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
@@ -60,6 +64,7 @@
 <h2>Money Legos in action</h2>
 <p>The awesome part thing about DeFi is that smart contracts like Legos can be pieced together in many different ways to create new utility. Similar to cDAI, Chai takes DAI that would normally be locked away and turns them into useful liquid assets. And, it isn&#8217;t the only one to take advantage of Maker&#8217;s Dai Savings Rate contract and it won&#8217;t be the last. For example, there&#8217;s also <a href="https://medium.com/@keydonix/dai-hrd-token-hold-rated-dai-dfd3fe491d83?">DAI-HRD</a> which similarly wraps DAI into the DSR. Another prime example of a project adding utility to DAI is <a href="https://rdai.money/">rDAI</a> which let&#8217;s you redirect the interest generated from your DAI on multiple DeFi platforms. Nothing stops someone from making an interest bearing meta-stablecoin by combining cDAI, Chai, and/or cUSD, etc. The only limit is the imagination of developers in the DeFi community.</p>
 <p><span style="font-weight: 400;">F</span>ollow us on <a href="https://twitter.com/defipulse">Twitter</a> or join us in <span style="font-weight: 400;">our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a> to keep up with the DeFi ecosystem</span></p>
+<p>The post <a rel="nofollow" href="./../../../2019/12/16/what-is-chai/index.html">What is Chai? An Instant DAI Savings Account Powered by Maker</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

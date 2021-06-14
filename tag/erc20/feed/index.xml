@@ -12,23 +12,22 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 May 2021 01:25:35 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 May 2020 14:16:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Build Sustainable DApps with your own X Blaster with Custom Fees</title>
 		<link>./../../../2020/05/18/build-sustainable-dapps-with-your-own-x-blaster-with-custom-fees/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Mon, 18 May 2020 14:16:08 +0000</pubDate>
-				<category><![CDATA[Developer Docs]]></category>
+				<category><![CDATA[Community]]></category>
 		<category><![CDATA[DEX]]></category>
 		<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[New Features]]></category>
 		<category><![CDATA[aggregator]]></category>
 		<category><![CDATA[developer tools]]></category>
 		<category><![CDATA[Dex.Ag]]></category>
@@ -40,7 +39,9 @@
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8256</guid>
 
-					<description><![CDATA[TLDR: Integrating DEX.AG&#8217;s X Blaster with custom fees into your platform provides your users or smart contract with convenient native...]]></description>
+					<description><![CDATA[<p>TLDR: Integrating DEX.AG&#8217;s X Blaster with custom fees into your platform provides your users or smart contract with convenient native...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/05/18/build-sustainable-dapps-with-your-own-x-blaster-with-custom-fees/index.html">Build Sustainable DApps with your own X Blaster with Custom Fees</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p><em><strong>TLDR: </strong><a href="https://docs.dex.ag/proxy-contract">Integrating DEX.AG&#8217;s X Blaster with custom fees</a> into your platform provides your users or smart contract with convenient native liquidity while allowing you to build a sustainable business model.</em></p>
 
@@ -135,125 +136,7 @@
 
 
 <p>Give your users what they want and get your own X Blaster today! Head over to our <a href="https://docs.dex.ag/proxy-contract">API/SDK documention</a> to get started.<br></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Meet The Token List — An Accurate List of Authentic Tokens on Ethereum</title>
-		<link>./../../../2020/05/07/meet-the-token-list/index.html</link>
-		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Thu, 07 May 2020 17:42:43 +0000</pubDate>
-				<category><![CDATA[New Features]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Trading]]></category>
-		<category><![CDATA[decentralized finance]]></category>
-		<category><![CDATA[DeFi]]></category>
-		<category><![CDATA[defi pulse]]></category>
-		<category><![CDATA[ERC20]]></category>
-		<category><![CDATA[ETH]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[list]]></category>
-		<category><![CDATA[token]]></category>
-		<guid isPermaLink="false">https://defipulse.com/blog/?p=8230</guid>
-
-					<description><![CDATA[Imagine you&#8217;re trying out a new DeFi project. Everything is going smoothly; the instructions on screen guide you, making you...]]></description>
-										<content:encoded><![CDATA[
-<p>Imagine you&#8217;re trying out a new DeFi project. Everything is going smoothly; the instructions on screen guide you, making you feel confident in your actions. That is until you complete your transaction and then your tokens don&#8217;t arrive. You start to get that sinking feeling in your stomach as you realize you&#8217;ve received tokens the wrong tokens&#8230;</p>
-
-
-
-<p>Looking at your transaction confirmation you realize you received a token with the same name and ticker symbol as the one you thought you selected. In fact, upon reviewing the token selection menu you realize there are lots of inaccurate and confusing tokens listed. It&#8217;s a simple mistake but costly mistake anyone could make that leaves a sour taste in your mouth about the whole experience.</p>
-
-
-
-<h4>So what happened?</h4>
-
-
-
-<p>On Ethereum, anyone can create a token with any name or ticker symbol. It&#8217;s not like registering a username on a website; there&#8217;s no native mechanism preventing a new token from having the same name, symbol, or even icon as an existing token. Whether intentionally or not, duplicate or misleading tokens are created all the time making mistakes like the one described above more and more likely to occur for even the most experienced users.</p>
-
-
-
-<p>Not to mention, DeFi grows so quickly that it&#8217;s practically impossible to keep up with the countless new tokens being produced by projects. DAI alone has over 30 variations. This situation isn&#8217;t slowing down anytime soon and a lot of collective time is being spent in our community right now playing detective in order to determine if a token is the right token.</p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://defipulse.com/token-list"><img loading="lazy" src="./../../../wp-content/uploads/2020/05/token-list-thumb-1-wo-padding.jpg" alt="" class="wp-image-8247" width="638" height="638"/></a></figure></div>
-
-
-
-<h2>Meet The Token List</h2>
-
-
-
-<p>The Token List provides an accurate list of authentic tokens submitted and curated by the community. Its purpose is to create a standard list of tokens that everyone can rely on. <strong>Anyone can apply to have a token added to The Token List as long as it isn’t likely to be confused with previously listed or well-known tokens. And, it&#8217;s free for anyone to integrate The Token List into their project.</strong></p>
-
-
-
-<p>A reliable well-vetted token list serves as a source of truth for the community helping ensure users are never confused by misleading tokens or outright scams. The idea is that when you see a platform is using The Token List, you can be confident that the tokens available are the real deal.</p>
-
-
-
-<h3>Implementation is fast, easy and forever free</h3>
-
-
-
-<p>Integrating The Token List into your project is simple and worry-free with little to no maintenance. <a href="https://defipulse.com/token-list">The Token List</a> lets your team work smarter, not harder. No more wasting man hours on listing new tokens on top of maintaining the ever-growing list of existing tokens. And best of all, <strong>it&#8217;s forever free to use</strong> &#8211; no upfront cost or ongoing fees.</p>
-
-
-
-<p>The Token List provides all the relevant information for each authentic token in JSON format: </p>
-
-
-
-<ul><li>token name</li><li>contract address </li><li>ticker symbol </li><li>decimals</li><li>icon image</li><li>token standard (ERC20, ERC223, etc)</li><li>and flags describing token qualities such as: is it used in governance, is it a social token, etc.</li></ul>
-
-
-
-<p>We handle the listing and maintenance for you so you can get back to building what matters.</p>
-
-
-
-<h4>Got a token? Apply to The Token List in a snap.</h4>
-
-
-
-<p>As previously mentioned, anyone can submit an application to list any authentic token to The Token List. Simply, visit <a href="https://defipulse.com/token-list">The Token List</a>, click the &#8216;Add a Token now!&#8217; button (powered by Unlock Protocol). It costs a flat fee of 0.05 ETH to apply. And then, follow the prompts to fill out the simple form with the required token details. </p>
-
-
-
-<p>We review all applications for authenticity and to ensure that they are unique enough to not confuse the average user. We want to help improve user experience, not act as gatekeepers, so we&#8217;ll err on the side of inclusion where possible (but for the safety of the community we do reserve the right to reject outright scams or tokens intending to mislead, etc).</p>
-
-
-
-<h3>Adaptive token selection</h3>
-
-
-
-<p>Opening up the token listing process benefits all involved by making UX/UIs become more responsive and inclusive. Instead of acting as a potential gatekeepers, DeFi projects now become advocates of collaboration and empower their community to take ownership of the token listing process. Additionally, the community lends their watchful eyes to help maintain the accuracy and authenticity of existing token listings (because we know how fast some things change in DeFi).</p>
-
-
-
-<h3>Collaboration and composability</h3>
-
-
-
-<p>The ability to connect and combine existing smart contracts to create something new is a defining aspect of DeFi. We&#8217;re an industry built on collaboration which increases the pace of innovation. Projects and users alike benefit from keeping this shared list of tokens up-to-date with the latest listings and changes to existing tokens, potentially serving as a catalyst for even more composability between DeFi projects. Naturally, it&#8217;s easier to work together when you&#8217;re all on the same page. For example: when one project submits their newest token, it&#8217;s automatically added to all projects using The Token List.</p>
-
-
-
-<h2>Take advantage of The Token List today</h2>
-
-
-
-<p>Whether you&#8217;re hacking together an idea, tired of maintaining your current token listings, or want to make your token known to the world, <a href="https://defipulse.com/token-list">The Token List</a> is a simple but effective solution to meet your needs.</p>
-
-
-
-<p>We&#8217;re really excited for this release and the potential impact an open, accessible standard token list could have on DeFi. Standards can improve quality of life and safety for users and make developers&#8217; work easier and more efficient. We&#8217;re also interested to see how this list will grow with community input. We&#8217;re 100% open to new ideas like new descriptive flags. So please let us know what you think on <a href="https://twitter.com/defipulse">Twitter</a>, <a href="https://discord.gg/Gx4TCTk">Discord</a>, and <a href="https://t.me/defipulse">Telegram</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../2020/05/18/build-sustainable-dapps-with-your-own-x-blaster-with-custom-fees/index.html">Build Sustainable DApps with your own X Blaster with Custom Fees</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -263,7 +146,7 @@
 		<title>DeFi Dive: Frontier &#8211; DeFi Simple, Safe and Mobile</title>
 		<link>./../../../2020/02/26/defi-dive-frontier/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Wed, 26 Feb 2020 13:57:13 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[Dapp]]></category>
@@ -275,9 +158,11 @@
 		<category><![CDATA[wallet]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8009</guid>
 
-					<description><![CDATA[We spoke with Frontier Co-Founder &#38; Head of Marketing Palash Jain who longs to bring DeFi to the masses with...]]></description>
+					<description><![CDATA[<p>We spoke with Frontier Co-Founder &#38; Head of Marketing Palash Jain who longs to bring DeFi to the masses with...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/02/26/defi-dive-frontier/index.html">DeFi Dive: Frontier &#8211; DeFi Simple, Safe and Mobile</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="512" src="./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-1024x512.png" alt="" class="wp-image-8010" srcset="./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-1024x512.png 1024w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-300x150.png 300w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-768x384.png 768w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-1536x768.png 1536w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-1568x784.png 1568w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="512" src="https://defipulse.com/blog/wp-content/uploads/2020/02/DefiPulse_Frontier-1-1024x512.png" alt="" class="wp-image-8010" srcset="./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-1024x512.png 1024w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-300x150.png 300w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-768x384.png 768w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-1536x768.png 1536w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1-1568x784.png 1568w, ./../../../wp-content/uploads/2020/02/DefiPulse_Frontier-1.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -354,6 +239,7 @@
 
 
 <p>Frontier App is also available on <a href="https://apple.co/2ORqvbh">App Store</a> and <a href="https://bit.ly/2ORqKTJ">Play Store</a>, or you can download the App from our website<a href="http://Frontierwallet.com/"> Frontierwallet.com</a></p>
+<p>The post <a rel="nofollow" href="./../../../2020/02/26/defi-dive-frontier/index.html">DeFi Dive: Frontier &#8211; DeFi Simple, Safe and Mobile</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -363,10 +249,12 @@
 		<title>DeFi Dive: TokenTax &#8211; DeFi crypto tax calculator and cryptocurrency accounting firm</title>
 		<link>./../../../2020/02/18/defi-dive-tokentax/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2020 11:29:58 +0000</pubDate>
-				<category><![CDATA[Ecosystem]]></category>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Tue, 18 Feb 2020 16:29:58 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[ERC20]]></category>
 		<category><![CDATA[Ethereum]]></category>
 		<category><![CDATA[lending]]></category>
@@ -377,9 +265,11 @@
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7972</guid>
 
-					<description><![CDATA[Alex Miles, co-founder of TokenTax, discusses his quest to ease the crypto community&#8217;s DeFi tax woes. How did you get...]]></description>
+					<description><![CDATA[<p>Alex Miles, co-founder of TokenTax, discusses his quest to ease the crypto community&#8217;s DeFi tax woes. How did you get...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/02/18/defi-dive-tokentax/index.html">DeFi Dive: TokenTax &#8211; DeFi crypto tax calculator and cryptocurrency accounting firm</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb.png" alt="" class="wp-image-7974" width="1024" height="512" srcset="./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb.png 1024w, ./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb-300x150.png 300w, ./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/02/defidive-tokentax-social_thumb.png" alt="" class="wp-image-7974" width="1024" height="512" srcset="./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb.png 1024w, ./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb-300x150.png 300w, ./../../../wp-content/uploads/2020/02/defidive-tokentax-social_thumb-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -460,6 +350,7 @@
 
 
 <p>Also follow me on Twitter! <a href="https://twitter.com/milesalex">https://twitter.com/milesalex</a></p>
+<p>The post <a rel="nofollow" href="./../../../2020/02/18/defi-dive-tokentax/index.html">DeFi Dive: TokenTax &#8211; DeFi crypto tax calculator and cryptocurrency accounting firm</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -18,12 +18,12 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>How Ethereum&#8217;s Istanbul Network Upgrade Affects DeFi</title>
 		<link>./../../../2019/12/11/how-ethereums-istanbul-network-upgrade-affects-defi/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Wed, 11 Dec 2019 21:16:20 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Explainers]]></category>
@@ -36,7 +36,9 @@
 		<category><![CDATA[upgrade]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7807</guid>
 
-					<description><![CDATA[At 12:25 AM (UTC) on December 8th, 2019, the Ethereum network mined block 9,069,000 activating the Istanbul network upgrade. Let&#8217;s...]]></description>
+					<description><![CDATA[<p>At 12:25 AM (UTC) on December 8th, 2019, the Ethereum network mined block 9,069,000 activating the Istanbul network upgrade. Let&#8217;s...</p>
+<p>The post <a rel="nofollow" href="./../../../2019/12/11/how-ethereums-istanbul-network-upgrade-affects-defi/index.html">How Ethereum&#8217;s Istanbul Network Upgrade Affects DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>At 12:25 AM (UTC) on December 8th, 2019, the Ethereum network mined block 9,069,000 activating the Istanbul network upgrade. Let&#8217;s take a look at how the upgrade might affect existing and future DeFi applications.</p>
 <h3>So what&#8217;s changed with the Istanbul Upgrade?</h3>
 <p>Istanbul included 6 Ethereum Improvement Proposals (EIPs).</p>
@@ -62,6 +64,7 @@
 <h3>Now that Istanbul&#8217;s live, what&#8217;s next for the Ethereum network?</h3>
 <p>Muir Glacier Upgrade&#8217;s slated for activation on Block #9,200,000 or rather January 6th, 2020. This upgrade includes <a href="https://eips.ethereum.org/EIPS/eip-2384">one EIP</a> titled, &#8220;EIP 2384: Muir Glacier Difficulty Bomb Delay.&#8221; As of October 5th, 2019, the difficulty bombed kicked in again slowing Ethereum blocktimes to over 13 seconds on average. As you might have guessed, slower Ethereum blocktimes impacts the performance of DeFi protocols and DApps. And so, EIP-2384 proposes to delay the difficulty bomb for another 4,000,000 blocks (~611 days).</p>
 <p><span style="font-weight: 400;">F</span>ollow us on <a href="https://twitter.com/defipulse">Twitter</a> or join us in <span style="font-weight: 400;">our <a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a> to keep up with the DeFi ecosystem</span></p>
+<p>The post <a rel="nofollow" href="./../../../2019/12/11/how-ethereums-istanbul-network-upgrade-affects-defi/index.html">How Ethereum&#8217;s Istanbul Network Upgrade Affects DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

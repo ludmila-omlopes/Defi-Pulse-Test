@@ -18,14 +18,14 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>See the Bigger Picture with DeFi Pulse Data</title>
 		<link>./../../../2020/04/28/see-the-bigger-picture-with-defi-pulse-data/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Tue, 28 Apr 2020 13:28:27 +0000</pubDate>
-				<category><![CDATA[New Features]]></category>
+				<category><![CDATA[Community]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[data]]></category>
 		<category><![CDATA[decentralized finance]]></category>
@@ -37,7 +37,9 @@
 		<category><![CDATA[gas]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8202</guid>
 
-					<description><![CDATA[DeFi doesn&#8217;t just stand for decentralized finance; DeFi is a community of users, developers, investors, traders, researchers, writers, and so...]]></description>
+					<description><![CDATA[<p>DeFi doesn&#8217;t just stand for decentralized finance; DeFi is a community of users, developers, investors, traders, researchers, writers, and so...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/04/28/see-the-bigger-picture-with-defi-pulse-data/index.html">See the Bigger Picture with DeFi Pulse Data</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>DeFi doesn&#8217;t just stand for decentralized finance; DeFi is a community of users, developers, investors, traders, researchers, writers, and so much more. Our collective endeavors are etched into the blockchain; our stories and shared history can be found in our data.</p>
 
@@ -61,7 +63,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="https://data.defipulse.com/"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2020/04/defipulse-data-social-1024x576.png" alt="" class="wp-image-8212" srcset="./../../../wp-content/uploads/2020/04/defipulse-data-social-1024x576.png 1024w, ./../../../wp-content/uploads/2020/04/defipulse-data-social-300x169.png 300w, ./../../../wp-content/uploads/2020/04/defipulse-data-social-768x432.png 768w, ./../../../wp-content/uploads/2020/04/defipulse-data-social-1536x864.png 1536w, ./../../../wp-content/uploads/2020/04/defipulse-data-social-1568x882.png 1568w, ./../../../wp-content/uploads/2020/04/defipulse-data-social.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://data.defipulse.com/"><img loading="lazy" width="1024" height="576" src="https://defipulse.com/blog/wp-content/uploads/2020/04/defipulse-data-social-1024x576.png" alt="" class="wp-image-8212" srcset="./../../../wp-content/uploads/2020/04/defipulse-data-social-1024x576.png 1024w, ./../../../wp-content/uploads/2020/04/defipulse-data-social-300x169.png 300w, ./../../../wp-content/uploads/2020/04/defipulse-data-social-768x432.png 768w, ./../../../wp-content/uploads/2020/04/defipulse-data-social-1536x864.png 1536w, ./../../../wp-content/uploads/2020/04/defipulse-data-social-1568x882.png 1568w, ./../../../wp-content/uploads/2020/04/defipulse-data-social.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -96,7 +98,7 @@
 
 
 <figure class="wp-block-embed-twitter aligncenter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr"><a href="https://twitter.com/dForcenet?ref_src=twsrc%5Etfw">@dForcenet</a>’s <a href="https://twitter.com/LendfMe?ref_src=twsrc%5Etfw">@LendfMe</a> $20M money market pool currently under attack <a href="https://t.co/qDJqKkQBnT">pic.twitter.com/qDJqKkQBnT</a></p>&mdash; Andrew Køng (@Rewkang) <a href="https://twitter.com/Rewkang/status/1251707230040150018?ref_src=twsrc%5Etfw">April 19, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr"><a href="https://twitter.com/dForcenet?ref_src=twsrc%5Etfw">@dForcenet</a>’s <a href="https://twitter.com/LendfMe?ref_src=twsrc%5Etfw">@LendfMe</a> $20M money market pool currently under attack <a href="https://t.co/qDJqKkQBnT">pic.twitter.com/qDJqKkQBnT</a></p>&mdash; Andrew Kang (@Rewkang) <a href="https://twitter.com/Rewkang/status/1251707230040150018?ref_src=twsrc%5Etfw">April 19, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div></figure>
 
 
@@ -124,6 +126,7 @@
 
 
 <p><strong>Sign for <a href="http://data.defipulse.com/">DeFi Pulse Data</a> today for free</strong> and see what the data inspires you to create. Don&#8217;t forget to share it with us on <a href="https://twitter.com/defipulse">Twitter</a>, <a href="https://t.me/defipulse">Telegram</a> or <a href="https://discord.gg/Gx4TCTk">Discord</a></p>
+<p>The post <a rel="nofollow" href="./../../../2020/04/28/see-the-bigger-picture-with-defi-pulse-data/index.html">See the Bigger Picture with DeFi Pulse Data</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

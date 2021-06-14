@@ -18,12 +18,12 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>What is tBTC?</title>
 		<link>./../../../2019/08/20/what-is-tbtc/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Tue, 20 Aug 2019 12:42:04 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Explainers]]></category>
@@ -35,9 +35,11 @@
 		<category><![CDATA[tBTC]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7514</guid>
 
-					<description><![CDATA[tBTC is an ERC-20 token that&#8217;s trustlessly backed by and redeemable for Bitcoin (BTC). In other words, it&#8217;s a way...]]></description>
+					<description><![CDATA[<p>tBTC is an ERC-20 token that&#8217;s trustlessly backed by and redeemable for Bitcoin (BTC). In other words, it&#8217;s a way...</p>
+<p>The post <a rel="nofollow" href="./../../../2019/08/20/what-is-tbtc/index.html">What is tBTC?</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>tBTC is an ERC-20 token that&#8217;s trustlessly backed by and redeemable for Bitcoin (BTC). In other words, it&#8217;s a way for users to deposit their Bitcoin and mint Bitcoin tokens on Ethereum without a middleman or KYC.</p>
-<figure id="attachment_7522" aria-describedby="caption-attachment-7522" style="width: 930px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-7522 size-full" src="./../../../wp-content/uploads/2019/08/tbtc-homepage.jpg" alt="" width="930" height="500"><figcaption id="caption-attachment-7522" class="wp-caption-text">A screenshot of tBTC&#8217;s <a href="https://tbtc.network/" target="_blank" rel="noopener noreferrer">homepage</a></figcaption></figure>
+<figure id="attachment_7522" aria-describedby="caption-attachment-7522" style="width: 930px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-7522 size-full" src="https://defipulse.com/blog/wp-content/uploads/2019/08/tbtc-homepage.jpg" alt="" width="930" height="500"><figcaption id="caption-attachment-7522" class="wp-caption-text">A screenshot of tBTC&#8217;s <a href="https://tbtc.network/" target="_blank" rel="noopener noreferrer">homepage</a></figcaption></figure>
 <h2>How does tBTC work?</h2>
 <p>If you&#8217;re familiar with MakerDAO and how DAI is created, you might recognize some of the mechanics used to make tBTC possible. For example, tBTC relies on price feeds, bonds, and arbitrage opportunities to keep the system running honestly.</p>
 <p>In a nutshell, users wishing to mint tBTC deposit Bitcoin into an address trustlessly created and controlled by a group of bonded&nbsp;<em>signers.</em>&nbsp;The bonds keep the system participants honest by incentivizing good behavior and punishing dishonesty.&nbsp;Currently, deposits are only possible in fixed-sized&nbsp;<em>lots</em>&nbsp;of 1 Bitcoin. And, all signer bonds are denominated in ETH.</p>
@@ -59,6 +61,7 @@
 <p>Ethereum&#8217;s known for being the leading programmable blockchain with a wildly active developer community. Effectively tokenizing BTC without a middleman opens up a world of possibilities for users and developers alike.</p>
 <p>tBTC makes it possible for Bitcoin holders to tap into Ethereum&#8217;s growing <a href="https://defipulse.com/defi-list">list</a> of <a href="https://defipulse.com/blog/defi-on-ethereum/">decentralized finance</a> (DeFi) DApps. For example, smart contract developers could integrate tBTC into their DApps as collateral. Thus, enabling Bitcoin holders to be able to borrow against their BTC. Or, even something as simple as Bitcoin can now be trustlessly listed on <a href="https://defipulse.com/blog/best-decentralized-exchanges-dexes/">decentralized exchanges</a>&nbsp;(DEXes).</p>
 <p><span style="font-weight: 400;">Still have questions about tBTC? Come talk with us on&nbsp;<a href="https://discord.gg/y7qSf4A" target="_blank" rel="noopener noreferrer">Discord</a>&nbsp;or Twitter&nbsp;<a href="https://twitter.com/defipulse" target="_blank" rel="noopener noreferrer">@DefiPulse</a>.</span></p>
+<p>The post <a rel="nofollow" href="./../../../2019/08/20/what-is-tbtc/index.html">What is tBTC?</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

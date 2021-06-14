@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>integral &#8211; Defi Pulse test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 31 May 2021 19:52:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Integral Aims to Win the AMM Wars</title>
+		<link>./../../../2021/05/31/integral/index.html</link>
+		
+		<dc:creator><![CDATA[William Peaster]]></dc:creator>
+		<pubDate>Mon, 31 May 2021 19:52:49 +0000</pubDate>
+				<category><![CDATA[Exchanges]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[amm]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[integral]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9363</guid>
+
+					<description><![CDATA[<p>There’s a new automated market maker (AMM) on the block, and it has the infrastructure to shake things up in...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/31/integral/index.html">Integral Aims to Win the AMM Wars</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>There’s a new automated market maker (AMM) on the block, and it has the infrastructure to shake things up in DeFi. The protocol’s tech, which allows the decentralized exchange to feast on the liquidity of other exchanges, is uniquely advantageous for liquidity providers (LPs), so now the race is on to see how many users the project can win over.&nbsp;</p>
+
+
+
+<p>The DEX in question? <a href="https://integral.link/deposit"><strong>Integral</strong></a>, a new kind of trading protocol that launched in March 2021 and whose team is positioning it to compete with both <em>decentralized </em>crypto exchanges like Uniswap and <em>centralized </em>crypto exchanges like Coinbase.&nbsp;</p>
+
+
+
+<h2><strong>An AMM to Eat All AMMs?</strong></h2>
+
+
+
+<p>To compete with the exchanges of the world, Integral needs a compelling way to match these exchanges’ liquidity. So what’s one protocol to do against the combined activity of all these other bustling entities?</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh3.googleusercontent.com/eIf2Og4K3j8nNVFL5nJ8Qrc3yjSNhKclKz4MAbECv8qCK547sIaNWCiMagEqyYCMJ-TOXTIUy8TOnYTvUoZPim0CkNq-4NfTbj1Q4Fy4vNr_74rQREUgKhNZj_Sgici290erSZAr" alt=""/></figure>
+
+
+
+<p>Fortunately for Integral the protocol has an interesting answer, a <strong>new AMM style called an Orderbook AMM, or OB-AMM</strong>. What’s special about this style is it allows Integral to “mirror” its competitors’ external liquidity at will, yet with the major advantage of needing just a <em>fraction </em>of that liquidity in the project’s own pools.&nbsp;</p>
+
+
+
+<p>This is because of how the OB-AMM model achieves what’s known as <strong>concentrated liquidity</strong>, i.e. liquidity that’s distributed along a price range, upon which capital can be condensed in particular places. Integral delivers LPs and traders concentrated liquidity by <strong>decoupling </strong><strong><em>capital</em></strong><strong>, the crypto in the OB-AMM’s pools, from </strong><strong><em>depth</em></strong>, as in an orderbook’s depth or the shapes of pools’ price ranges. The project notably offered this advantage weeks ahead of Uniswap V3, which launched in May 2021 and has since helped popularize concentrated liquidity.&nbsp;</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/RcOO6tBh5Dq_0_A6E-4QRLO50f1VzBRTUnwmqmiI8d8VuGR1Ecy3THlraM8riVlqNcPkYtO7zz6iUIR-ZrgUMG4XFfeArIDzi1ryi_Wp2IE3vE_OhTG6BslLo2Yt5-mtIp6VO0lH" alt=""/></figure>
+
+
+
+<p>Accordingly, Integral can match the world’s exchanges by taking <em>their </em>orderbooks and mirroring <em>their </em>depth onto Integral’s own pools. This is why Integral currently enjoys +$11B in implied liquidity and same-level price impact while simultaneously having only ~$111.5M in <a href="https://defipulse.com/integral">total value locked (TVL)</a> at the moment. It can provide 3x the depth of Binance’s orderbook, for example, and it needs way less liquidity to do so. The ensuing efficiency helps keep price impact lower and LP APYs higher for users.&nbsp;</p>
+
+
+
+<h2><strong>Impermanent Profit (IP) is here to stay</strong></h2>
+
+
+
+<p>There are two other foundational elements of Integral that make the AMM innovative: the protocol’s <strong>trade delay</strong> system and its <strong>mean-0 impermanent loss</strong> (IL) system.&nbsp;</p>
+
+
+
+<p>Integral’s <em>trade delay</em> forces traders to wait 5 minutes + Ethereum’s confirmation time, an implementation that protects LPs from the threat of (IL) caused by arbitrageurs and frontrunners. And <em>mean-0 IL</em> entails Integral LPs having IL profiles that oscillate around 0. At times this IL will even become negative, meaning it becomes more profitable to supply an asset to a pool in contrast to just holding it in your wallet, and over time the IL will converge to 0.&nbsp;</p>
+
+
+
+<p>The combination of these systems with Integral’s overall efficiency has led to pronounced occasions of what the project’s team is calling <strong><em>impermanent profit</em></strong><strong> </strong>(IP<strong>)</strong>. Again, if IL means you would’ve been better off holding your assets than LPing them, <em>IP</em> means you ended up better off LPing than you would have by just holding the underlying assets.&nbsp;</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh3.googleusercontent.com/tQ3lQMssk8fCt8YGcx0J__JNKosMufKdj9x6GDPoHYzd4DGESJGM7NxD51pGlB2yMDcdIyw0dGVlQc5px-pYVPUt9972rehX2gijQE3JwOswIUfMOguhnwvCUGp8oumyX9VRqwJf" alt=""/></figure>
+
+
+
+<p>For instance, LPs of Integral’s ETH-USDT pool saw <a href="https://twitter.com/IntegralHQ/status/1396128896542597121">0.5% impermanent profit</a> within the <em>first week</em> of the AMM opening up trading to the public. Of course there are no guarantees for how anything will perform over time, but Integral’s efficiencies mean there’s undoubtedly more such profits where those came from for the project’s LPs going forward.&nbsp;</p>
+
+
+
+<h2><strong>ITGR pre-farming continues</strong></h2>
+
+
+
+<p>This coming June 7th, Integral’s token genesis event (TGE) will take place for the project’s native ITGR token. </p>
+
+
+
+<p>In the meantime, you can already start accruing ITGR rewards by providing liquidity for, or trading through, the AMM’s pools: ETH-WBTC, ETH-DAI, ETH-USDC, ETH-USDT, ETH-LINK, and the project’s newly launched stable pools, <a href="https://twitter.com/IntegralHQ/status/1397608962724294658">DAI-USDC, DAI-USDT, and USDC-USDT</a>. With its concentrated liquidity feature, these new pools are designed to deliver the same stablecoin depth and slippage as some of the biggest pools in DeFi, all while leading the industry in stablecoin trading fee levels at 2 bps. </p>
+
+
+
+<h2><strong>Keep an eye on Integral</strong></h2>
+
+
+
+<p>Integral is all but poised to grow from here, as the protocol’s ability to mirror competitors’s liquidity makes its potential considerable. At the same time the project is still young and has plenty of work on its roadmap, so there’s lots more to track from here.&nbsp;</p>
+
+
+
+<p>You can give <a href="https://integral.link/swap">Integral’s trading pools</a> a try for yourself when you next have the chance, and if you’re wanting to learn more about this game-changing decentralized exchange then you can stay up to speed by following Integral on <a href="https://twitter.com/IntegralHQ">Twitter</a> or by participating in Integral’s communities on <a href="https://discord.com/invite/GJYCF55Tb6">Discord</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drops series; We’ve partnered with Integral to help educate and inform the community about its OB-AMM technology. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/31/integral/index.html">Integral Aims to Win the AMM Wars</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

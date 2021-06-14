@@ -18,14 +18,14 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Introducing the DeFi Pulse Economic Safety Grade</title>
 		<link>./../../../2020/10/16/introducing-the-defi-pulse-economic-safety-grade/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Fri, 16 Oct 2020 18:18:00 +0000</pubDate>
-				<category><![CDATA[New Features]]></category>
+				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[aave]]></category>
 		<category><![CDATA[Compound]]></category>
 		<category><![CDATA[DeFi]]></category>
@@ -35,7 +35,9 @@
 		<category><![CDATA[security]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8585</guid>
 
-					<description><![CDATA[This past year has been an incredible time of maturation and expansion for decentralized finance. Familiar protocols have seen increased...]]></description>
+					<description><![CDATA[<p>This past year has been an incredible time of maturation and expansion for decentralized finance. Familiar protocols have seen increased...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/10/16/introducing-the-defi-pulse-economic-safety-grade/index.html">Introducing the DeFi Pulse Economic Safety Grade</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>This past year has been an incredible time of maturation and expansion for decentralized finance. Familiar protocols have seen increased adoption, cementing the foundation on which the whirlwind of new projects have been built. Our community has multiplied in numbers. Countless newcomers are venturing down the DeFi rabbit hole where it is easy to get lost in the numerous technological and economic terms and concepts you must learn. The whole experience can be ultimately overwhelming because not only is DeFi expanding wider, it is also getting deeper.<br><br>As DeFi grows larger with more complex and moving parts, it’s important that we have the tools necessary to safely sustain said growth. Each new user, token, feature, project, or protocol adds a variable that users need to take into account when weighing the risks of the protocols that they use. It’s difficult to say the least for users, new and old, to properly assess and compare economic risk across protocols. DeFi Pulse has long been an advocate for user safety and educating users about risk because informed users make informed decisions which results in a healthier ecosystem. And so, we’ve partnered with financial simulation experts at Gauntlet to provide a simpler way to inform users of risk: DeFi Pulse Economic Safety Grade.</p>
 
@@ -57,11 +59,12 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="580" src="./../../../wp-content/uploads/2020/10/Selection_430-1024x580.jpg" alt="" class="wp-image-8587" srcset="./../../../wp-content/uploads/2020/10/Selection_430-1024x580.jpg 1024w, ./../../../wp-content/uploads/2020/10/Selection_430-300x170.jpg 300w, ./../../../wp-content/uploads/2020/10/Selection_430-768x435.jpg 768w, ./../../../wp-content/uploads/2020/10/Selection_430-1536x870.jpg 1536w, ./../../../wp-content/uploads/2020/10/Selection_430-1568x889.jpg 1568w, ./../../../wp-content/uploads/2020/10/Selection_430.jpg 1904w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="580" src="https://defipulse.com/blog/wp-content/uploads/2020/10/Selection_430-1024x580.jpg" alt="" class="wp-image-8587" srcset="./../../../wp-content/uploads/2020/10/Selection_430-1024x580.jpg 1024w, ./../../../wp-content/uploads/2020/10/Selection_430-300x170.jpg 300w, ./../../../wp-content/uploads/2020/10/Selection_430-768x435.jpg 768w, ./../../../wp-content/uploads/2020/10/Selection_430-1536x870.jpg 1536w, ./../../../wp-content/uploads/2020/10/Selection_430-1568x889.jpg 1568w, ./../../../wp-content/uploads/2020/10/Selection_430.jpg 1904w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
 <p>Our team couldn&#8217;t be more excited to finally release these grades and to see their impact on the conversation around economic safety of DeFi protocols. Thanks for reading. If you have any questions, please come chat with us in our <a href="https://discord.gg/Gx4TCTk">Discord</a> or on <a href="https://twitter.com/defipulse">Twitter</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../2020/10/16/introducing-the-defi-pulse-economic-safety-grade/index.html">Introducing the DeFi Pulse Economic Safety Grade</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -71,7 +74,7 @@
 		<title>Introducing mStable &#8211; meta-assets with native yield and zero slippage swaps</title>
 		<link>./../../../2020/07/10/introducing-mstable/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Fri, 10 Jul 2020 13:30:00 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Protocol]]></category>
@@ -86,7 +89,9 @@
 		<category><![CDATA[USDC]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8351</guid>
 
-					<description><![CDATA[The fragmentation of the stablecoin market in DeFi has led to a lackluster experience for many crypto users. Gone are...]]></description>
+					<description><![CDATA[<p>The fragmentation of the stablecoin market in DeFi has led to a lackluster experience for many crypto users. Gone are...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/07/10/introducing-mstable/index.html">Introducing mStable &#8211; meta-assets with native yield and zero slippage swaps</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>The fragmentation of the stablecoin market in DeFi has led to a lackluster experience for many crypto users. Gone are the days when DeFi was DAI-centric; nowadays, most DeFi users find themselves having to shuffle between a handful of stablecoins in order to take advantage of the opportunities available in DeFi. </p>
 
@@ -176,7 +181,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="963" height="591" src="./../../../wp-content/uploads/2020/07/mta-dist.png" alt="" class="wp-image-8358" srcset="./../../../wp-content/uploads/2020/07/mta-dist.png 963w, ./../../../wp-content/uploads/2020/07/mta-dist-300x184.png 300w, ./../../../wp-content/uploads/2020/07/mta-dist-768x471.png 768w" sizes="(max-width: 963px) 100vw, 963px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="963" height="591" src="https://defipulse.com/blog/wp-content/uploads/2020/07/mta-dist.png" alt="" class="wp-image-8358" srcset="./../../../wp-content/uploads/2020/07/mta-dist.png 963w, ./../../../wp-content/uploads/2020/07/mta-dist-300x184.png 300w, ./../../../wp-content/uploads/2020/07/mta-dist-768x471.png 768w" sizes="(max-width: 963px) 100vw, 963px" /></figure>
 
 
 
@@ -188,7 +193,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/07/mta-rewards-1024x479.png" alt="" class="wp-image-8362"/></figure>
+<figure class="wp-block-image size-large"><img src="https://defipulse.com/blog/wp-content/uploads/2020/07/mta-rewards-1024x479.png" alt="" class="wp-image-8362"/></figure>
 
 
 
@@ -241,6 +246,7 @@
 
 
 <p><br><br><br></p>
+<p>The post <a rel="nofollow" href="./../../../2020/07/10/introducing-mstable/index.html">Introducing mStable &#8211; meta-assets with native yield and zero slippage swaps</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -250,7 +256,7 @@
 		<title>DeFi Dive: Aave Protocol &#8211; an open source non-custodial lending protocol</title>
 		<link>./../../../2020/02/13/defi-dive-aave-protocol/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Thu, 13 Feb 2020 14:10:34 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[aave]]></category>
@@ -262,9 +268,11 @@
 		<category><![CDATA[lending]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7980</guid>
 
-					<description><![CDATA[Off the heels of Aave Protocol storming DeFi Pulse&#8217;s rankings, Stani Kulechov founder and CEO of Aave joins us today....]]></description>
+					<description><![CDATA[<p>Off the heels of Aave Protocol storming DeFi Pulse&#8217;s rankings, Stani Kulechov founder and CEO of Aave joins us today....</p>
+<p>The post <a rel="nofollow" href="./../../../2020/02/13/defi-dive-aave-protocol/index.html">DeFi Dive: Aave Protocol &#8211; an open source non-custodial lending protocol</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/02/DeFi-Dive-Social-Media-Aave-thumbnail-example-1.png" alt="" class="wp-image-7982" width="1024" height="512"/></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/02/DeFi-Dive-Social-Media-Aave-thumbnail-example.png" alt="" class="wp-image-7982" width="1024" height="512" srcset="./../../../wp-content/uploads/2020/02/DeFi-Dive-Social-Media-Aave-thumbnail-example.png 1024w, ./../../../wp-content/uploads/2020/02/DeFi-Dive-Social-Media-Aave-thumbnail-example-300x150.png 300w, ./../../../wp-content/uploads/2020/02/DeFi-Dive-Social-Media-Aave-thumbnail-example-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -337,6 +345,7 @@
 
 
 <p>Check out our website to learn more and try out Aave Protocol: <a href="https://aave.com/">https://aave.com/ </a><br>Twitter for all the updates (and some memes): <a href="https://twitter.com/AaveAave">https://twitter.com/AaveAave</a> <br>Medium to read about the protocol, how to use it, security, and more: <a href="https://medium.com/aave">https://medium.com/aave</a> <br>Or join in our convo on Discord: <a href="https://discordapp.com/aave">https://discordapp.com/aave</a></p>
+<p>The post <a rel="nofollow" href="./../../../2020/02/13/defi-dive-aave-protocol/index.html">DeFi Dive: Aave Protocol &#8211; an open source non-custodial lending protocol</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

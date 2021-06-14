@@ -12,20 +12,130 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 May 2021 00:52:26 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 May 2021 15:32:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>Founder Fireside Chat with Ross Middleton of DeversiFi</title>
+		<link>./../../../2021/05/21/founder-fireside-chat-with-ross-middleton-of-deversifi/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Fri, 21 May 2021 15:32:30 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Founder Fireside Chats]]></category>
+		<category><![CDATA[deversifi]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[interview]]></category>
+		<category><![CDATA[rollups]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9156</guid>
+
+					<description><![CDATA[<p>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/21/founder-fireside-chat-with-ross-middleton-of-deversifi/index.html">Founder Fireside Chat with Ross Middleton of DeversiFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/deversifi_blog_header-1.png" alt="" class="wp-image-9164" width="1024" height="512" srcset="./../../../wp-content/uploads/2021/04/deversifi_blog_header-1.png 1024w, ./../../../wp-content/uploads/2021/04/deversifi_blog_header-1-300x150.png 300w, ./../../../wp-content/uploads/2021/04/deversifi_blog_header-1-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-medium-font-size"><em>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity to better understand their perspective and what drives them to build their vision.</em></p>
+
+
+
+<p class="has-medium-font-size">Another week, another intriguing chat to share with you all. For this week&#8217;s Founder Fireside Chat, we spoke with Ross Middleton, Co-Founder of <a href="https://defipulse.com/deversifi">DeversiFi</a>, about the leap forward in technology that rollups represent for our industry.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q1.png" alt="" class="wp-image-9026" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q1.png 1200w, ./../../../wp-content/uploads/2021/03/Q1-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q1-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q1-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">DeversiFI is a layer-2 exchange built on Ethereum. When we set out 2 years ago, we wanted to give people all the features and benefits that they were used to from trading on a large centralised exchange, but without giving up control of their funds. </p>
+
+
+
+<p class="has-medium-font-size">We launched on the StarkWare validium technology 10 months ago to launch the first scalable &amp; private DEX that offers incredible aggregated liquidity for major pairs. Trading &amp; Swapping on DeversiFi is private &#8211; privacy and aggregated liquidity are two of the main differentiators vs other order book DEXs.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">I think all three are important aspects. For those who haven&#8217;t encountered DeversiFI before, DeversiFi is a layer-2 exchanges that uses zk rollup/validium technology to achieve scalability without sacrificing security or decentralisation. </p>
+
+
+
+<p class="has-medium-font-size">We examined a number of different scaling solutions (and built one or two ourselves) before landing on zk rollup technology as rollups really do solve the scalability trilemma.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/Q6.png" alt="" class="wp-image-9134" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/04/Q6.png 1200w, ./../../../wp-content/uploads/2021/04/Q6-300x55.png 300w, ./../../../wp-content/uploads/2021/04/Q6-1024x188.png 1024w, ./../../../wp-content/uploads/2021/04/Q6-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">Building a product that people find useful and can actively be a real part of is key in building a long lasting community. <strong>If you give people a unique tool that solves one of their daily pain points then they are only too happy to provide feedback and put their time into making your project even better.</strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q3.png" alt="" class="wp-image-9031" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q3.png 1200w, ./../../../wp-content/uploads/2021/03/Q3-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q3-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q3-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">I am biased here but Layer-2 really is the future. All of these &#8216;Ethereum killer&#8217; layer-1 chains are having their moment in the sun because fees on Ethereum are so high at the moment. </p>
+
+
+
+<p class="has-medium-font-size">We have operating Layer-2 exchanges on Ethereum that allow people to trade &amp; swap without paying any gas at all. <strong>Within 12 months we will also start to see Ethereum Virtual Machine compatible rollups, bridges and CEX on/off-boarding. There may never be a reason for anyone to every touch Layer-1 Ethereum ever again, let alone another blockchain.</strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q4.png" alt="" class="wp-image-9032" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q4.png 1200w, ./../../../wp-content/uploads/2021/03/Q4-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q4-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q4-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">So many! We launched at the bottom of the bear market in 2020, before DEXs and DeFi was really a thing. </p>
+
+
+
+<p class="has-medium-font-size">We had an existing DEX that settled every trade on-chain, but it was taking up a lot of time to support and interfered with our ability to raise financing as people thought it was our main product. </p>
+
+
+
+<p class="has-medium-font-size">In hindsight, we should have stopped supporting our old product and focused entirely on the new one. There are so many other lessons that we have learned as a team but we don&#8217;t have time to go into more than one of two!</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">I like the &#8216;waiting for Eth 2.0 to launch meme&#8217; the most because <strong>we actually don&#8217;t need Eth 2.0 to fully launch now that we have a whole ecosystem of rollups that is springing up.</strong> I see rollups as a way to scale Ethereum for the long run, not just whilst we are waiting for execution sharding.</p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-very-light-gray-background-color has-very-light-gray-color is-style-wide"/>
+
+
+
+<p class="has-medium-font-size"><strong>Thank you for reading!</strong>&nbsp;A special thanks to Ross for joining us for a rather interesting conversation about how rollups have impacted DeFi. For more, you can find Ross Middleton on <a href="https://twitter.com/rossdefi">Twitter</a>&nbsp;and explore what <a href="https://www.deversifi.com/">DeversiFi</a> has to offer.</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/21/founder-fireside-chat-with-ross-middleton-of-deversifi/index.html">Founder Fireside Chat with Ross Middleton of DeversiFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>DeversiFi &#8211; A high-speed trading platform capable of 9000 TPS</title>
 		<link>./../../../2020/11/29/deversifi-nectar-beehive-v1/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 29 Nov 2020 14:00:03 +0000</pubDate>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Sun, 29 Nov 2020 19:00:03 +0000</pubDate>
 				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[decentralized exchange]]></category>
 		<category><![CDATA[DeFi]]></category>
 		<category><![CDATA[deversifi]]></category>
@@ -36,7 +146,9 @@
 		<category><![CDATA[token]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8715</guid>
 
-					<description><![CDATA[Let’s face it&#8230; In the heat of the moment when it matters most you want to be using the fastest,...]]></description>
+					<description><![CDATA[<p>Let’s face it&#8230; In the heat of the moment when it matters most you want to be using the fastest,...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/29/deversifi-nectar-beehive-v1/index.html">DeversiFi &#8211; A high-speed trading platform capable of 9000 TPS</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Let’s face it&#8230; In the heat of the moment when it matters most you want to be using the fastest, cheapest way to execute that critical trade. And when you trade on most DEXes, network congestion and the subsequent high gas fees impact your performance. Pay too low of a gas price and you’ll be stuck waiting around, sometimes only to have your transaction revert. So, your other option is to crank up the gas price and pay gas fees which add up over time, eating into your profits.&nbsp;</p>
 
@@ -203,6 +315,7 @@
 
 
 <p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with DeversiFi to help educate and inform the community about the DeversiFi and the Nectar Ecosystem. DeFi Pulse received NEC tokens as part of its payment. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em> </p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/29/deversifi-nectar-beehive-v1/index.html">DeversiFi &#8211; A high-speed trading platform capable of 9000 TPS</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

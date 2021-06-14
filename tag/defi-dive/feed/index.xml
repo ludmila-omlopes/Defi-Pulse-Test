@@ -18,12 +18,12 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>DeFi Dive: Aave Protocol &#8211; an open source non-custodial lending protocol</title>
 		<link>./../../../2020/02/13/defi-dive-aave-protocol/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Thu, 13 Feb 2020 14:10:34 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[aave]]></category>
@@ -35,9 +35,11 @@
 		<category><![CDATA[lending]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=7980</guid>
 
-					<description><![CDATA[Off the heels of Aave Protocol storming DeFi Pulse&#8217;s rankings, Stani Kulechov founder and CEO of Aave joins us today....]]></description>
+					<description><![CDATA[<p>Off the heels of Aave Protocol storming DeFi Pulse&#8217;s rankings, Stani Kulechov founder and CEO of Aave joins us today....</p>
+<p>The post <a rel="nofollow" href="./../../../2020/02/13/defi-dive-aave-protocol/index.html">DeFi Dive: Aave Protocol &#8211; an open source non-custodial lending protocol</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/02/DeFi-Dive-Social-Media-Aave-thumbnail-example-1.png" alt="" class="wp-image-7982" width="1024" height="512"/></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/02/DeFi-Dive-Social-Media-Aave-thumbnail-example.png" alt="" class="wp-image-7982" width="1024" height="512" srcset="./../../../wp-content/uploads/2020/02/DeFi-Dive-Social-Media-Aave-thumbnail-example.png 1024w, ./../../../wp-content/uploads/2020/02/DeFi-Dive-Social-Media-Aave-thumbnail-example-300x150.png 300w, ./../../../wp-content/uploads/2020/02/DeFi-Dive-Social-Media-Aave-thumbnail-example-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -110,6 +112,7 @@
 
 
 <p>Check out our website to learn more and try out Aave Protocol: <a href="https://aave.com/">https://aave.com/ </a><br>Twitter for all the updates (and some memes): <a href="https://twitter.com/AaveAave">https://twitter.com/AaveAave</a> <br>Medium to read about the protocol, how to use it, security, and more: <a href="https://medium.com/aave">https://medium.com/aave</a> <br>Or join in our convo on Discord: <a href="https://discordapp.com/aave">https://discordapp.com/aave</a></p>
+<p>The post <a rel="nofollow" href="./../../../2020/02/13/defi-dive-aave-protocol/index.html">DeFi Dive: Aave Protocol &#8211; an open source non-custodial lending protocol</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

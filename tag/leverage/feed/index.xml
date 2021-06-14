@@ -12,18 +12,18 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 09 May 2021 23:41:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 28 Jun 2020 15:29:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>MCDEX &#8211; 10x Perpetual Contracts Powered by Order Book/AMM Hybrid</title>
 		<link>./../../../2020/06/28/mcdex/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Sun, 28 Jun 2020 15:29:36 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[DeFi]]></category>
@@ -35,7 +35,9 @@
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8310</guid>
 
-					<description><![CDATA[DeFi has been on fire lately. Following the space has been absolutely riveting. We&#8217;ve got another sneak peek of an...]]></description>
+					<description><![CDATA[<p>DeFi has been on fire lately. Following the space has been absolutely riveting. We&#8217;ve got another sneak peek of an...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/06/28/mcdex/index.html">MCDEX &#8211; 10x Perpetual Contracts Powered by Order Book/AMM Hybrid</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>DeFi has been on fire lately. Following the space has been absolutely riveting. We&#8217;ve got another sneak peek of an interesting DeFi protocol for you today. The folks over at MCDEX have taken decentralized perpetual contracts and combined them with a hybrid on-chain AMM/off-chain order book in their recent upgrade MCDEX V2. </p>
 
@@ -57,7 +59,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="728" height="376" src="./../../../wp-content/uploads/2020/06/mai2-arch.png" alt="" class="wp-image-8313" srcset="./../../../wp-content/uploads/2020/06/mai2-arch.png 728w, ./../../../wp-content/uploads/2020/06/mai2-arch-300x155.png 300w" sizes="(max-width: 728px) 100vw, 728px" /><figcaption>hybrid architecture of Mai Protocol V2</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="728" height="376" src="https://defipulse.com/blog/wp-content/uploads/2020/06/mai2-arch.png" alt="" class="wp-image-8313" srcset="./../../../wp-content/uploads/2020/06/mai2-arch.png 728w, ./../../../wp-content/uploads/2020/06/mai2-arch-300x155.png 300w" sizes="(max-width: 728px) 100vw, 728px" /><figcaption>hybrid architecture of Mai Protocol V2</figcaption></figure>
 
 
 
@@ -93,11 +95,11 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://mcdex.io/trade?invite_code=052t01"><img loading="lazy" width="1024" height="613" src="./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-1024x613.jpg" alt="" class="wp-image-8337" srcset="./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-1024x613.jpg 1024w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-300x180.jpg 300w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-768x460.jpg 768w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39.jpg 1270w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Order book trading interface</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://mcdex.io/trade?invite_code=052t01"><img loading="lazy" width="1024" height="613" src="https://defipulse.com/blog/wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-1024x613.jpg" alt="" class="wp-image-8337" srcset="./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-1024x613.jpg 1024w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-300x180.jpg 300w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-768x460.jpg 768w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39.jpg 1270w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Order book trading interface</figcaption></figure></div>
 
 
 
-<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/06/1_l9B7vSmVvIYYPa6ZgwCNqQ-1024x500.png" alt="" class="wp-image-8317"/><figcaption>AMM interface</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://defipulse.com/blog/wp-content/uploads/2020/06/1_l9B7vSmVvIYYPa6ZgwCNqQ-1024x500.png" alt="" class="wp-image-8317"/><figcaption>AMM interface</figcaption></figure>
 
 
 
@@ -170,6 +172,7 @@
 
 
 <p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve partnered with MCDEX to inform the community about their protocol. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express as part of a DeFi Pulse Drop are our own. </em></p>
+<p>The post <a rel="nofollow" href="./../../../2020/06/28/mcdex/index.html">MCDEX &#8211; 10x Perpetual Contracts Powered by Order Book/AMM Hybrid</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -179,12 +182,15 @@
 		<title>Futureswap — Decentralized Futures With Up to 20x Leverage</title>
 		<link>./../../../2020/04/19/futureswap/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 19 Apr 2020 07:45:46 +0000</pubDate>
-				<category><![CDATA[Exchanges]]></category>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Sun, 19 Apr 2020 12:45:46 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Exchange]]></category>
+		<category><![CDATA[Exchanges]]></category>
 		<category><![CDATA[Futures]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[decentralized exchanges]]></category>
 		<category><![CDATA[derivatives]]></category>
 		<category><![CDATA[exchange]]></category>
@@ -194,13 +200,15 @@
 		<category><![CDATA[margin trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8112</guid>
 
-					<description><![CDATA[If you ask me, the most exciting part of decentralized finance is seeing DeFi&#8217;s money legos stacking up over time....]]></description>
+					<description><![CDATA[<p>If you ask me, the most exciting part of decentralized finance is seeing DeFi&#8217;s money legos stacking up over time....</p>
+<p>The post <a rel="nofollow" href="./../../../2020/04/19/futureswap/index.html">Futureswap — Decentralized Futures With Up to 20x Leverage</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>If you ask me, the most exciting part of decentralized finance is seeing DeFi&#8217;s money legos stacking up over time. Futureswap, launching Monday afternoon PST (April 20th, 2020), is a great example of how decentralized finance iterates on past successes to evolve into something even better.</p>
 
 
 
-<figure class="wp-block-image size-full"><a href="https://exchange.futureswap.com/?src=0xDA5167FfCa51e72703DCC2c0F2fEF1bB3A790fa0"><img loading="lazy" width="2488" height="1168" src="./../../../wp-content/uploads/2020/04/ROW-DG_1-1.png" alt="" class="wp-image-8166" srcset="./../../../wp-content/uploads/2020/04/ROW-DG_1-1.png 2488w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-300x141.png 300w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-1024x481.png 1024w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-768x361.png 768w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-1536x721.png 1536w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-2048x961.png 2048w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-1568x736.png 1568w" sizes="(max-width: 2488px) 100vw, 2488px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="https://exchange.futureswap.com/?src=0xDA5167FfCa51e72703DCC2c0F2fEF1bB3A790fa0"><img loading="lazy" width="2488" height="1168" src="https://defipulse.com/blog/wp-content/uploads/2020/04/ROW-DG_1-1.png" alt="" class="wp-image-8166" srcset="./../../../wp-content/uploads/2020/04/ROW-DG_1-1.png 2488w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-300x141.png 300w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-1024x481.png 1024w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-768x361.png 768w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-1536x721.png 1536w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-2048x961.png 2048w, ./../../../wp-content/uploads/2020/04/ROW-DG_1-1-1568x736.png 1568w" sizes="(max-width: 2488px) 100vw, 2488px" /></a></figure>
 
 
 
@@ -317,6 +325,7 @@
 
 
 <h4><strong><a href="https://exchange.futureswap.com/?src=0xDA5167FfCa51e72703DCC2c0F2fEF1bB3A790fa0">Futureswap</a> is set to launch at Monday afternoon PST (April 20, 2020) so there&#8217;s never been a better time to get involved.</strong></h4>
+<p>The post <a rel="nofollow" href="./../../../2020/04/19/futureswap/index.html">Futureswap — Decentralized Futures With Up to 20x Leverage</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

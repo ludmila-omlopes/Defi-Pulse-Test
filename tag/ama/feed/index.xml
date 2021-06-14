@@ -12,18 +12,418 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Fri, 26 Mar 2021 19:42:10 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 May 2021 17:34:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>AMA with Impermax Founder Simone Rigolon</title>
+		<link>./../../../2021/05/19/ama-with-impermax-founder-simone-rigolon/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Wed, 19 May 2021 17:34:14 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[ama]]></category>
+		<category><![CDATA[impermax]]></category>
+		<category><![CDATA[impermax-finance]]></category>
+		<category><![CDATA[interview]]></category>
+		<category><![CDATA[lending]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9312</guid>
+
+					<description><![CDATA[<p>This AMA session with Impermax Founder Simone Rigolon occurred on May 14th, 2021. The following is a transcription of the...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/19/ama-with-impermax-founder-simone-rigolon/index.html">AMA with Impermax Founder Simone Rigolon</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/05/simone-impermax-ama-1-1024x576.png" alt="" class="wp-image-9316" srcset="./../../../wp-content/uploads/2021/05/simone-impermax-ama-1-1024x576.png 1024w, ./../../../wp-content/uploads/2021/05/simone-impermax-ama-1-300x169.png 300w, ./../../../wp-content/uploads/2021/05/simone-impermax-ama-1-768x432.png 768w, ./../../../wp-content/uploads/2021/05/simone-impermax-ama-1-585x329.png 585w, ./../../../wp-content/uploads/2021/05/simone-impermax-ama-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>This AMA session with <a href="https://defipulse.com/impermax">Impermax</a> Founder Simone Rigolon occurred on May 14th, 2021. The following is a transcription of the live from DeFi Pulse’s AMA Discord channel. To participate in future AMAs, please join our <a href="https://discord.gg/Gx4TCTk">Discord</a> and follow us on <a href="https://twitter.com/defipulse">Twitter</a>.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p><strong>Chaz Schmidt:</strong> <em>Hello and welcome @everyone ! Thank you for joining us today for an AMA with Simone Rigolon, Founder of Impermax.</em></p>
+
+
+
+<p><em>Simone will be answering questions we&#8217;ve collected from you, the community, throughout the week. Special thanks to everyone who submitted questions for today&#8217;s AMA.</em></p>
+
+
+
+<p><em>Thanks for joining us Simone.</em> <strong>How are you today?</strong></p>
+
+
+
+<p><strong>Simone Rigolon</strong>: Hi Chaz and DeFi Pulse community! It&#8217;s a pleasure to be here.</p>
+
+
+
+<p>I&#8217;m very good, and you?</p>
+
+
+
+<p><strong>CS: </strong><em>I&#8217;m doing quite well. Thanks for asking.<br><br>To start things off, can you share a little about Impermax for the audience? </em><strong>What is Impermax?</strong></p>
+
+
+
+<p><strong>Simone:</strong> Impermax is a decentralized lending protocol designed around LP tokens.</p>
+
+
+
+<p>It allows borrowers to use LP tokens as collateral to take loans. This enables them to enter in leveraged positions on their LP tokens.</p>
+
+
+
+<p>On the other hand lenders are able to &#8220;indirectly provide liquidity&#8221; to Automated Market Makers by supplying their tokens to the borrowers. Lenders are able indirectly earn from AMMs trading fees without any exposure to impermanent loss.</p>
+
+
+
+<p><strong>CS:</strong> <em>Very cool. You touched on a point that piqued the community&#8217;s interest earlier this week on Twitter. </em><strong>Can you explain lndirect Liquidity Providing for those unfamiliar with the concept?</strong></p>
+
+
+
+<p><strong>Simone:<em> </em></strong>Let&#8217;s start from normal liquidity providing which means supplying tokens to an AMM. This can be a very profitable way to invest capital, but at the same time there is the risk of impermanent loss and there are some complexity that are going to get worse with time. Basicallly it is not ideal for the average user.</p>
+
+
+
+<p>Indirect liquidity providing means that you can lend your tokens to liquidity providers. They will borrow them and use them to provide liquidity to AMMs and earn trading fees. In return you will get a percentage of the trading fees they earn. This is ideal for the average user because it can be a &#8220;set and forget thing&#8221;, there is no exposure to IL and it requires only a single token.</p>
+
+
+
+<p><strong>CS:</strong><em> Ahh. So for example with for the USDC/ETH LP token pool you could provide USDC and earn trading fees without exposure to impermanent loss?</em></p>
+
+
+
+<p><strong>Simone: </strong>Exactly <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p><strong>CS:</strong> <em>Browsing through Impermax ahead of the AMA I noticed that LP token lending pools are isolated. </em><strong>What does this mean for Impermax users and what led to the decision to isolate the lending pools?</strong></p>
+
+
+
+<p><strong>Simone: </strong>There are many reasons that lead to this decision but the main one is that we wanted to build a protocol that was as permissionless as possible. Keeping all lending pools separated means that anyone can create a new one because even a malicious pool wouldn&#8217;t be able to affect negatively all the other existing pools.</p>
+
+
+
+<p>The main advantages of this choice are scalability, security and minimized governance.</p>
+
+
+
+<p><strong>CS:</strong> <em>That makes sense. Isolating the pools also isolates risk, mitigating any chance of systematic failure from one bad pair.</em></p>
+
+
+
+<p><strong>Simone:</strong> Exactly, it&#8217;s an architecture very similar to the one used by Uniswap for pairs.</p>
+
+
+
+<p><strong>CS: </strong><em>So Uniswap pairs are supported by Impermax today and the community wants to know: </em><strong>What AMM LP tokens do you plan to support in the future?</strong></p>
+
+
+
+<p><strong>Simone: </strong>The plan is to add support for more AMMs like Uniswap V3, SushiSwap, PancekeSwap and others. Ideally we would want to support as many LP tokens as possible. Luckily our choice of keeping all lending pairs isolated allow us to scale as much as we want since supporting a new LP tokens doesn&#8217;t have any drawback on the existing ones.</p>
+
+
+
+<p><strong>CS: </strong><em>I&#8217;m glad you brought up Uniswap V3 because I saw that on your <a href="https://impermax.medium.com/impermax-road-map-e320fdb4652d">roadmap</a> the other day and wondered how that will work with V3&#8217;s new price curve NFT setup. </em><strong>Can you shed any light on that at this time? </strong><em>We will accept soon <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> if necessary</em></p>
+
+
+
+<p><strong>Simone:</strong> I can&#8217;t give too many details on how exactly it will work because we&#8217;re still researching LP NFTs and the way they can be used as collateral. Some complicated math involved, so it&#8217;s hard to talk about that in an AMA. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f605.png" alt="😅" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p>Personally I&#8217;m very excited about supporting LP NFTs on Impermax because Uniswap V3 is very capital efficient by itself, and with NFTs enabled to be used as collateral that&#8217;s going to improve even more!</p>
+
+
+
+<p><strong>CS: </strong><em>No worries! The audience can stay tuned for that one. We only have a few minutes left anyways.</em></p>
+
+
+
+<p><em>Since we&#8217;re on the topic of the roadmap,</em> <strong>what’s coming up on the roadmap that you’re excited about?</strong><br><br><em>Or even a recent release since you mentioned LP NFTs.</em></p>
+
+
+
+<p><strong>Simone:</strong> Many things like new features for the existing app, support for Uniswap V3 support for layer 2 and other networks.</p>
+
+
+
+<p>I bet users are going to be very happy once Impermax releases on lower fees networks, but personally the thing I&#8217;m most excited about is Uniswap V3 support, for the reasons I&#8217;ve just talked about. Capital efficiency is key for AMMs in the long term and both UniswapV3 and Impermax are solutions to improve it.</p>
+
+
+
+<p><strong>CS: </strong><em>When you put it like that, it&#8217;s easier to see why on your website, you describe Impermax as “The missing piece to the Automated Market Makers&#8217; puzzle”</em></p>
+
+
+
+<p><em>In your own words, </em><strong>how does Impermax complement AMMs and where do you see Impermax fitting into the puzzle?</strong><br><br><em>We&#8217;ve reached 30 minutes. Do you have time to answer this and maybe one other question?</em></p>
+
+
+
+<p><strong>Simone: </strong>Wow time runs fast. Yes, I have have time.</p>
+
+
+
+<p><strong>CS: </strong><em>I know right? Awesome I wanted to touch on one other aspect of Impermax that our community was asking about.<br><br>Impermax introduced a liquidity mining program which rewards users with IMX tokens for borrowing on Impermax.</em> <strong>What was the motivation behind incentivizing borrowing?</strong></p>
+
+
+
+<p><strong>Simone: </strong> The main reason is to incentivize the protocol usage and attract more liquidity. Impermax needs a lot of liquidity in order for the incentives to really work as they should. Farming is always a good way to bootstrap a new protocol.</p>
+
+
+
+<p>There are a few reasons why we incentivized only borrowing and not lending. The main one is because lenders are still indirectly rewarded since the borrowing demand is very high. Not giving the reward to lenders means that they don&#8217;t have to worry about claiming it and instead they are rewarded with an higher supply APR that will compound over time.</p>
+
+
+
+<p><strong>CS: </strong><em>Interesting. In other words, borrowers pursuing more liquidity mining rewards earn more trading fees for lenders.<br><br>I think that&#8217;s about all the time we have for today. Is there anything else you&#8217;d like to say?</em></p>
+
+
+
+<p><strong>Simone: </strong>Not really, I just want to thank you and DeFi Pulse for organizing this event. It was a pleasure to answer these questions.</p>
+
+
+
+<p><strong>CS: </strong><em>You&#8217;re welcome as always. Thank you for coming! I learned a thing or two and I&#8217;m sure the audience found it helpful.</em></p>
+
+
+
+<p><em>And thank you all for coming to today&#8217;s AMA!</em></p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p>Learn <a href="https://defipulse.com/blog/leveraging-your-amm-lp-tokens-with-impermax/">more about Impermax </a> and join the Impermax community on <a href="https://twitter.com/ImpermaxFinance">Twitter</a>, <a href="https://t.me/ImpermaxFinance">Telegram</a>, or <a href="https://discord.gg/XN739EgG4X">Discord</a>.</p>
+
+
+
+<p>And make sure to follow us on <a href="https://twitter.com/defipulse">Twitter</a> to hear about future AMAs!</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Partner Program; We’ve partnered with Impermax to help educate and inform the community about its permissionless lending markets. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/19/ama-with-impermax-founder-simone-rigolon/index.html">AMA with Impermax Founder Simone Rigolon</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AMA with Slingshot CEO Clinton Bembry Jr.</title>
+		<link>./../../../2021/05/12/ama-with-slingshot-ceo-clinton-bembry-jr/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Wed, 12 May 2021 16:49:56 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[ama]]></category>
+		<category><![CDATA[dex aggregator]]></category>
+		<category><![CDATA[Dex.Ag]]></category>
+		<category><![CDATA[dexag]]></category>
+		<category><![CDATA[DEXes]]></category>
+		<category><![CDATA[slingshot]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9278</guid>
+
+					<description><![CDATA[<p>This AMA session with Slingshot CEO Clinton Bembry Jr. occurred on May 7th, 2021. The following is a transcription of...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/12/ama-with-slingshot-ceo-clinton-bembry-jr/index.html">AMA with Slingshot CEO Clinton Bembry Jr.</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/05/Slingshot-ama-1024x576.png" alt="" class="wp-image-9279"/></figure>
+
+
+
+<p>This AMA session with Slingshot CEO Clinton Bembry Jr. occurred on May 7th, 2021. The following is a transcription of the live from DeFi Pulse’s AMA Discord channel. To participate in future AMAs, please join our <a href="https://discord.gg/Gx4TCTk">Discord</a> and follow us on <a href="https://twitter.com/defipulse">Twitter</a>.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p><strong>Chaz Schmidt:<em> </em></strong><em>Hello and welcome @everyone! Thank you for joining us today for an AMA with Clinton Bembry Jr., CEO of Slingshot ( @Clinton | Slingshot ).&nbsp;</em></p>
+
+
+
+<p><em>The AMA will last around 30 minutes and will be made available shortly after for those who could not attend.</em></p>
+
+
+
+<p><em>Clinton will be answering the questions we&#8217;ve collected from the community throughout the week. A special thanks to those of you who submitted questions for today&#8217;s AMA.</em><strong><em><br></em></strong><strong><em><br></em></strong><strong>How&#8217;s it going Clinton?</strong></p>
+
+
+
+<p><strong>Clinton Bembry Jr.:</strong> Hey Chaz! doing well, hbu?</p>
+
+
+
+<p><strong>CS: </strong><em>Not too shabby. Thanks everyone for showing up for the AMA. Let&#8217;s start off with a rather easy question&#8230;</em></p>
+
+
+
+<p><strong>What is Slingshot?</strong></p>
+
+
+
+<p><strong>Clinton:</strong> sweet, Slingshot is a decentralized trading platform that aggregates liquidity across DEX protocols (like uniswap, sushiswap, curve, etc.) to offer user sthe best prices on their trades. We place a huge emphasis on user-experience and aim to offer the ultimate trading experience for both DeFi natives and newcomers to crypto!</p>
+
+
+
+<p><strong>CS: </strong><em>This next one comes from the Slingshot Discord where folks are clamoring for more details on Slingshot ever since your initial teaser earlier this year.</em></p>
+
+
+
+<p><strong>What will separate Slingshot from all other DEXes already operating? Uniswap, SushiSwap, LinkSwap, DODO, etc.</strong><br><br><strong>Clinton:</strong> so Slingshot itself isn&#8217;t a DEX, we plug our liquidity engine into other DEXes like uniswap and sushiswap etc</p>
+
+
+
+<p>By aggregating liquidity and splitting orders between other DEXes we are able to offer much better prices than if you were to trade on an individual DEX<br><br>Slingshot isn&#8217;t just about the best prices, but also unparalleled user-experience</p>
+
+
+
+<p><strong>CS: </strong><em>I know for many DeFi users fees can be a big factor when it comes to user experience.</em><br><br><strong>How does Slingshot plan to support trading on layer 2 or multiple chains?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>definitely, many people (myself included) got priced out of trading on Ethereum L1</p>
+
+
+
+<p>At launch we will suport trading on Polygon, which is an Ethereum L2/sidechain. The tx fee on Polygon for a trade is as low as $0.0002, compared to Ethereum which can be a $100+ fee per trade</p>
+
+
+
+<p>At Slingshot we&#8217;re all about pricing people back into DeFi <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p><strong>CS:</strong><em> Sounds good to me. I like low fees. I saw in your Discord that Closed Beta users have been able to use Slingshot on Polygon already.</em></p>
+
+
+
+<p><strong>What has been the most useful feedback from the closed beta so far?</strong></p>
+
+
+
+<p><strong>Clinton:</strong> Our polygon support is a result of the feedback we received from our earliest beta users. Due to high fees they were being forced to turn back to the world centralized trading. We began working on L2 support immediately and shipped it a few weeks later.</p>
+
+
+
+<p>other than that &#8211; it&#8217;s been very helpful in general to hear which features users want to see to aid in their trading flows</p>
+
+
+
+<p><strong>CS: </strong><em>That actually leads straight into my next question which is:</em><strong> What features of Slingshot are you most excited for the public to see?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>aside from the lightning fast L2 trading + unbeatable prices, i&#8217;m personally excited for people to experience all of the real-time, on-chain data we pump through our platform.</p>
+
+
+
+<p>Every time a block get&#8217;s mined we parse all trading activity and surface it to our users and it makes for a visceral experience!</p>
+
+
+
+<p>oh also &#8211; our price charts are custom made and look really cool :sunglasses:</p>
+
+
+
+<p><strong>CS: </strong><em>I can attest to this personally. I&#8217;ve gotten a chance to test Slingshot in the beta and I found myself getting lost in it like it is a game. The flow from seeing a price change on the ticker, clicking it to select the token, and executing the trade was incredible. A community member wanted to know more about the sci-fi browser game that Slingshot produced where players could win their way into the beta.</em><strong> In their words, &#8220;What was the point of the game?&#8221; And, will other aspects of Slingshot involve gamification?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>the point of the game was&nbsp; to announce our closed-beta and bootstrap an initial user-base, while also having some fun while we build the future of finance!<br><br>I mean, how else are you supposed to announce a beta?</p>
+
+
+
+<p><strong>CS: </strong><em>Solid point haha</em><br><br><em>And it was fun. One player was even so fast they were accused of being a robot</em> <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f916.png" alt="🤖" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p><strong>Clinton: </strong>haha yes, a bit of a speed-running competition broke out! as far as I could tell, they were all legit, no bots!</p>
+
+
+
+<p><strong>CS: </strong><em>We&#8217;re reaching near the end now and it&#8217;s been super interesting so far. If you&#8217;re up for it Clinton, we have a couple more of questions before we let you go</em></p>
+
+
+
+<p><strong>Clinton: </strong>Of course!<br><br><strong>CS: </strong><em>I think the audience would get angry if I didn&#8217;t ask the obvious: </em><strong>When launch?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>soon <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> bahaha<br>forreal though &#8211; very soon<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p><strong>CS: </strong><em>We&#8217;ll accept that answer.</em><br><br><strong>Clinton: </strong>we want to get Slingshout out publicly for everyone to use ASAP</p>
+
+
+
+<p><strong>CS: </strong><em>I think that&#8217;s about all the questions we have time for.&nbsp;</em></p>
+
+
+
+<p><em>Thank you for joining us Clinton. I know I for one am excited for Slingshot to go live.</em></p>
+
+
+
+<p><strong>Clinton: </strong>awesome, thanks for having me!</p>
+
+
+
+<p>quick plug &#8211; we&#8217;re hiring for a lot of roles at Slingshot. If you&#8217;re interested in helping us build the future of trading, <a href="https://slingshot-finance.homerun.co/">check out our job postings here</a>.</p>
+
+
+
+<p><strong>CS: </strong><em>Haha yes. Be sure to reach out if you fit those roles lol</em></p>
+
+
+
+<p><strong>Anything else you&#8217;d like to add before we go?</strong></p>
+
+
+
+<p><strong>Clinton: </strong>that&#8217;s all from me!</p>
+
+
+
+<p><strong>CS: </strong><em>Well it was a pleasure talking with you</em></p>
+
+
+
+<p><em>Thank you everyone for attending! I hope your curiosities were satisfied.</em></p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p>Follow us on <a href="https://twitter.com/defipulse">Twitter</a> to hear about the latest AMA and don’t forget to keep your eyes on Slingshot for the true answer to the question: when launch?<em><br></em><em><br></em><em>Disclosure: This post is paid promotion; We’ve partnered with Slingshot to help educate and inform the community about Slingshot’s decentralized trading platform. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/12/ama-with-slingshot-ceo-clinton-bembry-jr/index.html">AMA with Slingshot CEO Clinton Bembry Jr.</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Founder Fireside Chat with Eric Chen of Injective Protocol</title>
 		<link>./../../../2021/03/26/founder-fireside-chat-with-eric-chen-from-injective-protocol/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Fri, 26 Mar 2021 19:42:10 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[ama]]></category>
@@ -33,9 +433,11 @@
 		<category><![CDATA[interview]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8990</guid>
 
-					<description><![CDATA[The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...]]></description>
+					<description><![CDATA[<p>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/03/26/founder-fireside-chat-with-eric-chen-from-injective-protocol/index.html">Founder Fireside Chat with Eric Chen of Injective Protocol</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Injective-Header-1-2.png" alt="" class="wp-image-9029" width="1024" height="512"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Injective-Header-1.png" alt="" class="wp-image-9029" width="1024" height="512"/></figure>
 
 
 
@@ -47,7 +449,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q1-1.png" alt="" class="wp-image-9026" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q1.png" alt="" class="wp-image-9026" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q1.png 1200w, ./../../../wp-content/uploads/2021/03/Q1-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q1-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q1-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -59,7 +461,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -67,7 +469,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q3-1.png" alt="" class="wp-image-9031" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q3.png" alt="" class="wp-image-9031" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q3.png 1200w, ./../../../wp-content/uploads/2021/03/Q3-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q3-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q3-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -75,7 +477,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q4-1.png" alt="" class="wp-image-9032" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q4.png" alt="" class="wp-image-9032" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q4.png 1200w, ./../../../wp-content/uploads/2021/03/Q4-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q4-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q4-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -83,7 +485,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -100,6 +502,7 @@
 
 
 <p class="has-medium-font-size"><strong>Thank you for reading. </strong>We&#8217;d love to hear your thoughts on the series like, for example, which DeFi founders you&#8217;d like to see highlighted in the future.</p>
+<p>The post <a rel="nofollow" href="./../../../2021/03/26/founder-fireside-chat-with-eric-chen-from-injective-protocol/index.html">Founder Fireside Chat with Eric Chen of Injective Protocol</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

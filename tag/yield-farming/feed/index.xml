@@ -12,21 +12,123 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 May 2021 01:24:57 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 May 2021 20:35:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>Impermax&#8217;s Indirect Liquidity Providing Makes DeFi Easier</title>
+		<link>./../../../2021/05/26/impermax-indirect-liquidity-providing-makes-defi-easier/index.html</link>
+		
+		<dc:creator><![CDATA[William Peaster]]></dc:creator>
+		<pubDate>Wed, 26 May 2021 20:35:02 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Explainers]]></category>
+		<category><![CDATA[impermax]]></category>
+		<category><![CDATA[impermax finance]]></category>
+		<category><![CDATA[impermax-finance]]></category>
+		<category><![CDATA[lending]]></category>
+		<category><![CDATA[yield farming]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9342</guid>
+
+					<description><![CDATA[<p>Previously, providing liquidity to automated market maker (AMM) projects in DeFi has been a manual and somewhat tedious process. You...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/26/impermax-indirect-liquidity-providing-makes-defi-easier/index.html">Impermax&#8217;s Indirect Liquidity Providing Makes DeFi Easier</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Previously, providing liquidity to automated market maker (AMM) projects in DeFi has been a manual and somewhat tedious process. You source the required amount of tokens for your desired pair, approve token contracts, pay gas fees to deposit, and then if you’re looking to farm further yields you might go and stake your new liquidity provider (LP) tokens, which takes yet another transaction.&nbsp;&nbsp;</p>
+
+
+
+<p>You go through all these steps only to endure the risk of impermanent loss (IL) while you serve as an LP. Now, though, <em>it is</em> possible to provide liquidity and earn DeFi yields simply and without the risk of IL. That’s because <a href="https://impermax.finance/"><strong>Impermax</strong></a>, a decentralized marketplace for borrowing and lending LP tokens, is offering a game-changing new way to participate in LPing called <em>Indirect Liquidity Providing</em>.&nbsp;</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh3.googleusercontent.com/uqVZj40ev81y7CVPscU_0BVsVbfsJJdOBw4VjUjsn0FlIU629FU_0Xnxwji7vd5dEYl2qaZZDIR_l1n-QHD0xv5zWwFbETl4airftBWwWfbQF-iVk3VMoZFQHmnrTNA_r6ThM_Ui" alt=""/></figure>
+
+
+
+<h2><strong>A new way to LP in DeFi</strong></h2>
+
+
+
+<p><strong>Indirect Liquidity Providing</strong>, a novel way to participate in DeFi liquidity markets, involves earning yield by <em>lending </em>assets to other LP token holders.&nbsp;</p>
+
+
+
+<p>In the <a href="http://defipulse.com/impermax">Impermax</a> system this works through the protocol’s lending pools, which use LP tokens like ETH-DAI Uniswap V2 LP tokens as collateral. These pools only allow borrowing and lending around a given pool’s token pair, such as ETH and/or DAI if you’re borrowing against ETH-DAI UNI-V2 tokens.&nbsp;</p>
+
+
+
+<p>Accordingly, DeFi users can now supply a <em>single </em>token to an Impermax lending pool to earn yields indirectly through an AMM, all while facing essentially no threat of impermanent loss. This is in stark contrast to the IL risk users take on when they directly serve as LPs!&nbsp;</p>
+
+
+
+<p><a href="https://impermax.finance/"><img loading="lazy" width="555" height="329" src="https://lh6.googleusercontent.com/2z3yCV7xfTT6sA_rTwCtmQN47qNPcMAicueZTYMiZ9_DZP4SQEghbdR73-3fxZvHPL7D7fsnXJdHC6-v0Kx8kU2EKtvRsAkit5QQp6aO0JtDS4YkjtZBE23z9RhMDhPy2KOzLGHc"></a></p>
+
+
+
+<p>In this way, we can understand Impermax as an <strong>Indirect Liquidity market</strong>. Users lend their assets to yield farmers, who then convert these assets into further LP tokens in order to boost their own yields. These yield farmers take on all the risk of impermanent loss while paying out a portion of their yields to pay back their loans from Impermax lenders.&nbsp;</p>
+
+
+
+<h2><strong>Yield farming made simple</strong></h2>
+
+
+
+<p>A key advantage of the Indirect Liquidity Providing system is that it offers lenders an easy, simplistic avenue for yield farming. This is because Impermax’s lending markets do away with having to go through multiple steps like acquiring LP tokens and thereafter staking them in order to farm.&nbsp;</p>
+
+
+
+<p>Instead, <strong>lending through Impermax offers a casual, one-step, staking-like process for yield farming</strong>: you deposit a token into your lending pool of choice, and voila, you’re earning yield and can claim it any time. That’s about as simple as it gets when it comes to farming opportunities in DeFi, so these farms also minimize the need for transactions, which can really add up gas-wise with other traditional yield farms!&nbsp;</p>
+
+
+
+<p>DeFi beginners want entry-level yield farms, and DeFi veterans enjoy simple passive earning opportunities, so Indirect Liquidity Providing has a little something for everyone. This will ensure Impermax will continue to have an important role to play in DeFi, as there’s big demand for simple yield farming solutions while many AMMs are becoming increasingly complex, like Uniswap V3.&nbsp;</p>
+
+
+
+<h2><strong>Good for DeFi</strong></h2>
+
+
+
+<p>To compete with traditional finance, DeFi will need to continue being a liquidity blackhole and continue attracting in more money. More money equals more efficiency, and more efficiency means better options for users.&nbsp;</p>
+
+
+
+<p>As such, <strong>Impermax’s Indirect Liquidity Providing innovation represents a benefit for all of DeFi</strong>, insofar as this new lending style makes it easier to provide liquidity to AMMs and can thus help these AMMs grow faster than they would have otherwise.&nbsp;</p>
+
+
+
+<p>In time, then, we might even see some AMM projects incentivize and promote Impermax’s lending markets since these markets can serve as a direct and increasingly important pipeline of activity to them.&nbsp;</p>
+
+
+
+<h2><strong>Learn more about Impermax</strong></h2>
+
+
+
+<p>Impermax is a first-of-its-kind protocol for borrowing and lending LP tokens, so be sure to keep the project on your radar as it now works on adding support for LP tokens from Uniswap V3 and other major DeFi trading protocols like Curve and SushiSwap. You can learn more by following Impermax on <a href="https://twitter.com/ImpermaxFinance">Twitter</a> or by joining in on the project’s community discussions on <a href="https://discord.gg/XN739EgG4X">Discord</a> and <a href="https://t.me/ImpermaxFinance">Telegram</a>.</p>
+
+
+
+<p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Partner Program; We’ve partnered with Impermax to help educate and inform the community about its permissionless lending markets. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/26/impermax-indirect-liquidity-providing-makes-defi-easier/index.html">Impermax&#8217;s Indirect Liquidity Providing Makes DeFi Easier</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Vesper &#8211; Toward a Sustainable Ecosystem of DeFi Products</title>
 		<link>./../../../2021/02/14/vesper/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Sun, 14 Feb 2021 16:57:01 +0000</pubDate>
-				<category><![CDATA[Explainers]]></category>
-		<category><![CDATA[New Features]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Explainers]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[passive income]]></category>
 		<category><![CDATA[vesper]]></category>
@@ -36,7 +138,9 @@
 		<category><![CDATA[yieldfarming]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8870</guid>
 
-					<description><![CDATA[DeFi is a fast moving and highly competitive space. While DeFi may level the playing field by allowing anyone to...]]></description>
+					<description><![CDATA[<p>DeFi is a fast moving and highly competitive space. While DeFi may level the playing field by allowing anyone to...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/02/14/vesper/index.html">Vesper &#8211; Toward a Sustainable Ecosystem of DeFi Products</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>DeFi is a fast moving and highly competitive space. While DeFi may level the playing field by allowing anyone to participate, it still comes with risks and has a steep learning curve. When these factors are combined, it’s easy to see how the average user may feel left behind at times. Built by the team at Bloq, <a href="http://pubads.g.doubleclick.net/gampad/clk?id=5620418823&amp;iu=/22134506417">Vesper Finance</a> attempts to lower the barrier to entry for users by striking a balance between professionalism and DeFi’s dynamism in its products. Vesper’s first product — Vesper Grow, originally introduced as “Holding Pools” — offers users an easier way to passively earn a yield with their tokens, though with several innovations including a <a href="https://medium.com/vesperfinance/inside-vesper-modularity-48e64c810760">modular</a>, <a href="https://medium.com/vesperfinance/inside-vesper-multi-pool-3ea7f7325d39">multi-pool</a> design enabling pools to adapt and transition strategies behind the scenes.&nbsp;</p>
 
@@ -46,7 +150,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=5620418823&amp;iu=/22134506417"><img loading="lazy" width="604" height="179" src="./../../../wp-content/uploads/2021/02/ONoLln5Q.png" alt="" class="wp-image-8888" srcset="./../../../wp-content/uploads/2021/02/ONoLln5Q.png 604w, ./../../../wp-content/uploads/2021/02/ONoLln5Q-300x89.png 300w" sizes="(max-width: 604px) 100vw, 604px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=5620418823&amp;iu=/22134506417"><img loading="lazy" width="604" height="179" src="https://defipulse.com/blog/wp-content/uploads/2021/02/ONoLln5Q.png" alt="" class="wp-image-8888" srcset="./../../../wp-content/uploads/2021/02/ONoLln5Q.png 604w, ./../../../wp-content/uploads/2021/02/ONoLln5Q-300x89.png 300w" sizes="(max-width: 604px) 100vw, 604px" /></a></figure>
 
 
 
@@ -126,7 +230,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-1024x576.png" alt="" class="wp-image-8875" width="768" height="432" srcset="./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-1024x576.png 1024w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-300x169.png 300w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-768x432.png 768w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-1536x864.png 1536w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-2048x1152.png 2048w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-1568x882.png 1568w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-1024x576.png" alt="" class="wp-image-8875" width="768" height="432" srcset="./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-1024x576.png 1024w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-300x169.png 300w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-768x432.png 768w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-1536x864.png 1536w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-2048x1152.png 2048w, ./../../../wp-content/uploads/2021/02/revenue-model-D3-keynote-light-background-2x_1-1568x882.png 1568w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
 
 
 
@@ -163,6 +267,7 @@
 
 
 <p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Vesper to help educate and inform the community about Vesper pools. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/02/14/vesper/index.html">Vesper &#8211; Toward a Sustainable Ecosystem of DeFi Products</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -172,9 +277,10 @@
 		<title>Alpha Homora V2 &#8211; Yield Farm With Up To 9x Leverage</title>
 		<link>./../../../2021/01/31/alpha-homora-v2/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Sun, 31 Jan 2021 23:58:58 +0000</pubDate>
-				<category><![CDATA[Ecosystem]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Explainers]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[alpha]]></category>
@@ -187,7 +293,9 @@
 		<category><![CDATA[yieldfarming]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8837</guid>
 
-					<description><![CDATA[Alpha Homora was a DeFi product born out of practicality. Those familiar with DeFi can tell you that users will...]]></description>
+					<description><![CDATA[<p>Alpha Homora was a DeFi product born out of practicality. Those familiar with DeFi can tell you that users will...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/01/31/alpha-homora-v2/index.html">Alpha Homora V2 &#8211; Yield Farm With Up To 9x Leverage</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Alpha Homora was a DeFi product born out of practicality. Those familiar with DeFi can tell you that users will go to extraordinary lengths when they spot an opportunity. This proved to be especially true as the yield farming craze reached a fever pitch in 2020 when users would combine various lending protocols to leverage yield farming opportunities. It wasn’t long before <a href="https://alphafinance.io/">Alpha Finance Lab</a> spotted this gap in the market and created Alpha Homora to give users a better way to yield farm with leverage more efficiently while also attempting to minimize the risks involved.</p>
 
@@ -197,7 +305,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/01/alpha-social-thumb-1024x549.png" alt="" class="wp-image-8843" width="768" height="412" srcset="./../../../wp-content/uploads/2021/01/alpha-social-thumb-1024x549.png 1024w, ./../../../wp-content/uploads/2021/01/alpha-social-thumb-300x161.png 300w, ./../../../wp-content/uploads/2021/01/alpha-social-thumb-768x411.png 768w, ./../../../wp-content/uploads/2021/01/alpha-social-thumb.png 1400w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/01/alpha-social-thumb-1024x549.png" alt="" class="wp-image-8843" width="768" height="412" srcset="./../../../wp-content/uploads/2021/01/alpha-social-thumb-1024x549.png 1024w, ./../../../wp-content/uploads/2021/01/alpha-social-thumb-300x161.png 300w, ./../../../wp-content/uploads/2021/01/alpha-social-thumb-768x411.png 768w, ./../../../wp-content/uploads/2021/01/alpha-social-thumb.png 1400w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
 
 
 
@@ -286,6 +394,7 @@
 
 
 <p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Alpha Finance Lab to help educate and inform the community about the launch of Alpha Homora V2. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/01/31/alpha-homora-v2/index.html">Alpha Homora V2 &#8211; Yield Farm With Up To 9x Leverage</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -295,10 +404,12 @@
 		<title>Harvest Finance &#8211; Industrial Automated Yield Farming for All</title>
 		<link>./../../../2020/12/13/harvest-finance-drop/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 13 Dec 2020 16:59:09 +0000</pubDate>
-				<category><![CDATA[Protocol]]></category>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Sun, 13 Dec 2020 21:59:09 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Protocol]]></category>
 		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[aggregator]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[harvest]]></category>
@@ -309,7 +420,9 @@
 		<category><![CDATA[yieldfarming]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8734</guid>
 
-					<description><![CDATA[Yield farming allows projects to bootstrap their communities through incentives created by distributing their protocol’s token, essentially killing two birds...]]></description>
+					<description><![CDATA[<p>Yield farming allows projects to bootstrap their communities through incentives created by distributing their protocol’s token, essentially killing two birds...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/12/13/harvest-finance-drop/index.html">Harvest Finance &#8211; Industrial Automated Yield Farming for All</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Yield farming allows projects to bootstrap their communities through incentives created by distributing their protocol’s token, essentially killing two birds with one stone. While these farming opportunities are open to all participants, making the most of these opportunities requires a certain amount of capital and expertise. And nowadays, yield farming has practically become a full-time job.</p>
 
@@ -395,7 +508,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1024x1024.jpeg" alt="" class="wp-image-8759" width="512" height="512" srcset="./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1024x1024.jpeg 1024w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-300x300.jpeg 300w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-150x150.jpeg 150w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-768x768.jpeg 768w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1536x1536.jpeg 1536w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-2048x2048.jpeg 2048w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1568x1568.jpeg 1568w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption>Artwork from Harvest community member <a href="https://twitter.com/stulmtuno4273/status/1330292559277682693/photo/3">Sumire</a></figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/12/farmer-chad-snow1-1-1024x1024.jpeg" alt="" class="wp-image-8759" width="512" height="512" srcset="./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1024x1024.jpeg 1024w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-300x300.jpeg 300w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-150x150.jpeg 150w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-768x768.jpeg 768w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1536x1536.jpeg 1536w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-2048x2048.jpeg 2048w, ./../../../wp-content/uploads/2020/12/farmer-chad-snow1-1-1568x1568.jpeg 1568w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption>Artwork from Harvest community member <a href="https://twitter.com/stulmtuno4273/status/1330292559277682693/photo/3">Sumire</a></figcaption></figure></div>
 
 
 
@@ -424,6 +537,7 @@
 
 
 <p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Harvest to help educate and inform the community about the Harvest Cooperative. </em><em>DeFi Pulse received FARM tokens as part of its payment. </em><em>As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2020/12/13/harvest-finance-drop/index.html">Harvest Finance &#8211; Industrial Automated Yield Farming for All</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -433,7 +547,7 @@
 		<title>Rari Capital V2: A Yield Maximizing Robo-Advisor for Any Risk Appetite</title>
 		<link>./../../../2020/10/19/rari-capital-v2/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Mon, 19 Oct 2020 13:59:29 +0000</pubDate>
 				<category><![CDATA[Protocol]]></category>
 		<category><![CDATA[aggregator]]></category>
@@ -444,7 +558,9 @@
 		<category><![CDATA[yieldfarming]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8580</guid>
 
-					<description><![CDATA[As any yield farmer can tell you, chasing higher yields can be a risky endeavour and in most cases is...]]></description>
+					<description><![CDATA[<p>As any yield farmer can tell you, chasing higher yields can be a risky endeavour and in most cases is...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/10/19/rari-capital-v2/index.html">Rari Capital V2: A Yield Maximizing Robo-Advisor for Any Risk Appetite</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>As any yield farmer can tell you, chasing higher yields can be a risky endeavour and in most cases is not a sustainable strategy for the average user. It’s all too easy to get caught up in hype and be blinded by outrageous yields. If you aren’t careful or are simply unaware of risks such as hidden backdoors in unaudited smart contracts, it becomes increasingly possible that you could get burned. Getting exploited, “rug pulled”, and otherwise losing your investment is devastating. This sort of risk is intolerable for most investors. Although, that doesn’t mean those same investors aren’t out to maximize their yields; They simply want to strike the right balance of risk versus reward. This is exactly what <a href="https://www.rari.capital/">Rari Capital</a> aims to offer users: a way to maximize DeFi returns while minimizing risks. <strong>Rari Capital V2, launching October 20th, 2020, has even more to offer than its predecessor.<br></strong><br>Rari Capital is a robo-advisor for DeFi which optimizes for the highest possible yield. Rari Capital&#8217;s ‘DeRisking as a Service’ approach is largely what sets them apart from the pack. Armed with the experience of having co-founded Ambo (later acquired by MyCrypto), the Rari team has experienced first-hand the value of earning the community’s trust. So when they set out to build a protocol that anyone can use to maximize returns in DeFi, risk management and transparency were top priorities. If you haven’t already, we recommend checking out <a href="https://defipulse.com/blog/rari-capital/">our coverage of Rari Capital V1’s guarded launch</a>.<br><br>The Rari team has been busy since we last checked in with them developing features and integrations, perfecting new strategies, and preparing for the<strong> </strong>launch of Rari Capital V2.</p>
 
@@ -543,6 +659,7 @@
 
 
 <p><strong><em>Disclosure: This post is part a promotional series; We’ve partnered with Rari Capital to help educate and inform the community about the launch of Rari Capital V2. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></strong></p>
+<p>The post <a rel="nofollow" href="./../../../2020/10/19/rari-capital-v2/index.html">Rari Capital V2: A Yield Maximizing Robo-Advisor for Any Risk Appetite</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -552,10 +669,12 @@
 		<title>The Yield Farming Frenzy and its Impact on DeFi</title>
 		<link>./../../../2020/07/16/the-yield-farming-frenzy-and-its-impact-on-defi/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Thu, 16 Jul 2020 11:57:34 +0000</pubDate>
-				<category><![CDATA[Ecosystem]]></category>
+		<dc:creator><![CDATA[Infoguild]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 16:57:34 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[balancer]]></category>
 		<category><![CDATA[Compound]]></category>
 		<category><![CDATA[compound finance]]></category>
@@ -568,7 +687,9 @@
 		<category><![CDATA[yield farming]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8371</guid>
 
-					<description><![CDATA[If you follow DeFi, you’ve probably noticed that the concept of yield farming is everywhere lately. From some of the...]]></description>
+					<description><![CDATA[<p>If you follow DeFi, you’ve probably noticed that the concept of yield farming is everywhere lately. From some of the...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/07/16/the-yield-farming-frenzy-and-its-impact-on-defi/index.html">The Yield Farming Frenzy and its Impact on DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>If you follow DeFi, you’ve probably noticed that the concept of yield farming is everywhere lately. From some of the most original memes in the Ethereum ecosystem to traditional news outlets like Forbes, crop rotation to maximize yield across protocols has become one of the defining activities on DeFi in 2020.</p>
 
@@ -631,6 +752,7 @@
 
 
 <p>Are you interested in learning more about Yield Farming strategies? Subscribe to <a href="https://yieldfarmer.substack.com/">DeFi Pulse Farmer</a> to learn fresh yield farming plays and insights on big governance decisions.</p>
+<p>The post <a rel="nofollow" href="./../../../2020/07/16/the-yield-farming-frenzy-and-its-impact-on-defi/index.html">The Yield Farming Frenzy and its Impact on DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		

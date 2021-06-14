@@ -12,18 +12,141 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 May 2021 01:24:47 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 May 2021 17:27:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>Founder Fireside Chat with Clayton Roche of UMA</title>
+		<link>./../../../2021/05/27/founder-fireside-chat-with-clayton-roche-of-uma/index.html</link>
+		
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Thu, 27 May 2021 17:27:31 +0000</pubDate>
+				<category><![CDATA[Founder Fireside Chats]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[oracle]]></category>
+		<category><![CDATA[uma]]></category>
+		<guid isPermaLink="false">https://defipulse.com/blog/?p=9333</guid>
+
+					<description><![CDATA[<p>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/27/founder-fireside-chat-with-clayton-roche-of-uma/index.html">Founder Fireside Chat with Clayton Roche of UMA</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/05/Uma-header.png" alt="" class="wp-image-9335" width="1024" height="512"/></figure>
+
+
+
+<p class="has-medium-font-size"><em>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity to better understand their perspective and what drives them to build their vision.</em></p>
+
+
+
+<p class="has-medium-font-size">In this installment, we sat down with Clayton Roche, Community Lead at UMA and Co-founder of the DeFi Nation group, who offers a unique perspective on the trials of building a new industry.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q1.png" alt="" class="wp-image-9026" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q1.png 1200w, ./../../../wp-content/uploads/2021/03/Q1-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q1-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q1-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">I’ll be precise with my answer and list a few things that set UMA apart. UMA’s contracts are self-contained, so any issue with one collateral type will not affect neighboring contracts. UMA allows for any collateral type, as opposed to requiring the use of our own token. </p>
+
+
+
+<p class="has-medium-font-size">UMA also has its own oracle solution, which is not the case for similar products, and this solution operates unlike any other currently live. It is a “priceless” system whereby the prices come on chain very infrequently and only ever due to a dispute.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">Security is really first and foremost.<strong> Scalability without security just means losing people&#8217;s money more efficiently.</strong> </p>
+
+
+
+<p class="has-medium-font-size">Decentralization is a certain type of security, but must come after actual smart contract security and effective financial engineering.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/04/Q6.png" alt="" class="wp-image-9134" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/04/Q6.png 1200w, ./../../../wp-content/uploads/2021/04/Q6-300x55.png 300w, ./../../../wp-content/uploads/2021/04/Q6-1024x188.png 1024w, ./../../../wp-content/uploads/2021/04/Q6-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">The most critical part? I would say,<strong> finding scalable ways to recognize when people bring value</strong>. </p>
+
+
+
+<p class="has-medium-font-size">For example, if someone creates a dashboard or meme or shares an interesting idea, finding ways to recognize their contribution. </p>
+
+
+
+<p class="has-medium-font-size">This can be done in many ways. Sometimes that means rewarding them with ownership in a protocol they are helping to build, and other times that means integrating their suggestion.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q3.png" alt="" class="wp-image-9031" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q3.png 1200w, ./../../../wp-content/uploads/2021/03/Q3-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q3-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q3-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">&#8220;Real-world&#8221; integrations. </p>
+
+
+
+<p class="has-medium-font-size">I think DeFi has gotten very self-referential but that will all fall away after the bull market.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q4.png" alt="" class="wp-image-9032" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q4.png 1200w, ./../../../wp-content/uploads/2021/03/Q4-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q4-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q4-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p class="has-medium-font-size">Everyone feels like they have imposter syndrome. And how could we not? </p>
+
+
+
+<p class="has-medium-font-size">We’re literally designing a new industry—Even if someone tells you you’re great, who qualified them to make that judgement? </p>
+
+
+
+<p class="has-medium-font-size">I’ve learned to let my passion and intellectual interest distract me from my own insecurities, and that usually keeps me going through the day.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/05/work.jpg" alt="" class="wp-image-9306"/></figure>
+
+
+
+<p class="has-medium-font-size">It ain&#8217;t much, but it&#8217;s an honest living.</p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-very-light-gray-background-color has-very-light-gray-color is-style-wide"/>
+
+
+
+<p class="has-medium-font-size">We hope you enjoyed it and thanks for reading! And thank you to Clayton for sharing his witty but insightful thoughts with all of us. </p>
+
+
+
+<p class="has-medium-font-size">Follow Clayton Roche on <a href="https://twitter.com/TokenArchitect">Twitter</a> and learn more about <a href="https://umaproject.org/">UMA</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../2021/05/27/founder-fireside-chat-with-clayton-roche-of-uma/index.html">Founder Fireside Chat with Clayton Roche of UMA</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Founder Fireside Chat with Eric Chen of Injective Protocol</title>
 		<link>./../../../2021/03/26/founder-fireside-chat-with-eric-chen-from-injective-protocol/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Fri, 26 Mar 2021 19:42:10 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[ama]]></category>
@@ -33,9 +156,11 @@
 		<category><![CDATA[interview]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8990</guid>
 
-					<description><![CDATA[The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...]]></description>
+					<description><![CDATA[<p>The Founder Fireside Chat series hosted by DeFi Pulse interviews DeFi founders in the hopes of offering readers an opportunity...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/03/26/founder-fireside-chat-with-eric-chen-from-injective-protocol/index.html">Founder Fireside Chat with Eric Chen of Injective Protocol</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Injective-Header-1-2.png" alt="" class="wp-image-9029" width="1024" height="512"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Injective-Header-1.png" alt="" class="wp-image-9029" width="1024" height="512"/></figure>
 
 
 
@@ -47,7 +172,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q1-1.png" alt="" class="wp-image-9026" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q1.png" alt="" class="wp-image-9026" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q1.png 1200w, ./../../../wp-content/uploads/2021/03/Q1-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q1-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q1-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -59,7 +184,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q2.png" alt="" class="wp-image-9030" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q2.png 1200w, ./../../../wp-content/uploads/2021/03/Q2-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q2-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q2-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -67,7 +192,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q3-1.png" alt="" class="wp-image-9031" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q3.png" alt="" class="wp-image-9031" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q3.png 1200w, ./../../../wp-content/uploads/2021/03/Q3-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q3-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q3-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -75,7 +200,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q4-1.png" alt="" class="wp-image-9032" width="1200" height="220"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q4.png" alt="" class="wp-image-9032" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q4.png 1200w, ./../../../wp-content/uploads/2021/03/Q4-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q4-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q4-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -83,7 +208,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2021/03/Q5.png" alt="" class="wp-image-9033" width="1200" height="220" srcset="./../../../wp-content/uploads/2021/03/Q5.png 1200w, ./../../../wp-content/uploads/2021/03/Q5-300x55.png 300w, ./../../../wp-content/uploads/2021/03/Q5-1024x188.png 1024w, ./../../../wp-content/uploads/2021/03/Q5-768x141.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
 
@@ -100,6 +225,7 @@
 
 
 <p class="has-medium-font-size"><strong>Thank you for reading. </strong>We&#8217;d love to hear your thoughts on the series like, for example, which DeFi founders you&#8217;d like to see highlighted in the future.</p>
+<p>The post <a rel="nofollow" href="./../../../2021/03/26/founder-fireside-chat-with-eric-chen-from-injective-protocol/index.html">Founder Fireside Chat with Eric Chen of Injective Protocol</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -109,9 +235,10 @@
 		<title>SIREN &#8211; Decentralized Options For Sophisticated Traders</title>
 		<link>./../../../2021/03/01/siren/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Mon, 01 Mar 2021 21:19:51 +0000</pubDate>
-				<category><![CDATA[Ecosystem]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Explainers]]></category>
 		<category><![CDATA[Protocol]]></category>
 		<category><![CDATA[amm]]></category>
@@ -122,7 +249,9 @@
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8929</guid>
 
-					<description><![CDATA[Options trading has become more popular than ever now that anyone can trade from anywhere with a few taps. The...]]></description>
+					<description><![CDATA[<p>Options trading has become more popular than ever now that anyone can trade from anywhere with a few taps. The...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/03/01/siren/index.html">SIREN &#8211; Decentralized Options For Sophisticated Traders</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Options trading has become more popular than ever now that anyone can trade from anywhere with a few taps. The barriers to entry have been lowered improving accessibility for the average joe. In case you don’t know, options are financial primitives that give a trader the choice (or the <em>option</em>) to buy or sell an asset at a predetermined strike price at some point in the future. Traders can utilize options to hedge against potential price changes or to speculate on the future price of an asset. As DeFi matures, on-chain financial primitives like options become the building blocks for even more sophisticated financial instruments.</p>
 
@@ -132,7 +261,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/03/siren-1000x500-1-1.jpg" alt="" class="wp-image-8932"/></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1000" height="500" src="https://defipulse.com/blog/wp-content/uploads/2021/03/siren-1000x500-1.jpg" alt="" class="wp-image-8932" srcset="./../../../wp-content/uploads/2021/03/siren-1000x500-1.jpg 1000w, ./../../../wp-content/uploads/2021/03/siren-1000x500-1-300x150.jpg 300w, ./../../../wp-content/uploads/2021/03/siren-1000x500-1-768x384.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -281,6 +410,7 @@
 
 
 <p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with SIREN to help educate and inform the community about Siren Markets. As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/03/01/siren/index.html">SIREN &#8211; Decentralized Options For Sophisticated Traders</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -290,10 +420,9 @@
 		<title>Introducing Cryptodollars</title>
 		<link>./../../../2021/02/23/cryptodollars-stablecoins/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Tue, 23 Feb 2021 19:00:00 +0000</pubDate>
-				<category><![CDATA[New Features]]></category>
-		<category><![CDATA[Technology]]></category>
+				<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[dai]]></category>
 		<category><![CDATA[derivatives]]></category>
@@ -305,7 +434,9 @@
 		<category><![CDATA[usdt]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8898</guid>
 
-					<description><![CDATA[From their inception, the coins or tokens pegged to the US Dollar, commonly referred to as stablecoins, provided a way...]]></description>
+					<description><![CDATA[<p>From their inception, the coins or tokens pegged to the US Dollar, commonly referred to as stablecoins, provided a way...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/02/23/cryptodollars-stablecoins/index.html">Introducing Cryptodollars</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>From their inception, the coins or tokens pegged to the US Dollar, commonly referred to as stablecoins, provided a way for many users to exit positions without exiting crypto. One could make the case that the popularity of tokenized dollars in crypto was a necessary precursor to the DeFi ecosystem we know today. Their liquidity and relative stability enabled new possibilities for smart contracts which ultimately led to the rapid maturity in decentralized financial instruments built on-chain.</p>
 
@@ -315,7 +446,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="defipulse.com/usd"><img loading="lazy" width="574" height="289" src="./../../../wp-content/uploads/2021/02/cryptodollars.png" alt="" class="wp-image-8924" srcset="./../../../wp-content/uploads/2021/02/cryptodollars.png 574w, ./../../../wp-content/uploads/2021/02/cryptodollars-300x151.png 300w" sizes="(max-width: 574px) 100vw, 574px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://defipulse.com/usd"><img loading="lazy" width="574" height="289" src="https://defipulse.com/blog/wp-content/uploads/2021/02/cryptodollars.png" alt="" class="wp-image-8924" srcset="./../../../wp-content/uploads/2021/02/cryptodollars.png 574w, ./../../../wp-content/uploads/2021/02/cryptodollars-300x151.png 300w" sizes="(max-width: 574px) 100vw, 574px" /></a></figure>
 
 
 
@@ -336,6 +467,7 @@
 
 
 <p>Special thanks to all the teams for working with us! Be sure to check out the new <a href="http://defipulse.com/usd">Cryptodollars</a> page. And if you’re interested in joining the DeFi Pulse Leaderboard, please check out this <a href="https://defipulse.com/blog/how-to-join-the-defi-pulse-leaderboard/">step-by-step guide.</a></p>
+<p>The post <a rel="nofollow" href="./../../../2021/02/23/cryptodollars-stablecoins/index.html">Introducing Cryptodollars</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -345,9 +477,10 @@
 		<title>Futureswap  &#8211; Decentralized Perpetual Futures with up to 10x Leverage</title>
 		<link>./../../../2021/02/08/futureswap-v2/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Mon, 08 Feb 2021 22:12:31 +0000</pubDate>
-				<category><![CDATA[Ecosystem]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Explainers]]></category>
 		<category><![CDATA[Futures]]></category>
 		<category><![CDATA[Technology]]></category>
@@ -363,7 +496,9 @@
 		<category><![CDATA[perpetuals]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8855</guid>
 
-					<description><![CDATA[Recent events have made it all too clear to the average user why decentralization has a key role to play...]]></description>
+					<description><![CDATA[<p>Recent events have made it all too clear to the average user why decentralization has a key role to play...</p>
+<p>The post <a rel="nofollow" href="./../../../2021/02/08/futureswap-v2/index.html">Futureswap  &#8211; Decentralized Perpetual Futures with up to 10x Leverage</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Recent events have made it all too clear to the average user why decentralization has a key role to play in having a fair and efficient market. Futureswap aims to disrupt the multi-billion dollar perpetual futures trading market currently dominated by centralized services. Futureswap takes a different approach with a hybrid between Uniswap and a perpetual futures exchange platform governed by the community. You may remember Futureswap from their <a href="https://medium.com/futureswap/futureswap-lessons-learned-from-a-3-day-alpha-be4e37bc8c52">successful Alpha in April 2020 which ultimately ended early</a> after DeFi users flocked to the platform in overwhelming numbers. In less than 3 days, Futureswap’s Alpha 24hr trading volume grew to $17M and liquidity passed $1M. Erring on the side of caution, the Futureswap team decided to end the Alpha earlier than initially planned.&nbsp;</p>
 
@@ -373,7 +508,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2021/02/COL_DG-1-1024x494.png" alt="" class="wp-image-8860"/></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="494" src="https://defipulse.com/blog/wp-content/uploads/2021/02/COL_DG-1024x494.png" alt="" class="wp-image-8860" srcset="./../../../wp-content/uploads/2021/02/COL_DG-1024x494.png 1024w, ./../../../wp-content/uploads/2021/02/COL_DG-300x145.png 300w, ./../../../wp-content/uploads/2021/02/COL_DG-768x370.png 768w, ./../../../wp-content/uploads/2021/02/COL_DG-1536x741.png 1536w, ./../../../wp-content/uploads/2021/02/COL_DG-2048x988.png 2048w, ./../../../wp-content/uploads/2021/02/COL_DG-1568x756.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -450,6 +585,7 @@
 
 
 <p><em>Disclosure: This post is part of our paid promotional DeFi Pulse Drop series; We’ve partnered with Futureswap to help educate and inform the community about the launch of Futureswap V2 Beta. </em><em>DeFi Pulse received FST tokens as part of its payment. </em><em>As always, we’re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2021/02/08/futureswap-v2/index.html">Futureswap  &#8211; Decentralized Perpetual Futures with up to 10x Leverage</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -459,9 +595,9 @@
 		<title>Introducing Bitcoin at Work</title>
 		<link>./../../../2020/12/22/introducing-bitcoin-at-work/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Tue, 22 Dec 2020 14:50:15 +0000</pubDate>
-				<category><![CDATA[New Features]]></category>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Tue, 22 Dec 2020 19:50:15 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[acbtc]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[bch]]></category>
@@ -482,13 +618,15 @@
 		<category><![CDATA[WBTC]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8726</guid>
 
-					<description><![CDATA[Over the course of 2020, more than 140,000 BTC entered the DeFi ecosystem. With so many different alternatives for Bitcoin...]]></description>
+					<description><![CDATA[<p>Over the course of 2020, more than 140,000 BTC entered the DeFi ecosystem. With so many different alternatives for Bitcoin...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/12/22/introducing-bitcoin-at-work/index.html">Introducing Bitcoin at Work</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Over the course of 2020, more than 140,000 BTC entered the DeFi ecosystem. With so many different alternatives for Bitcoin tokens, it only makes sense to break it out into its own page to provide more detailed metrics. We&#8217;re excited to introduce a new page highlighting the use of Bitcoin in the DeFi ecosystem. <a href="http://defipulse.com/btc">Bitcoin at Work</a> measures the total amount of BTC being utilized within decentralized finance (DeFi).</p>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="http://defipulse.com/btc"><img loading="lazy" src="./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-1024x1024.png" alt="" class="wp-image-8793" width="512" height="512" srcset="./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-1024x1024.png 1024w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-300x300.png 300w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-150x150.png 150w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-768x768.png 768w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1.png 1080w" sizes="(max-width: 512px) 100vw, 512px" /></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="http://defipulse.com/btc"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/12/btc-at-work-thumb-1-1024x1024.png" alt="" class="wp-image-8793" width="512" height="512" srcset="./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-1024x1024.png 1024w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-300x300.png 300w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-150x150.png 150w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1-768x768.png 768w, ./../../../wp-content/uploads/2020/12/btc-at-work-thumb-1.png 1080w" sizes="(max-width: 512px) 100vw, 512px" /></a></figure></div>
 
 
 
@@ -496,7 +634,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/12/btc-logo-board03-1024x512.png" alt="" class="wp-image-8785" width="768" height="384" srcset="./../../../wp-content/uploads/2020/12/btc-logo-board03-1024x512.png 1024w, ./../../../wp-content/uploads/2020/12/btc-logo-board03-300x150.png 300w, ./../../../wp-content/uploads/2020/12/btc-logo-board03-768x384.png 768w, ./../../../wp-content/uploads/2020/12/btc-logo-board03.png 1500w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://defipulse.com/blog/wp-content/uploads/2020/12/btc-logo-board03-1024x512.png" alt="" class="wp-image-8785" width="768" height="384" srcset="./../../../wp-content/uploads/2020/12/btc-logo-board03-1024x512.png 1024w, ./../../../wp-content/uploads/2020/12/btc-logo-board03-300x150.png 300w, ./../../../wp-content/uploads/2020/12/btc-logo-board03-768x384.png 768w, ./../../../wp-content/uploads/2020/12/btc-logo-board03.png 1500w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
 
 
 
@@ -513,6 +651,7 @@
 
 
 <p>Special thanks to all the teams for working with us! Be sure to check out the new page and explore the <a href="http://defipulse.com/btc">Bitcoin at Work</a> metrics for yourself. And if you’re interested in joining the DeFi Pulse Leaderboard, please check out this <a href="https://defipulse.com/blog/how-to-join-the-defi-pulse-leaderboard/">step-by-step guide.</a></p>
+<p>The post <a rel="nofollow" href="./../../../2020/12/22/introducing-bitcoin-at-work/index.html">Introducing Bitcoin at Work</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -522,9 +661,10 @@
 		<title>Hegic Protocol &#8211; On-chain Options Trading Protocol</title>
 		<link>./../../../2020/11/28/hegic-protocol-on-chain-options-trading-protocol/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Infoguild]]></dc:creator>
 		<pubDate>Sat, 28 Nov 2020 17:35:13 +0000</pubDate>
-				<category><![CDATA[Protocol]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Protocol]]></category>
 		<category><![CDATA[Trading]]></category>
 		<category><![CDATA[derivatives]]></category>
 		<category><![CDATA[hegic]]></category>
@@ -534,7 +674,9 @@
 		<category><![CDATA[trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8721</guid>
 
-					<description><![CDATA[During DeFi’s most innovative and exciting year, a new kind of trading experience has exploded onto the scene. Hegic is...]]></description>
+					<description><![CDATA[<p>During DeFi’s most innovative and exciting year, a new kind of trading experience has exploded onto the scene. Hegic is...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/28/hegic-protocol-on-chain-options-trading-protocol/index.html">Hegic Protocol &#8211; On-chain Options Trading Protocol</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>During DeFi’s most innovative and exciting year, a new kind of trading experience has exploded onto the scene. <a href="https://www.hegic.co/">Hegic</a> is an on-chain, non-custodial platform for options trading, launched by the enigmatic Molly Wintermute. The platform has grown significantly in recent months, after its <a href="https://decrypt.co/35038/hegics-molly-wintermute-im-paying-a-high-price-for-the-mainnet-first-approach-to-building">inauspicious start </a>in April. The first iteration suffered from buggy code, which required Wintermute to return almost $50,000 in locked funds to users. Since then, Hegic has been running smoothly, and volume has <a href="https://www.hegic.co/analytics">rapidly grown</a>. It is poised to become one of the key players in the crypto trading ecosystem.</p>
 
@@ -561,6 +703,7 @@
 
 
 <p>Hegic&nbsp;is one of the more complicated DeFi protocols on the market today. It involves a lot more levers and cranks than discussed here, including a bonding curve that controls the new supply of Hegic. To learn more about Hegic, you can check out <a href="https://hegic.gitbook.io/start/">Hegic&#8217;s documentation</a>. You can also try it out for yourself; All you need is an Ethereum wallet. The protocol does not require KYC or account verification. Hegic is proving to be a worthy rival for Deribit, although they are likely to grow in unison given the unique advantages that each provide. Hopefully, there will be plenty of opportunities for arbitrage between the two platforms headed into the future.</p>
+<p>The post <a rel="nofollow" href="./../../../2020/11/28/hegic-protocol-on-chain-options-trading-protocol/index.html">Hegic Protocol &#8211; On-chain Options Trading Protocol</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -570,9 +713,10 @@
 		<title>Lien &#8211; Governance-less ETH Options and Stablecoins</title>
 		<link>./../../../2020/09/05/lien/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Sat, 05 Sep 2020 15:12:51 +0000</pubDate>
-				<category><![CDATA[Ecosystem]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Assets]]></category>
 		<category><![CDATA[decentralized finance]]></category>
@@ -584,7 +728,9 @@
 		<category><![CDATA[stablecoins]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8535</guid>
 
-					<description><![CDATA[In the background of all the DeFi and yield farming commotion, stablecoins have been booming. DAI, USDC, USDT, and countless...]]></description>
+					<description><![CDATA[<p>In the background of all the DeFi and yield farming commotion, stablecoins have been booming. DAI, USDC, USDT, and countless...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/09/05/lien/index.html">Lien &#8211; Governance-less ETH Options and Stablecoins</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>In the background of all the DeFi and yield farming commotion, stablecoins have been booming. DAI, USDC, USDT, and countless others have been pouring into DeFi. While it is great to have so many options, each stablecoin has its trade-offs which users must consider. For some, the centralization risk of stablecoins like USDC are simply too great; they desire a stablecoin that is truly decentralized.</p>
 
@@ -594,7 +740,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="https://lien.finance/"><img loading="lazy" width="1024" height="341" src="./../../../wp-content/uploads/2020/09/LienBannerWoTagline-1024x341.png" alt="" class="wp-image-8550" srcset="./../../../wp-content/uploads/2020/09/LienBannerWoTagline-1024x341.png 1024w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline-300x100.png 300w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline-768x256.png 768w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://lien.finance/"><img loading="lazy" width="1024" height="341" src="https://defipulse.com/blog/wp-content/uploads/2020/09/LienBannerWoTagline-1024x341.png" alt="" class="wp-image-8550" srcset="./../../../wp-content/uploads/2020/09/LienBannerWoTagline-1024x341.png 1024w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline-300x100.png 300w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline-768x256.png 768w, ./../../../wp-content/uploads/2020/09/LienBannerWoTagline.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -610,7 +756,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="534" src="./../../../wp-content/uploads/2020/09/Selection_396-1-1024x534.jpg" alt="" class="wp-image-8541" srcset="./../../../wp-content/uploads/2020/09/Selection_396-1-1024x534.jpg 1024w, ./../../../wp-content/uploads/2020/09/Selection_396-1-300x156.jpg 300w, ./../../../wp-content/uploads/2020/09/Selection_396-1-768x400.jpg 768w, ./../../../wp-content/uploads/2020/09/Selection_396-1.jpg 1310w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="534" src="https://defipulse.com/blog/wp-content/uploads/2020/09/Selection_396-1-1024x534.jpg" alt="" class="wp-image-8541" srcset="./../../../wp-content/uploads/2020/09/Selection_396-1-1024x534.jpg 1024w, ./../../../wp-content/uploads/2020/09/Selection_396-1-300x156.jpg 300w, ./../../../wp-content/uploads/2020/09/Selection_396-1-768x400.jpg 768w, ./../../../wp-content/uploads/2020/09/Selection_396-1.jpg 1310w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -622,7 +768,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="552" src="./../../../wp-content/uploads/2020/09/Selection_397-1024x552.jpg" alt="" class="wp-image-8543" srcset="./../../../wp-content/uploads/2020/09/Selection_397-1024x552.jpg 1024w, ./../../../wp-content/uploads/2020/09/Selection_397-300x162.jpg 300w, ./../../../wp-content/uploads/2020/09/Selection_397-768x414.jpg 768w, ./../../../wp-content/uploads/2020/09/Selection_397.jpg 1034w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="552" src="https://defipulse.com/blog/wp-content/uploads/2020/09/Selection_397-1024x552.jpg" alt="" class="wp-image-8543" srcset="./../../../wp-content/uploads/2020/09/Selection_397-1024x552.jpg 1024w, ./../../../wp-content/uploads/2020/09/Selection_397-300x162.jpg 300w, ./../../../wp-content/uploads/2020/09/Selection_397-768x414.jpg 768w, ./../../../wp-content/uploads/2020/09/Selection_397.jpg 1034w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -650,7 +796,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="700" height="465" src="./../../../wp-content/uploads/2020/09/lien-diagram.png" alt="" class="wp-image-8536" srcset="./../../../wp-content/uploads/2020/09/lien-diagram.png 700w, ./../../../wp-content/uploads/2020/09/lien-diagram-300x199.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="700" height="465" src="https://defipulse.com/blog/wp-content/uploads/2020/09/lien-diagram.png" alt="" class="wp-image-8536" srcset="./../../../wp-content/uploads/2020/09/lien-diagram.png 700w, ./../../../wp-content/uploads/2020/09/lien-diagram-300x199.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
 
 
 
@@ -699,6 +845,7 @@
 
 
 <p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve been paid by Lien Protocol to inform readers about their platform and iDOL. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2020/09/05/lien/index.html">Lien &#8211; Governance-less ETH Options and Stablecoins</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -708,12 +855,13 @@
 		<title>Perpetual Protocol &#8211; 20x Leverage Perpetuals Never Limited by Available Liquidity</title>
 		<link>./../../../2020/08/30/perpetual-protocol/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 30 Aug 2020 11:18:11 +0000</pubDate>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
+		<pubDate>Sun, 30 Aug 2020 16:18:11 +0000</pubDate>
 				<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Exchanges]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[derivatives]]></category>
 		<category><![CDATA[futures]]></category>
 		<category><![CDATA[perp]]></category>
@@ -722,7 +870,9 @@
 		<category><![CDATA[vamm]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8489</guid>
 
-					<description><![CDATA[Innovation happens at a head-spinning pace in decentralized finance. As the ecosystem continues to stack up brick after brick, our...]]></description>
+					<description><![CDATA[<p>Innovation happens at a head-spinning pace in decentralized finance. As the ecosystem continues to stack up brick after brick, our...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/08/30/perpetual-protocol/index.html">Perpetual Protocol &#8211; 20x Leverage Perpetuals Never Limited by Available Liquidity</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Innovation happens at a head-spinning pace in decentralized finance. As the ecosystem continues to stack up brick after brick, our capabilities reach new heights and knock down old barriers. The protocol I have the pleasure of introducing to you in this week&#8217;s DeFi Pulse Drop has its eyes set on disrupting the existing futures and derivatives market by offering innovations that lower the barrier to entry for even low liquidity futures.</p>
 
@@ -732,7 +882,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="https://perp.fi/"><img loading="lazy" width="700" height="179" src="./../../../wp-content/uploads/2020/08/1_1wIKLnIokys0kmlCyynzTg.png" alt="" class="wp-image-8506" srcset="./../../../wp-content/uploads/2020/08/1_1wIKLnIokys0kmlCyynzTg.png 700w, ./../../../wp-content/uploads/2020/08/1_1wIKLnIokys0kmlCyynzTg-300x77.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://perp.fi/"><img loading="lazy" width="700" height="179" src="https://defipulse.com/blog/wp-content/uploads/2020/08/1_1wIKLnIokys0kmlCyynzTg.png" alt="" class="wp-image-8506" srcset="./../../../wp-content/uploads/2020/08/1_1wIKLnIokys0kmlCyynzTg.png 700w, ./../../../wp-content/uploads/2020/08/1_1wIKLnIokys0kmlCyynzTg-300x77.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></figure>
 
 
 
@@ -752,7 +902,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1920" height="1080" src="./../../../wp-content/uploads/2020/08/perpetual-protocol-vammGIF-1.gif" alt="" class="wp-image-8500"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1920" height="1080" src="https://defipulse.com/blog/wp-content/uploads/2020/08/perpetual-protocol-vammGIF-1.gif" alt="" class="wp-image-8500"/></figure>
 
 
 
@@ -768,7 +918,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="614" height="68" src="./../../../wp-content/uploads/2020/08/9830363769d701def459c9d411726a64fae37ffb.png" alt="" class="wp-image-8496" srcset="./../../../wp-content/uploads/2020/08/9830363769d701def459c9d411726a64fae37ffb.png 614w, ./../../../wp-content/uploads/2020/08/9830363769d701def459c9d411726a64fae37ffb-300x33.png 300w" sizes="(max-width: 614px) 100vw, 614px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="614" height="68" src="https://defipulse.com/blog/wp-content/uploads/2020/08/9830363769d701def459c9d411726a64fae37ffb.png" alt="" class="wp-image-8496" srcset="./../../../wp-content/uploads/2020/08/9830363769d701def459c9d411726a64fae37ffb.png 614w, ./../../../wp-content/uploads/2020/08/9830363769d701def459c9d411726a64fae37ffb-300x33.png 300w" sizes="(max-width: 614px) 100vw, 614px" /></figure>
 
 
 
@@ -852,7 +1002,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="371" src="./../../../wp-content/uploads/2020/08/perp-distribution.png" alt="" class="wp-image-8491" srcset="./../../../wp-content/uploads/2020/08/perp-distribution.png 600w, ./../../../wp-content/uploads/2020/08/perp-distribution-300x186.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="371" src="https://defipulse.com/blog/wp-content/uploads/2020/08/perp-distribution.png" alt="" class="wp-image-8491" srcset="./../../../wp-content/uploads/2020/08/perp-distribution.png 600w, ./../../../wp-content/uploads/2020/08/perp-distribution-300x186.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
 
 
 
@@ -877,6 +1027,7 @@
 
 
 <p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve been paid by Perpetual Protocol to inform readers about their platform and perpetual contracts. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
+<p>The post <a rel="nofollow" href="./../../../2020/08/30/perpetual-protocol/index.html">Perpetual Protocol &#8211; 20x Leverage Perpetuals Never Limited by Available Liquidity</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -886,9 +1037,10 @@
 		<title>ACO &#8211; A Non-Custodial Options Protocol Built for DeFi</title>
 		<link>./../../../2020/08/09/aco/index.html</link>
 		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
+		<dc:creator><![CDATA[Chaz Schmidt]]></dc:creator>
 		<pubDate>Sun, 09 Aug 2020 14:58:53 +0000</pubDate>
-				<category><![CDATA[Derivatives]]></category>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Derivatives]]></category>
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[aco]]></category>
@@ -900,7 +1052,9 @@
 		<category><![CDATA[options trading]]></category>
 		<guid isPermaLink="false">https://defipulse.com/blog/?p=8441</guid>
 
-					<description><![CDATA[The DeFi ecosystem is growing at a breathtaking pace. Unsurprisingly, staying on top of everything in the space is becoming...]]></description>
+					<description><![CDATA[<p>The DeFi ecosystem is growing at a breathtaking pace. Unsurprisingly, staying on top of everything in the space is becoming...</p>
+<p>The post <a rel="nofollow" href="./../../../2020/08/09/aco/index.html">ACO &#8211; A Non-Custodial Options Protocol Built for DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>The DeFi ecosystem is growing at a breathtaking pace. Unsurprisingly, staying on top of everything in the space is becoming practically impossible. DeFi is becoming increasingly sophisticated each day as the building blocks or rather money legos fall into place. Most people can tell you the basics of spot and margin trading, but I&#8217;ve started to see more and more people admit they know are unfamiliar with options trading. And, that&#8217;s okay because as many will tell you being a fan of DeFi often times means being a student. We&#8217;ve teamed up with folks behind ACO to explore how options fit into DeFi and how you might take advantage of options in your trading strategy. <a href="https://aco.finance/">ACO</a> is a decentralized non-custodial options protocol created by <a href="https://auctus.org/">Auctus</a>.</p>
 
@@ -922,7 +1076,7 @@
 
 
 
-<div class="wp-block-image"><figure class="alignright size-medium"><a href="https://aco.finance/"><img loading="lazy" width="300" height="300" src="./../../../wp-content/uploads/2020/08/aco-300x300.png" alt="" class="wp-image-8453" srcset="./../../../wp-content/uploads/2020/08/aco-300x300.png 300w, ./../../../wp-content/uploads/2020/08/aco-1024x1024.png 1024w, ./../../../wp-content/uploads/2020/08/aco-150x150.png 150w, ./../../../wp-content/uploads/2020/08/aco-768x768.png 768w, ./../../../wp-content/uploads/2020/08/aco.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure></div>
+<div class="wp-block-image"><figure class="alignright size-medium"><a href="https://aco.finance/"><img loading="lazy" width="300" height="300" src="https://defipulse.com/blog/wp-content/uploads/2020/08/aco-300x300.png" alt="" class="wp-image-8453" srcset="./../../../wp-content/uploads/2020/08/aco-300x300.png 300w, ./../../../wp-content/uploads/2020/08/aco-1024x1024.png 1024w, ./../../../wp-content/uploads/2020/08/aco-150x150.png 150w, ./../../../wp-content/uploads/2020/08/aco-768x768.png 768w, ./../../../wp-content/uploads/2020/08/aco.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure></div>
 
 
 
@@ -1095,162 +1249,7 @@
 
 
 <p><em>Disclosure: This post is part our DeFi Pulse Drops promotional series; We&#8217;ve been paid by ACO to inform readers about why one might use options and about their decentralized non-custodial options platform. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express are our own.</em></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>MCDEX &#8211; 10x Perpetual Contracts Powered by Order Book/AMM Hybrid</title>
-		<link>./../../../2020/06/28/mcdex/index.html</link>
-		
-		<dc:creator><![CDATA[ludmilalopes]]></dc:creator>
-		<pubDate>Sun, 28 Jun 2020 15:29:36 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[DeFi]]></category>
-		<category><![CDATA[derivatives]]></category>
-		<category><![CDATA[leverage]]></category>
-		<category><![CDATA[mcdex]]></category>
-		<category><![CDATA[perpetual]]></category>
-		<category><![CDATA[perpetuals]]></category>
-		<category><![CDATA[trading]]></category>
-		<guid isPermaLink="false">https://defipulse.com/blog/?p=8310</guid>
-
-					<description><![CDATA[DeFi has been on fire lately. Following the space has been absolutely riveting. We&#8217;ve got another sneak peek of an...]]></description>
-										<content:encoded><![CDATA[
-<p>DeFi has been on fire lately. Following the space has been absolutely riveting. We&#8217;ve got another sneak peek of an interesting DeFi protocol for you today. The folks over at MCDEX have taken decentralized perpetual contracts and combined them with a hybrid on-chain AMM/off-chain order book in their recent upgrade MCDEX V2. </p>
-
-
-
-<p><strong>MCDEX&#8217;s first decentralized perpetual contract ETH-PERP launching Monday June 29th, 2020</strong> makes full use of this hybrid model to enable users to <a href="https://mcdex.io/trade?invite_code=052t01">trade ETH/USD perpetual contracts with up to 10x leverage</a> and no expiration. Additionally, MCDEX has recently proposed a new AMM price formula which enables lower slippage, better capital efficiency, and near 0 impermanent loss for liquidity providers.</p>
-
-
-
-<h2>What is MCDEX?</h2>
-
-
-
-<p>Before we dive into the tech, I think it is useful to understand what inspired MCDEX. The team that built MCDEX is a team from China formerly involved in PoW mining. They saw the potential in DeFi and decided to build products that make investing in DeFi easier to continue contributing to the ecosystem as the industry transitions to ETH2.0. Personally, I think the team&#8217;s foresight is readily apparent in many of their designs. So without further ado, let&#8217;s dive into it.</p>
-
-
-
-<p><a href="https://mcdex.io/trade?invite_code=052t01">MCDEX</a> is a decentralized derivatives exchange for traders to long/short efficiently and securely. MCDEX is built on the Mai Protocol V2. Fun fact: the name Mai is actually a pun made with the pinyin for two Chinese characters măi &#8220;买&#8221; meaning buy and mài &#8220;卖&#8221; meaning sell.&nbsp;Funny enough, that&#8217;s exactly what the Mai Protocol does: reduce the complexity of trading decentralized perpetual contracts down to just buy or sell. Historically, decentralized derivatives required many steps; MCDEX eliminates the extra step, streamlining the process and making it more approachable to new users. Additionally, security audits for MCDEX’s Mai Protocol V2 and perpetual contracts have been completed by OpenZeppelin and ConSensys Diligence.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="728" height="376" src="./../../../wp-content/uploads/2020/06/mai2-arch.png" alt="" class="wp-image-8313" srcset="./../../../wp-content/uploads/2020/06/mai2-arch.png 728w, ./../../../wp-content/uploads/2020/06/mai2-arch-300x155.png 300w" sizes="(max-width: 728px) 100vw, 728px" /><figcaption>hybrid architecture of Mai Protocol V2</figcaption></figure>
-
-
-
-<p>As previously mentioned, what makes MCDEX unique is its combination of perpetual contracts with an off-chain order book / on-chain AMM hybrid. This hybrid model gives traders the best of both worlds. The off-chain order book provides traders with the look and feel of a centralized exchange while the AMM provides reliable on-chain liquidity. </p>
-
-
-
-<p>There&#8217;s a sort of symbiosis between the two; the order book offers efficient liquidity but tends to be a bit more centralized whereas the AMM&#8217;s liquidity is always available to both traders and other smart contracts on-chain. This opens up a world of possibilities for these perpetual contracts to be used in the wider DeFi ecosystem.</p>
-
-
-
-<p>Introducing the AMM to MCDEX not only provided reliable on-chain liquidity, it also enabled a key feature of perpetual contracts: funding rate. In a nutshell, the funding rate&#8217;s purpose is to balance out long or short orders in times of high demand to maintain an accurate index price. So naturally, the funding rate is dynamically adjusted by the protocol in response market demand.  For example, when the funding rate is positive it means long position holders pay to fund short positions (short position holders). This incentivizes users to take up the short side of the trade effectively balancing demand for both sides.</p>
-
-
-
-<p>This is where the AMM and off-chain order book work so nicely together. The funding rate needs to be derived on-chain to be sufficiently decentralized but on-chain trading isn&#8217;t always ideal for traders. Liquidity and trading activity will naturally gravitate towards the efficiency of the off-chain order book, but arbitrage opportunities between the order book and AMM improve the AMM&#8217;s liquidity and earn more fees for liquidity providers. Not to mention, many of you will be happy to hear ETH-PERP takes advantage of Chainlink&#8217;s ETH/USD Price Reference Contract live on the Ethereum mainnet as its index price feed.</p>
-
-
-
-<h2>Trade ETH-PERP with up to 10x leverage</h2>
-
-
-
-<p>MCDEX is set to launch ETH-PERP trading on Monday June 29, 2020. Get a <a href="https://mcdex.io/trade?invite_code=052t01">sneak peek</a> at the interface today.</p>
-
-
-
-<p>MCDEX&#8217;s trading interface was designed to be intuitive with a familiar look and feel for experienced traders yet simple enough for new users. I liked how all the info I needed was laid out in the interface; I found the Etherscan links for contract and asset addresses particularly helpful.</p>
-
-
-
-<p>Traders will appreciate the performance of MCDEX&#8217;s order book interface. With its speed, efficiency, and support for features like limit orders you might find yourself surprised you aren&#8217;t trading on a centralized exchange.</p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://mcdex.io/trade?invite_code=052t01"><img loading="lazy" width="1024" height="613" src="./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-1024x613.jpg" alt="" class="wp-image-8337" srcset="./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-1024x613.jpg 1024w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-300x180.jpg 300w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39-768x460.jpg 768w, ./../../../wp-content/uploads/2020/06/photo_2020-06-26_10-02-39.jpg 1270w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Order book trading interface</figcaption></figure></div>
-
-
-
-<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/06/1_l9B7vSmVvIYYPa6ZgwCNqQ-1024x500.png" alt="" class="wp-image-8317"/><figcaption>AMM interface</figcaption></figure>
-
-
-
-<p></p>
-
-
-
-<p>If you&#8217;re familiar with other popular perpetual contract exchanges like BitMEX, it&#8217;ll take no time at all to get settled in. Head over to <a href="https://mcdex.io/trade?invite_code=052t01">MCDEX</a> and explore it for yourself. </p>
-
-
-
-<h2>Looking towards the future</h2>
-
-
-
-<p>Many aspects of MCDEX&#8217;s design illustrate the team&#8217;s willingness to learn from battle-tested concepts in DeFi and desire to contribute the ecosystem&#8217;s long-term success. Take for example, 1% out of the 2.5% liquidation penalty automatically goes to an insurance fund. You can find more info about MCDEX&#8217;s roadmap in<a href="https://mcdex.io/references/#/en/white-paper"> the whitepaper</a>.</p>
-
-
-
-<h3>Structured funds enable new strategies for even inexperienced DeFi users</h3>
-
-
-
-<p>Trading perpetual contracts isn&#8217;t everyone&#8217;s cup of tea but that doesn&#8217;t mean they won&#8217;t be able to get in on the action. While perpetual contracts are MCDEX&#8217;s first product, the team plans to release structured trading funds for various risk preferences. This creates the opportunity for even inexperienced traders to take part in perpetual contract trading.</p>
-
-
-
-<p>Structured funds on MCDEX will allow anyone to deposit assets and automatically trade perpetual contracts with a robotic or human-managed fund strategy. This creates the opportunity for MCDEX users to expose themselves to many different strategies and potentially maximize their profits. Not to mention, fundholders will be eligible for liquidity mining incentives&#8230;</p>
-
-
-
-<h3>MCB token and Liquidity Mining</h3>
-
-
-
-<p>MCDEX plans to launch a native token (tentatively in Q3 2020) called MCB token to align its stakeholders, a portion of which will be distributed through liquidity mining to incentivize users to invest in funds. Once launched, MCB tokens will be distributed to the funds based on their net asset value at a fixed amount per day. This should effectively incentivize users to invest in the funds that perform the best whether they be a social or automated funds. Put simply, the better a fund performs, the faster its net asset value grows, the more MCB tokens fundholders are rewarded. Social fund managers will even receive a cut of the MCB they earn for fundholders.</p>
-
-
-
-<p><strong>Initial distribution of MCB tokens</strong></p>
-
-
-
-<ol><li>25% to founding team and early investors</li><li>25% to MCDEX Foundation for token sale to cover expenses such as development, audits, market makers, marketing, etc. </li><li>50% to user incentives with a limit up to 5% per year.</li></ol>
-
-
-
-<p>That limit of 5% a year stuck out to me as something interested because it means that user incentives are planned for a minimum of 10 years. This fits well into MCDEX&#8217;s roadmap to add more user incentives and eventually enable on-chain governance run by MCB token holders. </p>
-
-
-
-<p><strong>Trading competition</strong></p>
-
-
-
-<p>To celebrate the launch of their ETH-PERP smart contract, MCDEX is holding a trading competition with prizes up to $2500 + 2500MCB. The competition will begin on June 29th, 2020 from 12:00 pm UTC, and will close on July 13, 2020, at 12:00 pm UTC. More details can be found <a href="https://mcdex.io/competition">here</a>.</p>
-
-
-
-<h3>Concluding thoughts</h3>
-
-
-
-<p>Ultimately, I find it very encouraging how MCDEX seems to understand the necessity of balancing ease of use, efficiency, decentralization and sustainability when designing smart contract systems. On a personal note, I enjoyed poking through Mai Protocol V2 to write this article because it reminds me again how we&#8217;re truly on the cutting edge here in DeFi.</p>
-
-
-
-<p><strong>We highly recommend you check out MCDEX and see for yourself how the order book enables a smooth and efficient trading experience. Stay tuned for more details regarding MCB liquidity mining.</strong> In the mean time, click here to <a href="https://mcdex.io/trade?invite_code=052t01">head over to MCDEX and get started trading perpetual contracts</a> today.</p>
-
-
-
-<p><em>Disclosure: This post is part of our DeFi Pulse Drops promotional series; We&#8217;ve partnered with MCDEX to inform the community about their protocol. As always, we&#8217;re committed to providing the entire community with quality, objective information, and any opinions we express as part of a DeFi Pulse Drop are our own. </em></p>
+<p>The post <a rel="nofollow" href="./../../../2020/08/09/aco/index.html">ACO &#8211; A Non-Custodial Options Protocol Built for DeFi</a> appeared first on <a rel="nofollow" href="./../../../index.html">Defi Pulse test</a>.</p>
 ]]></content:encoded>
 					
 		
